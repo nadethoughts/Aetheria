@@ -31,14 +31,8 @@ Gald is the brother of [Cahir Emersyn](../../Crown-of-the-Immortals/PCs/Cahir-Em
   - Provocative and prone to conflicts
   - Distrustful of others, preferring solitude
 
-### Worldview
-Gald is cynical and disillusioned, especially after the Flaming Retribution and the loss of his Orc friends. He harbors resentment towards those he perceives as responsible for the community’s troubles and is deeply mistrustful of outsiders. Despite his bitterness, he maintains a strong sense of loyalty to his remaining family.
-
 ## Role in the Community
 Gald works as a woodsman, primarily keeping to himself. He provides for the community by gathering wood and hunting, but he rarely interacts with others. His skills are valued, though his attitude often puts him at odds with the rest of the community.
-
-## Goals and Aspirations
-Gald seeks to survive and protect his sister, [Angel](Angel.md), whom he deeply cares for despite his overall bitterness. He is driven by a desire to prove his strength and independence, though he struggles with his anger and resentment.
 
 ## Relationships
 
@@ -51,6 +45,14 @@ Gald seeks to survive and protect his sister, [Angel](Angel.md), whom he deeply 
 
 ### Rivals/Enemies
 - **Community Members**: Gald is generally at odds with many in the community, holding them partly responsible for the loss of his friends and his bitterness towards his father’s decision.
+
+# GM Notes
+
+### Worldview
+Gald is cynical and disillusioned, especially after the Flaming Retribution and the loss of his Orc friends. He harbors resentment towards those he perceives as responsible for the community’s troubles and is deeply mistrustful of outsiders. Despite his bitterness, he maintains a strong sense of loyalty to his remaining family.
+
+## Goals and Aspirations
+Gald seeks to survive and protect his sister, [Angel](Angel.md), whom he deeply cares for despite his overall bitterness. He is driven by a desire to prove his strength and independence, though he struggles with his anger and resentment.
 
 ## Fears and Phobias
 Gald fears losing his sister, [Angel](Angel.md), the last remaining family member he truly cares for. He also harbors a deep-seated fear of being betrayed or abandoned, fueling his distrust of others.

@@ -34,9 +34,6 @@ Thalor's life with the Solaris Sentinels was rigorous. He quickly adapted to the
   - Tends to challenge authority
   - Sometimes acts impulsively
 
-## Worldview
-Thalor believes that the ends justify the means. He values adaptability and quick thinking over rigid adherence to tradition. This belief often leads to clashes with Karsten, who he sees as too inflexible and dogmatic.
-
 ## Role in the Community
 Thalor is a respected protector and warrior within the community. His skills and bravery have earned him the admiration of many, though his unorthodox methods sometimes draw criticism. He is often seen leading scouting missions and defending the community from external threats.
 
@@ -51,6 +48,11 @@ Thalor and Karsten's rivalry is well-known among the Solaris Sentinels. Thalor r
 
 ### Enemies
 - **Forces of Darkness**: Thalor is a fierce opponent of the dark forces threatening the land, dedicating his life to their eradication.
+
+# GM Notes
+
+## Worldview
+Thalor believes that the ends justify the means. He values adaptability and quick thinking over rigid adherence to tradition. This belief often leads to clashes with Karsten, who he sees as too inflexible and dogmatic.
 
 ## Fears and Phobias
 Thalor fears failing his duty to protect the Blessed Realm and the community. He is also wary of becoming too rigid and losing the ability to adapt to new challenges.

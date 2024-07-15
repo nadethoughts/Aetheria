@@ -35,9 +35,6 @@ Angel is optimistic, believing in the inherent goodness of people and the possib
 ## Role in the Community
 Angel serves as a teacher, guiding the young and imparting wisdom to the next generation. She is also a key organizer within the community, helping to manage supplies, plan events, and ensure that everyone has what they need. Her nurturing nature and strong organizational skills make her a beloved figure in the community.
 
-## Goals and Aspirations
-Angel seeks to heal the rifts caused by [the Flaming Retribution](../Events/The-Flaming-Retribution.md) and help rebuild a compassionate, inclusive society. She dreams of creating a sanctuary where all races and backgrounds are accepted and valued.
-
 ## Relationships
 
 ### Family
@@ -50,6 +47,10 @@ Angel seeks to heal the rifts caused by [the Flaming Retribution](../Events/The-
 
 ### Rivals/Enemies
 - **[Gald Ironfang](Gald.md)**: Though not an enemy, Gald's bitterness and provocations create tension. Angel constantly strives to mend their relationship.
+
+# GM Kowledge
+## Goals and Aspirations
+Angel seeks to heal the rifts caused by [the Flaming Retribution](../Events/The-Flaming-Retribution.md) and help rebuild a compassionate, inclusive society. She dreams of creating a sanctuary where all races and backgrounds are accepted and valued.
 
 ## Fears and Phobias
 Angel fears failing her community and losing more loved ones. She is also wary of the resentment and hatred that can fester within the survivors, threatening their unity and peace.

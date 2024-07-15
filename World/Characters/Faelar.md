@@ -31,14 +31,8 @@ Faelar comes from a long line of rangers and druids dedicated to protecting the 
   - Can be overly cautious and reluctant to take risks
   - Sometimes stubborn and set in his ways
 
-### Worldview
-Faelar believes in the sacred duty of protecting the natural world. He sees the forests and wildlife as precious and irreplaceable. He is wary of industrialization and large settlements that threaten the balance of nature. He values harmony and peace but is prepared to fight to defend his home.
-
 ## Role in the Community
 Faelar serves as a scout and protector for his community. He patrols the borders of the forest, keeping an eye out for threats and ensuring the safety of the inhabitants. He also acts as a guide for those who need to travel through the wilderness, using his extensive knowledge of the land to lead them safely.
-
-## Goals and Aspirations
-Faelar's primary goal is to ensure the protection and preservation of the forests he calls home. He also seeks to teach the younger generation the ways of the ranger, passing on his knowledge and skills to ensure the continued safeguarding of the natural world.
 
 ## Relationships
 
@@ -51,6 +45,13 @@ Faelar's primary goal is to ensure the protection and preservation of the forest
 
 ### Rivals/Enemies
 - **Loggers and Industrialists**: Those who seek to exploit the forest for their gain. Faelar is constantly at odds with those who threaten his home.
+
+# GM Notes
+### Worldview
+Faelar believes in the sacred duty of protecting the natural world. He sees the forests and wildlife as precious and irreplaceable. He is wary of industrialization and large settlements that threaten the balance of nature. He values harmony and peace but is prepared to fight to defend his home.
+
+## Goals and Aspirations
+Faelar's primary goal is to ensure the protection and preservation of the forests he calls home. He also seeks to teach the younger generation the ways of the ranger, passing on his knowledge and skills to ensure the continued safeguarding of the natural world.
 
 ## Fears and Phobias
 Faelar fears the destruction of the natural world and the loss of his home. He is also wary of fire, knowing how quickly it can devastate the forest.
