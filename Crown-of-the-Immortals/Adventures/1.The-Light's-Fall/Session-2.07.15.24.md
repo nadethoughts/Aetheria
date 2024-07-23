@@ -22,7 +22,13 @@ Member of the Solaris Sentinels that works as a protector of the community.
 Crafter and tinkerer in the community.
 
 # Create a strong start.
-## Scene Description:
+## Potential scenes
+- [ ] Temple Entry - 3 Goblins hiding behind an hour glass
+- [ ] Giant Zombie - a Large zombie wondering around a room with a sarcofagus 3 doors
+	1. Entrance - South
+	2. Treasure Room - East
+	3. Hallway - North.
+- [ ] Goblin 
 
 ## Enter the Dungeon
 
