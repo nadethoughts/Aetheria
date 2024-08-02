@@ -24,7 +24,7 @@ Crafter and tinkerer in the community.
 
 
 # Outline potential scenes.
-[ ] Giant Zombie Room - a Large zombie wondering around a room with a sarcofagus 3 doors
+[ ] [Giant Zombie Room ](puzzle/giant-zombie-room.md)- a Large zombie wondering around a room with a sarcofagus 3 doors
   1. Entrance - South
   2. Treasure Room - East
   3. Hallway - North.
@@ -41,7 +41,7 @@ Crafter and tinkerer in the community.
 4. The Goblins are being provoked into action or controlled.
 5. The Artifact (A Giant Time turner) is Broken and cannot be repaired by normal means. 
 6. Why would someone who is controling Goblins want to turn back time?
-7. The Undead in this temple are 
+7. The Undead in this temple are Adventurers that were trapped in here.
 
 
 # Develop fantastic locations.
