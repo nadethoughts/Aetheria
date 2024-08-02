@@ -4,7 +4,7 @@
 - **Full Name**: Gald Ironfang
 - **Race**: Orc
 - **Class**: Barbarian
-- **Age**: 34 years old
+- **Age**: 44 years old
 - **Role**: Woodsman, Loner, Rival
 
 ## Appearance
