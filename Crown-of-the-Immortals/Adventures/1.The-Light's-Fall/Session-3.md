@@ -7,7 +7,6 @@
 ![Starting-Town](../../../assets/TombOfSand_Calling.jpg)
 
 # Preamble
-* Video Chatcd 
 * Don't forget your Hero points!!
 
  
@@ -22,17 +21,15 @@ Member of the Solaris Sentinels that works as a protector of the community.
 Crafter and tinkerer in the community.
 
 # Create a strong start.
-## Scene Description:
 
-## Enter the Dungeon
-
-### Points of interest outside of the temple
-- The sand is continually falling, but it doesn't appear to be accumulating
-- you hear more commotion inside the temple to your north.
-- you hear the sound of small feet running away in the tunnel to your south.
-- The hole that you fell through is 60 feet up and people are starting to gather around the edge to see what the commotion is about.
 
 # Outline potential scenes.
+[ ] Giant Zombie Room - a Large zombie wondering around a room with a sarcofagus 3 doors
+  1. Entrance - South
+  2. Treasure Room - East
+  3. Hallway - North.
+
+[ ] Goblin - Warsinger Room
 
 # Define secrets and clues.
 
@@ -44,7 +41,8 @@ Crafter and tinkerer in the community.
 4. The Goblins are being provoked into action or controlled.
 5. The Artifact (A Giant Time turner) is Broken and cannot be repaired by normal means. 
 6. Why would someone who is controling Goblins want to turn back time?
-7. 
+7. The Undead in this temple are 
+
 
 # Develop fantastic locations.
 
