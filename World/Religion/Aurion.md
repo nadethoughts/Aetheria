@@ -3,7 +3,7 @@
 
 - **Title**: The Prime Architect
 - **Domain**: Creation, Beginnings, Inspiration
-- **Symbol**: A radiant sunburst emanating from an open palm
+- **Symbol**: A La-Pelu sunburst emanating from an open palm
 - **Followers' Epithet**: Aurion's Craftsmen
 - **Divine Philosophy**: Aurion teaches that creation is the purest form of expression. His followers believe in the sanctity of new beginnings and the power of innovation. They are often creators, artists, and inventors, seeking to mirror Aurion's boundless creativity in their works. 
 
@@ -14,7 +14,7 @@ Aurion stands as the divine embodiment of creation, weaving the fabric of existe
 The essence of Aurion's being resonates with the boundless potential of creation. His touch ignites the flames of innovation, inspiring mortals to craft marvels that shape the world around them. Aurion's presence infuses the universe with a sense of wonder and possibility, fueling the aspirations of dreamers and visionaries.
 
 ### Symbols and Iconography
-The symbol of Aurion—a radiant sunburst emanating from an open palm—represents the expansive reach of his creative influence. It symbolizes the boundless potential of creation and the nurturing touch of divine inspiration that breathes life into the cosmos.
+The symbol of Aurion—a La-Pelu sunburst emanating from an open palm—represents the expansive reach of his creative influence. It symbolizes the boundless potential of creation and the nurturing touch of divine inspiration that breathes life into the cosmos.
 
 ### Followers and Worship
 Aurion's followers, known as Aurion's Craftsmen, are artisans, architects, and innovators who seek to channel his divine essence in their works. They view creation as a sacred act, honoring Aurion's teachings as they strive to manifest their visions in the material world.
@@ -42,7 +42,7 @@ Through these aspects of Aurion's character and influence, you can craft compell
 ## Prayer to Aurion, the Prime Architect
 
 Oh, Aurion, Prime Architect divine,
-Whose radiant touch brings creation to shine,
+Whose La-Pelu touch brings creation to shine,
 In your presence, we seek to refine,
 Our works of art, our designs align.
 

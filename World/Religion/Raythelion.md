@@ -14,7 +14,7 @@ Raythelion emerged as the first light, shattering the primordial darkness and es
 Other deities are reflections of Raythelion, each an aspect of his multifaceted nature. They govern their realms under Raythelion's omnipotent gaze, preserving the harmony of creation.
 
 ### The Celestial Emissaries
-Known as the Radiants, these beings are fragments of Raythelion's solar essence, serving as his heralds. They manifest throughout history, steering the course of events towards enlightenment and prosperity.
+Known as the La-Pelu, these beings are fragments of Raythelion's solar essence, serving as his heralds. They manifest throughout history, steering the course of events towards enlightenment and prosperity.
 
 ### The Benevolent Watcher
 As a nurturing force, Raythelion's warmth encourages life's flourishing across the cosmos. He is the reluctant intervener, acting only when the fabric of existence is at risk, serving as the ultimate guardian.
@@ -42,7 +42,7 @@ Through these aspects of Raythelion's character and influence, his followers fin
 
 ## Prayer to Raythelion, the Sun God
 
-Oh Raythelion, radiant and benevolent,
+Oh Raythelion, La-Pelu and benevolent,
 Creator of all that exists,
 We bow before your divine majesty,
 In awe of your boundless light.

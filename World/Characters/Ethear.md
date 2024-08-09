@@ -45,7 +45,7 @@ Ethear's primary goal is to protect her family and ensure their safety. She also
 - **[Elanil Moonshadow](Elanil.md)**: A respected elven mage and scholar who occasionally seeks Ethear's wisdom on arcane matters.
 
 ### Rivals/Enemies
-- **[Vorath the Betrayer](Vorath-the-Betrayer.md)**: A fallen Radiant whose actions brought great suffering. Ethear sees him as a threat to the balance she strives to maintain.
+- **[Vorath the Betrayer](Vorath-the-Betrayer.md)**: A fallen La-Pelu whose actions brought great suffering. Ethear sees him as a threat to the balance she strives to maintain.
 
 ## Fears and Phobias
 Ethear fears the loss of her remaining family and the spread of chaos and destruction. She is also wary of the potential misuse of the ancient knowledge and power she possesses.

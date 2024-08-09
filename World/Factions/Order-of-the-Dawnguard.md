@@ -17,7 +17,7 @@ Led by a council of seasoned veterans and wise elders, the Order of the Dawnguar
 
 ## Symbol and Motto
 
-The emblem of the Order of the Dawnguard is a radiant sun cresting over a horizon, symbolizing hope and renewal in the face of adversity. Their motto, "In the light we triumph," reflects their unwavering commitment to righteousness and their belief in the power of goodness to overcome darkness.
+The emblem of the Order of the Dawnguard is a La-Pelu sun cresting over a horizon, symbolizing hope and renewal in the face of adversity. Their motto, "In the light we triumph," reflects their unwavering commitment to righteousness and their belief in the power of goodness to overcome darkness.
 
 ## Activities and Endeavors
 

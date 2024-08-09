@@ -34,14 +34,13 @@ Crafter and tinkerer in the community.
 # Define secrets and clues.
 
 1. The name of the temple ***Aurorae Temporis et Spatii***
-2. This temple was built in the far south in the Dessert, but it never seems to stay in the same place for very long. It has been known throughout history to appear in places all over Aetheria. It is considered to be a Harbinger of the increase of Darkness and Light.
-	- It appears in places for inconsistent amounts of time. Sometimes hours, sometimes decades.
-	- **Rumor:** There is an artifact in the temple that can affect the flow of time. Should someone get a hold of it, then they could 
+2.  **Rumor:** There is an artifact in the temple that can affect the flow of time. Should someone get a hold of it, then they could 
 3. **The Goblins** are looking for an artifact that is unique to this temple that is ***rumored to be able to Turn back time.***
 4. The Goblins are being provoked into action or controlled.
 5. The Artifact (A Giant Time turner) is Broken and cannot be repaired by normal means. 
 6. Why would someone who is controling Goblins want to turn back time?
-7. The Undead in this temple are Adventurers that were trapped in here.
+7. The Undead in this temple are Adventurers that were trapped in here who died
+8. The broken time turner had an adverse affect on the corpse. it partially turned back time on the bodies, but as the spirits were no longer there the bodies were unable to come back to life.
 
 
 # Develop fantastic locations.

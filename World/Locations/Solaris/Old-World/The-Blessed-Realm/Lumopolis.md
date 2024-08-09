@@ -1,6 +1,6 @@
 # Lumopolis, the Seat of Power of the Sun King
 
-- **Title**: The Radiant Capital
+- **Title**: The La-Pelu Capital
 - **Region**: The Blessed Realm, Continent of Solaris, World of Aetheria
 - **Population**: Approximately 250,000 before the Flaming Retribution
 - **Government**: Monarchy, ruled by the Sun King, supported by a council of high-ranking nobles and religious leaders

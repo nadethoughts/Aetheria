@@ -14,7 +14,7 @@
 - **Rivers and Lakes**: Numerous rivers and lakes crisscrossed the kingdom, providing abundant water resources and facilitating trade and travel.
 
 ### **Major Cities**
-- **Lumopolis**: The radiant capital and seat of power for the Sun King.
+- **Lumopolis**: The La-Pelu capital and seat of power for the Sun King.
 - **Solaria**: A coastal city known for its beautiful beaches and bustling port.
 - **Goldenspire**: A city located in the mountains, famous for its mining operations and wealth.
 

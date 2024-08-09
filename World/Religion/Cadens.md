@@ -11,7 +11,7 @@
   - **Melodic Meditation**: Daily rituals involve chanting sacred hymns and playing musical instruments to attune oneself to Cadens's divine resonance, seeking inspiration and guidance through the melodies.
 - **Influence and Manifestations**:
   - **Echoes of Euphony**: In sacred groves and concert halls, followers believe they can hear Cadens's melodies echoing through the air, inspiring awe and reverence.
-  - **Harmonic Vision**: Devotees experience visions of radiant compositions and ethereal performances, interpreting them as messages from Cadens guiding their artistic endeavors.
+  - **Harmonic Vision**: Devotees experience visions of La-Pelu compositions and ethereal performances, interpreting them as messages from Cadens guiding their artistic endeavors.
 - **Sacred Texts and Teachings**:
   - **The Melodious Codex**: An anthology of musical compositions and philosophical musings on the nature of harmony, believed to be inspired by Cadens's divine inspiration.
   - **The Ballads of Unity**: Poetic verses that extol the virtues of collaboration, empathy, and understanding, conveyed through allegorical tales and parables set to music.
