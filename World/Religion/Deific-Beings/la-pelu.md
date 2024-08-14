@@ -37,7 +37,7 @@ La-Pelu possess unique supernatural powers that grow stronger over time and beco
 |5 |Ancestry Feat|
 |6 |+1 Skill Feat|
 |7|Ancestry Feat|
-|8| La-Pelu Beam (Innate Spell), +1 Skill Feat| 
+|8| Radiant Beam (Innate Spell), +1 Skill Feat| 
 |9|Ancestry Feat|
 |10|Sun's Blessing(Greater Awakened power), +1 Skill Feat|
 |11|Ancestry Feat|
