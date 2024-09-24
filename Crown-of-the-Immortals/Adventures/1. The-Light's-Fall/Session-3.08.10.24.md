@@ -24,7 +24,7 @@ Crafter and tinkerer in the community.
 
 
 # Outline potential scenes.
-[ ] [Giant Zombie Room ](puzzle/giant-zombie-room.md)- a Large zombie wondering around a room with a sarcofagus 3 doors
+[ ] [Giant Zombie Room ](giant-zombie-room.md)- a Large zombie wondering around a room with a sarcofagus 3 doors
   1. Entrance - South
   2. Treasure Room - East
   3. Hallway - North.

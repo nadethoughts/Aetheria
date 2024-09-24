@@ -1,4 +1,4 @@
-# [Back to Session 3](../Session-3.08.10.24.md)
+# [Back to Session 3](Session-3.08.10.24.md)
 ### Temple Puzzle: Opening the Sarcophagus of Shananooah
 
 #### Room Description
