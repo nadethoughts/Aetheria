@@ -1,4 +1,3 @@
-
 # **[Cahir’s](../../PCs/Cahir-Emersyn.md) Interim:**
 
 You embraced the next six months as a time of preparation, both for yourself and for the community. You continued to strengthen your bond with your sister, [Angel](../../../World/Characters/Angel.md), sharing concerns about the strange occurrences surrounding the temple. You also find yourself thinking more and more about protection of the people of this town. 
@@ -18,7 +17,7 @@ As [Cahir’s](../../PCs/Cahir-Emersyn.md) armed the town’s militia with his e
 
 ---
 
-**[Gald](../../../World/Characters/Gald.md)’s Encounters with the Goblins:**
+# **[Gald](../../../World/Characters/Gald.md)’s Encounters with the Goblins:**
 
 [Gald](../../../World/Characters/Gald.md) had never cared much for the town or its politics, but the goblin threat had forced him to reconsider. In his hunts through the wilds, he had stumbled upon goblin patrols on more than one occasion. The goblins were smarter than before, using guerrilla tactics to blend into the landscape and avoid detection. They ambushed [Gald](../../../World/Characters/Gald.md) twice, testing his knowledge of the terrain and asking cryptic questions about the temple. Their attacks seemed driven by an obsession with reaching the **Time Turner**.
 
@@ -51,7 +50,7 @@ Your growing role in the community cemented your reputation as a military leader
 
 ---
 
-**[Alwor’s](../../PCs/Alwor-Thistlegift.md) Interim:**
+# **[Alwor’s](../../PCs/Alwor-Thistlegift.md) Interim:**
 
 The events at the temple had left you filled with both purpose and uncertainty. Over the six months, you returned to your role as the community’s cheerful morale-booster but found yourself drawn more and more to the mysteries of the **Time Turner**. The visions you experienced in the temple had awakened a deeper connection to [Cadens](../../../World/Religion/Cadens.md) and gave you insight into the time-altering magic surrounding the Chronal Prism.
 
@@ -71,7 +70,7 @@ The Lano and the Great Time Turner are connnected somehow, but you are not sure 
 
 ---
 
-**Simear’s Interim:**
+# **Simear’s Interim:**
 
 You used the six months to train and unlock new powers, honing your draconic heritage and experimenting with your abilities. While he remained somewhat detached from the town, you contributed here and there by helping Cahir at the forge and subtly adding some enhancements to the weapons, armor and defenses using your draconic heritage. While you feel most comfortable by yourself having been a part of two worlds, but not quite a part of either. You have thoughts of Cahir and Angel, as they both are not a part of the Orc world nor the Human world, but are able to thrive. 
 
@@ -91,7 +90,7 @@ In your seclusion, you start to feel the presence of your mother and start hear 
 
 ---
 
-### The Goblins’ Interim (with Updates from [Gald](../../../World/Characters/Gald.md)’s Encounters)
+## The Goblins’ Interim (with Updates from [Gald](../../../World/Characters/Gald.md)’s Encounters)
 
 The goblins, under the control of a dark, unnamed force, spent the last six months digging through the collapsed tunnel to the temple. However, their progress was not without obstacles—[Gald](../../../World/Characters/Gald.md), [Cahir’s](../../PCs/Cahir-Emersyn.md)’s estranged brother, had thwarted several of their attempts to scout the area undetected.
 
@@ -104,9 +103,8 @@ The goblins knew they were being hunted now and moved more carefully, avoiding t
 
 ---
 
-### The Party’s Next Steps:
+## The Party’s Next Steps:
 
 The party now understands that the temporary fix using star metal won't last. They must find the **Chronal Prism** to permanently repair the Time Turner before the goblins can activate it. With [Gald](../../../World/Characters/Gald.md)’s reports about the goblins’ increasing presence and their obsession with the Time Turner, time is running out.
 
     ***Rumors*** suggest that the **Twilight Spire** and the **Evershift Caverns**, both places warped by temporal magic, might contain enough Chronal Prism to complete the repairs. The party must decide their next move, knowing that each day brings the goblins closer to their goal.
-
