@@ -14,7 +14,7 @@
 - **Eyes**: Bright green, sharp and observant
 - **Distinctive Features**: Faelar has a scar running down his left cheek from a close encounter with a wild beast. He often wears green and brown clothing to blend in with the forest.
 
-![Faelar](../../assets/Faelar%20Moonshadow.jpg)
+![[Faelar Moonshadow.jpg]]
 
 ## Background
 
@@ -37,11 +37,11 @@ Faelar serves as a scout and protector for his community. He patrols the borders
 ## Relationships
 
 ### Family
-- **[Elanil Moonshadow](Elanil.md)**: His sister, a mage who often collaborates with Faelar on matters concerning the forest. They share a deep bond and mutual respect for each other's abilities.
+- **[[Elanil]] Moonshadow**: His sister, a mage who often collaborates with Faelar on matters concerning the forest. They share a deep bond and mutual respect for each other's abilities.
 
 ### Friends/Allies
-- **[Ethear](Ethear.md)**: The cloud dragon who resides in the skies above the forest. Faelar respects Ethear's wisdom and occasionally seeks her counsel.
-- **[Karsten Kendrick](../../Crown-of-the-Immortals/PCs/Karsten-Kendrick.md)**: A paladin who Faelar has guided through the forest on several occasions. They share a mutual respect and have fought together against common threats.
+- **[[Ethear]]**: The cloud dragon who resides in the skies above the forest. Faelar respects Ethear's wisdom and occasionally seeks her counsel.
+- **[[Karsten]] Kendrick**: A paladin who Faelar has guided through the forest on several occasions. They share a mutual respect and have fought together against common threats.
 
 ### Rivals/Enemies
 - **Loggers and Industrialists**: Those who seek to exploit the forest for their gain. Faelar is constantly at odds with those who threaten his home.
