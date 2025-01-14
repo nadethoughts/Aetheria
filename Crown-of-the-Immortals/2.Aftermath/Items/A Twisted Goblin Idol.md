@@ -1,3 +1,0 @@
-- **Location**: In one of the side chambers, likely hidden behind rubble or in a goblin chief's quarters.
-- **Description**: A small, warped idol crafted from bone and black stone. It depicts a hooded figure with a cracked crown—resembling Vorath’s transformation into "The Betrayer."
-- **Clue**: When examined closely, it radiates faint dark magic. Arcane or religious checks might reveal that this idol is associated with a figure known in dark legend for betrayal and corruption, possibly Vorath.

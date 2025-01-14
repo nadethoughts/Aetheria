@@ -1,3 +1,4 @@
+#location #continent
 # Solaris
  # The World of Aetheria: A Land of Six Regions
 

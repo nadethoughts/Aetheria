@@ -1,5 +1,5 @@
 ## When:
-Between the appearance of [[Aurorae Temporis et Spatii]] Temple and the [[Goblin]]'s second major attack on the temple.
+Between the appearance of [[Luakini o ka Manawa]] Temple and the [[Goblin]]'s second major attack on the temple.
 
 ## What:
 > As you sit in a council meeting, you find yourself daydreaming, and you're transported to a time long past. You stand amidst the bustling streets of a grand desert city, its golden sands shimmering under the relentless sun. You are having a conversation with someone familiar, but you can't quite put a name to their face. You feel the weight of responsibility pressing upon your shoulders; your network of connections keep the kingdom afloat. Your mind races as you take the information of this agent and work it into the web of information you have from your other informants. You know you can trust this information because all of your people are as loyal to you as you are to them. How many times have you gotten each of them out of impossible situations?

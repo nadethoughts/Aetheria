@@ -1,6 +1,6 @@
 # Into the Temple
 
-## Location: [[Aurorae Temporis et Spatii]]
+## Location: [[Luakini o ka Manawa]]
 
 ### **Starting Location**
 Starting Town

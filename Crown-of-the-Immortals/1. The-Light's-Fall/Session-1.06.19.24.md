@@ -78,7 +78,7 @@ Crafter and tinkerer in the community.
 
 # Secrets
 
-1. The name of the temple ***[[Aurorae Temporis et Spatii]]***
+1. The name of the temple ***[[Luakini o ka Manawa]]***
 2. This temple was built in the far south in the Dessert, but it never seems to stay in the same place for very long. It has been known throughout history to appear in places all over Aetheria. It is considered to be a Harbinger of the increase of Darkness and Light.
 	- It appears in places for inconsistent amounts of time. Sometimes hours, sometimes decades.
 	- **Rumor:** There is an artifact in the temple that can affect the flow of time. Should someone get a hold of it, then they could 

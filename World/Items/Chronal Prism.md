@@ -1,0 +1,1 @@
+a magical crystal that has temporal properties.

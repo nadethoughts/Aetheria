@@ -34,7 +34,7 @@ Though [[Gald]] had always been a loner, these encounters made him realize that 
 
 You spent these months in deep reflection, unraveling the mystery of the **Chronal Prism** and how it could be used to repair the Time Turner. You spent time studying ancient texts and investigating the strange temporal phenomena surrounding the temple, determined to uncover any leads that might point them toward more Chronal Prism.
 
-You took the news of the goblins’ activity seriously, working closely with the town leadership. While [[Cahir]]'s approach was that of fortifying the town, you took a more proactive approach in taking a unit of [[Solaris Sentinels]] and seeking them out, being empowered by the information you got from [[Gald]], you tracked a majority of the Goblin's activities to be in the direction of [[the-burned-wood]]. Thus far you have not been able to find their location, but have had a few skrimishes with them as you have delved deeper into that area.
+You took the news of the goblins’ activity seriously, working closely with the town leadership. While [[Cahir]]'s approach was that of fortifying the town, you took a more proactive approach in taking a unit of [[Solaris Sentinels]] and seeking them out, being empowered by the information you got from [[Gald]], you tracked a majority of the Goblin's activities to be in the direction of [[The Burned Wood]]. Thus far you have not been able to find their location, but have had a few skrimishes with them as you have delved deeper into that area.
 
 Your growing role in the community cemented your reputation as a military leader, protector, and champion of the [[Solaris Sentinels]]. You know the coming months are critical, not just for the town, but for the entire continent of Solaris.
 
@@ -56,7 +56,7 @@ The events at the temple had left you filled with both purpose and uncertainty. 
 
 In addition to your role in the town, you began training your magical abilities in secret, experimenting with the strange bardic spells and new abilities that had begun to manifest. you knew that his newfound powers were tied to the **[[Llano]]** or **song of creation**, and that in order to complete the repair to the Great Time Turner, you not only needed to find the [[Chronal Prism]] but need to find the right refrain from the [[Llano]] to complete the repair.
 
-The [[Lano]] and the [[Great Time Turner]] are connected somehow, but you are not sure exactly what that connection is nor what you specifically need to do to get it, but you know it is the key somehow...
+The [[Lano]] and[The Great Time Turner]] are connected somehow, but you are not sure exactly what that connection is nor what you specifically need to do to get it, but you know it is the key somehow...
 
 ## [[Alwor]]'s vision
     As you sit in a council meeting, you find yourself daydreaming, and you're transported to a time long past. You stand amidst the bustling streets of a grand desert city, its golden sands shimmering under the relentless sun. You are having a conversation with someone familiar, but you can't quite put a name to their face. You feel the weight of responsibility pressing upon your shoulders; your network of connections keep the kingdom afloat. Your mind races as you take the information of this agent and work it into the web of information you have from your other informants. You know you can trust this information because all of your people are as loyal to you as you are to them. How many times have you gotten each of them out of impossible situations?
@@ -94,7 +94,7 @@ In your seclusion, you start to feel the presence of your mother and start hear 
 
 The goblins, under the control of a dark, unnamed force, spent the last six months digging through the collapsed tunnel to the temple. However, their progress was not without obstacles—[[Gald]], [[Cahir]]’s estranged brother, had thwarted several of their attempts to scout the area undetected.
 
-The goblins knew they were being hunted now and moved more carefully, avoiding the town’s patrols and waiting for the right moment to strike. Their leader, driven by a desperate need to control the [[Great Time Turner]] urged them to move faster, believing that activating the device would allow them to erase the **[[Flaming Retribution]]** from history.
+The goblins knew they were being hunted now and moved more carefully, avoiding the town’s patrols and waiting for the right moment to strike. Their leader, driven by a desperate need to control [[The Great Time Turner]] urged them to move faster, believing that activating the device would allow them to erase the **[[Flaming Retribution]]** from history.
 
 - **Progress:**
   - Goblins continued to dig through the collapsed tunnel.
@@ -107,4 +107,4 @@ The goblins knew they were being hunted now and moved more carefully, avoiding t
 
 The party now understands that the temporary fix using star metal won't last. They must find the **Chronal Prism** to permanently repair the Time Turner before the goblins can activate it. With [[Gald]]’s reports about the goblins’ increasing presence and their obsession with the Time Turner, time is running out.
 
-    ***Rumors*** suggest that the **[[Twilight Spire]]** and the **[[Evershift Caverns]]**, both places warped by temporal magic, might contain enough [[Chronal Prism]] to complete the repairs. The party must decide their next move, knowing that each day brings the goblins closer to their goal.
+> ***Rumors*** suggest that the **[[Twilight Spire]]** and the **[[Evershift Caverns]]**, both places warped by temporal magic, might contain enough [[Chronal Prism]] to complete the repairs. The party must decide their next move, knowing that each day brings the goblins closer to their goal.

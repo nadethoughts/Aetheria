@@ -1,6 +1,6 @@
 # The Greenwarden
 
-![verdanth logo](../../assets/Verdanth-logo-1.jpg)
+![verdanth logo](Verdanth-logo-1.jpg)
 
 - **Title**: The Greenwarden
 - **Rank**: [[The Luminous Authority]]

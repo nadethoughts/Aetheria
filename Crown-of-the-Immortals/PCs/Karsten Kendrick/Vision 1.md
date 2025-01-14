@@ -1,5 +1,5 @@
 ## When:
-Between the appearance of [[Aurorae Temporis et Spatii]] Temple and the [[Goblin]]'s second major attack on the temple.
+Between the appearance of [[Luakini o ka Manawa]] Temple and the [[Goblin]]'s second major attack on the temple.
 
 ## What
 
