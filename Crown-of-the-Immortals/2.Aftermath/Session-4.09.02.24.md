@@ -1,6 +1,6 @@
 # Into the Temple
 
-## Location: [[Temple of Shananooah]]
+## Location: [[Aurorae Temporis et Spatii]]
 
 ### **Starting Location**
 Starting Town
@@ -38,7 +38,7 @@ Crafter and tinkerer in the community.
 3. ***How is your character dealing with his new abilities? La-Pelu are known for being evil and committing evil deeds in society. Most people consider them to be the boogie man.*** ![[hide_powers_chart.jpg]]]
 	1. **[[Cahir]]** - No need to hide my strength
 	2. **[[Karsten]]** - I am keeping it under wraps until I get a better understanding of what this means as a character. I wouldn't be showing them off. I would try to act as I did before the temple arriving.
-	3. **[[Samir]]** - I feel like this is not something that would have happened often in the context of the elven society or that perhaps the reputation would be somewhat different. As a result, I don't think Simear would have much of a grid for this. Much like some of his draconic features, he would find trying to hide some traits unnecessary. And like some of his past with magic, he would find some of these traits better left undisclosed to the public.
+	3. **[[Simear]]** - I feel like this is not something that would have happened often in the context of the elven society or that perhaps the reputation would be somewhat different. As a result, I don't think Simear would have much of a grid for this. Much like some of his draconic features, he would find trying to hide some traits unnecessary. And like some of his past with magic, he would find some of these traits better left undisclosed to the public.
 	4. **[[Alwor]]** - It would depend a bit on how this particular town views them and how we could discuss it with them. By nature of the towns existence, they are more open to the gods and to Raythelion, and may be more open to these powers once they understand where they really come from. But if it would put him in danger with the town, he would try to hide them.
 4. 
 

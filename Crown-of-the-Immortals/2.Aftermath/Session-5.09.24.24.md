@@ -7,7 +7,7 @@ During this time **[[Gald]]** played a surprising role for both you and the comm
 As [[Cahir]]'s armed the town’s militia with his expertly crafted weapons, you also found that you had a nack for engineering battlements and fortifying the town, you also kept an eye on his brother’s reports and people of the town are starting to look at you in a new way and defer to you.
 ## [[Cahir]]'s Vision
 
-    As you work the forge the Hammer falling in a rythmic crash of hammer on avil. You find your mind wandering to a Desert Land, that you have never seen. You remember standing at the crest of a large dune. You see a mighty army at the bottom of the dune waiting for the attack. You look behind yourself to see your Honor guard. Your company consists giants, humans, Orcs, Elves as well as many other peoples. These people, your people look at you with Admiration and fearce loyalty. You have been through so much together. Each person here would die for you, and you for them. So it is with those that live and die for justice.
+  > As you work the forge the Hammer falling in a rythmic crash of hammer on avil. You find your mind wandering to a Desert Land, that you have never seen. You remember standing at the crest of a large dune. You see a mighty army at the bottom of the dune waiting for the attack. You look behind yourself to see your Honor guard. Your company consists giants, humans, Orcs, Elves as well as many other peoples. These people, your people look at you with Admiration and fearce loyalty. You have been through so much together. Each person here would die for you, and you for them. So it is with those that live and die for justice.
 
 - **Progress:**
   - Strengthened bonds with Angel and town leaders.

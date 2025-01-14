@@ -1,0 +1,3 @@
+- **Location**: Found in the entrance to a hidden chamber in the tunnels or near one of the tunnel doors, carved into the rock.
+- **Description**: Strange goblin runes, written in what appears to be blood, line the walls. The runes speak of a master who promises "a return to a time before the flame" and refers to the Betrayer as "the Unmaker of Ages."
+- **Clue**: The runes reveal that the goblins believe Vorath can undo the catastrophic event (the flaming retribution) that devastated their lands, and they are working to awaken him from his slumber.
