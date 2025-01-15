@@ -19,7 +19,7 @@
 ## **Sacred Texts and Teachings**:
   - **The Melodious Codex**: An anthology of musical compositions and philosophical musings on the nature of harmony, believed to be inspired by Cadens's divine inspiration.
   - **The Ballads of Unity**: Poetic verses that extol the virtues of collaboration, empathy, and understanding, conveyed through allegorical tales and parables set to music. 
-  - **[[Lano]]**: The song of Creation
+  - **[[Llano]]**: The song of Creation
   - 
 ## **Prayers and Chants**:
   - **The Song of Serenity**: A tranquil melody sung during times of strife, invoking Cadens's soothing presence to calm troubled hearts and minds.

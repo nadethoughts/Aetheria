@@ -56,7 +56,7 @@ The events at the temple had left you filled with both purpose and uncertainty. 
 
 In addition to your role in the town, you began training your magical abilities in secret, experimenting with the strange bardic spells and new abilities that had begun to manifest. you knew that his newfound powers were tied to the **[[Llano]]** or **song of creation**, and that in order to complete the repair to the Great Time Turner, you not only needed to find the [[Chronal Prism]] but need to find the right refrain from the [[Llano]] to complete the repair.
 
-The [[Lano]] and[The Great Time Turner]] are connected somehow, but you are not sure exactly what that connection is nor what you specifically need to do to get it, but you know it is the key somehow...
+The [[Llano]] and[The Great Time Turner]] are connected somehow, but you are not sure exactly what that connection is nor what you specifically need to do to get it, but you know it is the key somehow...
 
 ## [[Alwor]]'s vision
     As you sit in a council meeting, you find yourself daydreaming, and you're transported to a time long past. You stand amidst the bustling streets of a grand desert city, its golden sands shimmering under the relentless sun. You are having a conversation with someone familiar, but you can't quite put a name to their face. You feel the weight of responsibility pressing upon your shoulders; your network of connections keep the kingdom afloat. Your mind races as you take the information of this agent and work it into the web of information you have from your other informants. You know you can trust this information because all of your people are as loyal to you as you are to them. How many times have you gotten each of them out of impossible situations?

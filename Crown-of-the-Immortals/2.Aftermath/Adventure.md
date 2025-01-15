@@ -5,7 +5,7 @@
 ### [[Simear]] - Jason
 
 # Overview
-in the aftermath of the [[Goblin]] attack and the appearance of the [[Luakini o ka Manawa]] temple, the community implimented a few changes.
+in the aftermath of the [[Goblin]] attack and the appearance of the [[Luakini o ka Manawa]] temple, the community implemented a few changes.
 
 1. They built a tower that goes down to the bridge of the temple to see if they can understand it's secrets. They want to see if there is something to be learned that might help them with survival.
 2. The built up battlements on the edge of town with the help of [[Cahir]] & [[Simear]]
@@ -22,15 +22,15 @@ The [[Goblin]]s break through the cave in that happened in [[Luakini o ka Manawa
 # The Dungeon: The Tunnels of time and space...
 ## Clues/Items
 - [ ] 1. **[[A Fragment of a Map]]**
-- [ ] 3. **[[Torn Journal Page]]**
+- [x] 3. **[[Torn Journal Page]]**
 - [x] 4. **[[A Whispering Skull]]**
 - [ ] 5. **[[Blood-Stained Goblin Runes]]**
 - [ ] 6. **[[A Cryptic Prayer Scroll]]**
 ## Rooms to go
 ### Fort
-#### Dining Room
-- 4 Drow (1 Priestess, 1 Rogue & 2 Warriors)
-- [[Torn Journal Page]]
+#### ~~Dining Room~~
+- ~~4 Drow (1 Priestess, 1 Rogue & 2 Warriors)~~
+- ~~[[Torn Journal Page]]~~
 #### Treasure Room
 - [[A Fragment of a Map]]
 #### Leach Room
