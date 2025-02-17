@@ -1,4 +1,3 @@
-#old-world #country
 - **Title**: The Kingdom of the Sun
 - **Region**: Continent of Solaris, World of Aetheria
 - **Population**: Approximately 1.5 million before the Flaming Retribution
@@ -72,3 +71,5 @@
 
 ### **The [[Flaming Retribution]]**
 - **Destruction**: Over a year ago, the Blessed Realm was devastated by the [[Flaming Retribution]], a cataclysmic event that brought meteors and flaming debris raining down upon the kingdom. The once-great realm was reduced to ruins, and its surviving inhabitants were forced to flee.
+
+#old-world #country

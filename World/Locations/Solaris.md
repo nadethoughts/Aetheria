@@ -1,6 +1,4 @@
-#location #continent
-# Solaris
- # The World of Aetheria: A Land of Six Regions
+## The World of Aetheria: A Land of Six Regions
 
 Welcome to the continent of **[[Aetheria]]**, a land divided into six distinct regions, each with its own unique inhabitants and landscapes.
 
@@ -20,3 +18,5 @@ At the heart of Aetheria are the **[[Free Cities of the Vale]]**. This region is
 The eastern coastline, known as **[[The Shimmering Shores]]**, boasts some of the busiest ports in all of [[Aetheria]]. Here, merchants from distant lands mingle with local traders, creating a vibrant tapestry of commerce and exchange.
 
 Embark on a journey through [[Aetheria]] and discover the wonders that await in each of these remarkable regions.
+
+#location #continent
