@@ -1,13 +1,13 @@
-# The Goddess of Time
+## The Goddess of Time
 ![[Shananooah-logo-1.jpg]]
 
-- **Title**: The Time Weaver
-- **Rank**: [[The Rank of Brilliance]]
-- **Domain**: Time, Continuity, Fate
-- **Aspect**: Shananooah is the divine aspect of Raythelion that governs the passage of time. She is the heartbeat of the universe, the silent pulse that ensures the world's unceasing growth and flow.
-- **Symbol**: An hourglass with infinite sand surrounded by a celestial orbit, representing the eternal cycle of time.
-- **Followers' Epithet**: Shananooah's Chronolites
-- **Divine Philosophy**: As the deity of The Rank of Brilliance, Shananooah oversees all deities associated with the passage of time and travel. Her Chronolites understand that time is the soil in which the world plants its seeds of change, and they revere her as the force that nurtures the sprouting of these seeds into reality.
+### **Title**: The Time Weaver
+#### **Rank**: [[The Rank of Brilliance]]
+#### **Domain**: Time, Continuity, Fate
+#### **Aspect**: Shananooah is the divine aspect of Raythelion that governs the passage of time. She is the heartbeat of the universe, the silent pulse that ensures the world's unceasing growth and flow.
+#### **Symbol**: An hourglass with infinite sand surrounded by a celestial orbit, representing the eternal cycle of time.
+#### **Followers' Epithet**: Shananooah's Chronolites
+#### **Divine Philosophy**: As the deity of The Rank of Brilliance, Shananooah oversees all deities associated with the passage of time and travel. Her Chronolites understand that time is the soil in which the world plants its seeds of change, and they revere her as the force that nurtures the sprouting of these seeds into reality.
 
 ### Origins and Role
 Shananooah stands as the divine guardian of time, overseeing the unending march of seconds, minutes, and hours that shape the destiny of the cosmos. She is revered as the weaver of fate, the silent observer who guides the flow of time with unseen hands, ensuring that past, present, and future remain in harmony.
