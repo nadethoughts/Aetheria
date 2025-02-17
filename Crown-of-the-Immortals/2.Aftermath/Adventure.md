@@ -21,13 +21,13 @@ The [[Goblin]]s break through the cave in that happened in [[Luakini o ka Manawa
 
 # The Dungeon: The Tunnels of time and space...
 ## Clues/Items
-- [ ] 1. **[[A Fragment of a Map]]**
-- [x] 3. **[[Torn Journal Page]]**
-- [x] 4. **[[A Whispering Skull]]**
-- [ ] 5. **[[Blood-Stained Goblin Runes]]**
-- [ ] 6. **[[A Cryptic Prayer Scroll]]**
+- [x] **[[A Fragment of a Map]]**
+- [x]  **[[Torn Journal Page]]**
+- [x] **[[A Whispering Skull]]**
+- [ ] **[[Blood-Stained Goblin Runes]]**
+- [ ] **[[A Cryptic Prayer Scroll]]**
 ## Rooms to go
-### Fort
+### FortNote
 #### ~~Dining Room~~
 - ~~4 Drow (1 Priestess, 1 Rogue & 2 Warriors)~~
 - ~~[[Torn Journal Page]]~~
