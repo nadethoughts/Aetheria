@@ -38,7 +38,7 @@ Gald works as a woodsman, primarily keeping to himself. He provides for the comm
 
 ### Family
 - **[[Cahir]] Emersyn**: His half-brother and rival. Their relationship is fraught with tension and rivalry due to their different upbringings and Gald's resentment towards their father’s marriage to a human.
-- **[[Angel]](**: His sister, whom he loves and is very protective of. [[Angel]]’s kind nature often clashes with Gald’s bitterness, but she remains a source of comfort for him.
+- **[[Angel]]**: His sister, whom he loves and is very protective of. [[Angel]]’s kind nature often clashes with Gald’s bitterness, but she remains a source of comfort for him.
 
 ### Friends/Allies
 - **[[Balanka]]**: A female Dromaar and a friend of Cahir. While Gald respects [[Balanka]] for her strength and leadership, their interactions are limited due to his solitary nature.

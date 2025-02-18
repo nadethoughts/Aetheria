@@ -1,0 +1,1 @@
+[Cape of Justice](https://2e.aonprd.com/Equipment.aspx?ID=2682)

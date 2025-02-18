@@ -27,14 +27,14 @@ Crafter and tinkerer in the community.
 # Create a strong start.
 ## Answers to questions
 1. ***What are your character's next steps?***
-	1. **Cahir** - See sister to discuss what is happening. Talk to town leaders and hone skills
-	2. **Karsten** - Healing up, selling the booty and purchasing anything new. Then focusing on the next question.
-	3. **Sumir** - I think he would find a way to isolate himself, take time to get his head wrapped around what is/has been going on, and practice working with/using/controling the new abilities. He would also be willing to fall back into some of his crafting work. (I think this is a time to have him working to develop some of the new feats he has chosen, since many of these would not have an in story context for there develeoment.)
-	4. **Alwor** - Honestly, he's not sure. He's quite thrown by the events in the temple, but taking it as the purpose for which he was saved from the calamity. He's feeling empowered as a call to adventure but unsure exactly where to go / what to do with it.
+	1. **[[Cahir]]** - See sister to discuss what is happening. Talk to town leaders and hone skills
+	2. **[[Karsten]]** - Healing up, selling the booty and purchasing anything new. Then focusing on the next question.
+	3. **[[Simear]]** - I think he would find a way to isolate himself, take time to get his head wrapped around what is/has been going on, and practice working with/using/controlling the new abilities. He would also be willing to fall back into some of his crafting work. (I think this is a time to have him working to develop some of the new feats he has chosen, since many of these would not have an in story context for there development.)
+	4. **[[Alwor]]** - Honestly, he's not sure. He's quite thrown by the events in the temple, but taking it as the purpose for which he was saved from the calamity. He's feeling empowered as a call to adventure but unsure exactly where to go / what to do with it.
 2. ***In the time gap between the end of this adventure to the beginning of the next one, what is your character doing?***
-	1. **Cahir** - Hone skills as blacksmith. Make or buy spears and practice. Discuss with town leadership to plan to watch for wickedness around the area.
-	2. **Karsten** - exploring all the things that just happen. Researching how to repair the hour glass. Looking for leads to find the goblin hideout. Going into the cave and studying the temple. Helping people who need it. with in the village.
-	3. **Alwor** - He would be continuing his role in the town, and looking for ways to help that may be more dangerous then usual. In his downtime, he would be trying to hone his skills and practice with his new found abilities.
+	1. **[[Cahir]]** - Hone skills as blacksmith. Make or buy spears and practice. Discuss with town leadership to plan to watch for wickedness around the area.
+	2. **[[Karsten]]** - exploring all the things that just happen. Researching how to repair the hour glass. Looking for leads to find the goblin hideout. Going into the cave and studying the temple. Helping people who need it. with in the village.
+	3. **[[Alwor]]** - He would be continuing his role in the town, and looking for ways to help that may be more dangerous then usual. In his downtime, he would be trying to hone his skills and practice with his new found abilities.
 3. ***How is your character dealing with his new abilities? La-Pelu are known for being evil and committing evil deeds in society. Most people consider them to be the boogie man.*** ![[hide_powers_chart.jpg]]]
 	1. **[[Cahir]]** - No need to hide my strength
 	2. **[[Karsten]]** - I am keeping it under wraps until I get a better understanding of what this means as a character. I wouldn't be showing them off. I would try to act as I did before the temple arriving.
@@ -60,7 +60,7 @@ About a week after you got back up to the surface and started pursuing your own 
 # Develop fantastic locations.
 
 # Outline important NPCs.
-## [[Shananooah]] -- Goddess of time
+## ![[Shananooah]] 
 
 
 # Choose relevant monsters.

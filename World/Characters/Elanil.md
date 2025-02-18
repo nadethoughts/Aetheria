@@ -51,7 +51,6 @@ Elanil is driven by the desire to uncover lost knowledge and arcane secrets, par
 
 ### Rivals/Enemies
 - **[[La Pelu]]**: the La-Pelu's actions have left a deep scar on Elanil’s psyche. She is determined to find a way to reverse the damage caused by these Deamons!
-- 
 ## Fears and Phobias
 Elanil fears the loss of knowledge and the return of chaos and ignorance. She is also wary of the misuse of magic, having witnessed the devastation it can cause when wielded irresponsibly.
 

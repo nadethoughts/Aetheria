@@ -1,0 +1,58 @@
+![[Adventure#Player Characters]]
+![[Adventure#Outside the Dungeon]]
+# Open Questions
+- Did the Players want to name the village?
+# Intro
+- The party is just catching their breath after an intense fight with the [[Goblin]]s Accompanied by an large green wart covered woman
+- Looking closer at the [[Goblin]]s that the team just defeated in this last room, The group notices their skin is different than the rest of the [[Goblin]]s that they have faced
+	- Their skin is green, but appears to have a red pattern on their skin that looks almost like cracked mud
+	- No one has seen anything like this.
+- They found a few things in their belongings  Including a [[Spacious Pouch]], [[Belt of Good Health]] and [[Cape of Justice]]
+- Looking out of the Arrow Slits the Team sees the Burned woods, which is technically a 2 week journey from the edge.
+- What is going on here?
+
+# Hooks
+## The Cave mouth
+- there are 2 exits to the caves. One opens to [[The Burned Wood]]. The other opens to [[The Swamp]].
+### [[The Burned Wood]]
+#### What's Happening
+[[Goblin]]s have set up a camp as a staging ground for their attacks, but now that the spell over the [[Goblin]]s has been broken, they no longer want to fight.
+ - These [[Goblin]]s were slave to [[Goblin#Fire Walker Tribe|Fire Walker Tribe]] of Goblins and were controlled by the Fire Walker Coven of Hags
+ - The [[Goblin]]s do not belong to any one tribe, but they are from a collection of tribes that were all conquered and enslaved by the [[Goblin#Fire Walker Tribe|Fire Walkers]]
+ - [[Karsten]] is known by these Goblins as [[Karsten#Fire Brand|Fire Brand]]
+ - These [[Goblin]]s no longer have a desire to fight the village and wish to live in peace.
+	 - They are trying to make a new start in [[The Burned Wood]] as they don't have any place left to go.
+#### Adventure Hook
+***Find the Remaining Goblins***
+there is no way that the number of [[Goblin]]s you have seen in these caves represents that Force that just attacked the village. You must find the rest of the [[Goblin]]s
+#### Encounter: Ankhrav in the Woods
+There is a group of 3 Ankhrav that are wondering the woods. They are getting dangerously close to the [[Goblin]] village and so there are [[Goblin]] warriors that are keeping tabs on them. The party gets close to them and needs to decide what to do about them.
+
+## [[The Swamp]]
+#### Environmental Conditions
+- All water in this swamp is boiling giving ***5 Fire bleed damage every round*** 
+- As part of their investigation in this area, They notice a lot of large Square pieces of rubble
+	- Also see remnants of Arch ways
+	- Areas of level Ground
+- Eventually they figure out that the area is part of what would have been the Nort Eastern corner of [[The Blessed Realm]]
+#### What's Happening
+The [[Goblin#Fire Walker Tribe|Fire Walker Goblins]] have been living in this swamp for the past year and half. They were brought in by a Coven of Hags by that same name and are specifically used as the muscle of the coven. 
+##### The Fire Walker Coven's Goals
+The Coven's Goals is to reverse time to the time before the [[Flaming Retribution]]. They don't know the reason why, but it is to fulfill the will of their master [[Vorath the Betrayer]]. Vorath was attempting to accomplish a goal prior to The [[Flaming Retribution]] that he wasn't able to finish. He wants to get an artifact that was destroyed as part of the destruction.
+##### [[Tripkee]] People
+The [[Tripkee]] were lead to [[The Swamp]] by their Deity [[Uhlvara]] about a year ago. They have found the swamp to be a very wild land that needs to be cleansed. There is much evil activity here. They have apposed the [[Goblin#Fire Walker Tribe|Fire Walker Goblins]] since they got here and have been in constant battle for control of the swamp. There are not only [[Goblin]]s in this swamp but also many undead, carniverous plants, animals and other Dangers.  The Hunt is a foot!
+
+[[Prince Troubadour]] is the son of the Chief of the Tripkee people and will be the first contact with the party.
+
+#### Adventure Hook
+[[Prince Troubadour]] is the last surviving member of his raiding party and trying to make it back to his village. The Party happens upon him either in the midst of Combat or with him hailing them in formal Language (Hold there! Be ye friend or foe!?)
+
+when chatting with him, the party finds out about the [[Tripkee]] people and how they have been in this swamp.
+
+There is a temple of [[Cadens]] at the bottom of a lake. Each Temple of [[Cadens]] is rumored to have a piece of the [[Llano]] in it. Perhaps this one is the one we need to repair the time turner.
+#### Encounter: Wights and Ghouls
+there are 2 Wights along with 2 Ghoul Soldiers wandering the Board walk. The Ghoul Soldiers have [[The Blessed Realm]] Army Uniforms.
+#### Encounter: Plants and Praying Mantis
+Plants attack and The Mantis attacks while they are distracted.
+#### Encounter: Gelatinous Cube
+1 Gelatinous Cube + 2 River Drakes are in the Lake that has the temple of [[Cadens]], The Gelatinous Cube is invisible in the water.

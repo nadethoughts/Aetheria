@@ -10,7 +10,8 @@
 - **Height**: 5'10"
 - **Build**: Strong and athletic, yet with a gentle demeanor
 - **Hair**: Long, dark, usually tied back
-- **Eyes**: Bright green
+- **Eyes**: 
+- Bright green
 - **Distinctive Features**: A kind smile that contrasts with her orcish heritage, always dressed in practical yet neat clothing suitable for teaching and organizing
 
 ![[Angel.jpg]]

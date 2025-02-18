@@ -99,3 +99,7 @@ A son who had been prophesied would bring back peace and restoration to the cont
 >He was placed in a paladin sect of [[The Order of The Blessed Realm]], the [[Solaris Sentinels]]! A secret sect of highly trained, devoted and disciplined champions for the protection of the order and community against the evil that is so bent on the destruction of Solaris.
 >
 >However, Karsten, was being protected by the prayers of his family and his God, despite the evil and devastation unfolding before him. Was told to move North so to not be touched by the [[Flaming Retribution]] and did, knowing full well, the devastation that unfolded and uncertain of what lies ahead for his land and order.
+
+# Nicknames
+## Fire Brand
+through Karsten's battles with the [[Goblin]]s of [[The Burned Wood]] He was recognized with the nickname of "Fire Brand" Due to his Flaming Aura. He is both respected and feared among the Goblins.

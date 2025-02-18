@@ -1,8 +1,12 @@
 # Player Characters
-### [[Alwor]] - Ramsey
-### [[Cahir]] - Scott
-### [[Karsten]] - Clark
-### [[Simear]] - Jason
+## [[Alwor]] - Ramsey
+Gnome Entertainer who is friendly and cares about the community, Always checking in on everyone in the aftermath of the Flaming Retribution
+## [[Cahir]] - Scott
+Dromaar Protector. Works with the community to make sure that it is protected and kept safe. Works pretty heavily with the Solaris Sentinels
+## [[Karsten]] - Clark
+Member of the Solaris Sentinels that works as a protector of the community.
+## [[Simear]] - Jason
+Crafter and tinkerer in the community.
 
 # Overview
 in the aftermath of the [[Goblin]] attack and the appearance of the [[Luakini o ka Manawa]] temple, the community implemented a few changes.
