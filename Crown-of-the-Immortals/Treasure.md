@@ -1,6 +1,6 @@
 ## Level 3
 ### Gold
-200 GP
+120 GP
 
 | Permanent items      | Item level | Consumables                          | Item Level |
 | -------------------- | ---------- | ------------------------------------ | ---------- |

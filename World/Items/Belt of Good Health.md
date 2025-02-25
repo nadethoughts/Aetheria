@@ -1,1 +1,0 @@
-[Belt of Good Health](https://2e.aonprd.com/Equipment.aspx?ID=913)
