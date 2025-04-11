@@ -12,3 +12,4 @@ The party is attacked by a [[Gelatinous Cube]] and 2 [[River Drakes]], working t
 
 ## Encounter 2: The meeting of Prince Troubadour
 Prince Troubadour took a band of young Tripkee with him to fight against a
+term 
