@@ -16,10 +16,16 @@ in the aftermath of the [[Goblin]] attack and the appearance of the [[Luakini o 
 3. The [[Solaris Sentinels]], lead by [[Karsten]] and [[Thalor]] have gone out to skirmish with the [[Goblin]] skirmishers.
 4. The town, also, tried to maintain a certain level of normality with normal meetings of the town council including [[Angel]] & [[Alwor]]
 
-	>**Mystery**: There appears to be no end to the [[Goblin]]s, they defeat many and it appears that they are winning, then the next day there are so many more [[Goblin]]s. They appear to be multiplying...
+>**Mystery**: There appears to be no end to the [[Goblin]]s, they defeat many and it appears that they are winning, then the next day there are so many more [[Goblin]]s. They appear to be multiplying...
 
 The [[Goblin]]s were not just sitting on their hands while the time passed. 6 months after the attack, they break open a tunnel into the [[Luakini o ka Manawa]] temple.
 
+# NPCs
+- [ ] [[Grimfang]] - Trying to piece together the broken tribes that are left behind the portal in the [[Time Caverns]]. Building a village in [[The Burned Wood]], these [[Goblin#The Burned Wood|Goblin]]s are seeking a time of peace to rest and recover. Potentially forming an alliance with the people of [[Avaotaon]].
+- [ ] **[[Grolmok the Fist]]** - Bugbear 
+- [ ] **[[Vrekkar Bloodtooth]]** - Bugbear
+### Hag Coven
+- [ ] [[Velkra]] - The leader of the Coven of Hags
 # Scene 1: Always more Goblins
 The [[Goblin]]s break through the cave in that happened in [[Luakini o ka Manawa]] temple. The player characters must defeat the [[Goblin]]s and continue to kill them until they plug the flow of Goblins. They must enter the dungeon to end the encounter.
 
@@ -48,6 +54,6 @@ The [[Goblin]]s break through the cave in that happened in [[Luakini o ka Manawa
 The Entrance to the Dungeon by way of the Town
 
 ## [[The Burned Wood]]
-Area that the [[Goblin]] bandits were coming from to attack the Town. [[The Burned Wood]] are located south West of the town.
+Area that the [[Goblin]] bandits were coming from to attack the Town. [[The Burned Wood]] are located south West of the town. [[Grimfang]] is here.
 ## [[The Swamp]]
 A Marshy area that contains a lot of Hot Springs.
