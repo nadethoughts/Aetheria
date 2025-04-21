@@ -3,7 +3,7 @@ The party is continuing their investigation into the mysteries of the [[Time Cav
 
 # Scenes
 ## Encounter 1: Welcome to the Jungle
-The party is attacked by a [[Gelatinous Cube]] and 2 [[River Drakes]], working together to overpower the group.
+The party is attacked by a Gelatinous Cube and 2 River Drakes, working together to overpower the group.
 ### Treasure
 - Potion of Cold Retaliation (Lesser)
 - Staff of Air
