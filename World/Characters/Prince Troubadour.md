@@ -1,3 +1,4 @@
+
 # Prince Troubadour
 
 ## General Information
@@ -5,7 +6,6 @@
 - **Race**: [[Tripkee]]
 - **Role**: Chieftain's Son
 - **Age**: 32
-
 ## Appearance
 - **Height**: 3'10"
 - **Build**: Thin and Lithe
@@ -17,9 +17,6 @@
 
 ## Background
 
-### Family
-Prince Troubadour is the youngest son of the Chief. he has 2 other siblings
-
 ### Personality Traits
 - **Positive**:
   - Kind-hearted and compassionate
@@ -28,37 +25,17 @@ Prince Troubadour is the youngest son of the Chief. he has 2 other siblings
 - **Negative**:
   - Sometimes too trusting
   - Puts himself in danger to protect others
-
-### Worldview
-
-
 ## Relationships
-
 ### Family
-#### **Father: Chief Croakmar Greenleaf**
-
-- **Title**: Chief of the [[Tripkee]] Tribe
-- **Description**: Chief Croakmar is a wise and respected leader, known for his strategic mind and deep connection to the natural world. He has led the [[Tripkee]] tribe through many challenges, always prioritizing the well-being of his people. His leadership style is firm but fair, and he is deeply proud of his son, Prince Troubadour, despite his unconventional interests.
-- **Personality**: Wise, strategic, and compassionate.
-
-#### **Mother: Lady Lilypad Greenleaf**
-
-- **Title**: Lady of the [[Tripkee]] Tribe
-- **Description**: Lady Lilypad is a nurturing and supportive figure within the tribe. She is known for her healing abilities and her deep knowledge of herbal medicine. She has always encouraged Prince Troubadour's dreams, understanding the importance of following one's passions. Her gentle demeanor and caring nature make her beloved by all in the tribe.
-- **Personality**: Nurturing, supportive, and knowledgeable.
-
-#### **Older Brother: Toadwin Greenleaf**
-
-- **Title**: Heir to the Chiefdom
-- **Description**: Toadwin is the eldest sibling and the designated heir to the chiefdom. He is a skilled warrior and hunter, embodying the traditional values of the Tripkee tribe. Toadwin is protective of his younger brother, Prince Troubadour, though he sometimes struggles to understand his fascination with knights and grandeur. Despite their differences, Toadwin respects Prince Troubadour's determination and unique perspective.
-- **Personality**: Brave, protective, and traditional.
-
-#### **Older Sister: Frorella Greenleaf**
-
-- **Title**: Diplomat and Advisor
-- **Description**: Frorella is the middle sibling and serves as a diplomat and advisor to Chief Croakmar. She is highly intelligent and articulate, often representing the tribe in negotiations with neighboring communities. Frorella admires Prince Troubadour's creativity and supports his endeavors, believing that his unique approach can bring new strengths to the tribe.
-- **Personality**: Intelligent, articulate, and supportive.
-
+Prince Troubadour is the youngest son of the Chief. he has 2 other siblings
+#### **Father: [[Chief Croakmar Greenleaf]]** (Cheif of The [[Namar'Zul]])
+Supportive of Ribbiton but not always trusting his judgement. He is a cautious and wise Leader.
+#### **Mother: [[Lady Lilypad Greenleaf]]**
+Nurturing mother to the whole village. Highly supportive of Ribbiton.
+#### **Older Brother: [[Toadwin Greenleaf]]**
+Loves Brother, but doesn't understand him.
+#### **Older Sister: [[Frorella Greenleaf]]** (Advisor to the Chief of The [[Namar'Zul]])
+Middle child and very diplomatic. She tries to see both sides of her brothers
 # GM Knowledge
 ## Goals and Aspirations
 **Becoming a Knight**: Prince Troubadour dreams of embodying the ideals of knighthood he read about in the book that inspired him. He aspires to be a noble and honorable knight, protecting the weak and upholding justice within his tribe and beyond.
