@@ -1,4 +1,6 @@
 ### **The Namar'Zul – Seekers of the Divine Trail**
+- **“Namar”** = _Path / Journey / Migration_
+- **“Zul”** = _Mire / Swamp / New Land_
 
 The **Namar'Zul** are a nomadic tribe of [[Tripkee]] bound to the divine calling of **[[Uhlvara]]**, the Seeker in the Wilds. Known for their relentless pursuit of elusive prey and hidden truths, the Namar'Zul wander the shifting lands and seas of [[Aetheria]], ever guided by the glimmer of [[The Rank of Guiding Luminecence|the Guiding Luminescence]]. Unlike other [[Tripkee]] tribes, they do not make their homes in marshes or hollowed trees, but instead atop the shell of a **titanic sea turtle** known as **[[Oloru]]**, the Shellborn Sentinel.
 

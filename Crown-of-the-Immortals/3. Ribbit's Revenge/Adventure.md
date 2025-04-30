@@ -28,11 +28,11 @@ term
 # Encounters
 - [[Grul’Mog the Deep Belly (Froghemoth)]]
 - [[Lumopolis]] location [[Sunken Temple]] clues
-	- Ruins with some etching 
-		> ...the Flame-Kissed Crown and the Eternal Beacon of L...
-	- The Ruins that they are continue to see become more and more familiar
+	- ~~Ruins with some etching~~ 
+		> ~~...the Flame-Kissed Crown and the Eternal Beacon of L...~~
+	- ~~The Ruins that they are continue to see become more and more familiar~~
 	- ***Once in [[Oloru]]***, [[Alwor]] notices a Tapestry that is being used as a blanket for an elderly [[Tripkee]]. (Wobalu) The Tapestry is part of the story of the creation of [[Aetheria]], specifically the portion of the [[Llano]]. 
-	- Structure has some **Orichalcum**(Sun Metal) decretive Filigree on the face of the stones and columns. 
+	- ~~Structure has some **Orichalcum**(Sun Metal) decretive Filigree on the face of the stones and columns.~~ 
 - [[Tripkee Wights]]
 - [[Hunting Party]]
 	- [[Goblin]]
