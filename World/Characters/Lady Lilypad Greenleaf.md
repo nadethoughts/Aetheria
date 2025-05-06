@@ -1,3 +1,4 @@
+![[Lady Lilypad Greenleaf.jpeg]]
 - **Title**: Lady of the [[Tripkee]] Tribe
 - **Description**: Lady Lilypad is a nurturing and supportive figure within the tribe. She is known for her healing abilities and her deep knowledge of herbal medicine. **==She has always encouraged Prince Troubadour's dreams, understanding the importance of following one's passions==**. Her gentle demeanor and caring nature make her beloved by all in the tribe.
 - **Personality**: Nurturing, supportive, and knowledgeable.

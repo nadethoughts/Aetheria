@@ -2,7 +2,7 @@
 # Prince Troubadour
 
 ## General Information
-- **Full Name**: Ribbiton Greenleaf
+- **Full Name**: Bogwynne Greenleaf
 - **Race**: [[Tripkee]]
 - **Role**: Chieftain's Son
 - **Age**: 32

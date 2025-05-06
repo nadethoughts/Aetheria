@@ -1,8 +1,11 @@
+## Home: [[Avaotaon]]
+## Traveled Through: [[Time Caverns]]
+## Adventure Location: [[The Swamp]]
 # Description
 The party is continuing their investigation into the mysteries of the [[Time Caverns]].  They left the time caverns to enter into a swamp, after chatting with a village of [[Goblin#The Burned Wood|Goblins of the Burned Woods]] that are just looking to make a new life. The [[Goblin]]s Warned them of Undead, Wrathful Frogmen and Dangerous monsters and plants. The Swamp itself is covered with boardwalks to keep travelers out of the steaming hot water.
 
 # NPCs
-- [ ] ***[[Prince Troubadour]]*** - Traveling with 4 other [[Tripkee]] Warriors. 
+- [ ] ***[[Prince Troubadour]]*** - (Tripkee Champion) Traveling with 4 other [[Tripkee]] Warriors. 
 	- [ ] Tribe: [[Namar'Zul]]
 	- [ ] Location: [[Oloru]]
 ### Hag Coven

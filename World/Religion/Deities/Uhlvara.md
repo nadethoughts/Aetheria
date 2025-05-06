@@ -4,11 +4,16 @@
 #### **Title**: The Seeker in the Wilds
 #### **Rank**: [[The Rank of Guiding Luminecence]]
 #### **Domains**: The Hunt, Discovery, Tracking, Lost Knowledge
-#### **Aspect**: An ever-burning flame that pierces shadow and illusion. Embodying Raythelion’s boundless will to illuminate the unknown, Uhlvara’s presence is a testament to the eternal pursuit of truth, even when understanding remains just out of reach.
-#### **Symbol**: A single open eye within a compass rose, surrounded by arrows  
-#### **Depiction**: Uhlvara is often depicted as a tall, lean figure cloaked in the shifting hues of dawn and dusk, eyes glowing with a soft amber light that pierces through darkness and deception. Accompanied by a spectral hound and a hawk made of starlight.
-#### **Followers' Epithet**:  Seekers of the Unseen Path
-#### **Divine Philosophy**:  "To seek is to serve; truth lies not in understanding, but in the pursuit. In every shadow, a clue; in every echo, a guide. Follow the trail, for the journey itself reveals purpose."
+#### **Aspect**: 
+An ever-burning flame that pierces shadow and illusion. Embodying Raythelion’s boundless will to illuminate the unknown, Uhlvara’s presence is a testament to the eternal pursuit of truth, even when understanding remains just out of reach.
+#### **Symbol**: 
+A single open eye within a compass rose, surrounded by arrows  
+#### **Depiction**: 
+Uhlvara is often depicted as a tall, lean figure cloaked in the shifting hues of dawn and dusk, eyes glowing with a soft amber light that pierces through darkness and deception. Accompanied by a spectral hound and a hawk made of starlight.
+#### **Followers' Epithet**:  
+Seekers of the Unseen Path
+#### **Divine Philosophy**:  
+"To seek is to serve; truth lies not in understanding, but in the pursuit. In every shadow, a clue; in every echo, a guide. Follow the trail, for the journey itself reveals purpose."
 
 ## Origins and Role
 Uhlvara, the Seeker in the Wilds, emerged from the first dawn that pierced [[Aetheria]]’s endless twilight. A solitary figure with sharp, watchful eyes and an unwavering resolve, he was crafted by the cosmic forces to seek out that which is lost and uncover that which is hidden. Unlike his divine kin who revel in knowledge and dominion, Uhlvara’s purpose is singular: to find. His is not the path of understanding, but of revelation—delivering truth into the hands of mortals and immortals alike, whether they are ready for it or not.
@@ -73,3 +78,35 @@ In your name, we walk the unseen path,
 Forever guided by your luminous truth. 
 
 Amen.
+
+
+### **Ritual of the Luminous Hunt**
+
+**Purpose**: To seek guidance and clarity in finding lost objects, people, or knowledge.
+
+**Description**: This nocturnal ritual is performed under the light of the moon. Followers gather in a secluded, natural setting, such as a forest clearing or a sacred pond. They light lanterns or set bioluminescent fungi adrift on water, symbolizing the search for elusive truths.
+
+**Steps**:
+
+1. **Preparation**: Participants cleanse themselves with water from a natural source, symbolizing purification and readiness for the hunt.
+2. **Invocation**: The leader of the ritual invokes Uhlvara’s name, calling upon his guidance and illuminating presence.
+3. **Offering**: Each participant offers a token related to their quest—feathers, bones, or reflective crystals—placing them at the center of the gathering.
+4. **Chanting**: The group chants a prayer to Uhlvara, asking for his light to reveal hidden paths and answers.
+5. **Meditation**: Participants enter a guided meditation, focusing on their quest and visualizing Uhlvara’s light leading them to their goal.
+6. **Conclusion**: The ritual ends with a silent moment of reflection, and participants take a piece of the bioluminescent fungi or a lit lantern with them as a symbol of Uhlvara’s ongoing guidance.
+
+### **Ritual of the Starbound Path**
+
+**Purpose**: To seek Uhlvara’s blessing for a journey or quest, ensuring safe passage and successful discovery.
+
+**Description**: This ritual is performed at dusk, just as the first stars appear in the sky. Followers gather at a crossroads or a significant starting point for their journey.
+
+**Steps**:
+
+1. **Preparation**: Participants draw a compass rose on the ground using chalk or stones, symbolizing direction and guidance.
+2. **Invocation**: The leader of the ritual invokes Uhlvara’s name, calling upon his blessing for the journey ahead.
+3. **Offering**: Each participant places an arrow or a small token at the center of the compass rose, representing their commitment to the quest.
+4. **Prayer**: The group recites a prayer to Uhlvara, asking for his protection and insight during their journey.
+5. **Marking the Path**: Participants light small torches or candles and place them at the edges of the compass rose, symbolizing the illumination of their path.
+6. **Blessing**: The leader blesses each participant with a touch of a feather or a piece of reflective crystal, symbolizing Uhlvara’s favor.
+7. **Conclusion**: The ritual ends with a moment of silence, and participants take a piece of the compass rose with them as a reminder of Uhlvara’s guidance.
