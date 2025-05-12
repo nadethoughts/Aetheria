@@ -1,6 +1,4 @@
-# Vorath the Betrayer
-
-![[Vorath.jpg]]
+![[Vorath.webp]]
 
 ## Early Life
 
@@ -47,4 +45,3 @@
 - **Myth and Reality**: Over time, Vorath's story has taken on a mythic quality. Some see him as a tragic figure, a cautionary tale about the dangers of ambition. Others view him as a monstrous villain, a reminder of the potential for darkness within even the brightest souls.
 - **Continued Influence**: Despite his downfall, Vorath's legacy continues to shape the world. His story is a stark reminder of the fragile nature of trust and the devastating impact of betrayal.
 - **La-Pelu's Burden**: The tale of Vorath is a constant reminder to all [[La Pelu]] of the heavy burden they bear. They must guard against corruption and strive to remain true to their purpose, lest they too fall from grace.
-

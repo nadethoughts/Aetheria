@@ -1,5 +1,5 @@
 ## God of the Hunt
-![[Uhlvara Symbol.png]]
+![[Uhlvara Symbol.webp]]
 
 #### **Title**: The Seeker in the Wilds
 #### **Rank**: [[The Rank of Guiding Luminecence]]

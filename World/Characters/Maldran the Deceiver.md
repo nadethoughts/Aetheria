@@ -1,5 +1,4 @@
-# Maldran the Deceiver
-![[Maldran.jpg]]
+![[Maldran.webp]]
 
 ## Early Life
 

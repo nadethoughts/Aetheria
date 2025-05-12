@@ -1,5 +1,5 @@
 # The Prime Architect
-![[Aurion-logo-1.jpg]]
+![[Aurion-logo-1.webp]]
 
 - **Title**: The Prime Architect
 - **Rank**: [[The Luminous Authority]]

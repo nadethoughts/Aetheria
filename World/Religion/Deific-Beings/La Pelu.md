@@ -1,4 +1,4 @@
-![[La Pelu Raythelion-logo-1.jpg]]
+![[La Pelu Raythelion-logo-1.webp]]
 or in the common language ***Sun Swords***
 
 In the realm shaped by the divine [[Raythelion]] a La-Pelu is an individual marked by destiny to embody the celestial will on [[Aetheria]]. These enigmatic beings emerge only during epochs of dire crisis, serving as the reincarnated champions of lore. The method of their selection remains a mystery—whether they are born anew with the soul of a past hero or chosen for their kindred spirit. It is widely held that the spirits of former La-Pelu dwell within their successors, offering counsel and support without seizing control. Once anointed by [[Raythelion]]’s light, a La-Pelu’s fate is irrevocably sealed, their path unalterable by any deed.

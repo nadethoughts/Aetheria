@@ -1,5 +1,5 @@
 # The Guardian of Balance
-![[Justicar-logo.jpg]]
+![[Justicar-logo.webp]]
 
 - **Title**: The Scalebearer
 - **Rank**: [[The Luminous Authority]]

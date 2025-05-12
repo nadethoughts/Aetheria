@@ -1,6 +1,3 @@
-
-# Prince Troubadour
-
 ## General Information
 - **Full Name**: Bogwynne Greenleaf
 - **Race**: [[Tripkee]]
@@ -13,7 +10,7 @@
 - **Eyes**: Black
 - **Distinctive Features**: Excited and courageous
 
-![[Prince Troubadour.png]]
+![[Prince Troubadour.webp]]
 
 ## Background
 
@@ -36,6 +33,8 @@ Nurturing mother to the whole village. Highly supportive of Ribbiton.
 Loves Brother, but doesn't understand him.
 #### **Older Sister: [[Frorella Greenleaf]]** (Advisor to the Chief of The [[Namar'Zul]])
 Middle child and very diplomatic. She tries to see both sides of her brothers
+
+<section class="secret">
 # GM Knowledge
 ## Goals and Aspirations
 **Becoming a Knight**: Prince Troubadour dreams of embodying the ideals of knighthood he read about in the book that inspired him. He aspires to be a noble and honorable knight, protecting the weak and upholding justice within his tribe and beyond.
@@ -54,3 +53,4 @@ Middle child and very diplomatic. She tries to see both sides of her brothers
 **1. His Book of Knights**: Prince Troubadour treasures the book about knights that inspired his dreams. He often reads it, finding motivation and guidance in its tales of chivalry and heroism. The book is worn and well-loved, a constant companion on his journey.
 
 **2. His Piecemeal Armor**: Despite its crude construction, Prince Troubadour takes great pride in his piecemeal armor made from defeated goblins. Each piece represents a victory and a step closer to his ideal of knighthood. He meticulously maintains and polishes the armor, seeing it as a symbol of his determination and resourcefulness.
+</section>

@@ -1,5 +1,5 @@
 # The Sun God and Creator
-![[Raythelion-logo-2.jpg]]
+![[Raythelion-logo-2.webp]]
 
 - **Title**: The Creator and Sustainer
 - **Domain**: Creation, Life, The Cosmos

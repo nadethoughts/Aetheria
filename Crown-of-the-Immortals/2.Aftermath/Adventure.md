@@ -14,7 +14,7 @@ in the aftermath of the [[Goblin]] attack and the appearance of the [[Luakini o 
 1. They built a tower that goes down to the bridge of the temple to see if they can understand it's secrets. They want to see if there is something to be learned that might help them with survival.
 2. The built up battlements on the edge of town with the help of [[Cahir]] & [[Simear]]
 3. The [[Solaris Sentinels]], lead by [[Karsten]] and [[Thalor]] have gone out to skirmish with the [[Goblin]] skirmishers.
-4. The town, also, tried to maintain a certain level of normality with normal meetings of the town council including [[Angel]] & [[Alwor]]
+4. The town, also, tried to maintain a certain level of normality with normal meetings of the town council including [[Angel Emersyn]] & [[Alwor]]
 
 >**Mystery**: There appears to be no end to the [[Goblin]]s, they defeat many and it appears that they are winning, then the next day there are so many more [[Goblin]]s. They appear to be multiplying...
 

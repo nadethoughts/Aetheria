@@ -1,5 +1,5 @@
 ## The Goddess of Time
-![[Shananooah-logo-1.jpg]]
+![[Shananooah-logo-1.webp]]
 
 ### **Title**: The Time Weaver
 #### **Rank**: [[The Rank of Brilliance]]

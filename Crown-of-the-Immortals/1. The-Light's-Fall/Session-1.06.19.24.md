@@ -4,7 +4,7 @@
 
 ### **Starting Location**
 
-![[TombOfSand_Calling.jpg]]
+![[TombOfSand_Calling.webp]]
 
 ## Preamble
 
