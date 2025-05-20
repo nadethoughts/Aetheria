@@ -1,5 +1,5 @@
 # The Melodic Maestro
-![[Cadens-Logo-1.jpg]]
+![[Cadens-Logo-1.webp]]
 
 - **Title**: The Melodic Maestro
 - **Rank**: [[The Rank of Guiding Luminecence]]

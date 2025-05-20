@@ -1,5 +1,3 @@
-# Ethear
-
 ## General Information
 - **Full Name**: Ethear, the Cloud Dragon
 - **Race**: Dragon (Cloud Dragon)
@@ -12,15 +10,16 @@
 - **Eyes**: Piercing blue, like the clear sky after a storm
 - **Distinctive Features**: Her scales glisten with a cloud-like mist that constantly surrounds her. She has long, elegant horns and a majestic crest that runs down her back.
 
-![[Ethear.jpg]]
+![[Ethear.webp]]
 
-![[Ethear-elf-form.jpg]]
+![[Ethear-elf-form.webp]]
 
 ## Background
 
 ### Family
-Ethear's lineage is ancient and noble among the dragon kind. She comes from a line of powerful and wise dragons who have long been guardians of the skies. Her union with [[Tal’im]] Ran’dir an Elven adventurer, was unexpected and unique, resulting in the birth of their half-dragon, half-elf son, [[Simear]].
+Ethear's lineage is ancient and noble among the dragon kind. She comes from a line of powerful and wise dragons who have long been guardians of the skies. Her union with [[Tal’im Ran'dir]] Ran’dir an Elven adventurer, was unexpected and unique, resulting in the birth of their half-dragon, half-elf son, [[Simear]].
 
+<section class="secret">
 ### Personality Traits
 - **Positive**:
   - Wise and knowledgeable
@@ -39,11 +38,11 @@ Ethear's primary goal is to protect her family and ensure their safety. She also
 ## Relationships
 
 ### Family
-- **[[Tal’im ]]Ran’dir**: Her human mate, whom she deeply loved. His death in the Flaming Retribution was a significant loss for her.
+- **[[Tal’im Ran'dir]]Ran’dir**: Her human mate, whom she deeply loved. His death in the Flaming Retribution was a significant loss for her.
 - **[[Simear]]**: Her beloved son, whom she protects and guides from afar. She sees great potential in him and strives to help him embrace his dual heritage.
 
 ### Friends/Allies
-- **[[Elanil]] Moonshadow*: A respected elven mage and scholar who occasionally seeks Ethear's wisdom on arcane matters.
+- **[[Elanil Moonshadow]] Moonshadow*: A respected elven mage and scholar who occasionally seeks Ethear's wisdom on arcane matters.
 
 ### Rivals/Enemies
 - **[[Vorath the Betrayer]]**: A fallen La-Pelu whose actions brought great suffering. Ethear sees him as a threat to the balance she strives to maintain.
@@ -53,3 +52,4 @@ Ethear fears the loss of her remaining family and the spread of chaos and destru
 
 ## Favorite Things
 Ethear cherishes the serenity of the skies and the beauty of the natural world. She enjoys moments of solitude, gliding through the clouds, and observing the world from above. She also values the ancient texts and artifacts of her kind, often spending time in deep contemplation and study.
+</section>

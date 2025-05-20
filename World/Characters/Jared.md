@@ -1,6 +1,4 @@
-# Jared
-
-![[Jared.jpg]]
+![[Jared.webp]]
 
 ## Early Life and Calling
 
@@ -17,6 +15,7 @@
 - **Escape from Destruction**: Fleeing the imminent destruction of [[The Blessed Realm]], Jared and his followers embarked on a perilous journey northward. They settled in a remote river fork, seeking refuge from the devastation that chased them.
 - **New Beginnings**: Despite the loss of their homeland, Jared and his followers found hope in their new settlement. They viewed it as an opportunity to start anew and reaffirm their commitment to [[Raythelion]]'s teachings.
 
+<section class="secret">
 ## Impact and Legacy
 
 - **Message of Warning**: While Jared's efforts were met with mixed results, his unwavering faith and determination left a lasting impact on those who heeded his warnings. His message of repentance and return to [[Raythelion]]'s worship served as a reminder of the consequences of spiritual complacency.
@@ -26,6 +25,6 @@
 
 - **Personal Struggle**: Jared's exile and journey tested his faith and resolve, forcing him to confront his own doubts and fears. Through perseverance and introspection, he found redemption in his unwavering commitment to [[Raythelion]]'s will.
 - **Renewed Purpose**: In his new settlement, Jared continues to serve as a beacon of hope and guidance for his followers, leading by example and inspiring others to embrace their faith with renewed fervor.
-
+</section>
 # A picture of Jared in the Temple
-![[Jared-2.jpg]]
+![[Jared-2.webp]]

@@ -1,4 +1,4 @@
-![[Order-of-the-Blessed-realm.jpg]]
+![[Order-of-the-Blessed-realm.webp]]
 
 The Order of the Blessed Realm was a once-prominent organization in the Sun Kingdom, known for being the bringers of enlightenment. Originally migrating from the south, they shared advancements in agriculture, technology, and the ways of true magic with the people of Solaris.
 

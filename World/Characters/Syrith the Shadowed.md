@@ -1,5 +1,4 @@
-# Syrith the Shadowed
-![[Syrith.jpg]]
+![[Syrith.webp]]
 
 ## Early Life
 

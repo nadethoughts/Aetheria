@@ -9,11 +9,11 @@ Cahir Emersyn is 37 years old.
 - **Father**: An Orc warrior who died in the  [[Flaming Retribution]]  while saving his family.
 - **Mother**: A human woman who was the second wife of Cahir's father.
 - **Siblings**:
-  - **Brother**: [[Gald]], an Orc who has always been Cahir's rival.
-  - **Sister**: [[Angel]], a Dromaar.
+  - **Brother**: [[Gald Emersyn]], an Orc who has always been Cahir's rival.
+  - **Sister**: [[Angel Emersyn]], a Dromaar.
 
-- **Status**: Cahir's father died in the [[Flaming Retribution]]. Both his brother  [[Gald]] and sister [[Angel]] are alive.
-- **Feelings**: Cahir feels a strong sense of loyalty and protection towards his family, despite the rivalry with his brother. He deeply cares for his sister, [[Angel]], who brings out the optimistic side of him.
+- **Status**: Cahir's father died in the [[Flaming Retribution]]. Both his brother  [[Gald Emersyn]] and sister [[Angel Emersyn]] are alive.
+- **Feelings**: Cahir feels a strong sense of loyalty and protection towards his family, despite the rivalry with his brother. He deeply cares for his sister, [[Angel Emersyn]], who brings out the optimistic side of him.
 
 ## Pre-[[Flaming Retribution]] Life
 Before the [[Flaming Retribution]], Cahir was training as a warrior blacksmith under his father's guidance. He was learning the art of blacksmithing, particularly focusing on creating and repairing weapons, which combined his love for combat and craftsmanship.
@@ -29,25 +29,25 @@ Cahir currently serves as a blacksmith, specializing in crafting axes. His skill
   - Prone to anger, which can take over his mind and body.
 
 ## Worldview
-Cahir's worldview has become pessimistic due to the events of the [[Flaming Retribution]]. However, his sister [[Angel]] has a significant influence on him, often helping him see things in a more optimistic light.
+Cahir's worldview has become pessimistic due to the events of the [[Flaming Retribution]]. However, his sister [[Angel Emersyn]] has a significant influence on him, often helping him see things in a more optimistic light.
 
 ## Reason for Moving North
-Cahir decided to follow the community north because of his sister, [[Angel]]. Her optimism and belief in starting anew inspired him to join the journey for a fresh start.
+Cahir decided to follow the community north because of his sister, [[Angel Emersyn]]. Her optimism and belief in starting anew inspired him to join the journey for a fresh start.
 
 ## Specific Goal
 Cahir aims to protect and serve his community, using his skills as a blacksmith and warrior to ensure their safety and well-being.
 
 ## Friends/Allies/Enemies/Rivals
 - **Friend/Ally**: 
-  - **Name**: [[Angel]]
+  - **Name**: [[Angel Emersyn]]
   - **Nature**: Sister
   - **Description**: Kind and loving, she works as a teacher to children in the community.
   - **Role in Community**: Teacher
 
 - **Rival/Enemy**: 
-  - **Name**: [[Gald]]
+  - **Name**: [[Gald Emersyn]]
   - **Nature**: Brother (Orc)
-  - **Description**: [[Gald]]survived the [[Flaming Retribution]] but harbors bitterness towards the community, as many of his Orc friends died. He is often provocative and works as a woodsman, mostly on his own.
+  - **Description**: [[Gald Emersyn]]survived the [[Flaming Retribution]] but harbors bitterness towards the community, as many of his Orc friends died. He is often provocative and works as a woodsman, mostly on his own.
   - **Role in Community**: Woodsman
 
 - **Friend/Ally**: 
@@ -57,7 +57,7 @@ Cahir aims to protect and serve his community, using his skills as a blacksmith 
   - **Role in Community**: Organizer and leader of supply efforts
 
 ## Fear or Phobia
-Cahir has a deep fear of losing his sister, [[Angel]]. Her safety is his utmost priority.
+Cahir has a deep fear of losing his sister, [[Angel Emersyn]]. Her safety is his utmost priority.
 
 ## Favorite Things
 Cahir loves axe throwing, crafting axes, and studying how fire affects metal. These interests not only serve as hobbies but also enhance his skills as a blacksmith.
@@ -88,9 +88,9 @@ Pathfinder game campaign Questions
 #### a.	Name
 #### b.	Nature
 #### c.	Part of the community
->i.	[[Angel]] - sister, kind and loving, she works as a teacher to children
+>i.	[[Angel Emersyn]] - sister, kind and loving, she works as a teacher to children
 
->ii.	[[Gald]] - brother (Orc), he survived but truly hates most of the community as most of his Orc friends died, he is bitter and provacing, he works as a woodsman mostly on his own
+>ii.	[[Gald Emersyn]] - brother (Orc), he survived but truly hates most of the community as most of his Orc friends died, he is bitter and provacing, he works as a woodsman mostly on his own
 
 >iii.	[[Balanka]] - female friend Dromaar who has always wanted to marry Cahir, she is firm and kind, she is an organizer and leads the community’s supply efforts
 ### 11.	Does your character have a fear of a phobia

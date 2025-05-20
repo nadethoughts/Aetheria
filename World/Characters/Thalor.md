@@ -1,5 +1,3 @@
-# Thalor
-
 ## General Information
 - **Full Name**: Thalor
 - **Race**: Human
@@ -14,7 +12,7 @@
 - **Eyes**: Steel gray, intense and focused
 - **Distinctive Features**: Thalor has a scar running across his left cheek from a past battle. He wears durable, practical armor adorned with the symbols of [[Raythelion]] and the [[Solaris Sentinels]].
 
-![[Thalor.jpg]]
+![[Thalor.webp]]
 
 ## Background
 
@@ -49,6 +47,7 @@ Thalor and [[Karsten]]'s rivalry is well-known among the [[Solaris Sentinels]]. 
 ### Enemies
 - **Forces of Darkness**: Thalor is a fierce opponent of the dark forces threatening the land, dedicating his life to their eradication.
 
+<section class="secret">
 # GM Notes
 
 ## Worldview
@@ -59,3 +58,4 @@ Thalor fears failing his duty to protect [[The Blessed Realm]] and the community
 
 ## Favorite Things
 Thalor enjoys sparring and training, constantly seeking to improve his skills. He has a passion for strategy games, which help him refine his tactical thinking. In his downtime, Thalor finds peace in the forests, reconnecting with his rural heritage.
+</section>

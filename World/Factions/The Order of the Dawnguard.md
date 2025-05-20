@@ -1,6 +1,6 @@
 # Order of the Dawnguard
 
-![[order-of-the-dawnguard.jpg]]
+![[order-of-the-dawnguard.webp]]
 
 The Order of the Dawnguard is a revered organization dedicated to protecting the innocent and upholding the principles of justice and righteousness. 
 

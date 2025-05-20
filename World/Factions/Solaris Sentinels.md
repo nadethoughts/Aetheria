@@ -1,4 +1,4 @@
-![[solaris-sentinels.jpg]]
+![[solaris-sentinels.webp]]
 
 The Solaris Sentinels were a secret sect within [[The Order of The Blessed Realm]], operating as highly trained and devoted champions for the protection of the order and the community against evil forces. 
 

@@ -1,6 +1,6 @@
 # The Flaming Retribution
 
-![[flaming-retrobution.jpg]]
+![[flaming-retrobution.webp]]
 
 - **Event Name**: The Flaming Retribution
 - **Date**: Approximately one year before the current timeline

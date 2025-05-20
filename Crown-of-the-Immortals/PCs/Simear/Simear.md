@@ -7,15 +7,15 @@ Simear is approximately 75 years old, which is equivalent to early thirties for 
 
 ## Family
 - **Mother**: [[Ethear]], a cloud dragon.
-- **Father**: [[Tal’im]], an adventurer.
+- **Father**: [[Tal’im Ran'dir]], an adventurer.
 
-Simear’s mother, [[Ethear]], was a cloud dragon. His father, [[Tal’im]], was part of an adventuring party that stumbled upon [[Ethear]]’s lair in the mountains. Initially, [[Ethear]] captured and held the adventurers, assuming they were of ill intent. Over time, [[Tal’im]]developed Stockholm syndrome and eventually won [[Ethear]]’s affection, leading to the release of the remaining adventurers. [[Tal’im]]chose to stay with [[Ethear]], resulting in Simear’s birth.
+Simear’s mother, [[Ethear]], was a cloud dragon. His father, [[Tal’im Ran'dir]], was part of an adventuring party that stumbled upon [[Ethear]]’s lair in the mountains. Initially, [[Ethear]] captured and held the adventurers, assuming they were of ill intent. Over time, [[Tal’im Ran'dir]]developed Stockholm syndrome and eventually won [[Ethear]]’s affection, leading to the release of the remaining adventurers. [[Tal’im Ran'dir]]chose to stay with [[Ethear]], resulting in Simear’s birth.
 
 - **Status**: Both parents are alive, to Simear’s knowledge.
 - **Feelings**: Simear highly regards both of his parents. However, he found it difficult to meaningfully connect with either the elven or the draconic societies he grew up with. He respects both cultures and can interact well with each, but feels disconnected from them. This, along with his father’s habits, has led him to frequently travel as an adventurer.
 
 ## Pre-[Flaming Retribution] Life
-Simear demonstrated an aptitude for building things at an early age. His father, [Tal’im](Tal’im.md), sought out craftsmen to employ Simear when they lived with the elves. However, this was never for more than a couple of months at a time, as the family frequently went on adventures and visited dragons. In his mid-twenties, Simear met a group of merchants and, with his parents’ blessing, left to work as both a traveling smithy and a member of the caravan guard.
+Simear demonstrated an aptitude for building things at an early age. His father, [Tal’im Ran'dir](Tal’im%20Ran'dir.md), sought out craftsmen to employ Simear when they lived with the elves. However, this was never for more than a couple of months at a time, as the family frequently went on adventures and visited dragons. In his mid-twenties, Simear met a group of merchants and, with his parents’ blessing, left to work as both a traveling smithy and a member of the caravan guard.
 
 ## Role in the Community
 Simear spends much of his time repairing items and honing his creative crafting abilities.
@@ -42,7 +42,7 @@ Simear seeks to master his crafting abilities and find a community where he trul
   - **Interaction**: They met during a heated discussion among members of [[Karsten]]’s order. [[Karsten]]’s warnings of imminent cataclysmic destruction resonated with Simear’s distrust of organized religion, leading to their alliance.
   - **Status**: Busy with their respective organizations, [[Karsten]] might not remember Simear well.
 - **Rivals**:
-  - **Names**: [[Elanil]] and [[Faelar]]
+  - **Names**: [[Elanil Moonshadow]] and [[Faelar Moonshadow]]
   - **Nature**: Rivals from the elven community.
   - **Interaction**: They harassed and disrespected Simear due to his half-blood status. Physical confrontations diminished after Simear’s draconic abilities began manifesting, leading to fear and respect.
   - **Status**: Likely remained in their elven community, possibly affected by the [[Flaming Retribution]].
@@ -68,7 +68,7 @@ This is the Background for Simear a half elf Sorcerer.
 How does your character feel about their family? Simear highly regards both of his parents. Simear found it difficult to meaningfully connect with either the elven or the draconic societies he grew up with. He respects both and can interact well with each culture. Regardless, he is disconnected in various ways from each. This, along with the habits of his father, has caused him to frequently travel as an adventurer.
 
 ### What did your character do before The [[Flaming Retribution]]? 
->Simear demonstrated an aptitude for building things at an early age. When he lived with the elves, [[Tal’im]]sought out craftsmen to employ Simear. This was never for more than a couple months at a time as the family would go on adventures and visit the dragons. When Simear was in his mid-twenties he met a group of merchants and with the blessing of his mother and father left in their employ as both a traveling smithy as well as a member of the guard for the caravan.
+>Simear demonstrated an aptitude for building things at an early age. When he lived with the elves, [[Tal’im Ran'dir]]sought out craftsmen to employ Simear. This was never for more than a couple months at a time as the family would go on adventures and visit the dragons. When Simear was in his mid-twenties he met a group of merchants and with the blessing of his mother and father left in their employ as both a traveling smithy as well as a member of the guard for the caravan.
 
 ### What does your character currently do for the community?
 >He has spent much time repairing stuff and honing his creative crafting abilities.

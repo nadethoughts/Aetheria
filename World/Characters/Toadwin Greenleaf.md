@@ -1,4 +1,4 @@
-![[Toadwin Greenleaf.jpeg]]
+![[Toadwin Greenleaf.webp]]
 -  **Title**: Heir to the Chiefdom
 - **Description**: Toadwin is the eldest sibling and the designated heir to the chiefdom. He is a skilled warrior and hunter, embodying the traditional values of the Tripkee tribe. **==Toadwin is protective of his younger brother, Prince Troubadour, though he sometimes struggles to understand his fascination with knights and grandeur.==** Despite their differences, Toadwin respects Prince Troubadour's determination and unique perspective.
 - **Personality**: Brave, protective, and traditional.
