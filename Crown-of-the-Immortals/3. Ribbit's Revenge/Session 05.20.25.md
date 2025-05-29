@@ -47,6 +47,27 @@ Lightning split across the sky beyond the cracked ceiling of the hall. Karsten�
 
 **Flashback: Simear – The Mirror of Ashes**
 
+Before the temple’s mirrored pool, Simear held a small obsidian mirror, Framed in decorated Orichalcum filigree its surface already dimming. He whispered to it, not in words, but in truths: _who they were, what they had lost, and what must be forgotten._ The mirror shimmered and then darkened as if swallowing the memories whole. He placed it beneath the water. “Let none see until the world can understand.”### Flashbacks IP
+**Flashback: Alwor – The Beacon’s Blade**
+
+The air was thick with salt and metal as Alwor, clad in robes etched with shimmering script, stood at the base of the temple’s central pillar. His voice hummed with the final notes of the Llano, a harmony so perfect it made the air vibrate. As he drove his blade into the stone dais—an obsidian weapon wrapped in orichalcum wire and humming with stored resonance—he murmured, _“Let the truth wait for the world to be ready.”_ The blade vanished into the stone, sealing with it the memory of his judgment and sacrifice.
+
+---
+
+**Flashback: Cahir – The Heart of the Flame**
+
+In a chamber filled with carved solar motifs, Cahir removed the orichalcum circlet from his brow—once a symbol of his rulership—and set it upon a pedestal of molten brass. “We were kings once,” he whispered to no one, “but kings must burn away before light can rise again.” As the circlet sank into the metal, the flame within dimmed. He stood for a long time, not as a king, but as a sentinel, and turned his back on the past.
+
+---
+
+**Flashback: Karsten – The Bound Gauntlet**
+
+Lightning split across the sky beyond the cracked ceiling of the hall. Karsten’s gauntlet, etched with runes that once bent the desert wind to his will, lay across the lap of a statue shaped in his image. “I broke armies with this,” he said, “but we break nothing today.” He pressed his hand to the statue’s chest, whispering a single line of the Llano that bound the artifact in stasis. The wind fell still, unnaturally still.
+
+---
+
+**Flashback: Simear – The Mirror of Ashes**
+
 Before the temple’s mirrored pool, Simear held a small obsidian mirror, Framed in decorated Orichalcum filigree its surface already dimming. He whispered to it, not in words, but in truths: _who they were, what they had lost, and what must be forgotten._ The mirror shimmered and then darkened as if swallowing the memories whole. He placed it beneath the water. “Let none see until the world can understand.”
 
 # Encounters

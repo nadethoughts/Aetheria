@@ -104,19 +104,14 @@ The final chamber glows like the inside of a music box. Crystalline gears turn i
 **Choices:**
 
 - **Claim the Fragment**: Triggers pursuit—an echo of the Flaming Retribution or ancient defenders.
-    
 - **Leave the Fragment, Awaken It**: Begin a spiritual bond, unlocking future visions and guidance.
-    
 - **Use Relics to Forge a New Pact**: Sacrifice one or more items to Cadens to gain divine favor or blessings (boon decided by GM).
-    
 
 **Optional Danger:**  
 If the seal is broken without passing Selavin’s test, the vault:
 
 - Collapses in unstable time-magic.
-    
 - Forces a combat with time-clones or a burning vision of the Flaming Retribution.
-    
 
 ---
 
