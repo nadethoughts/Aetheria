@@ -1,0 +1,210 @@
+[
+    {
+        "name": "Beacon\u2019s Blade",
+        "type": "item",
+        "data": {
+            "description": {
+                "value": "Resonates with a harmonious hum. Grants a +1 circumstance bonus to Performance checks."
+            },
+            "level": 7,
+            "abilities": [
+                {
+                    "level": 7,
+                    "name": "Harmonic Resonance",
+                    "description": "Cast Sound Burst (3rd level) once per day."
+                },
+                {
+                    "level": 9,
+                    "name": "Maestro\u2019s Command",
+                    "description": "On a critical Performance success, use a reaction to grant an ally within 30 ft a +1 status bonus to their next attack or skill check."
+                },
+                {
+                    "level": 11,
+                    "name": "Enigmatic Echo",
+                    "description": "Cast Illusory Scene (5th level) once per day."
+                },
+                {
+                    "level": 13,
+                    "name": "Marshal\u2019s Rally",
+                    "description": "Once per day, use a reaction to grant all allies within 30 ft a +2 status bonus to their next attack or skill check."
+                },
+                {
+                    "level": 15,
+                    "name": "Resonant Strike",
+                    "description": "Once per day, deal an additional 2d6 sonic damage on a ranged attack (e.g., spell or bardic performance)."
+                },
+                {
+                    "level": 17,
+                    "name": "Echoing Harmony",
+                    "description": "Cast Synesthesia (7th level) once per day."
+                },
+                {
+                    "level": 19,
+                    "name": "Maestro\u2019s Mastery",
+                    "description": "On a critical Performance success, grant an ally a +2 status bonus instead."
+                },
+                {
+                    "level": 20,
+                    "name": "Finale of Creation",
+                    "description": "Cast Prismatic Spray (9th level) once per day."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Heart of the Flame",
+        "type": "item",
+        "data": {
+            "description": {
+                "value": "Grants resistance 5 to fire damage."
+            },
+            "level": 7,
+            "abilities": [
+                {
+                    "level": 7,
+                    "name": "Flame Wings",
+                    "description": "Gain a fly speed of 30 ft for 10 minutes once per day, leaving a trail of harmless flames."
+                },
+                {
+                    "level": 9,
+                    "name": "Blazing Fury",
+                    "description": "While raging, deal an additional 1d6 fire damage with melee attacks."
+                },
+                {
+                    "level": 11,
+                    "name": "Inferno\u2019s Embrace",
+                    "description": "Cast Fireball (5th level) once per day."
+                },
+                {
+                    "level": 13,
+                    "name": "Molten Strike",
+                    "description": "While raging, increase fire damage to +2d6."
+                },
+                {
+                    "level": 15,
+                    "name": "Flame Shield",
+                    "description": "Cast Fire Shield (7th level) once per day."
+                },
+                {
+                    "level": 17,
+                    "name": "Inferno Wings",
+                    "description": "Upgrade Flame Wings to 60 ft fly speed."
+                },
+                {
+                    "level": 19,
+                    "name": "Blazing Mastery",
+                    "description": "While raging, increase fire damage to +3d6."
+                },
+                {
+                    "level": 20,
+                    "name": "Volcanic Wrath",
+                    "description": "Once per day, erupt in a 30-ft aura of molten flame. All creatures in the area take 10d6 fire damage (basic Reflex save, DC = class DC)."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Infernal Breeze Gauntlets",
+        "type": "item",
+        "data": {
+            "description": {
+                "value": "Deal +1d4 fire damage on melee hits."
+            },
+            "level": 7,
+            "abilities": [
+                {
+                    "level": 7,
+                    "name": "Elemental Strike",
+                    "description": "Channel your elemental blast through your weapon to deal +2d6 fire damage once per day."
+                },
+                {
+                    "level": 9,
+                    "name": "Flame Burst",
+                    "description": "When using Retributive Strike, deal +1d6 fire damage to the attacker."
+                },
+                {
+                    "level": 11,
+                    "name": "Shield of Cinders",
+                    "description": "While wielding a shield, gain resistance 3 to fire and force damage."
+                },
+                {
+                    "level": 13,
+                    "name": "Elemental Infusion",
+                    "description": "Infuse your sword with fire for 1 minute, dealing +2d6 fire damage on hits."
+                },
+                {
+                    "level": 15,
+                    "name": "Justice Ignited",
+                    "description": "When you use Liberating Step or Retributive Strike, you can also push the attacker 5 feet (if they fail a Fortitude save)."
+                },
+                {
+                    "level": 17,
+                    "name": "Inferno Strike",
+                    "description": "Retributive Strike now deals +2d6 fire damage and ignites the attacker (1d6 persistent fire)."
+                },
+                {
+                    "level": 19,
+                    "name": "Elemental Mastery",
+                    "description": "Channel your elemental blast through your weapon for +4d6 fire damage once per day."
+                },
+                {
+                    "level": 20,
+                    "name": "Blazing Judgment",
+                    "description": "Once per day, unleash a cone of divine fire (60 ft cone, 12d6 fire + 6d6 good damage, basic Reflex save)."
+                }
+            ]
+        }
+    },
+    {
+        "name": "Mirror of Ashes",
+        "type": "item",
+        "data": {
+            "description": {
+                "value": "Cast Mirror Image once per day."
+            },
+            "level": 7,
+            "abilities": [
+                {
+                    "level": 7,
+                    "name": "Reflective Insight",
+                    "description": "Cast Clairvoyance (3rd level) once per day."
+                },
+                {
+                    "level": 9,
+                    "name": "Draconic Power",
+                    "description": "When casting a damaging spell, change its type to fire and add +1d6 fire damage."
+                },
+                {
+                    "level": 11,
+                    "name": "Ashen Rebirth",
+                    "description": "Cast Breath of Life (5th level) once per day."
+                },
+                {
+                    "level": 13,
+                    "name": "Memory of Flame",
+                    "description": "Once per day, regain a spent spell slot of 4th level or lower."
+                },
+                {
+                    "level": 15,
+                    "name": "Draconic Mastery",
+                    "description": "Increase fire bonus damage to +2d6."
+                },
+                {
+                    "level": 17,
+                    "name": "Ashen Resurrection",
+                    "description": "Cast Resurrection (7th level) once per day."
+                },
+                {
+                    "level": 19,
+                    "name": "Wellspring Surge",
+                    "description": "Once per day, cast any one spell you know spontaneously without expending a slot."
+                },
+                {
+                    "level": 20,
+                    "name": "Phoenix Echo",
+                    "description": "When reduced to 0 HP, you may instead remain at 1 HP and become cloaked in flame for 1 round (enemies that strike you take 4d6 fire damage)."
+                }
+            ]
+        }
+    }
+]
