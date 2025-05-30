@@ -1,5 +1,5 @@
 ### 🗡️ **Beacon’s Blade**
-![[Beacon’s Blade.jpeg]]
+![[Beacon’s Blade.webp]]
 _Wielded by Alwor – Bard (Maestro/Enigma), Marshal Dedication_  
 **Theme:** Sonic resonance, leadership, and battlefield coordination.
 
@@ -20,7 +20,7 @@ _Wielded by Alwor – Bard (Maestro/Enigma), Marshal Dedication_
 ---
 
 ### 🔥 **Heart of the Flame**
-![[Heart of the Flame.jpeg]]
+![[Heart of the Flame.webp]]
 _Wielded by Cahir – Giant Instinct Barbarian, Fighter Dedication_  
 **Theme:** Fire, flight, and battlefield presence.
 
@@ -41,7 +41,7 @@ _Wielded by Cahir – Giant Instinct Barbarian, Fighter Dedication_
 ---
 
 ### 🌬️🔥 **Infernal Breeze Gauntlets**
-![[Infernal Breeze Gauntlets.jpeg]]
+![[Infernal Breeze Gauntlets.webp]]
 _Wielded by Karsten – Champion of Justice, Fire Gate Kineticist_  
 **Theme:** Wind and fire, justice and fury.
 
