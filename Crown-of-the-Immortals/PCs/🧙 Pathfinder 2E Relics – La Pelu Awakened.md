@@ -62,7 +62,7 @@ _Wielded by Karsten – Champion of Justice, Fire Gate Kineticist_
 ---
 
 ### 🪞 **Mirror of Ashes**
-
+![[Mirror of Ashes.jpeg]]
 _Wielded by Simear – Draconic Bloodline Sorcerer, Wellspring Mage_  
 **Theme:** Divination, memory, and fire-touched foresight.
 

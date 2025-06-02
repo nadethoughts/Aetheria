@@ -3,7 +3,7 @@
 ![[flaming-retrobution.webp]]
 
 - **Event Name**: The Flaming Retribution
-- **Date**: Approximately one year before the current timeline
+- **Date**: Approximately one year before the current timeline (End of the third age)
 - **Location**: Continent of [[Solaris]], primarily affecting [[The Blessed Realm]]
 - **Type**: Cataclysmic Event
 - **Description**: The Flaming Retribution was a devastating event that brought meteors, flaming debris, and boiling geysers upon [[The Blessed Realm]] and other parts of [[Solaris]], leading to widespread destruction and the collapse of the once-great kingdom.

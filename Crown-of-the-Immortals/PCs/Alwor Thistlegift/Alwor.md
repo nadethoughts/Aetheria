@@ -1,4 +1,4 @@
-# Alwor Thistlegift
+# Alwor Thistlegift(Bard with both the Maestro and Enigma Dedications and the Marshall dedication)
 
 ![[alwor_thistlegift.Avatar.webp]]]
 

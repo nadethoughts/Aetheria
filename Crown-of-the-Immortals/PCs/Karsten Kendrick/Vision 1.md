@@ -1,7 +1,7 @@
-## When:
+### When:
 Between the appearance of [[Luakini o ka Manawa]] Temple and the [[Goblin]]'s second major attack on the temple.
 
-## What
+### What
 
 >As you rest, the heat of the day pressing down on you, a memory suddenly floods your mind. You stand atop a stone platform, overlooking a vast battlefield beneath the scorching desert sun. Your armor gleams with golden sigils, and a bastard sword rests firmly in your hand. Below, rows of soldiers await your command—fierce, disciplined, loyal. The scene feels familiar, like a battle you have fought many times before. The strategy, the shifting sands, the enemy's movements—all unfold with clarity, like pieces on a board.
 >

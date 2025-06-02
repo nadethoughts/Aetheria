@@ -22,7 +22,7 @@ The party is continuing their investigation into the mysteries of the [[Time Cav
 # Scenes
 ## [[Sunken Temple]]
 ### Scenario
-The [[Sunken Temple]] is an old temple of [[Cadens]] as well as a resting place for some artifacts. The group where once friends in a previous life as [[La Pelu]] and they made a pact of protection for the [[Llano]]. They called themselves [[The Veilcant Guard]] and one of the places that they hid bars of the Song of Creation was the [[Sunken Temple]].
+The [[Sunken Temple]] is an old temple of [[Cadens]] as well as a resting place for some artifacts. The group where once friends in a previous life as [[La Pelu]] and they made a pact of protection for the [[Llano]]. They called themselves [[World/Factions/The Veilcant Guard]] and one of the places that they hid bars of the Song of Creation was the [[Sunken Temple]].
 
 This temple was buried and hidden for such a time as the Song was needed once more.
 

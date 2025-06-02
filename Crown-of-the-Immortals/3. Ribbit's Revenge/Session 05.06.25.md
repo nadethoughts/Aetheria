@@ -32,7 +32,7 @@ Bogwynne ([[Prince Troubadour]]) has been missing for the better part of a month
 	- [ ] If he investigates, he sees a temple that appears to be completely untouched in sunken in the water. It is surrounded and patrolled by a quite a few brine sharks
 ## [[Sunken Temple]]
 ### Scenario
-The [[Sunken Temple]] is an old temple of [[Cadens]] as well as a resting place for some artifacts. The group where once friends in a previous life as [[La Pelu]] and they made a pact of protection for the [[Llano]]. They called themselves [[The Veilcant Guard]] and one of the places that they hid bars of the Song of Creation was the [[Sunken Temple]].
+The [[Sunken Temple]] is an old temple of [[Cadens]] as well as a resting place for some artifacts. The group where once friends in a previous life as [[La Pelu]] and they made a pact of protection for the [[Llano]]. They called themselves [[World/Factions/The Veilcant Guard]] and one of the places that they hid bars of the Song of Creation was the [[Sunken Temple]].
 
 This temple was buried and hidden for such a time as the Song was needed once more.
 
