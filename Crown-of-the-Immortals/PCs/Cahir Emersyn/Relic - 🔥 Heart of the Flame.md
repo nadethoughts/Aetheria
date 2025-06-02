@@ -56,48 +56,72 @@ When Cahir places the circlet upon his brow, he feels a warmth that is not heat,
 
 ### ⚙️ Base Ability: Emberheart Resolve
 
-- **Level 1:** Gain resistance 2 to fire. While raging, gain +1 status bonus to saves vs. fear.
-- **Level 9:** Resistance increases to 5. While raging, gain +1 vs. emotion effects and ignore concealment from smoke/flame.
-- **Level 17:** Resistance increases to 10. While raging, gain temporary HP equal to Constitution modifier each turn and immunity to persistent fire.
+**Level 1:**
+
+- Gain resistance 2 to fire.
+- While raging, gain a +1 status bonus to saves vs. fear.
+- Gain a +1 circumstance bonus to Intimidation checks.
+- Gain a +1 status bonus to damage rolls with melee Strikes against enemies affected by a fear condition.
+
+**Level 9:**
+
+- Resistance increases to 5.
+- While raging, gain a +1 status bonus to saves vs. emotion effects and ignore concealment from smoke/flame.
+- Intimidation bonus increases to +2.
+- Damage bonus increases to +2 against frightened enemies.
+- Once per round, when you reduce an enemy to 0 HP, you may grant an adjacent ally temporary HP equal to your Constitution modifier.
+
+**Level 17:**
+
+- Resistance increases to 10.
+- While raging, gain temporary HP equal to Constitution modifier each turn and immunity to persistent fire.
+- Intimidation bonus increases to +3.
+- Damage bonus increases to +3 against frightened enemies.
+- Allies within 10 feet gain a +1 status bonus to saves vs. fear and emotion effects while you are raging.
 
 ---
 
-### 🌟 Evolving Powers
+### 🌟 Evolving Powers – Heart of the Flame
 
-Each power unlocks only if the wielder has the **Celestial trait** and has reached the required level.
+_Each power unlocks only if the wielder has the Celestial trait and has reached the required level._
 
 #### 🪶 Level 5 – Flame Wings
 
-Gain a 30 ft fly speed for 10 minutes once per day.
+You sprout wings of fire for 10 minutes, gaining a 30 ft fly speed. While flying, you shed bright light in a 20-foot radius and dim light for 20 feet beyond.
 
 #### 💥 Level 7 – Scorching Leap
 
-Leap as a single action. Land in a 10-ft burst: 2d6 fire damage (basic Reflex save).
+You may Leap as a single action. When you land, create a 10-ft burst of flame: all creatures in the area take 2d6 fire damage (basic Reflex save). If you land adjacent to an enemy, you gain a +1 status bonus to your next melee attack against them before the end of your next turn.
 
 #### 🫡 Level 9 – Burning Roar
 
-15-ft cone: 6d6 fire damage (basic Reflex) + Will save or frightened 1.
+Unleash a 15-ft cone of flame and fury. Enemies take 6d6 fire damage (basic Reflex save) and must succeed at a Will save or become frightened 1. Allies in the cone gain temporary HP equal to your Constitution modifier.
 
 #### 🗣️ Level 11 – Crown of Cinders
 
-Enemies that critically fail against your Rage actions take 1d6 persistent fire damage.
+Enemies that critically fail against your Rage actions or Intimidation checks take 1d6 persistent fire damage. While raging, you gain a +1 status bonus to melee damage against burning enemies.
 
 #### 🛡️ Level 13 – Solar Brand
 
-Mark a target. They glow and take –2 to Stealth and Reflex saves.
+As a free action once per round, mark a creature you damage with a melee Strike. They glow with radiant fire, taking –2 to Stealth and Reflex saves for 1 minute. If they are already frightened, they also become flat-footed.
 
 #### 🎶 Level 15 – Flame of Truth
 
-See through magical darkness and illusions. Cast True Seeing (7th level).
+You may cast True Seeing (7th level) once per day. While active, you glow with a soft solar radiance. You automatically detect illusions and magical concealment within 30 feet.
 
 #### 🎼 Level 17 – Inferno Wings
 
-Fly Speed 60 ft. Leave a 10-ft burning line: 2d6 fire damage (basic Reflex).
+Your Flame Wings evolve. Gain a 60 ft fly speed. While flying, you leave a 10-ft burning trail behind you. Enemies that enter or start their turn in the trail take 2d6 fire damage (basic Reflex save).
 
 #### ⚔️ Level 19 – Flame Sovereign
 
-Gain fire immunity. Rage aura deals 1d6 fire damage to nearby enemies.
+You gain fire immunity. While raging, enemies within 10 feet take 1d6 fire damage at the start of your turn. Allies within 10 feet gain resistance 5 to fire and a +1 status bonus to saves vs. fear.
 
 #### 🌈 Level 20 – Radiant Ascension
 
-30-ft aura: 10d6 fire damage to enemies, fast healing 5 to allies, fly 60 ft, glow with daylight.
+Once per day, you may activate your full divine flame for 1 minute:
+
+- Emit a 30-ft aura of daylight.
+- Enemies in the aura take 10d6 fire damage (basic Reflex save) when they enter or start their turn in it.
+- Allies in the aura gain fast healing 5 and a +2 status bonus to saves vs. fear and emotion.
+- You gain a 60 ft fly speed and may Stride or Leap as a free action once per round.

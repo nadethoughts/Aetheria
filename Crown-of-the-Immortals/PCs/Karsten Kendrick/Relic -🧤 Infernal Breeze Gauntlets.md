@@ -54,9 +54,25 @@ When Karsten dons the gauntlets, the air stills, then surges. He feels the weigh
 
 ### ⚙️ Base Ability: Galebrand Grasp
 
-- **Level 1:** Melee Strikes deal +1d4 slashing (wind). Gain resistance 2 to sonic, +5 ft Speed. Elemental Blast gains propulsive and +1 damage.
-- **Level 9:** Wind damage increases to +1d6, resistance to 5, and Elemental Blast gains +1 to hit within 30 ft.
-- **Level 17:** Wind damage increases to +1d8, resistance to 10, and Elemental Blast gains +2 damage and +10 ft range. On crit melee hit: push 10 ft + clumsy 1 (Fort save negates).
+**Level 1:**
+
+- Melee Strikes deal **+1d4 slashing damage (wind)**.
+- Gain **resistance 2 to sonic damage**.
+- Gain **+5 ft status bonus to Speed**.
+- Your **Elemental Blast** gains the **propulsive trait** and **+1 damage**.
+
+**Level 9:**
+
+- Wind damage increases to **+1d6**.
+- Sonic resistance increases to **5**.
+- Elemental Blast gains **+1 to hit** within 30 feet.
+
+**Level 17:**
+
+- Wind damage increases to **+1d8**.
+- Sonic resistance increases to **10**.
+- Elemental Blast gains **+2 damage** and **+10 ft range**.
+- On a **critical melee hit**, the target must succeed at a Fortitude save or be **pushed 10 feet** and become **clumsy 1** for 1 round.
 
 ---
 

@@ -55,9 +55,26 @@ When Alwor first grasped the hilt, the blade hummed—not with steel, but with m
 
 ### ⚙️ Base Ability: Harmonic Edge
 
-- **Level 1:** Ranged Strikes and bardic cantrips deal +1d4 sonic damage. Gain +1 circumstance bonus to Performance. Voice carries clearly up to 60 ft.
-- **Level 9:** Sonic damage increases to +1d6. When using a composition cantrip or Marshal action, one ally gains +1 status bonus to saves vs. auditory/emotion for 1 minute.
-- **Level 17:** Sonic damage increases to +1d8. When using a composition cantrip or Rally, one ally may Step or Stride as a free action. If under Inspire Courage, they also gain temporary HP equal to Charisma modifier.
+**Level 1:**
+
+- **+1d4 sonic damage** to all **ranged Strikes** and **bardic cantrips**.
+- **+1 circumstance bonus to Performance checks**.
+- Your voice **carries clearly up to 60 feet**, aiding in compositions, Marshal actions, and roleplay.
+
+**Level 9:**
+
+- Sonic damage increases to **+1d6**.
+- Performance bonus increases to **+2**.
+- When using a **composition cantrip** or **Marshal action**, choose one ally:
+    - That ally gains a **+1 status bonus to saving throws against auditory and emotion effects** for 1 minute.
+
+**Level 17:**
+
+- Sonic damage increases to **+1d8**.
+- Performance bonus increases to **+3**.
+- When using a **composition cantrip** or the **Rally** action:
+    - One ally may **Step or Stride as a free action**.
+    - If that ally is under **Inspire Courage**, they also gain **temporary HP equal to your Charisma modifier**.
 
 ---
 

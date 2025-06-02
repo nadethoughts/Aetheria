@@ -58,9 +58,25 @@ When Simear touches the mirror, it reflects not his face, but his past. He sees 
 
 ### ⚙️ Base Ability: Ashen Insight
 
-- **Level 1:** Once per day, cast Mirror Image. Gain +1 circumstance bonus to Recall Knowledge and +1 status bonus to Arcana checks to Identify Magic.
-- **Level 9:** Gain +1 status bonus to initiative and +1 to saves vs. mental effects. After casting a divination or fire spell, ask a yes/no question about the next 10 minutes (GM answers cryptically).
-- **Level 17:** Gain +2 to saves vs. mental effects. Once per day, cast a Wellspring tradition spell (5th level or lower) without expending a slot. Gain +2 to checks to identify divine or draconic magic.
+**Level 1:**
+
+- Once per day, cast _Mirror Image_.
+- Gain a **+1 circumstance bonus to Recall Knowledge** and **Arcana checks to Identify Magic**.
+- Gain a **+1 status bonus to spell attack rolls** with fire or divination spells.
+
+**Level 9:**
+
+- Gain **+1 status bonus to initiative** and **+1 to saves vs. mental effects**.
+- After casting a divination or fire spell, ask a yes/no question about the next 10 minutes (GM answers cryptically).
+- Spell attack bonus increases to **+2** for fire/divination spells.
+- Gain a **+1 status bonus to spell DCs** for fire and divination spells.
+
+**Level 17:**
+
+- Gain **+2 to saves vs. mental effects**.
+- Once per day, cast a Wellspring tradition spell (5th level or lower) without expending a slot.
+- Gain **+2 to checks to identify divine or draconic magic**.
+- Spell attack bonus increases to **+3**, and spell DC bonus increases to **+2** for fire/divination spells.
 
 ---
 
