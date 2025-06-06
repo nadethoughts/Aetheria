@@ -54,26 +54,22 @@ When Karsten dons the gauntlets, the air stills, then surges. He feels the weigh
 
 ### ⚙️ Base Ability: Galebrand Grasp
 
-**Level 1:**
-
-- Melee Strikes deal **+1d4(d6 when using Chapion's Reaction) slashing damage**.
-- Gain **resistance 2 to sonic damage**.
+## Level 1:
+- Melee Strikes deal **+1d4(d6 Champion's Reaction) electricity**
+- Gain **resistance 2 to electricity damage**.
 - Gain **+5 ft status bonus to Speed**.
-- Your **Elemental Blast** adds your strength modifier to damage
+- Your **Elemental Blast** damage adds your **Strength Modifier to Damage**.
 - **Wind Step** _(1/day)_: After using your Champion’s Reaction, you may **Step** as a free action.
 
-**Level 9:**
-
-- Wind damage increases to **+1d6(d8)**.
-- Sonic resistance increases to **5**.
+## Level 9:
+- Electricity damage increases to **+1d6(d8)**.
+- Electricity resistance increases to **5**.
 - Wind Guard (no fall damage, always land on feet)
 
-**Level 17:**
-
-- Wind damage increases to **+1d8(d10)**.
-- Sonic resistance increases to **10**.
-- Elemental Blast gains **+2 damage** and **+10 ft range**.
-- After using your Champion’s Reaction, gain +10 ft Speed until the end of your next turn
+## Level 17:
+- Electricity damage increases to **+1d8(d10)**.
+- Electricity resistance increases to **10**.
+- Ghosts in the Storm _(1/day)_
 
 ---
 

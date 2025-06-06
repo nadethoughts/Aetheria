@@ -65,8 +65,8 @@ When Alwor first grasped the hilt, the blade hummed—not with steel, but with m
 
 - Sonic damage increases to **+1d6**.
 - Performance bonus increases to **+2**.
-- When using a **composition cantrip** or **Marshal action**, choose one ally:
-    - That ally gains a **+1 status bonus to saving throws against auditory and emotion effects** for 1 minute.
+- When using a **composition cantrip** or **Marshal action**, choose one ally(1/minute):
+    - That ally gains a **+1 status bonus to saving throws against mental and emotion effects** for 1 minute.
 
 **Level 17:**
 
