@@ -56,23 +56,24 @@ When Karsten dons the gauntlets, the air stills, then surges. He feels the weigh
 
 **Level 1:**
 
-- Melee Strikes deal **+1d4 slashing damage (wind)**.
+- Melee Strikes deal **+1d4(d6 when using Chapion's Reaction) slashing damage**.
 - Gain **resistance 2 to sonic damage**.
 - Gain **+5 ft status bonus to Speed**.
-- Your **Elemental Blast** gains the **propulsive trait** and **+1 damage**.
+- Your **Elemental Blast** adds your strength modifier to damage
+- **Wind Step** _(1/day)_: After using your Champion’s Reaction, you may **Step** as a free action.
 
 **Level 9:**
 
-- Wind damage increases to **+1d6**.
+- Wind damage increases to **+1d6(d8)**.
 - Sonic resistance increases to **5**.
-- Elemental Blast gains **+1 to hit** within 30 feet.
+- Wind Guard (no fall damage, always land on feet)
 
 **Level 17:**
 
-- Wind damage increases to **+1d8**.
+- Wind damage increases to **+1d8(d10)**.
 - Sonic resistance increases to **10**.
 - Elemental Blast gains **+2 damage** and **+10 ft range**.
-- On a **critical melee hit**, the target must succeed at a Fortitude save or be **pushed 10 feet** and become **clumsy 1** for 1 round.
+- After using your Champion’s Reaction, gain +10 ft Speed until the end of your next turn
 
 ---
 
