@@ -6,7 +6,11 @@
 
 ## General Information
 - **Title**: Bard and minstrel of [[Cadens]]
-- **Race**: Gnome
+- **Class**: Bard
+- **Specialization**: Maestro and Enigma
+- **Archetype**: Marshal Dedication
+- **Race**: Gnome (Ancestry Paragon)
+- **Artifacts**: [[Relic - 🗡️ Beacon’s Blade]]
 - **World**: [[Aetheria]]
 - **Continent**: [[Solaris]]
 - **Age**: 386 (old even for a gnome)

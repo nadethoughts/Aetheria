@@ -2,8 +2,15 @@
 
 ![[simear.Avatar.webp]]
 
-## Age
-Simear is approximately 75 years old, which is equivalent to early thirties for a half-elf.
+## General Information
+- **Class**: Sorcerer (Arcane)
+- **Specialization**: Bloodline: Draconic (Cloud Dragon)
+- **Archetype**: Wellspring Mage Dedication
+- **Race**: Dragonblooded Elf(half elf/half dragon) (Ancestry Paragon)
+- **Artifacts**: [[Relic - 🪞 Mirror of Ashes]]
+- **World**: [[Aetheria]]
+- **Continent**: [[Solaris]]
+- **Age**: 75 years old
 
 ## Family
 - **Mother**: [[Ethear]], a cloud dragon.
