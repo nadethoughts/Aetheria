@@ -31,7 +31,7 @@
 
 ### 🛡️ The Rise of the Veilcant Guard
 
-> _“But four stood firm when all else fell,_  
+> _“But many stood firm when all else fell,_  
 > _Their names now lost to time’s cruel shell—_  
 > _Yet echoes linger, strong and true,_  
 > _And now I sing them back to you._

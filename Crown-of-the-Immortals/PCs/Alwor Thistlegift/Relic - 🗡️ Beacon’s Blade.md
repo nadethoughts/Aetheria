@@ -65,14 +65,14 @@ When Alwor first grasped the hilt, the blade hummed—not with steel, but with m
 
 - Sonic damage increases to **+1d6**.
 - Performance bonus increases to **+2**.
-- When using a **composition cantrip** or **Marshal action**, choose one ally(1/minute):
+- **Voice of the Vanguard:** When using a **composition cantrip** or **Marshal action**, choose one ally(1/minute):
     - That ally gains a **+1 status bonus to saving throws against mental and emotion effects** for 1 minute.
 
 **Level 17:**
 
 - Sonic damage increases to **+1d8**.
 - Performance bonus increases to **+3**.
-- When using a **composition cantrip** or the **Rally** action:
+- **Verse of Valor:** When using a **composition cantrip** or the **Rally** action:
     - One ally may **Step or Stride as a free action**.
     - If that ally is under **Inspire Courage**, they also gain **temporary HP equal to your Charisma modifier**.
 

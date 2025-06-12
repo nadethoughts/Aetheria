@@ -56,26 +56,29 @@ When Cahir places the circlet upon his brow, he feels a warmth that is not heat,
 
 ### ⚙️ Base Ability: Emberheart Resolve
 
-**Level 1:**
-
+## Level 1:
+### Relic
 - Gain resistance 2 to fire.
-- While raging, gain a +1 status bonus to saves vs. fear.
 - Gain a +1 circumstance bonus to Intimidation checks.
+### Reincarnation
+- While raging, gain a +1 status bonus to saves vs. fear.
 - Gain a +1 status bonus to damage rolls with melee Strikes against enemies affected by a fear condition.
 
-**Level 9:**
-
+## Level 9:
+### Relic
 - Resistance increases to 5.
-- While raging, gain a +1 status bonus to saves vs. emotion effects and ignore concealment from smoke/flame.
 - Intimidation bonus increases to +2.
+### Reincarnation
+- While raging, gain a +1 status bonus to saves vs. emotion effects and ignore concealment from smoke/flame.
 - Damage bonus increases to +2 against frightened enemies.
 - Once per round, when you reduce an enemy to 0 HP, you may grant an adjacent ally temporary HP equal to your Constitution modifier.
 
-**Level 17:**
-
+## Level 17:
+### Relic
 - Resistance increases to 10.
-- While raging, gain temporary HP equal to Constitution modifier each turn and immunity to persistent fire.
 - Intimidation bonus increases to +3.
+### Reincarnation
+- While raging, gain temporary HP equal to Constitution modifier each turn and immunity to persistent fire.
 - Damage bonus increases to +3 against frightened enemies.
 - Allies within 10 feet gain a +1 status bonus to saves vs. fear and emotion effects while you are raging.
 
