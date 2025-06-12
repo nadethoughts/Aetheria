@@ -4,10 +4,13 @@
 
 ## General Information
 - **Class**: Champion
-- **Order**: Order of the [[Solaris Sentinels]]
-- **God**: [[Raythelion]]
-- **Kingdom**: [[The Blessed Realm]]
+- **Specialization**: Justice
+- **Archetype**: Kinetisist Dedication
+- **Race**: Human (Ancestry Paragon)
+- **Artifacts**: [[Relic -🧤 Infernal Breeze Gauntlets]]
+- **World**: [[Aetheria]]
 - **Continent**: [[Solaris]]
+- **Age**: 25
 
 ## Background
 

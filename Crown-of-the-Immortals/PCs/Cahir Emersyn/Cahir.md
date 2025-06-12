@@ -2,8 +2,15 @@
 
 ![[Cahir.Avatar.webp]]
 
-## Age
-Cahir Emersyn is 37 years old.
+## General Information
+- **Class**: Barbarian
+- **Specialization**: Giant Instinct
+- **Archetype**: Fighter Dedication
+- **Race**: Dromar(Half Orc, Half Human) (Ancestry Paragon)
+- **Artifacts**: [[Relic - 🔥 Heart of the Flame]]
+- **World**: [[Aetheria]]
+- **Continent**: [[Solaris]]
+- **Age**: 37
 
 ## Family
 - **Father**: An Orc warrior who died in the  [[Flaming Retribution]]  while saving his family.
