@@ -76,39 +76,3 @@ When Karsten dons the gauntlets, the air stills, then surges. He feels the weigh
 ### 🌟 Evolving Powers
 
 Each power unlocks only if the wielder has the **Celestial trait** and has reached the required level.
-
-#### 🪶 Level 5 – Ember Wake
-
-Stride leaves a trail. Enemies take 1d6 fire damage (basic Reflex save).
-
-#### 💥 Level 7 – Windlash Strike
-
-10-ft line behind target: 2d6 slashing damage (basic Reflex save).
-
-#### 🫡 Level 9 – Windlash Reprisal
-
-Retributive Strike pushes attacker 10 ft + 2d6 slashing damage. On crit fail: prone.
-
-#### 🗣️ Level 11 – Shield of Cinders
-
-Gain resistance 5 to fire and force. Shield Block extinguishes flames.
-
-#### 🛡️ Level 13 – Gale Infusion
-
-For 1 minute: Strikes deal +1d6 fire + 1d6 slashing damage, and you gain +10 ft Speed.
-
-#### 🎶 Level 15 – Justice Ignited
-
-Liberating Step or Retributive Strike creates a 10-ft burst. Enemies must make a Reflex save or fall prone.
-
-#### 🎼 Level 17 – Inferno Cyclone
-
-20-ft cone: 6d6 fire + 6d6 slashing damage (basic Reflex save). Push enemies 10 ft.
-
-#### ⚔️ Level 19 – Elemental Mastery
-
-Choose fire or air. Gain +2 to damage with that element and resistance 10 to it.
-
-#### 🌈 Level 20 – Avatar of Equilibrium
-
-Once per day, become a storm avatar for 1 minute: fly 60 ft, deal 2d6 fire + 2d6 wind damage in a 10-ft aura, and allies gain +2 to all saves.

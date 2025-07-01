@@ -82,38 +82,3 @@ When Alwor first grasped the hilt, the blade hummed—not with steel, but with m
 
 Each power unlocks only if the wielder has the **Celestial trait** and has reached the required level.
 
-#### 🪶 Level 5 – Whisper of the Llano
-
-Roll twice on Performance-based social checks. If Celestial, gain Message (telepathic) for 1 hour.
-
-#### 💥 Level 7 – Harmonic Pulse
-
-Cast Sound Burst (heightened to your highest spell level).
-
-#### 🫡 Level 9 – Voice of the Vanguard
-
-When using Rally or a composition cantrip, grant one ally free movement and temporary HP equal to half your level.
-
-#### 🗣️ Level 11 – Echo of Command
-
-Cast Command (verbal-only, heightened). If the target fails, they also become flat-footed for 1 round.
-
-#### 🛡️ Level 13 – Resonant Shield
-
-Allies affected by your composition gain resistance 5 to sonic and mental damage.
-
-#### 🎶 Level 15 – Crescendo
-
-Cast Dirge of Doom or Heroism (6th level). If used during combat, allies gain +1 to attack rolls for 1 round.
-
-#### 🎼 Level 17 – Voice of the First Song
-
-Choose one: grant +2 to all saves or make an enemy flat-footed. If Celestial, apply both.
-
-#### ⚔️ Level 19 – Anthem of the Veilcant
-
-Cast Haste (7th level) on two allies. If both are under Inspire Courage, they also gain +10 ft speed for 1 minute.
-
-#### 🌈 Level 20 – Final Refrain
-
-60-ft cone of harmonic force. Enemies: Fort save or stunned 1 + deafened. Allies: Gain Inspire Courage and temporary HP equal to Charisma × 2.
