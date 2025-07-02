@@ -6,6 +6,7 @@
 		{"id":"fe3bbe569e8ae46e","type":"text","text":"# [[Simear]]'s Vision\n- As Simear is relaxing\n> You feel a warm sensation on your chest. it takes you a second to recognize that it is the mirror of Ashes that is producing it.\n- The Mirror starts as a reflection\n- Then Pulses and a flame errupts from the surface.\n- As you look into the flame you see.\n\t- The swamp.\n\t- Transistions to a red haze over the swamp\n\t- The swamp transitions to what looks to be more of a forest.\n\t- A young Tripkee wearing a feather head dress with Clothing that hase Geometric Patterns  stitched in them.\n\t- He is hiding in a Forest close to some crude buildings.\n\t\t","x":-100,"y":-60,"width":320,"height":340}
 	],
 	"edges":[
-		{"id":"debaef5fd3f4fac1","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"d9895632517691ed","toSide":"top"}
+		{"id":"debaef5fd3f4fac1","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"d9895632517691ed","toSide":"top"},
+		{"id":"d28508f96a462b30","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"fe3bbe569e8ae46e","toSide":"top"}
 	]
 }
