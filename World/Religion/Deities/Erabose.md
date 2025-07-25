@@ -1,3 +1,4 @@
+#dark-pantheon
 # The Sovereign of Shadows
 ![[Erabose-Logo.webp]]
 

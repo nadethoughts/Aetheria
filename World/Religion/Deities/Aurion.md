@@ -1,3 +1,4 @@
+#luminous-authority
 # The Prime Architect
 ![[Aurion-logo-1.webp]]
 

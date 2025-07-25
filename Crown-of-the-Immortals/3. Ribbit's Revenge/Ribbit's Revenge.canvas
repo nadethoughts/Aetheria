@@ -4,10 +4,12 @@
 		{"id":"3d7a5386b6bdf99e","type":"text","text":"# Find [[Toadwin Greenleaf]]\n## Location: [[Oloru]]\n## NPCs:\n- [[Chief Croakmar Greenleaf]]\n- [[Frorella Greenleaf]]\n- [[Prince Troubadour]]\n- \n","x":-640,"y":-480,"width":280,"height":320},
 		{"id":"d9895632517691ed","type":"text","text":"## Discussion\n- [[Toadwin Greenleaf]] is missing.\n\t- Was due to return over a week ago\n- [[Chief Croakmar Greenleaf]] is unable to send a search party due to the advanced Goblin activity\n- [[Oloru]] seem to trust the party","x":-440,"y":-60,"width":250,"height":340},
 		{"id":"fe3bbe569e8ae46e","type":"text","text":"# [[Simear]]'s Vision\n- As Simear is relaxing\n> You feel a warm sensation on your chest. it takes you a second to recognize that it is the mirror of Ashes that is producing it.\n- The Mirror starts as a reflection\n- Then Pulses and a flame errupts from the surface.\n- As you look into the flame you see.\n\t- The swamp.\n\t- Transistions to a red haze over the swamp\n\t- The swamp transitions to what looks to be more of a forest.\n\t- A young Tripkee wearing a feather head dress with Clothing that hase Geometric Patterns  stitched in them.\n\t- He is hiding in a Forest close to some crude buildings.\n\t\t","x":-100,"y":-60,"width":320,"height":340},
-		{"id":"8523a606f8c50372","x":95,"y":-410,"width":250,"height":60,"type":"text","text":"Based on the sun rise in the vision. [[Alwor]] was able to determine that the location of the Hags, Goblins and Toadwin is to the west of the swamp"}
+		{"id":"8523a606f8c50372","type":"text","text":"Based on the sun rise in the vision. [[Alwor]] was able to determine that the location of the Hags, Goblins and Toadwin is to the west of the swamp","x":-65,"y":340,"width":250,"height":170},
+		{"id":"df0839b599fad12f","type":"text","text":"# List of potential Conflicts\n- Adversaries\n\t- [[Goblin#Fire Walker Tribe]]\n\t- [[Grul’Mog the Deep Belly (Froghemoth)]]\n\t- Undead of  [[Lumopolis]]\n\t- Giant Plants and insects\n- ","x":-360,"y":-1680,"width":520,"height":800}
 	],
 	"edges":[
 		{"id":"debaef5fd3f4fac1","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"d9895632517691ed","toSide":"top"},
-		{"id":"d28508f96a462b30","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"fe3bbe569e8ae46e","toSide":"top"}
+		{"id":"d28508f96a462b30","fromNode":"3d7a5386b6bdf99e","fromSide":"bottom","toNode":"fe3bbe569e8ae46e","toSide":"top"},
+		{"id":"9df5625b7568785b","fromNode":"fe3bbe569e8ae46e","fromSide":"bottom","toNode":"8523a606f8c50372","toSide":"top"}
 	]
 }

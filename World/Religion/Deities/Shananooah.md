@@ -1,3 +1,4 @@
+#rank-of-brilliance 
 ## The Goddess of Time
 ![[Shananooah-logo-1.webp]]
 
