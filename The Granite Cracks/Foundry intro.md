@@ -1,4 +1,4 @@
-### 🪓 **Session 0 Introduction – The Cracked Granite**
+### 🪓 **Introduction – The Cracked Granite**
 
 > _The Fourth Age is young, but already scarred._
 > 
