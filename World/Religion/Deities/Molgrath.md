@@ -1,6 +1,6 @@
 #dark-pantheon 
 ### **Molgrath, the Ember Tyrant**
-![[Molgrath Symbol.jpeg]]
+![[Molgrath Symbol.webp]]
 - **Domain**: Fire, destruction, conquest
 - **Symbol**: A burning crown atop a blackened anvil
 - **Worship**: Fire sacrifices, forge-blood rites, volcanic pilgrimages

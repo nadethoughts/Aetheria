@@ -1,3 +1,3 @@
 #the_granite_cracks #Ironhold 
 
-![[Torla Embermantle.jpeg]]
+![[Torla Embermantle.webp]]

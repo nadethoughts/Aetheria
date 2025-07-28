@@ -36,8 +36,8 @@ These factions exist across clans, families, and guilds. Some clans lean heavily
 ### 🧭 **Clans of Ironhold**
 
 Clans are tight-knit, proud, and influential. They shape dwarven identity and politics.
-![[Clans of Ironhold.jpeg]]
-![[Deepforge crest.jpeg]]
+![[Clans of Ironhold.webp]]
+![[Deepforge crest.webp]]
 - **Stoneguard** – Elite warriors and royal protectors
 - **Deepforge** – Miners, engineers, and industrialists
 - **Runeweaver** – Scholars, artificers, and lorekeepers
@@ -46,7 +46,7 @@ Clans are tight-knit, proud, and influential. They shape dwarven identity and po
 - **Deepshiver** – Priests, mystics, and spiritual guides
 - **Ironmark** – Scouts, rangers, and border wardens
 - **Geargrind** – Machinists, siege engineers, and indust
-![[Clans of Ironhold Banners.jpeg]]rial innovators
+![[Clans of Ironhold Banners.webp]]rial innovators
 
 🪓 **Clanless dwarves** are rare but not unheard of. They may be orphans, exiles, or those who rejected their clan’s politics. Some see them as dangerous. Others see them as free. A clanless dwarf may be mistrusted by traditionalists but respected for their independence.
 

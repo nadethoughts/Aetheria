@@ -1,6 +1,6 @@
 #dark-pantheon 
 ### **Tharuum, the Stone Reaper**
-![[Tharuum Symbol.jpeg]]
+![[Tharuum Symbol.webp]]
 - **Domain**: Earth, decay, inevitability
 - **Symbol**: A crumbling skull embedded in stone
 - **Worship**: Burial rites, cave collapses, petrification rituals

@@ -1,3 +1,3 @@
 #the_granite_cracks #Ironhold 
 
-![[Varric Blackvein.jpeg]]
+![[Varric Blackvein.webp]]

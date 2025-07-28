@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Baelgrin Deepdelve.jpeg]]
+![[Baelgrin Deepdelve.webp]]
 
 ## 📚 High Loremaster Baelgrin Deepdelve – Keeper of the Deep Records
 

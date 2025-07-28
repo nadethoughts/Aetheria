@@ -1,1 +1,1 @@
-#the_granite_cracks #Ironhold ![[Ingril Stonebinder.jpeg]]
+#the_granite_cracks #Ironhold ![[Ingril Stonebinder.webp]]

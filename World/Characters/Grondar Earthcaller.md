@@ -1,6 +1,6 @@
 #the_granite_cracks #giant-tribes
 
-![[Grondar Earthcaller.jpeg]]
+![[Grondar Earthcaller.webp]]
 
 ## 🪨 Grondar Earthcaller – High Voice of the Stone
 

@@ -1,6 +1,6 @@
 #the_granite_cracks #giant-tribes 
 
-![[Korrak Flintshard.jpeg]]
+![[Korrak Flintshard.webp]]
 ## 🪓 Name: Korrak Flintshard – Hammer of the Deep
 
 - **Race**: Stone Giant

@@ -1,6 +1,6 @@
 #guiding-luminescence
 ### **Durnhal, the Forgefather**
-![[Drunhal symbol.jpeg]]
+![[Drunhal symbol.webp]]
 - **Domain**: Smithing, metallurgy, endurance
 - **Symbol**: A hammer striking an anvil, surrounded by radiant sparks
 - **Tenets**:

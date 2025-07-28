@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Captain Kael Ironmark.jpeg]]
+![[Captain Kael Ironmark.webp]]
 
 ## 🛡️ Captain Kaela Ironmark – Veteran Scout of Ironhold
 

@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Marnak Deepforge.jpeg]]
+![[Marnak Deepforge.webp]]
 
 ## ⛏️ Marnak Deepforge – Guildmaster of the Ironhold Miners’ Consortium
 

@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Bramli Stoneguard.jpeg]]
+![[Bramli Stoneguard.webp]]
 
 ## 🛡️ Bramli Stoneguard – Captain of the Royal Guard
 

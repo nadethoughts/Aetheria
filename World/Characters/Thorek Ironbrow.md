@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Thorek Ironbrow.jpeg]]
+![[Thorek Ironbrow.webp]]
 
 ## 🔨 Thorek Ironbrow – Royal Blacksmith of Ironhold
 

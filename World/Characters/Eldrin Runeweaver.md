@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Eldrin Runeweaver.jpeg]]
+![[Eldrin Runeweaver.webp]]
 
 ## 📚 Eldrin Runeweaver – Scholar of the Deep Runes
 

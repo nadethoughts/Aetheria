@@ -1,6 +1,6 @@
 #the_granite_cracks #Ironhold 
 
-![[Skarn the Emberborn.jpeg]]
+![[Skarn the Emberborn.webp]]
 
 ## 🔥 Skarn the Emberborn – Voice of the Flame
 

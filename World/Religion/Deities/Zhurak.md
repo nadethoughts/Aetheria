@@ -1,6 +1,6 @@
 #dark-pantheon 
 ### **Zhurak, the Maw of Storms**
-![[Zhurak Symbol.jpeg]]
+![[Zhurak Symbol.webp]]
 - **Domain**: Wind, chaos, wrath
 - **Symbol**: A spiral of black lightning around a screaming mouth
 - **Worship**: Sky duels, thunder chants, storm-forged weapons

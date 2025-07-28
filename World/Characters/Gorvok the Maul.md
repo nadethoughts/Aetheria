@@ -1,6 +1,6 @@
 #the_granite_cracks #giant-tribes 
 
-![[Gorvok the Maul.jpeg]]
+![[Gorvok the Maul.webp]]
 
 ## 🪓 Gorvok the Maul – Breaker of Dagger’s Sheath
 
