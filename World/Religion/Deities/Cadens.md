@@ -1,5 +1,5 @@
 #guiding-luminescence 
-# The Melodic Maestro
+# Cadens: The Melodic Maestro
 ![[Cadens-Logo-1.webp]]
 
 - **Title**: The Melodic Maestro

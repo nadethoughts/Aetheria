@@ -1,5 +1,5 @@
 #rank-of-brilliance 
-### **Aelra, Mistress of Flow**
+# **Aelra: Mistress of Flow**
 ![[Aelra symbol.webp]]
 - **Domain**: Water, cooling, tempering, adaptability
 - **Symbol**: A flowing stream winding through a forge

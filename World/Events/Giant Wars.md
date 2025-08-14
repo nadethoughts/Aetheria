@@ -1,4 +1,4 @@
-## ⚔️ **The Giant Wars**
+### ⚔️ **The Giant Wars**
 
 The Giant Wars were a defining conflict in [[Dwarves|dwarven]] history—an era of blood, stone, and survival. Long before the [[Flaming Retribution]], the [[dwarves]] of [[Ironhold]] faced a rising threat from the [[Giant]] tribes of the north. These towering beings, forged in elemental fury and loyal to [[The Dark Pantheon]] of [[Erabose]], sought dominion over the surface and the deep places of the world.
 

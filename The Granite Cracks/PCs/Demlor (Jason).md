@@ -1,0 +1,22 @@
+# Demlor Dwarven Kineticist Investigator
+![[Demlor Portrait.jpg]]
+## Hunter of Orcs
+- **Male dwarf, mid-20s to 30s (human equivalent), stocky, average height**
+- **Long, braided hair and beard (multiple braids)**
+- **Grey, cold iron-like eyes with eagle-talon slash tattoos/scars around the eyes**
+- **Ruddy skin**
+- **Carapace armor (orc origin, insect-like details), Gate Attenuator amulet, clan dagger at belt, wrist-mounted grappling gun**
+- **No weapons in hand—he is his own weapon**
+- **Metal kineticist: subtle metallic glints, maybe hints of iron or steel in accessories**
+- **Thrill-seeker expression, confident and alert**
+- **Mountainous or underdark-inspired background, but focus on the character**
+
+### Demlor, Dwarven Kineticist (Investigator Archetype)
+
+Demlor’s legend began in the shadowed heights of Ironhold, where he was born with the elemental heart of a mountain—cold, unyielding, and restless. As a child, he was drawn to the clang of metal and the shimmer of veins in the stone, but it was the thrill of the unknown that truly called to him. His powers as a kineticist manifested early, the iron in his blood resonating with the deep pulse of the earth. Metal bent to his will, and his presence seemed to draw the chill of the high peaks wherever he went.
+
+Demlor’s reputation as an orc hunter was forged in the tunnels of the Underdark. He became infamous among the orc tribes for his relentless pursuit and the cold efficiency with which he dispatched his foes—never with a blade, but with the very metal of the earth itself. His carapace armor, scavenged from a fallen orc champion of the Great Insect, became his signature, as did the intricate eye-slash tattoos that marked him as a distant-eyed tracker and survivor.
+
+But Demlor is more than a weapon. His keen mind and investigative instincts have solved mysteries that baffled even the king’s agents. He is known for following trails others miss—whether the faintest scratch on a stone or the subtle resonance of a corrupted rune. His thrill-seeking nature drives him to the edge of danger, but his loyalty to Ironhold and his hatred of orc-kind keep him grounded.
+
+Now, as Ironhold looks outward once more, Demlor stands ready—part elemental, part detective, and wholly unafraid of what lies beyond the granite walls.

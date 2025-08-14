@@ -1,5 +1,5 @@
 #luminous-authority
-# The Prime Architect
+# Aurion:  The Prime Architect
 ![[Aurion-logo-1.webp]]
 
 - **Title**: The Prime Architect

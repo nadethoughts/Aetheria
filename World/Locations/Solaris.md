@@ -1,8 +1,9 @@
+# Solaris
 ## The World of Aetheria: A Land of Six Regions
 
 Welcome to the continent of **[[Aetheria]]**, a land divided into six distinct regions, each with its own unique inhabitants and landscapes.
 
-## **[[Stoneheart Hold]]**
+## **[[Ironhold]]**
 Located in the northwest, this is the domain of the Dwarves. Known for their unyielding spirit and mastery over stone and metal, the Dwarves have carved out a formidable realm that stands as a testament to their strength and craftsmanship.
 
 ## **[[Luminael]]**
