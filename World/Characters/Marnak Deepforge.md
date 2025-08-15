@@ -8,13 +8,13 @@
 - **Gender**: Male
 - **Alignment**: Lawful Neutral (with shades of ambition)
 - **Role**: Master of Mining Operations, Economic Powerbroker
-- **Faction**: Secretly aligned with Varric Blackvein
+- **Faction**: Secretly aligned with Varric Silvervein
 
 ### 🧱 Background
 
 Marnak Deepforge rose from humble beginnings in the lower tunnels of Ironhold. A brilliant surveyor and shrewd negotiator, he unified several competing mining clans under the Ironhold Miners’ Consortium, becoming one of the most influential non-noble dwarves in the kingdom. His success earned him a seat at the king’s economic council, though he has always resented the nobles who look down on his “dirty hands.”
 
-After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Blackvein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
+After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Silvervein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
 
 ### 🎯 Ambition
 

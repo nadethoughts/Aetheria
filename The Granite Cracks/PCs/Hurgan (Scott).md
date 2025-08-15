@@ -2,6 +2,9 @@
 
 ![[Hurgan Portrait.jpg]]
 
+![[Hurgan Action.jpg]]
+
+
 ## Night Watch Sentinel
 
 - **Male dwarf, mid-30s (human equivalent), powerful build**
@@ -24,3 +27,34 @@ Hurgan’s reputation as a ranger was forged in the high passes and deep forests
 But Hurgan is more than a sentinel. His warm, intense eyes miss nothing, and his loyalty to Ironhold is matched only by his sense of duty to those who cannot defend themselves. He has uncovered secret tunnels during cave-ins, led evacuations through blizzards, and stood alone against horrors that shambled in the night. Among the clans, he is respected as a guardian and a guide—one who knows the land, the sky, and the silent language of danger.
 
 Now, as Ironhold looks to reclaim its place in the world, Hurgan stands ready—vigilant, unyielding, and ever watchful for the next shadow on the horizon.
+
+### Hurgan, Dwarven Scout Ranger – Picture Reference
+
+- **Game**: Pathfinder Second Edition
+- **Gender & Age:** Male dwarf, appears in the human equivalent of mid-30s
+- **Build & Height:** Powerful, broad-shouldered, slightly taller than average for a dwarf
+- **Hair & Beard:** Light-colored (blonde), wild and practical for a ranger (windblown, possibly tied back, beard is thick and functional, not overly styled)
+- **Eyes:** Warm but intense; vigilant, always scanning the horizon
+- **Skin Tone:** Tanned and weathered, with visible signs of sun and wind exposure
+- **Expression:** Vigilant, alert, and rugged—looks like a dwarf who’s spent decades outdoors
+- **Clothing/Armor:**
+    - Medium hardshell surki carapace armor (distinct, rugged, rune-etched, with visible wear but well-maintained)
+    - No helmet
+    - Clan dagger at his belt (traditional dwarven style)
+    - Frostwalker pattern tattoo (geometric, visible on forearm or neck)
+    - Sign of sigils among his gear (amulet, patch, or badge)
+- **Weapons/Equipment:**
+    - Dual-wields a dwarven war axe (in one hand) and a warhammer (in the other), both clearly visible
+    - No amulet or magical jewelry
+    - Practical ranger’s gear: belts, pouches, possibly a fur-lined cloak or cape
+    - Clan Dagger in his belt
+- **Tattoos/Markings:** Geometric frostwalker tattoo (northern design, straight lines and whorls, visible)
+- **Background/Setting:**
+    - For action shots: Mountain pass at dawn or dusk, jagged peaks, dramatic sky, distant valleys or winding trail
+    - For standard portraits: Windswept mountain or rocky outcrop, always with a sense of open wilderness
+- - **Art Style**:
+    - **Pulp fantasy cover art**—bold, fantastical, high contrast, dramatic lighting
+    - Inspired by **Pathfinder**, **World of Warcraft**, and the attached reference image
+    - Avoid painterly or subdued tones—aim for vivid, energetic, and stylized visuals
+- **Personality/Mood:** Rugged, vigilant, experienced, always ready to defend his kin
+- **Anything to Avoid:** No amulet, no resemblance to Demlor (distinct face, beard, and posture)

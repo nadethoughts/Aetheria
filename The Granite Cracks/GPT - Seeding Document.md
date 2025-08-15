@@ -24,7 +24,7 @@ To preserve the truth of dwarven history and ensure that Ironhold does not repea
 
 ### 🔥 Motivation
 
-Baelgrin is deeply suspicious of Varric Blackvein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
+Baelgrin is deeply suspicious of Varric Silvervein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
 
 ### 🧩 Adventure Hooks
 
@@ -56,7 +56,7 @@ To protect the throne and ensure that Ironhold remains united and secure from bo
 
 ### 🔥 Motivation
 
-Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Blackvein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
+Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Silvervein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
 
 ### 🧩 Adventure Hooks
 
@@ -229,13 +229,13 @@ Gorvok is driven by rage, pride, and a deep hatred for civilization. He sees dwa
 - **Gender**: Male
 - **Alignment**: Neutral Evil
 - **Role**: Commander of the Giant Warbands, Elemental Seer
-- **Faction**: Leader of the resurgent giants, allied with Varric Blackvein
+- **Faction**: Leader of the resurgent giants, allied with Varric Silvervein
 
 ### 🧱 Background
 
 Grondar Earthcaller is one of the oldest living stone giants, a relic of the Second Age who witnessed the rise and fall of empires from the shadows of the mountains. He was once a spiritual leader among his kind, interpreting the tremors of the earth and the flow of leyline energy. When the dwarves drove the giants into hiding centuries ago, Grondar retreated into the deep caverns, preserving ancient knowledge and waiting for a sign.
 
-That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Blackvein**, whose ambition aligned with Grondar’s vision of a reshaped world.
+That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Silvervein**, whose ambition aligned with Grondar’s vision of a reshaped world.
 
 ### 🎯 Ambition
 
@@ -307,13 +307,13 @@ Korrak is driven by prophecy, pride, and a deep hatred for the dwarves who he be
 - **Gender**: Male
 - **Alignment**: Lawful Neutral (with shades of ambition)
 - **Role**: Master of Mining Operations, Economic Powerbroker
-- **Faction**: Secretly aligned with Varric Blackvein
+- **Faction**: Secretly aligned with Varric Silvervein
 
 ### 🧱 Background
 
 Marnak Deepforge rose from humble beginnings in the lower tunnels of Ironhold. A brilliant surveyor and shrewd negotiator, he unified several competing mining clans under the Ironhold Miners’ Consortium, becoming one of the most influential non-noble dwarves in the kingdom. His success earned him a seat at the king’s economic council, though he has always resented the nobles who look down on his “dirty hands.”
 
-After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Blackvein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
+After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Silvervein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
 
 ### 🎯 Ambition
 
@@ -403,7 +403,7 @@ Thorek is driven by duty, legacy, and a deep-seated belief that the strength of 
 
 #the_granite_cracks #Ironhold 
 
-![[Varric Blackvein.webp]]
+![[Varric Silvervein.webp]]
 ![[Syrith.webp]]
 
 ## Early Life
@@ -2477,7 +2477,7 @@ You are trusted. You are known. And now, you are being sent where others cannot 
 
 - The party is summoned to a private meeting with **King Hargrin Deepmantle**.
 - Present: **Baelgrin Deepdelve**, **Bramli Stoneguard**, **Thorek Ironbrow**, **Ingril Stonebinder**, and **Eldrin Runeweaver**.
-- **Varric Blackvein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
+- **Varric Silvervein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
 - The king explains that **Dagger’s Sheath has gone silent**, and due to political pressure, he cannot launch a full investigation.
 - The party is asked to act as **independent agents**, trusted to uncover the truth without implicating the crown.
 
@@ -2562,7 +2562,7 @@ You are trusted. You are known. And now, you are being sent where others cannot 
 #### Scene 1: Return and Report
 
 - The party returns to Ironhold and presents their findings to the king’s inner circle
-- **Varric Blackvein** publicly questions their credibility
+- **Varric Silvervein** publicly questions their credibility
 - **Baelgrin**, **Eldrin**, and **Ingril** support the party’s findings
 - The court is divided
 
@@ -2614,7 +2614,7 @@ You are trusted. You are known. And now, you are being sent where others cannot 
 #### Scene 1: The Trial
 
 - The party presents their findings before the king and council.
-- **Varric Blackvein** denies all, but evidence mounts.
+- **Varric Silvervein** denies all, but evidence mounts.
 - **Baelgrin Deepdelve** and **Eldrin Runeweaver** confirm the magical corruption.
 - **Rurik Hollowbrand** and **Marnak Deepforge** are implicated—one may turn on the other.
 - The party must decide how much to reveal and whom to trust.
@@ -4328,7 +4328,7 @@ Here are revised names for your NPCs that maintain their flavor but avoid Tolkie
 |Original Name|Updated Name|Notes|
 |---|---|---|
 |King Durngar Stoneheart|**King Hargrin Deepmantle**|Regal, dwarven, unique|
-|Thrain Ironblood|**Varric Blackvein**|Noble, ominous|
+|Thrain Ironblood|**Varric Silvervein**|Noble, ominous|
 |High Voice of the Stone|**Grondar Earthcaller**|Giant, mythic|
 |Gorvok the Maul|**Brukk Stonefist**|Brutal, ogre-like|
 |Skarn the Emberborn|**Ashmaw Flamebound**|Elemental, evocative|
@@ -4368,7 +4368,7 @@ Here are full write-ups for your renamed NPCs, including their backgrounds, ambi
 
 ---
 
-### 🛡️ **Varric Blackvein**
+### 🛡️ **Varric Silvervein**
 
 - **Race**: Dwarf | **Alignment**: Lawful Evil | **Role**: Corrupted Noble
 - **Background**: A descendant of a rival royal bloodline, Varric was once a respected statesman. Passed over for the throne, he grew bitter and ambitious. After the Flaming Retribution, he saw an opportunity to rise by forging a secret pact with the giants.
@@ -4432,7 +4432,7 @@ Since the Giants are thought to be extinct, how did Varric and Grondar meet to f
 
 Copilot
 
-Here’s a compelling explanation for how Varric Blackvein and Grondar Earthcaller—two figures from vastly different worlds—formed their secret alliance:
+Here’s a compelling explanation for how Varric Silvervein and Grondar Earthcaller—two figures from vastly different worlds—formed their secret alliance:
 
 ---
 
@@ -4440,7 +4440,7 @@ Here’s a compelling explanation for how Varric Blackvein and Grondar Earthcall
 
 ### 📜 **The Catalyst**
 
-In the months following the Flaming Retribution, Varric Blackvein began exploring ancient dwarven vaults beneath Ironhold—places sealed since the Second Age. He sought forgotten power, relics, and leverage to challenge King Hargrin’s rule. In one such vault, he uncovered a **collapsed leyline chamber**—a place where elemental energy once flowed freely.
+In the months following the Flaming Retribution, Varric Silvervein began exploring ancient dwarven vaults beneath Ironhold—places sealed since the Second Age. He sought forgotten power, relics, and leverage to challenge King Hargrin’s rule. In one such vault, he uncovered a **collapsed leyline chamber**—a place where elemental energy once flowed freely.
 
 There, he found **giant-carved runes**—not dwarven—and a dormant **stone sigil** that pulsed faintly with residual power. Through experimentation and forbidden texts, Varric reactivated the sigil, unknowingly sending a beacon through the leyline network.
 
@@ -4481,7 +4481,7 @@ Let's work this into the full adventure. I don't want the players to see this, b
 
 Copilot
 
-Here’s how we can shape the full adventure of _Echoes in Dagger’s Sheath_ into a cohesive, politically charged, exploration-driven campaign. This version integrates the secret alliance between **Varric Blackvein** and **Grondar Earthcaller**, showing its effects through scenes, factions, and environmental storytelling—without revealing the truth to the players until the right moment.
+Here’s how we can shape the full adventure of _Echoes in Dagger’s Sheath_ into a cohesive, politically charged, exploration-driven campaign. This version integrates the secret alliance between **Varric Silvervein** and **Grondar Earthcaller**, showing its effects through scenes, factions, and environmental storytelling—without revealing the truth to the players until the right moment.
 
 ---
 
@@ -4509,7 +4509,7 @@ Here’s how we can shape the full adventure of _Echoes in Dagger’s Sheath_ 
     - A dwarven banner defaced with a symbol not recognized by the party.
     - A captured trollkin mutters about “the dwarf who speaks for the stone.”
 
-> **Political Atmosphere**: Back in Ironhold, rumors swirl that the king is losing control. Varric Blackvein publicly questions the king’s decisions, gaining support.
+> **Political Atmosphere**: Back in Ironhold, rumors swirl that the king is losing control. Varric Silvervein publicly questions the king’s decisions, gaining support.
 
 ---
 
@@ -4584,7 +4584,7 @@ I would like to add some additional NPCs that are loyal to King Deepmantle and s
 
 Copilot
 
-Here’s a set of additional NPCs—some loyal to **King Hargrin Deepmantle**, others aligned with **Varric Blackvein**—designed to be introduced early in the adventure and later revealed as either victims or perpetrators of betrayal, murder, or political manipulation.
+Here’s a set of additional NPCs—some loyal to **King Hargrin Deepmantle**, others aligned with **Varric Silvervein**—designed to be introduced early in the adventure and later revealed as either victims or perpetrators of betrayal, murder, or political manipulation.
 
 ---
 
@@ -4623,7 +4623,7 @@ Here’s a set of additional NPCs—some loyal to **King Hargrin Deepmantle**, 
 
 ---
 
-## 🕳️ Loyal to Varric Blackvein
+## 🕳️ Loyal to Varric Silvervein
 
 ### **Maela Blackshard** – Court Whisperer
 
@@ -4672,7 +4672,7 @@ Copilot
 
 Great! Let’s begin creating NPC portraits. To get started, please tell me:
 
-1. **Which NPC you'd like to start with** (e.g., King Hargrin Deepmantle, Varric Blackvein, etc.).
+1. **Which NPC you'd like to start with** (e.g., King Hargrin Deepmantle, Varric Silvervein, etc.).
 2. Any **visual details** you want included:
     - Gender, age, build
     - Hair, beard, eye color
@@ -4698,13 +4698,13 @@ Creating King Hargrin Deepmantle’s portrait now—he’ll be rendered as a reg
 
 ##### You said:
 
-Next, create Varric Blackvein.
+Next, create Varric Silvervein.
 
 ###### Copilot said:
 
 Copilot
 
-Creating Varric Blackvein’s portrait now—he’ll appear shortly below as a calculating and regal dwarven traitor. Let me know which NPC you’d like to visualize next!
+Creating Varric Silvervein’s portrait now—he’ll appear shortly below as a calculating and regal dwarven traitor. Let me know which NPC you’d like to visualize next!
 
 2 responses left
 
@@ -4780,7 +4780,7 @@ is she a good guy?
 
 Copilot
 
-Kelda Deepshiver is not a “good guy” in the traditional sense—she is a member of the dark faction loyal to Varric Blackvein. While she presents herself as a serene and wise rune priestess, her true allegiance lies with the Hollowed Flame, a secretive cult that believes the old gods failed and seeks to awaken ancient, forbidden powers.
+Kelda Deepshiver is not a “good guy” in the traditional sense—she is a member of the dark faction loyal to Varric Silvervein. While she presents herself as a serene and wise rune priestess, her true allegiance lies with the Hollowed Flame, a secretive cult that believes the old gods failed and seeks to awaken ancient, forbidden powers.
 
 ### 🕯️ Kelda Deepshiver – Rune Priestess of the Hollowed Flame
 
@@ -4828,7 +4828,7 @@ Here’s the current gender breakdown of your named dwarf NPCs:
 ## 🧙‍♂️ **Male Dwarf NPCs**
 
 1. **King Hargrin Deepmantle** – Ruler of Ironhold
-2. **Varric Blackvein** – Corrupted noble
+2. **Varric Silvervein** – Corrupted noble
 3. **Dorin Flintvein** – Veteran Commander (loyal to Hargrin)
 4. **Rurik Hollowbrand** – Noble Merchant (loyal to Varric)
 5. **Eldrin Runeweaver** – Artificer and Lorekeeper (loyal to Hargrin)
@@ -4860,7 +4860,7 @@ Thanks! Based on your preference, here’s how we can rebalance the cast while k
 ### 🧙‍♂️ **Male Dwarf NPCs (Expanded)**
 
 1. **King Hargrin Deepmantle** – Ruler of Ironhold
-2. **Varric Blackvein** – Corrupted noble
+2. **Varric Silvervein** – Corrupted noble
 3. **Dorin Flintvein** – Veteran commander
 4. **Rurik Hollowbrand** – Noble merchant
 5. **Eldrin Runeweaver** – Artificer and lorekeeper
@@ -4968,7 +4968,7 @@ To protect the throne and ensure that Ironhold remains united and secure from bo
 
 ### 🔥 Motivation
 
-Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Blackvein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
+Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Silvervein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
 
 ### 🧩 Adventure Hooks
 
@@ -5018,13 +5018,13 @@ Here’s a full character background for **Marnak Deepforge**, your mining guil
 - **Gender**: Male
 - **Alignment**: Lawful Neutral (with shades of ambition)
 - **Role**: Master of Mining Operations, Economic Powerbroker
-- **Faction**: Secretly aligned with Varric Blackvein
+- **Faction**: Secretly aligned with Varric Silvervein
 
 ### 🧱 Background
 
 Marnak Deepforge rose from humble beginnings in the lower tunnels of Ironhold. A brilliant surveyor and shrewd negotiator, he unified several competing mining clans under the Ironhold Miners’ Consortium, becoming one of the most influential non-noble dwarves in the kingdom. His success earned him a seat at the king’s economic council, though he has always resented the nobles who look down on his “dirty hands.”
 
-After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Blackvein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
+After the Flaming Retribution, Marnak was instrumental in reopening collapsed tunnels and restoring ore flow to the forges. But he also discovered something else—**a hidden vein of crystal-laced stone etched with ancient runes**, deep beneath the mountains. He brought this secret to Varric Silvervein, seeing in him a kindred spirit: a dwarf who would break the old order and reward those who built Ironhold from the ground up.
 
 ### 🎯 Ambition
 
@@ -5059,7 +5059,7 @@ Here’s a quick recap of which named dwarf NPCs have had portraits generated an
 ### ✅ **Portraits Completed**
 
 1. **King Hargrin Deepmantle**
-2. **Varric Blackvein**
+2. **Varric Silvervein**
 3. **Ingril Stonebinder**
 4. **Torla Embermantle** _(replaced by Thorek Ironbrow)_
 5. **Dorin Flintvein**
@@ -5214,7 +5214,7 @@ Here’s a recap of your named dwarf NPCs and their portrait status:
 ### ✅ **Portraits Completed**
 
 1. **King Hargrin Deepmantle**
-2. **Varric Blackvein**
+2. **Varric Silvervein**
 3. **Ingril Stonebinder**
 4. **Thorek Ironbrow**
 5. **Dorin Flintvein**
@@ -5261,13 +5261,13 @@ Here’s a full character background for **Grondar Earthcaller**, your stone gi
 - **Gender**: Male
 - **Alignment**: Neutral Evil
 - **Role**: Commander of the Giant Warbands, Elemental Seer
-- **Faction**: Leader of the resurgent giants, allied with Varric Blackvein
+- **Faction**: Leader of the resurgent giants, allied with Varric Silvervein
 
 ### 🧱 Background
 
 Grondar Earthcaller is one of the oldest living stone giants, a relic of the Second Age who witnessed the rise and fall of empires from the shadows of the mountains. He was once a spiritual leader among his kind, interpreting the tremors of the earth and the flow of leyline energy. When the dwarves drove the giants into hiding centuries ago, Grondar retreated into the deep caverns, preserving ancient knowledge and waiting for a sign.
 
-That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Blackvein**, whose ambition aligned with Grondar’s vision of a reshaped world.
+That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Silvervein**, whose ambition aligned with Grondar’s vision of a reshaped world.
 
 ### 🎯 Ambition
 
@@ -5356,7 +5356,7 @@ To ensure we generate portraits for all named NPCs, here’s a quick checklist o
 ### ✅ **Portraits Already Created**
 
 - King Hargrin Deepmantle
-- Varric Blackvein
+- Varric Silvervein
 - Ingril Stonebinder
 - Thorek Ironbrow
 - Dorin Flintvein
@@ -5394,7 +5394,7 @@ Here’s a breakdown of the NPCs from your suggested roster who **do not yet ha
 ### 🏰 Ironhold Court
 
 - **King Hargrin Deepmantle** ✅
-- **Thrain Ironblood** ✅ _(renamed Varric Blackvein)_
+- **Thrain Ironblood** ✅ _(renamed Varric Silvervein)_
 - **High Loremaster Baelgrin Deepdelve** ❌ **(Needs Portrait)**
 
 ---
@@ -5464,7 +5464,7 @@ To preserve the truth of dwarven history and ensure that Ironhold does not repea
 
 ### 🔥 Motivation
 
-Baelgrin is deeply suspicious of Varric Blackvein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
+Baelgrin is deeply suspicious of Varric Silvervein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
 
 ### 🧩 Adventure Hooks
 
@@ -5614,7 +5614,7 @@ Here’s your updated adventure structure for _Echoes in Dagger’s Sheath_, no
 - **NPCs Present**:
     - **King Hargrin Deepmantle** – Stoic, burdened ruler.
     - **High Loremaster Baelgrin Deepdelve** – Quietly suspicious of Varric.
-    - **Varric Blackvein** – Charismatic noble (secret traitor).
+    - **Varric Silvervein** – Charismatic noble (secret traitor).
     - **Bramli Stoneguard** – Loyal captain of the guard.
 - **Plot**: The king explains that Dagger’s Sheath has gone silent. Due to political pressure and limited resources, he cannot launch a full investigation.
 - **Hook**: The party is entrusted with a discreet mission to uncover the truth.
@@ -5836,7 +5836,7 @@ Here is the fully integrated adventure outline for _Echoes in Dagger’s Sheath
 **NPCs Present**:
 
 - **King Hargrin Deepmantle** – Quest giver, burdened by political tension
-- **Varric Blackvein** – Charismatic noble, secret traitor
+- **Varric Silvervein** – Charismatic noble, secret traitor
 - **High Loremaster Baelgrin Deepdelve** – Quiet scholar, suspects Varric
 - **Bramli Stoneguard** – Captain of the guard, loyal to the king
 - **Maela Blackshard** – Court whisperer, spy for Varric
@@ -5886,7 +5886,7 @@ Here is the fully integrated adventure outline for _Echoes in Dagger’s Sheath
 
 **NPCs Present**:
 
-- **Varric Blackvein** – Deflects blame, gains support
+- **Varric Silvervein** – Deflects blame, gains support
 - **Maela Blackshard** – Spreads misinformation
 - **High Loremaster Baelgrin Deepdelve** – Analyzes evidence
 - **Eldrin Runeweaver** – Confirms magical corruption
@@ -5925,7 +5925,7 @@ Here is the fully integrated adventure outline for _Echoes in Dagger’s Sheath
 
 **NPCs Present**:
 
-- **Varric Blackvein** – Exposed traitor
+- **Varric Silvervein** – Exposed traitor
 - **Maela Blackshard** – Spy, may flee or fight
 - **Kelda Deepshiver** – Performs final ritual
 - **King Hargrin Deepmantle** – Delivers judgment
@@ -5973,7 +5973,7 @@ Here’s a structured **story outline** for your adventure _The Cracked Grani
 
 - The party is summoned by **King Hargrin Deepmantle**.
 - Present are trusted advisors: **Bramli Stoneguard**, **Baelgrin Deepdelve**, **Thorek Ironbrow**, and **Ingril Stonebinder**.
-- Also present: **Varric Blackvein**, **Maela Blackshard**, and **Kelda Deepshiver**, who subtly oppose the king.
+- Also present: **Varric Silvervein**, **Maela Blackshard**, and **Kelda Deepshiver**, who subtly oppose the king.
 - The king explains that **Dagger’s Sheath has gone silent**, but political pressure prevents a full investigation.
 - The party is asked to act as **independent agents**, free from factional bias.
 
@@ -6012,7 +6012,7 @@ Here’s a structured **story outline** for your adventure _The Cracked Grani
 **Purpose**: Deepen intrigue and expose fractures in the court
 
 - The party returns with evidence of giant resurgence.
-- **Varric Blackvein** deflects blame and gains support.
+- **Varric Silvervein** deflects blame and gains support.
 - **Maela Blackshard** spreads misinformation.
 - **Baelgrin**, **Eldrin**, and **Ingril** analyze the runes and confirm corruption.
 - **Rurik Hollowbrand** and **Marnak Deepforge** are implicated in resource diversion.
@@ -6075,7 +6075,7 @@ Here’s a detailed **scene-by-scene encounter prep** for _The Cracked Granit
 ### 🧑‍🤝‍🧑 NPCs Present:
 
 - **King Hargrin Deepmantle** – Quest giver, cautious ruler.
-- **Varric Blackvein** – Ambitious noble, secret traitor.
+- **Varric Silvervein** – Ambitious noble, secret traitor.
 - **Baelgrin Deepdelve** – Scholar, quietly suspicious.
 - **Bramli Stoneguard** – Loyal captain of the guard.
 - **Maela Blackshard** – Court whisperer, spy.
@@ -6157,7 +6157,7 @@ Here’s a detailed **scene-by-scene encounter prep** for _The Cracked Granit
 
 ### 🧑‍🤝‍🧑 NPCs Present:
 
-- **Varric Blackvein** – Gains support, deflects blame.
+- **Varric Silvervein** – Gains support, deflects blame.
 - **Maela Blackshard** – Spreads misinformation.
 - **Baelgrin Deepdelve** – Analyzes evidence.
 - **Eldrin Runeweaver** – Confirms magical corruption.
@@ -6217,7 +6217,7 @@ Here’s a detailed **scene-by-scene encounter prep** for _The Cracked Granit
 
 ### 🧑‍🤝‍🧑 NPCs Present:
 
-- **Varric Blackvein** – Exposed traitor.
+- **Varric Silvervein** – Exposed traitor.
 - **Maela Blackshard** – Spy, may flee or fight.
 - **Kelda Deepshiver** – Performs final ritual.
 - **King Hargrin Deepmantle** – Delivers judgment.
@@ -6417,7 +6417,7 @@ Here’s the updated **scene-by-scene adventure outline** for _The Cracked Gr
 
 - The party is summoned to a private meeting with **King Hargrin Deepmantle** and select advisors.
 - Present: **Baelgrin Deepdelve**, **Bramli Stoneguard**, **Thorek Ironbrow**, **Ingril Stonebinder**, and **Eldrin Runeweaver**.
-- **Varric Blackvein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
+- **Varric Silvervein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
 - The king explains the silence from Dagger’s Sheath and asks the party to investigate discreetly.
 
 #### Scene 2: The Armory and Archives
@@ -6566,7 +6566,7 @@ Thanks for the clarification! Here's the updated **scene-by-scene adventure out
 
 - The party is summoned to a private meeting with **King Hargrin Deepmantle**.
 - Present: **Baelgrin Deepdelve**, **Bramli Stoneguard**, **Thorek Ironbrow**, **Ingril Stonebinder**, and **Eldrin Runeweaver**.
-- **Varric Blackvein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
+- **Varric Silvervein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
 - The king explains that **Dagger’s Sheath has gone silent**, and due to political pressure, he cannot launch a full investigation.
 - The party is asked to act as **independent agents**, trusted to uncover the truth without implicating the crown.
 
@@ -6666,7 +6666,7 @@ Continuing from Session 1, here’s the expanded scene-by-scene breakdown for th
 #### Scene 1: Return and Report
 
 - The party returns to Ironhold and presents their findings to the king’s inner circle
-- **Varric Blackvein** publicly questions their credibility
+- **Varric Silvervein** publicly questions their credibility
 - **Baelgrin**, **Eldrin**, and **Ingril** support the party’s findings
 - The court is divided
 
@@ -6734,7 +6734,7 @@ Here’s the continuation of your scene-by-scene breakdown for _The Cracked Gra
 #### Scene 1: The Trial
 
 - The party presents their findings before the king and council.
-- **Varric Blackvein** denies all, but evidence mounts.
+- **Varric Silvervein** denies all, but evidence mounts.
 - **Baelgrin Deepdelve** and **Eldrin Runeweaver** confirm the magical corruption.
 - **Rurik Hollowbrand** and **Marnak Deepforge** are implicated—one may turn on the other.
 - The party must decide how much to reveal and whom to trust.
@@ -7650,7 +7650,7 @@ Sources
 
 ##### You said:
 
-Korrak Flintshard.md Lady Lilypad Greenleaf 3.md Maela Blackshard.md Maldran the Deceiver 3.md Marnak Deepforge.md Prince Troubadour 3.md Rurik Hollowbrand.md Skarn the Emberborn.md Syrith the Shadowed 3.md Tal’im Ran'dir 3.md Thalor 3.md Thorek Ironbrow.md Toadwin Greenleaf 3.md Torla Embermantle.md Varric Blackvein.md Vorath the Betrayer 3.md
+Korrak Flintshard.md Lady Lilypad Greenleaf 3.md Maela Blackshard.md Maldran the Deceiver 3.md Marnak Deepforge.md Prince Troubadour 3.md Rurik Hollowbrand.md Skarn the Emberborn.md Syrith the Shadowed 3.md Tal’im Ran'dir 3.md Thalor 3.md Thorek Ironbrow.md Toadwin Greenleaf 3.md Torla Embermantle.md Varric Silvervein.md Vorath the Betrayer 3.md
 
 ###### Copilot said:
 
@@ -7663,7 +7663,7 @@ Thanks for uploading the second batch of characters! Here's a categorized summar
 ### 🛡️ **Ironhold Dwarves**
 
 - **Thorek Ironbrow** – Royal Blacksmith, loyal to King Hargrin, wary of Varric’s influence.
-- **Marnak Deepforge** – Guildmaster of the Miners’ Consortium, secretly aligned with Varric Blackvein.
+- **Marnak Deepforge** – Guildmaster of the Miners’ Consortium, secretly aligned with Varric Silvervein.
 - **Maela Blackshard**, **Torla Embermantle**, **Rurik Hollowbrand** – (Image only, no descriptions yet).
 
 ---
@@ -7700,7 +7700,7 @@ Thanks for uploading the second batch of characters! Here's a categorized summar
 
 ### 🧱 **Political Intrigue**
 
-- **Varric Blackvein** – (Image only, but known from previous context as the traitorous dwarf aligned with the giants and seeking the crown).
+- **Varric Silvervein** – (Image only, but known from previous context as the traitorous dwarf aligned with the giants and seeking the crown).
 
 ---
 
@@ -10514,3 +10514,132 @@ Radicals operate in the shadows, using sabotage, dark rituals, and man
 ---
 
 *Paste this document into a new Copilot window to continue your campaign seamlessly!*
+
+### **Scene 1: The Secret Council**
+
+**Purpose:**  
+Set the tone, introduce the political landscape, and give the party their mission.
+
+**Boxed Text (Read Aloud):**
+
+> Deep in the heart of the Northern [[Stonefang Mountains]], in the fortress of [[Ironhold]], you a champion amoung the dwarves, have been summoned...
+>
+> The summons comes quietly—no fanfare, no banners, just a sealed scroll and a time. You are led through the quieter halls of [[Ironhold]], past forges and council chambers, into a part of the mountain few ever see. The stone here is older, darker, carved with runes that predate the current age.
+> 
+> In a private chamber, [[King Hargrin Deepmantle]] waits, surrounded by a handful of trusted advisors. His expression is grim.
+
+**NPCs Present:**
+
+- [[King Hargrin Deepmantle]] (quest giver, cautious, respected)
+- [[Baelgrin Deepdelve]] (quiet scholar, hints at ancient threats)
+- [[Bramli Stoneguard]] (loyal captain, wary of political corruption)
+- [[Varric Silvervein]] (ambitious, subtly undermining)
+- [[Maela Blackshard]] (spy, manipulator)
+
+- Dagger's Sheath - A Dwarven Colony to the south of the [[Stonefang Mountains]]
+	- Appears to have gone silent
+	- Not sure what has happened, but don't want to cause alarm. It is hard enough to work with the [[Ironhold - Isolationists]] when things are going well.
+-  Investigate what happened. Maybe they are just so busy that they lost track of time...
+
+**Roleplay Tips:**
+
+- Let each advisor give a brief, in-character comment or question.
+- Varric and Maela should subtly sow doubt (“Perhaps the colony simply failed, my king. Why risk more lives?”).
+- Loyalists (Bramli, Baelgrin) support the king and encourage action.
+- Allow players to ask questions, share their past deeds, or express their views.
+
+**Skill Checks:**
+
+- **Society or Diplomacy**: Read the room, sense political tension.
+- **Perception**: Notice Maela’s subtle manipulations or Kelda’s cryptic glances.
+- **Lore (Ironhold)**: Recall details about Dagger’s Sheath or the political climate.
+
+---
+
+### **Scene 2: Arrival at Dagger’s Sheath**
+
+**Purpose:**  
+Transition to exploration and investigation, set a somber, mysterious tone.
+
+**Boxed Text (Read Aloud):**
+
+> After a week and a half of travel through mountain passes and silent valleys, you crest the final ridge. Below, the colony of Dagger’s Sheath lies in ruins—buildings shattered, stonework scorched, and no signs of life. The air is thick with ash and silence. The only sounds are the wind and the creak of broken timber.
+
+**What the PCs Find:**
+
+- No survivors, only wreckage and eerie silence.
+- Giant-sized footprints in the mud and dust.
+- Defaced dwarven banners, a broken royal seal, and strange runes burned into the earth.
+- Evidence of a siege: collapsed barricades, shattered weapons, scorch marks.
+
+**Exploration/Skill Challenges:**
+
+- **Survival**: Track movement, identify giant footprints.
+- **Arcana or Religion**: Interpret corrupted runes.
+- **Perception**: Spot hidden clues (e.g., a half-buried message tube, signs of ritual activity).
+- **Crafting or Engineering**: Assess how the defenses failed.
+
+**Roleplay/Creative Hooks:**
+
+- Let the creative/roleplay-focused player describe how their character investigates or memorializes the dead.
+- The exploration-focused player can find a hidden clue or secret passage.
+- The combat-focused player may notice signs of a recent struggle or prepare for danger.
+
+---
+
+### **Scene 3: There Was a Fire Fight!!!**
+
+**Purpose:**  
+Deliver a tense, dynamic combat encounter with environmental hazards and a chance for tactical/creative play.
+
+**Boxed Text (Read Aloud):**
+
+> As you sift through the ruins, a faint sound echoes from the direction of the mines—voices, guttural and harsh, not dwarven. Suddenly, the ground trembles. 
+ 
+
+> You see two hulking ogres emerge, their skin marked with crude runes. Between them, an odd, orange-glowing dwarf-like creature—its eyes burning with elemental fire. They appear to be having a headed debate.
+
+
+**Combat Encounter:**
+
+- **Enemies:** 2 Ogres (brutes), 1 Azer (fire dwarf elemental)
+- **Tactics:** Ogres charge and smash, Azer uses fire bursts and tries to set the terrain alight.
+- **Environmental Hazards:**
+    - Burning rubble (entering or ending turn = 1d6 fire damage, DC 15 Reflex to avoid)
+    - Unstable ground (Acrobatics or Reflex save to avoid falling prone)
+    - Collapsing structures (triggered by missed attacks or area effects)
+
+**Skill/Creative Opportunities:**
+
+- **Athletics**: Climb rubble for high ground.
+- **Nature/Arcana**: Identify the Azer and its weaknesses.
+- **Crafting**: Use debris as improvised cover or weapons.
+- **Roleplay**: Shout warnings, rally allies, or try to intimidate the ogres.
+
+**Optional Discovery:**
+
+- During or after the fight, the party finds **Captain Kaela Ironmark** hiding, wounded but alive. She can give tactical insight (“They knew our defenses. Someone told them how to break us.”) and hint at betrayal.
+
+---
+
+### **Session Pacing & Player Engagement**
+
+- **Roleplay:** Scene 1 (council) and Kaela’s rescue.
+- **Exploration:** Scene 2 (ruins investigation).
+- **Combat:** Scene 3 (ogres + Azer, with hazards).
+
+**Tips:**
+
+- Let each player shine in their preferred style at least once.
+- Use boxed text to set the mood, then open up for player-driven action.
+- If time is tight, keep the investigation focused and the combat brisk—use environmental hazards to add tension without dragging out the fight.
+
+---
+
+### **GM Quick Reference Table**
+
+|Scene|Focus|Key NPCs/Elements|Player Hooks|
+|---|---|---|---|
+|Secret Council|Roleplay|King, Advisors, Varric, Maela|Politics, creative input|
+|Dagger’s Sheath|Exploration|Ruins, clues, runes|Skill checks, discovery|
+|Fire Fight|Combat|Ogres, Azer, hazards, Kaela|Tactics, heroics, rescue|

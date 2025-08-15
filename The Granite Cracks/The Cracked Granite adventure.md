@@ -8,7 +8,7 @@
 
 - The party is summoned to a private meeting with **King Hargrin Deepmantle**.
 - Present: **Baelgrin Deepdelve**, **Bramli Stoneguard**, **Thorek Ironbrow**, **Ingril Stonebinder**, and **Eldrin Runeweaver**.
-- **Varric Blackvein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
+- **Varric Silvervein**, **Maela Blackshard**, and **Kelda Deepshiver** are also present, subtly sowing doubt.
 - The king explains that **Dagger’s Sheath has gone silent**, and due to political pressure, he cannot launch a full investigation.
 - The party is asked to act as **independent agents**, trusted to uncover the truth without implicating the crown.
 
@@ -19,10 +19,10 @@
 - Investigation reveals signs of siege, giant footprints, and corrupted runes.
 - Clues include a broken royal seal, defaced dwarven banners, and signs of ritual activity.
 
-#### Scene 3: The Ambush
+#### Scene 3: There was a Fire Fight!!!
 
-- As the party investigates, they are ambushed by **Gorvok the Maul** and his warband.
-- **Skarn the Emberborn** supports with elemental magic.
+- As the party investigates, they notice some voices coming from the Mines.
+- When investigating, they find 2 Ogres and a odd orange glowing Dwarf-like creature.
 - Environmental hazards: burning rubble, unstable terrain.
 - The party may find **Captain Kaela Ironmark**, wounded and hiding, who provides tactical insight and hints at betrayal.
 ---
@@ -93,7 +93,7 @@
 #### Scene 1: Return and Report
 
 - The party returns to Ironhold and presents their findings to the king’s inner circle
-- **Varric Blackvein** publicly questions their credibility
+- **Varric Silvervein** publicly questions their credibility
 - **Baelgrin**, **Eldrin**, and **Ingril** support the party’s findings
 - The court is divided
 
@@ -145,7 +145,7 @@
 #### Scene 1: The Trial
 
 - The party presents their findings before the king and council.
-- **Varric Blackvein** denies all, but evidence mounts.
+- **Varric Silvervein** denies all, but evidence mounts.
 - **Baelgrin Deepdelve** and **Eldrin Runeweaver** confirm the magical corruption.
 - **Rurik Hollowbrand** and **Marnak Deepforge** are implicated—one may turn on the other.
 - The party must decide how much to reveal and whom to trust.

@@ -8,13 +8,13 @@
 - **Gender**: Male
 - **Alignment**: Neutral Evil
 - **Role**: Commander of the Giant Warbands, Elemental Seer
-- **Faction**: Leader of the resurgent giants, allied with Varric Blackvein
+- **Faction**: Leader of the resurgent giants, allied with Varric Silvervein
 
 ### 🧱 Background
 
 Grondar Earthcaller is one of the oldest living stone giants, a relic of the Second Age who witnessed the rise and fall of empires from the shadows of the mountains. He was once a spiritual leader among his kind, interpreting the tremors of the earth and the flow of leyline energy. When the dwarves drove the giants into hiding centuries ago, Grondar retreated into the deep caverns, preserving ancient knowledge and waiting for a sign.
 
-That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Blackvein**, whose ambition aligned with Grondar’s vision of a reshaped world.
+That sign came with the **Flaming Retribution**. As meteors fell and the land cracked, Grondar felt the leyline network pulse with renewed energy. He interpreted this as a divine signal: the surface world was weakened, and the giants could rise again. Through ancient rituals, he reactivated dormant leyline chambers and reached out to those who would aid his cause—including **Varric Silvervein**, whose ambition aligned with Grondar’s vision of a reshaped world.
 
 ### 🎯 Ambition
 

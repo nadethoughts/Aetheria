@@ -22,7 +22,7 @@ To protect the throne and ensure that Ironhold remains united and secure from bo
 
 ### 🔥 Motivation
 
-Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Blackvein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
+Bramli believes that the greatest threat to Ironhold is not the giants, but division from within. He sees Varric Silvervein’s rise as a slow rot in the foundation of dwarven unity. Though not a politician, Bramli keeps a close eye on the court and quietly supports those who remain loyal to the king.
 
 ### 🧩 Adventure Hooks
 

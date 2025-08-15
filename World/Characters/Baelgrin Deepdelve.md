@@ -22,7 +22,7 @@ To preserve the truth of dwarven history and ensure that Ironhold does not repea
 
 ### 🔥 Motivation
 
-Baelgrin is deeply suspicious of Varric Blackvein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
+Baelgrin is deeply suspicious of Varric Silvervein’s rise and the sudden resurgence of ancient runes bearing both dwarven and giantic influence. He believes something is stirring beneath the surface—something that echoes the darkest chapters of dwarven history. Though not a warrior, he is a quiet force of resistance, working behind the scenes to uncover the truth.
 
 ### 🧩 Adventure Hooks
 
