@@ -10638,8 +10638,8 @@ Deliver a tense, dynamic combat encounter with environmental hazards and a chanc
 
 ### **GM Quick Reference Table**
 
-|Scene|Focus|Key NPCs/Elements|Player Hooks|
-|---|---|---|---|
-|Secret Council|Roleplay|King, Advisors, Varric, Maela|Politics, creative input|
-|Dagger’s Sheath|Exploration|Ruins, clues, runes|Skill checks, discovery|
-|Fire Fight|Combat|Ogres, Azer, hazards, Kaela|Tactics, heroics, rescue|
+| Scene           | Focus       | Key NPCs/Elements             | Player Hooks             |
+| --------------- | ----------- | ----------------------------- | ------------------------ |
+| Secret Council  | Roleplay    | King, Advisors, Varric, Maela | Politics, creative input |
+| Dagger’s Sheath | Exploration | Ruins, clues, runes           | Skill checks, discovery  |
+| Fire Fight      | Combat      | Ogres, Azer, hazards, Kaela   | Tactics, heroics, rescue |

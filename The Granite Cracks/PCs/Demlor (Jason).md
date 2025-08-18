@@ -23,29 +23,31 @@ But Demlor is more than a weapon. His keen mind and investigative instincts have
 
 Now, as Ironhold looks outward once more, Demlor stands ready—part elemental, part detective, and wholly unafraid of what lies beyond the granite walls.
 
-### **Demlor, Dwarven Kineticist Investigator
+### **Demlor, Dwarven Kineticist Investigator**
 
 - **Game**: Pathfinder Second Edition
 - **Gender & Age**: Male dwarf, appears in the human equivalent of mid-20s to 30s
-- **Build & Height**: Stocky, average dwarven height
-- **Hair & Beard**: Long, dark red hair and beard, both braided and well-kept but practical for adventuring
-- **Eyes**: eagle-talon tattoos/scars around the eyes
-- **Skin Tone**: Ruddy, with a healthy mountain-dweller’s flush
+- **Build & Height**: Stocky and muscular; average dwarven height (~4'6")
+- **Hair & Beard**: Long, dark red hair in two thick braids over the shoulders; no visible beard in current depiction
+- **Eyes**: Not visible in image; described as having eagle-talon tattoos/scars around the eyes
+- **Skin Tone**: Fair with a ruddy, mountain-dweller’s flush
 - **Expression**: Confident and intense—thrill-seeker energy, always alert and ready for danger
 - **Clothing/Armor**:
-    - Light Armor made out of carapace scavenged from an orc who worships insects—chitinous, insect-like details but fitted for a dwarf
+    - Heavy armor with intricate designs and shoulder plates
+    - Styled to resemble chitinous carapace scavenged from an insect-worshipping orc
     - No helmet
-    - Gate Attenuator amulet (small arcane pendant)
-    - Clan dagger at his belt (traditional dwarven style)
-- **Kineticist Element**: Metal—subtle metallic glints in armor and accessories, hints of iron or steel in the design
+    - Blue gemstone pendant (Gate Attenuator amulet)
+    - Clan dagger at belt (traditional dwarven style)
+- **Kineticist Element**: Metal—subtle metallic glints in armor and accessories; Demlor creates weapons from surrounding elements when attacking
 - **Accessories**: No weapons in hand—Demlor is his own weapon
-- **Tattoos/Markings**: Eagle-talon eye tattoos/scars only
+- **Tattoos/Markings**: Eagle-talon tattoos/scars around the eyes
 - **Background/Setting**:
-    - For action shots: Windswept snowfield or frozen lake, distant mountains, dramatic cold blue/white lighting
-    - For portraits: Mountainous or underdark-inspired background, focused on the character
-- **Art Style**:
-    - **Pulp fantasy cover art**—bold, fantastical, high contrast, dramatic lighting
-    - Inspired by **Pathfinder**, **World of Warcraft**, and the attached reference image
-    - Avoid painterly or subdued tones—aim for vivid, energetic, and stylized visuals
+    - **Action shots**: Windswept snowfield or frozen lake, distant mountains, dramatic cold blue/white lighting
+    - **Portraits**: Mountainous or underdark-inspired background, focused on the character
+- **Art Style**: Pathfinder/Video Games Style Art
 - **Mood/Personality**: Thrill-seeker, confident, intense, always ready for danger
-- **Avoid**: No weapons in hand, no resemblance to Hurgan (distinct face, posture, and gear)
+- **Avoid**:
+    - No weapons in hand
+    - No resemblance to Hurgan (distinct face, posture, and gear)
+    - Avoid omitting the red braided hair or the Gate Attenuator pendant
+    - Avoid placing him in warm or tropical environments
