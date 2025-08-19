@@ -72,12 +72,20 @@ Transition to exploration and investigation, set a somber, mysterious tone.
 
 ### **Scene 3: There Was a Fire Fight!!!**
 
-**Purpose:**  
-Deliver a tense, dynamic combat encounter with environmental hazards and a chance for tactical/creative play.
+## **Purpose:**  
+- 2 Combat Encounters
+	- 2 Cinder Rats outside of the Caves
+	- 2 Ogres with an Azer coming out of the caves
 
 **Boxed Text (Read Aloud):**
 
-> As you sift through the ruins, a faint sound echoes from the direction of the mines—voices, guttural and harsh, not dwarven. Suddenly, the ground trembles. 
+> As you sift through the ruins, a faint sound echoes from the direction of the mines, You hear a monstrous skittering noise. 
+
+> As the adrenalin begins to lower and you start to start to recover from the combat, you hear something coming from the mines—voices, guttural and harsh, not dwarven. Suddenly, the ground trembles and they are getting closer
+
+> "I not know where it go. This cave too small."
+> "Yeah, why stumpies make things so small"
+> "Quite fools, Your master and mine will not be pleased unless we find the creature. We need to  find a different exit."
  
 
 > You see two hulking ogres emerge, their skin marked with crude runes. Between them, an odd, orange-glowing dwarf-like creature—its eyes burning with elemental fire. They appear to be having a headed debate.
