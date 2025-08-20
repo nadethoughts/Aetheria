@@ -59,3 +59,15 @@ Now, as Ironhold looks to reclaim its place in the world, Hurgan stands ready—
     - No resemblance to Demlor (distinct face, beard, posture, and gear)
     - Avoid omitting either axe or the frostwalker tattoo
     - Avoid placing him in urban or tropical settings
+
+### 🪓 **Hurgan (Scott) – Scout Ranger**
+
+- **Heroic Deed:** Recovered the **Lost Key of the Ironmark Clan**, returning it to the temple archives.
+- **Cultural Beliefs:**
+    - Quietly disagrees with the law that **firstborn sons must follow their father's profession**.
+    - His son has a physical impairment, and Hurgan wants him to choose his own path.
+- **Discovery with Rurik:** Found a **statue of a lost dwarven goddess**, possibly once worshipped but now forgotten.
+- **Saved Demlor’s Life:** Took a **crossbow bolt** meant for Demlor during a cave-in caused by political infighting.
+    - They commemorated the event with **tattoos**.
+- **Tactic with Rurik:** Used stealth to flank and eliminate goblin leadership before they could collapse a hall.
+- **Battle with Demlor:** Fought side-by-side in the **Battle of the Drunken Cave**, defeating a drunken orc scout team.

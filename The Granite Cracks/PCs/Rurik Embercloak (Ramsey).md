@@ -26,3 +26,15 @@
 # Rurik's favorite Restaurant
 ***The Forge's Fire***
 - BBQ Place
+
+### 🧱 **Rurik Embercloak (Ramsey) – Gunslinger Medic**
+
+- **Heroic Deed:** Defeated a rampaging owlbear that breached the lower halls.
+- **Cultural Beliefs:**
+    - Believes the **religious structure** of dwarven society must change.
+    - Strongly values **kinship and family**, which must never change.
+    - His parent(s) were excommunicated priests of the Deep Shiver, leading to his **clanless status**.
+- **Shared Oath with Demlor:** _“Stone unbroken, forge unquenched, together we endure.”_
+- **Discovery with Hurgan:** Found a **statue of a forgotten dwarven goddess** in the deep tunnels.
+- **Tactic with Hurgan:** Developed a **flanking maneuver** to stop goblins from collapsing a lower hall.
+- **Commendation with Demlor:** Saved their platoon from an orc ambush by sneaking behind enemy lines and disrupting their siege weapons.

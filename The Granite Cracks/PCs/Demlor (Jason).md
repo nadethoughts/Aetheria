@@ -53,3 +53,13 @@ Now, as Ironhold looks outward once more, Demlor stands ready—part elemental, 
     - No resemblance to Hurgan (distinct face, posture, and gear)
     - Avoid omitting the red braided hair or the Gate Attenuator pendant
     - Avoid placing him in warm or tropical environments
+
+### ⚙️ **Demlor (Jason) – Metal Kineticist Investigator**
+
+- **Heroic Deed:** Led an expedition into the **Underdark**, discovering a hidden route and hostile orcs.
+- **Cultural Beliefs:**
+    - Believes the **clanless deserve a voice** in Ironhold’s future.
+    - Sees value in perspectives not bound by tradition, especially for political and economic innovation.
+- **Shared Oath with Rurik:** _“Stone unbroken, forge unquenched, together we endure.”_
+- **Saved by Hurgan:** During a cave-in, Hurgan took a bolt for him; Demlor treated the wound and avenged the attack.
+- **Commendation with Rurik:** Broke through enemy lines during an orc ambush, saving their platoon and earning the king’s recognition.
