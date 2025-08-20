@@ -1,8 +1,8 @@
-# Ramsey's Character
+# Ramsey's Character - Clannless
 ![[Ramsey's Character Portrait.jpg]]
 
 ![[Ramsey's Character Action.jpg]]
-
+## Player - Ramsey Cross 
 ### **Dwarven Gunslinger Medic**
 
 - **Game**: Pathfinder Second Edition
@@ -22,3 +22,7 @@
     - Depicting him without his signature firearm
     - Placing him in warm or tropical environments
     - Showing him without his layered cold-weather gear
+
+# Rurik's favorite Restaurant
+***The Forge's Fire***
+- BBQ Place

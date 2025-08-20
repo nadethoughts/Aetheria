@@ -45,8 +45,8 @@ Clans are tight-knit, proud, and influential. They shape dwarven identity and po
 - **Blackshard** – Informants, spies, and covert operatives
 - **Deepshiver** – Priests, mystics, and spiritual guides
 - **Ironmark** – Scouts, rangers, and border wardens
-- **Geargrind** – Machinists, siege engineers, and indust
-![[Clans of Ironhold Banners.webp]]rial innovators
+- **Geargrind** – Machinists, siege engineers, and industrial innovators
+![[Clans of Ironhold Banners.webp]]
 
 🪓 **Clanless dwarves** are rare but not unheard of. They may be orphans, exiles, or those who rejected their clan’s politics. Some see them as dangerous. Others see them as free. A clanless dwarf may be mistrusted by traditionalists but respected for their independence.
 
@@ -99,17 +99,15 @@ You are not novices. You are **level 3**—already tested by battle, hardship, 
 
 You are trusted. You are known. And now, you are being sent where others cannot go.
 
-#### For **Jason**:
+#### For **[[Demlor (Jason)]]**:
 
-- What mission did you and **Ramsey** complete together that earned you both a commendation from the king?
-- What did **Scott** do during a cave-in that saved your life—and how have you honored that moment since?
+- ~~What mission did you and **[[Rurik Embercloak (Ramsey)]]** complete together that earned you both a commendation from the king?~~
+- ~~What did **[[Hurgan (Scott)]]** do during a cave-in that saved your life—and how have you honored that moment since?~~
+#### For **[[Rurik Embercloak (Ramsey)]]**:
 
-#### For **Ramsey**:
+- ~~What oath did you and **[[Demlor (Jason)]]** swear together before your first mission beyond the gates?~~
+- ~~What invention or tactic did you develop with **[[Hurgan (Scott)]]** that helped defend a lower hall from collapse?~~
+#### For **[[Hurgan (Scott)]]**:
 
-- What oath did you and **Jason** swear together before your first mission beyond the gates?
-- What invention or tactic did you develop with **Scott** that helped defend a lower hall from collapse?
-
-#### For **Scott**:
-
-- What did you and **Ramsey** discover together in the deep tunnels that no one else has seen?
-- What battle did you and **Jason** fight side by side in that forged your bond?
+- ~~What did you and **[[Rurik Embercloak (Ramsey)]]** discover together in the deep tunnels that no one else has seen?~~
+- ~~What battle did you and **[[Demlor (Jason)]]** fight side by side in that forged your bond?~~

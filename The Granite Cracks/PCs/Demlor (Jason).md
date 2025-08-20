@@ -1,7 +1,9 @@
-# Demlor Dwarven Kineticist Investigator
+# Demlor Dwarven Kineticist Investigator - Ironmark Clan
 ![[Demlor Portrait.jpg]]
 
 ![[Demlor Action.jpg]]
+## Player - Jason Schultz
+
 ## Hunter of Orcs
 - **Male dwarf, mid-20s to 30s (human equivalent), stocky, average height**
 - **Long, braided hair and beard (multiple braids)**
