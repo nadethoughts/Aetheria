@@ -79,9 +79,3 @@
 ![[Varric Silvervein.webp]] A charismatic noble from a rival royal bloodline, Varric is known for his eloquence and political ambition. He is a prominent voice in Ironhold’s court and often challenges the king’s decisions.
 
 ---
-
-## Grondar Earthcaller
-
-![[Grondar Earthcaller.webp]] A legendary stone giant, Grondar is spoken of in old dwarven tales as a master of earth magic and a leader among the giants. His name is rarely mentioned except in stories of the ancient wars.
-
----
