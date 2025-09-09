@@ -95,3 +95,21 @@ Yet.
 ## 🧠 XP Awarded
 
 - 500 XP for accepting the mission, traveling, investigating the ruins, and defeating the Cinder Rats.
+---
+
+## 🛡️ Session 02 – The Cracked Granite
+
+The dwarves pressed deeper into the mines of Dagger’s Sheath, following the trail of destruction left by ogres and stranger foes. Within the darkness, they faced a fierce battle: two ogres and a fiery elemental smith—an Azer—emerged, searching for a missing dwarf. The party struck first, using tactics and teamwork to bring down the brutes and their elemental ally.
+
+After the dust settled, the dwarves searched the ruined mine, finding evidence of a desperate last stand. Among the rubble, Demlor and Hurgan uncovered a survivor: Captain Kael Ironmark, battered but alive. With the mine collapsing around them, the party raced against time, dodging traps and debris to escape with Kael.
+
+Outside, Kael revealed grim news. The giants—thought extinct—had returned, attacking with ogres and elemental thralls. Survivors from Dagger’s Sheath were being held captive in an ogre war camp to the west, guarded by both ogres and elementals. Kael provided a map of the area and marked a safe place to meet later.
+
+The party tended wounds, gathered what supplies they could, and set out to scout the enemy camp. From a hidden vantage, they saw cages of dwarven prisoners, guarded tents, siege weapons, and patrols of ogres, Azers, and mud elementals. The dwarves prepared to infiltrate the camp, rescue their kin, and uncover the truth behind the giants’ return.
+
+**XP Awarded:**
+
+- 500 XP for defeating the ogres and Azer, rescuing Kael Ironmark, and scouting the war camp.
+- The party advances to level 4.
+
+---
