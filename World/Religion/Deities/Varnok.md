@@ -1,7 +1,7 @@
 #rank-of-brilliance 
 ### **Varnok, the Stoneheart**
 ![[Varnok symbol.webp]]
-- **Domain**: Earth, stability, endurance
+- **Domain**: Earth, Might and Confidence
 - **Symbol**: A heart-shaped stone split by a glowing vein
 - **Tenets**:
     - “Stone remembers.”
