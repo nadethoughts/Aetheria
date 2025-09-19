@@ -1,0 +1,3 @@
+#the_granite_cracks #Ironhold 
+
+![[Kelda Deepshiver.webp]]

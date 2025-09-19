@@ -1,0 +1,3 @@
+- **Location**: A shrine room, found in the goblin tunnels, near the exit door leading toward the temple.
+- **Description**: A Elven skull placed on a pedestal, with small blackened candles around it. The eyes are dark sockets, but an eerie magical aura hangs over it. When approached, the players may hear faint whispers in a language only understood with magic or a successful check.
+- **Clue**: "The sands of time shall turn again… the Betrayer will rise, and the flame shall be snuffed out."

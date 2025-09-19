@@ -1,0 +1,1 @@
+The Song of Creation. Rumored to be an aspect of how [[Aetheria]] was created.

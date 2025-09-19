@@ -1,0 +1,1 @@
+> The Unmaker of Ages will return us to the time before flame! He will bring darkness once more and make the wrong things right!
