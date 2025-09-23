@@ -20,79 +20,35 @@
 
 ---
 
-# 📖 Session 01 – The Cracked Granite
+### 🛡️ Session 01 – The Cracked Granite
 
-In the deep halls of Ironhold, beneath the Stonefang Mountains, three dwarves were summoned without ceremony. Each received a sealed scroll and a time. No fanfare. No banners. Just quiet urgency. They were led through ancient corridors, past forges and council chambers, into a rune-carved chamber few had ever seen.
+Deep beneath the Stonefang Mountains, the halls of Ironhold echoed with quiet urgency. Three dwarves—Rurik Embercloak, Hurgan Ironmark, and Demlor Ironmark—were summoned without fanfare, each handed a sealed scroll and led through ancient corridors to a rune-carved chamber few had ever seen.
 
-There, King Hargrin Deepmantle awaited, flanked by his trusted advisors: Baelgrin Deepdelve, the loyal scholar; Bramli Stoneguard, the silent captain; Varric Silvervein, the ambitious noble; and Maela Blackshard, the spymaster whose eyes missed nothing.
+There, King Hargrin Deepmantle awaited, flanked by his trusted advisors: Baelgrin Deepdelve, Bramli Stoneguard, Varric Silvervein, and Maela Blackshard. The king’s words were grave—the southern colony of Dagger’s Sheath had gone silent. No word in over a month. Sending an army would risk political upheaval, so he turned to his champions: dwarves whose deeds had earned respect beyond clan and council.
 
-The king spoke plainly. The southern colony of Dagger’s Sheath had gone silent. No word in over a month. He could not send an army—doing so would give the Isolationists ammunition to halt his expansionist vision. Instead, he turned to three champions: Rurik Embercloak, Hurgan of the Ironmark Clan, and Demlor, a metal-wielding investigator also of the Ironmark Clan.
+Before their departure, Bramli Stoneguard pulled the trio aside. His warning was quiet but dire: the king’s council was compromised. Danger lurked not only in the south, but within Ironhold’s own walls.
 
-Each had earned his trust. Each had proven themselves in Ironhold’s darkest hours.
+The dwarves departed at midnight, slipping through the city’s shadows. Rurik paused at The Forge’s Fire for one last meal, leaving a soap-carved dwarf on the table—a silent promise to return. They rode sturdy goats through silent valleys and frostbitten passes, the world growing colder and quieter with each mile.
 
-Before they departed, Bramli pulled them aside. His warning was quiet but grave: the king’s council was compromised. The danger might not lie only in the south.
+At last, they crested the final ridge. Dagger’s Sheath lay in ruins—buildings shattered, stonework scorched, banners defaced, and the royal seal broken. Giant-sized footprints marked the earth, runes burned deep into the ground. Dwarves lay crushed in their armor, others torn apart by unimaginable force.
 
----
+Demlor, shaken, recognized the signs: giants. Thought extinct for over a thousand years, their return defied all dwarven history.
 
-## 🧙 The Dwarves
+Smoke rose from the quarry. Skittering echoed from the mines. The trio crept forward, weapons ready, and faced their first challenge—Cinder Rats, elemental creatures of fire and molten stone. Rurik’s cold-forged ammunition tore through the beasts. Demlor summoned blades of metal from thin air. Hurgan’s twin axes struck with relentless precision.
 
-**Rurik Embercloak**, a gunslinger medic, once defeated an owlbear that breached the lower halls. Clanless by birth—his parents excommunicated priests of the Deep Shiver—he questioned the rigidity of dwarven religion but held tightly to the bonds of kinship. He had sworn an oath with Demlor: _“Stone unbroken, forge unquenched, together we endure.”_ Together with Hurgan, he had discovered a forgotten dwarven goddess and developed a flanking tactic that once stopped goblin saboteurs. He and Demlor had saved a platoon from an orc ambush, earning the king’s commendation.
+The rats were defeated, but not without cost. Burns lingered, fire clung to their wounds, and the air grew heavy with dread.
 
-**Hurgan**, a scout of the Ironmark Clan, had returned the Lost Key of his people to the temple archives. He quietly opposed the law that required firstborn sons to follow in their father’s footsteps—his own son bore a physical impairment, and Hurgan wanted him to choose his own path. He had taken a bolt for Demlor during a cave-in, and the two now bore matching tattoos. He had fought beside Demlor in the Battle of the Drunken Cave and shared in the discovery of the lost goddess with Rurik.
+As they caught their breath, voices echoed from the darkness:
 
-**Demlor**, a metal kineticist and investigator of the Ironmark Clan, had led an expedition into the Underdark, discovering a hidden route and hostile orcs. Though loyal to his clan, he believed those without lineage still deserved a voice in Ironhold’s future. He had fought beside both Rurik and Hurgan, saved lives, and earned honors. His mind was sharp, his will unyielding, and his power drawn from the very bones of the mountain.
-
----
-
-## 🐐 The Journey
-
-The trio departed at midnight to avoid prying eyes. Rurik stopped at his favorite tavern, _The Forge’s Fire_, for one last meal. As he left, he placed a soap-carved dwarf on the table and pocketed a shale coaster in return.
-
-They rode goats through silent valleys and mountain passes. The journey took just under a week. The air grew colder. The land quieter.
-
----
-
-## 🏚️ Dagger’s Sheath
-
-They crested the final ridge and saw the ruins.
-
-Dagger’s Sheath was gone.
-
-Buildings lay shattered. Stonework scorched. No signs of life. The only sounds were wind and the creak of broken timber.
-
-They found giant-sized footprints—each the length of a dwarf. Defaced banners. A broken royal seal. Runes burned into the earth. Dwarves crushed in their armor, as if by massive hands. Others torn apart.
-
-Demlor, shaken, recognized the signs. Giants. Thought extinct for over a thousand years. Their return defied all dwarven history.
-
----
-
-## 🔥 The Mines
-
-Smoke rose from the quarry. Skittering echoed from the depths. The party crept forward and spotted them—Cinder Rats, elemental creatures of fire and molten stone.
-
-Rurik’s cold-forged ammunition tore through them. Demlor summoned weapons of metal from thin air. Hurgan struck with axe and hammer, his twin takedown style relentless.
-
-The rats were defeated, but not without cost. Burns lingered. Fire clung to their wounds.
-
----
-
-## ⚔️ The Cliffhanger
-
-As they caught their breath, voices echoed from the mines:
-
-> “I not know where it go. This cave too small.”  
-> “Yeah, why stumpies make things so small?”  
-> “Quiet fools. Your master and mine will not be pleased unless we find the creature.”
+> “I not know where it go. This cave too small.” “Yeah, why stumpies make things so small?” “Quiet fools. Your master and mine will not be pleased unless we find the creature.”
 
 Two ogres emerged, their skin etched with crude runes. Between them walked an Azer—a dwarf-shaped elemental glowing with fire.
 
-They hadn’t seen the party.
+The party hadn’t been seen.
 
 Yet.
 
----
-
-## 🧠 XP Awarded
+**XP Awarded:**
 
 - 500 XP for accepting the mission, traveling, investigating the ruins, and defeating the Cinder Rats.
 ---
@@ -111,5 +67,23 @@ The party tended wounds, gathered what supplies they could, and set out to scout
 
 - 500 XP for defeating the ogres and Azer, rescuing Kael Ironmark, and scouting the war camp.
 - The party advances to level 4.
+
+---
+
+### 🛡️ Session 03 – The Cracked Granite
+
+Night cloaked the ogre war camp as the dwarves prepared their boldest gambit yet. Hurgan, mountain-born and keen-eyed, traced a perilous route along the cliff’s edge, guiding his companions through shadow and stone. The camp below seethed with ogres, elemental thralls, and the ominous glow of arcane rituals.
+
+Slipping into the chaos, Rurik Embercloak became a ghost among giants. He crept to the edge of the command tent, snatched battle maps and secret missives from the war table, and left behind a marble—a silent mark of dwarven honor. Then, with a grin and a spark, Rurik unleashed a storm: black powder ignited, flames roaring skyward, scattering ogres and sowing confusion.
+
+Inside the tent, Demlor Ironmark called upon the mountain’s power. From the edge of the tent, he reached out with magnetic force, drawing a pile of dwarven weapons and armor—loot taken from the fallen—toward himself. But the female ogre performing a dark ritual spotted him, and violence erupted. Demlor fought her in the heart of the tent, steel and elemental fury clashing amid the chaos. In the struggle, Demlor shattered the chains binding a captive dwarf, freeing him from the ritual’s grip and the brink of elemental corruption.
+
+With the camp in chaos—ogres scrambling, tents ablaze—the trio raced to the cages where twenty dwarven survivors awaited rescue. Hurgan led the assault, dispatching the remaining guards with ruthless precision, while Demlor finished off the last foe. The dwarves outfitted their kin with reclaimed gear, scaled the cliffs, and vanished into the night, tracks covered and hearts racing.
+
+Reunited with Captain Kael Ironmark, the dwarves learned the grim truth: many captives had been transformed into elemental thralls, their wills bent to the giants’ cause. Armed with stolen intelligence, rescued kin, and the knowledge of a new, elemental threat, the heroes turned toward Ironhold—ready to warn the king and face whatever darkness awaited.
+
+**XP Awarded:**
+
+- 500 XP for infiltrating the camp, rescuing the dwarves, and escaping with vital intelligence.
 
 ---
