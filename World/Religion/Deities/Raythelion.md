@@ -1,6 +1,6 @@
 #dawn-father-creator-of-all
 # The Sun God and Creator
-![[Raythelion-logo-2.webp]]
+![[Raythelion-logo-2.webp|400]]
 
 - **Title**: The Creator and Sustainer
 - **Domain**: Creation, Life, The Cosmos
@@ -15,9 +15,9 @@ Raythelion emerged as the first light, shattering the primordial darkness and es
 Other deities are reflections of Raythelion, each an aspect of his multifaceted nature. They govern their realms under Raythelion's omnipotent gaze, preserving the harmony of creation.
 
 ### The Celestial Emissaries
-Known as the [[La Pelu]], these beings are fragments of Raythelion's solar essence, serving as his heralds. They manifest throughout history, steering the course of events towards enlightenment and prosperity. 
+Known as the [[La Pelu (Sun Swords)]], these beings are fragments of Raythelion's solar essence, serving as his heralds. They manifest throughout history, steering the course of events towards enlightenment and prosperity. 
 
-In the modern Culture however, they are thought to be servants of [[Erabose]] with hidden agendas of destruction, due to a time of fear and destruction, 400 years ago in which many of the Sun Swords ([[La Pelu]]) were corrupted and made to be servants of [[Erabose]]. This brought to an end the Golden Age of [[The Blessed Realm]] and in order to save the world, they were forced to put all the [[La Pelu]] to the sword. Rather than risk another time of darkness, [[The Blessed Realm]] created Systems and Knights orders to destroy any Sun Swords who appear before they become too powerful to defeat.
+In the modern Culture however, they are thought to be servants of [[Erabose]] with hidden agendas of destruction, due to a time of fear and destruction, 400 years ago in which many of the Sun Swords ([[La Pelu (Sun Swords)]]) were corrupted and made to be servants of [[Erabose]]. This brought to an end the Golden Age of [[The Blessed Realm]] and in order to save the world, they were forced to put all the [[La Pelu (Sun Swords)]] to the sword. Rather than risk another time of darkness, [[The Blessed Realm]] created Systems and Knights orders to destroy any Sun Swords who appear before they become too powerful to defeat.
 
 ### The Benevolent Watcher
 As a nurturing force, Raythelion's warmth encourages life's flourishing across the cosmos. He is the reluctant intervener, acting only when the fabric of existence is at risk, serving as the ultimate guardian.

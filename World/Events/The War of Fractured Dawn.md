@@ -2,7 +2,7 @@
 
 ## The Sundering of Light
 
-In the twilight of the Second Age, the world of [[Aetheria]] flourished under the guidance of the [[La Pelu]]—divine champions of [[Raythelion]], the Dawnfather. These radiant beings were not merely warriors, but stewards of harmony. They upheld peace, nurtured growth, and served as living conduits of divine will.
+In the twilight of the Second Age, the world of [[Aetheria]] flourished under the guidance of the [[La Pelu (Sun Swords)]]—divine champions of [[Raythelion]], the Dawnfather. These radiant beings were not merely warriors, but stewards of harmony. They upheld peace, nurtured growth, and served as living conduits of divine will.
 
 But peace is fragile.
 

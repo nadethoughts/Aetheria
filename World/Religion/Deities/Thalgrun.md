@@ -1,6 +1,6 @@
 #rank-of-brilliance
 ### **Thalgrun, Lord of Flame**
-![[Thalgrun.webp]]
+![[Thalgrun.webp|300]]
 - **Domain**: Fire, heat, transformation
 - **Symbol**: A flame enclosed in a rune circle
 - **Tenets**:

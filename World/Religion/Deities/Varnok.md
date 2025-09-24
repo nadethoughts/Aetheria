@@ -1,6 +1,6 @@
 #rank-of-brilliance 
 ### **Varnok, the Stoneheart**
-![[Varnok symbol.webp]]
+![[Varnok symbol.webp|300]]
 - **Domain**: Earth, Might and Confidence
 - **Symbol**: A heart-shaped stone split by a glowing vein
 - **Tenets**:

@@ -1,6 +1,6 @@
 #dark-pantheon
 # The Sovereign of Shadows
-![[Erabose-Logo.webp]]
+![[Erabose-Logo.webp|300]]
 
 ## Title: The Dark Sovereign
 - **Rank**: Leader of [[The Dark Pantheon]]

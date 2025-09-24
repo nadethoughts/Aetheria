@@ -1,6 +1,6 @@
 #dark-pantheon 
 ### **Vexira, the Shard Queen**
-![[Vexira Symbol.webp]]
+![[Vexira Symbol.webp|300]]
 - **Domain**: Ice, cruelty, stillness
 - **Symbol**: A frozen crown of jagged crystal
 - **Worship**: Ice fasts, bloodletting in snow, glacial tombs

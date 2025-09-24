@@ -1,6 +1,6 @@
 #guiding-luminescence 
 ### **Karnun, the Gearwright**
-![[Karnun Symbol.webp]]
+![[Karnun Symbol.webp|300]]
 - **Domain**: Engineering, invention, mechanics
 - **Symbol**: Interlocking gears forming a mountain silhouette
 - **Tenets**:
