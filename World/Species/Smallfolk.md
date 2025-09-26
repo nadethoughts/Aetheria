@@ -1,5 +1,5 @@
 ## **Gnomes & Halflings**
-![[Smallfolk.jpg|300]]
+![[Smallfolk.png|300]]
 ### **The Smallfolk of [[Aetheria]]**
 Smallfolk are diminutive humanoids who rely on community and cleverness to survive. Gnomes build underground communities, while halflings farm the surface. Their boundless enthusiasm and adaptability ensure their success wherever they go.
 - **Common Traits:** Small stature, luck, and natural adaptation (darkvision and illusion for gnomes, charm/fear resistance for halflings).

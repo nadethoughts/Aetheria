@@ -108,7 +108,7 @@ Mystical, plane-touched beings with celestial or fiendish traits. Sydereans walk
 ---
 
 ### **Smallfolk (Gnome/Halfling)**
-![[Smallfolk.jpg]]
+![[Smallfolk.png]]
 **Front:**  
 Small, clever, and community-minded. Gnomes and halflings survive with luck and wit, fitting in anywhere.
 
