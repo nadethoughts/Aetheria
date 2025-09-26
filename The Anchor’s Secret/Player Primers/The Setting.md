@@ -1,7 +1,7 @@
 ## 🗺️ **Player Primer, Part 1: Welcome to [[Aetheria]] & [[New Penmaris]]**
 
 ### **[[Aetheria]]: The World**
-[[Aetheria]] is a planet shaped by cycles of magical disaster and renewal. Its lands are diverse—[[Dwarves]] rule the stone halls of [[Ironhold]], [[Elves]] dwell in the psychic forests of [[Luminael]], and [[The Blessed Realm]] shined with order and grace. The continent of **[[Solaris]]** is the center stage, with regions like the [[Free Cities of the Vale]], the [[Shimmering Shores]], and the resilient northern coast: ***[[The Verdant Strand]]***.
+[[Aetheria]] is a planet shaped by cycles of magical disaster and renewal. Its lands are diverse—[[Dwarves]] rule the stone halls of [[Ironhold]], [[Elves 1]] dwell in the psychic forests of [[Luminael]], and [[The Blessed Realm]] shined with order and grace. The continent of **[[Solaris]]** is the center stage, with regions like the [[Free Cities of the Vale]], the [[Shimmering Shores]], and the resilient northern coast: ***[[Verdant Strand]]***.
 
 **What makes [[Aetheria]] different?**
 - Magic is powerful but unpredictable, leaving scars and wonders across the land.
@@ -10,8 +10,8 @@
 
 ---
 
-### **[[The Verdant Strand]]: The Northern Coast**
-[[The Verdant Strand]] stretches along [[Solaris]]’s northern coast, marked by rocky cliffs, pine forests, and bustling trade towns. Its people are practical, community-focused, and skilled at sea and trade. After the recent magical disaster known as the **[[Flaming Retribution]]**, the Survivors of [[The Verdant Strand]] have sought to rebuild quickly.
+### **[[Verdant Strand]]: The Northern Coast**
+[[Verdant Strand]] stretches along [[Solaris]]’s northern coast, marked by rocky cliffs, pine forests, and bustling trade towns. Its people are practical, community-focused, and skilled at sea and trade. After the recent magical disaster known as the **[[Flaming Retribution]]**, the Survivors of [[Verdant Strand]] have sought to rebuild quickly.
 
 ---
 
@@ -44,6 +44,18 @@ One year ago, the [[Flaming Retribution]] swept across [[Aetheria]], destroying 
 - Lost family or home to the Flaming Retribution.
 - Has a personal stake in the city’s survival—family, vengeance, redemption, or ambition.
 
+**Lineages: Who Walks the Streets of New Penmaris?**
+- **Beastkin:** Humanoids with pronounced animal traits—wings, claws, tails, or more. Tied to the wilds, fey realms, or magical transformation, beastkin thrive on the edges of civilization and make excellent scouts, wardens, or guides.
+- **Dwarf:** Hardy, people from Ironhold, known for resilience and craftsmanship. Dwarves are invaluable as builders, defenders, and explorers in the ruined city.
+- **Elf:** Long-lived, graceful, and deeply connected to ancient forests and psionic power. Elves bring keen senses and mental discipline, helping unravel mysteries.
+- **Human:** Versatile, ambitious, and adaptable. Humans are the backbone of New Penmaris—natives, refugees, merchants, and adventurers, filling every role in the city’s struggle to survive.
+- **Kobold:** Small, draconic humanoids with a knack for traps and tinkering. Kobolds excel as scavengers and trap-makers, perfect for navigating the dangerous, monster-filled ward.
+- **Orc:** Resilient, powerful, and driven by survival and exploration. Orcs thrive in chaos and adversity, making them ideal for front-line roles in reclaiming the ward.
+- **Syderean:** Mystical, plane-touched beings with celestial or fiendish traits. Sydereans are rare but bring otherworldly abilities and resilience, valuable in facing supernatural threats.
+- **Smallfolk (Gnome/Halfling):** Small, clever, and community-oriented. Smallfolk are resourceful and lucky, fitting in anywhere and helping others survive and rebuild.
+>***Tip:***
+>  *Each lineage brings unique strengths and perspectives to the party and the city. Whether you’re a native, refugee, or outsider, your heritage shapes how you survive, adapt, and help reclaim [[New Penmaris]].*
+
 **Character classes:**
 - **Barbarian** - Ferocious warriors who harness primal power.
 - **Bard** - Skilled performers who inspire allies and wield Arcane magic.
@@ -61,17 +73,17 @@ One year ago, the [[Flaming Retribution]] swept across [[Aetheria]], destroying 
 
 **Religion:**
 
-| Deity Name  | Domain               | Symbol              | Role in New Penmaris   |
-| ----------- | -------------------- | ------------------- | ---------------------- |
-| [[Durnhal]] | Endurance, Craft     | Hammer & anvil      | Rebuilding, unity      |
-| [[Karnun]]  | Innovation           | Interlocking gears  | Shipwrights, tinkerers |
-| [[Gemmara]] | Artistry, Design     | Eye in gemstone     | Merchants, architects  |
-| [[Uhlvara]] | Hunt, Discovery      | Eye in compass rose | Sailors, explorers     |
-| [[Cadens]]  | Harmony, Inspiration | Lyre                | Bards, diplomats       |
-| [[Miraine]] | Protection, Passage  | Shield & waves      | Harbor guards, sailors |
-| [[Serelle]] | Healing, Mercy       | Lantern             | Refugees, healers      |
-| [[Vessan]]  | Luck, Commerce       | Coin & scales       | Merchants, gamblers    |
-| [[Eldran]]  | Memory, Ancestors    | Book & quill        | Chroniclers, mourners  |
+| Deity Name  | Domain                    | Symbol              | Role in [[New Penmaris]]   |
+| ----------- | ------------------------- | ------------------- | ---------------------- |
+| [[Durnhal]] | Endurance, Craft          | Hammer & anvil      | Rebuilding, unity      |
+| [[Karnun]]  | Innovation                | Interlocking gears  | Shipwrights, tinkerers |
+| [[Gemmara]] | Artistry, Design          | Eye in gemstone     | Merchants, architects  |
+| [[Uhlvara]] | Hunt, Discovery           | Eye in compass rose | Sailors, explorers     |
+| [[Cadens]]  | Harmony, Inspiration      | Lyre                | Bards, diplomats       |
+| [[Miraine]] | Protection, Passage       | Shield & waves      | Harbor guards, sailors |
+| [[Serelle]] | Healing, Mercy            | Lantern             | Refugees, healers      |
+| [[Vessan]]  | Luck, Commerce            | Coin & scales       | Merchants, gamblers    |
+| [[Eldran]]  | Wisdom, Memory, Ancestors | Book & quill        | Chroniclers, mourners  |
 - Shrines and lanterns dedicated to these gods are found throughout the city and camps.
 
 ---

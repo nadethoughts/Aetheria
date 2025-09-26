@@ -1,5 +1,5 @@
 ## 🛡️ **The Dwarves of [[Aetheria]]**
-
+![[Dwarf.png|300]]
 The dwarves of [[Aetheria]] are a proud, enduring people shaped by stone, fire, and tradition. Their civilization is ancient, rooted in the deep places of the world, and defined by resilience in the face of catastrophe. When the [[Flaming Retribution]] scorched the surface, the dwarves of [[Ironhold]] sealed their gates and survived—alone, but unbroken.
 
 Dwarven society is structured around powerful [[Ironhold#The Clans of Ironhold|clans]], each with its own function, traditions, and political influence. These clans are tight-knit and proud, [[Ironhold#The Clans of Ironhold|clans]] loyalties that span generations. Some are warriors, others scholars, engineers, merchants, mystics, or scouts. A rare few walk without clan, either by choice or exile, and are viewed with a mix of suspicion and respect.

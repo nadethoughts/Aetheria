@@ -24,7 +24,7 @@ At the heart of Aetheria are the **[[Free Cities of the Vale]]**. This region is
 
 The eastern coastline, known as **[[The Shimmering Shores]]**, boasts some of the busiest ports in all of [[Aetheria]]. Here, merchants from distant lands mingle with local traders, creating a vibrant tapestry of commerce and exchange.
 
-## **[[Verdant Strand]]**
+## **[[World/Locations/Verdant Strand]]**
 
 The **Verdant Strand** stretches along the northern coast of Solaris, featuring **rocky cliffs, pine-covered hills, and sheltered bays**. Rebuilt after the upheavals of the Flaming Retribution, the region is a hub of **resilient mercantile towns**, small harbors, and forested settlements. Its inhabitants are practical, industrious, and community-oriented, balancing seafaring, trade, and forest livelihoods.
 
