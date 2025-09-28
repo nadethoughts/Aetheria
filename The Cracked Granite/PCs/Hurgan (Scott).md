@@ -71,3 +71,6 @@ Now, as Ironhold looks to reclaim its place in the world, Hurgan stands ready—
     - They commemorated the event with **tattoos**.
 - **Tactic with Rurik:** Used stealth to flank and eliminate goblin leadership before they could collapse a hall.
 - **Battle with Demlor:** Fought side-by-side in the **Battle of the Drunken Cave**, defeating a drunken orc scout team.
+
+# Visual prompt
+A powerful, broad-shouldered male dwarf, slightly taller than average for a dwarf. Ranger. His hair is long, blonde, and windblown, with a full, practical beard. His eyes are warm but intense. He wears rugged medium surki carapace armor, rune-etched and battle-worn, with fur lining for warmth. A geometric frostwalker tattoo winds across his forearm and hand, visible even in armor. He carries both a dwarven war axe and a warhammer. At his belt rests a traditional dwarven clan dagger. A sign of sigils is visible among his gear. For a Pathfinder 2e Game I am running.
