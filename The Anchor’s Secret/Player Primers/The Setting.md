@@ -11,7 +11,7 @@
 ---
 
 ### **[[Verdant Strand]]: The Northern Coast**
-[[Verdant Strand]] stretches along [[Solaris]]’s northern coast, marked by rocky cliffs, pine forests, and bustling trade towns. Its people are practical, community-focused, and skilled at sea and trade. After the recent magical disaster known as the **[[Flaming Retribution]]**, the Survivors of [[Verdant Strand]] have sought to rebuild quickly.
+[[Verdant Strand]] stretches along [[Solaris]]’s north eastern coast, marked by rocky cliffs, pine forests, and bustling trade towns. Its people are practical, community-focused, and skilled at sea and trade. After the recent magical disaster known as the **[[Flaming Retribution]]**, the Survivors of [[Verdant Strand]] have sought to rebuild quickly.
 
 ---
 
