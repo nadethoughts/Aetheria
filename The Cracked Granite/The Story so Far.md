@@ -1,4 +1,4 @@
-### 🪓 **Introduction – The Cracked Granite**
+# 🪓 **Introduction – The Cracked Granite**
 
 > _The Fourth Age is young, but already scarred._
 > 
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛡️ Session 01 – The Cracked Granite
+# 🛡️ Session 01 – The Cracked Granite
 
 Deep beneath the Stonefang Mountains, the halls of Ironhold echoed with quiet urgency. Three dwarves—Rurik Embercloak, Hurgan Ironmark, and Demlor Ironmark—were summoned without fanfare, each handed a sealed scroll and led through ancient corridors to a rune-carved chamber few had ever seen.
 
@@ -53,7 +53,7 @@ Yet.
 - 500 XP for accepting the mission, traveling, investigating the ruins, and defeating the Cinder Rats.
 ---
 
-## 🛡️ Session 02 – The Cracked Granite
+# 🛡️ Session 02 – The Cracked Granite
 
 The dwarves pressed deeper into the mines of Dagger’s Sheath, following the trail of destruction left by ogres and stranger foes. Within the darkness, they faced a fierce battle: two ogres and a fiery elemental smith—an Azer—emerged, searching for a missing dwarf. The party struck first, using tactics and teamwork to bring down the brutes and their elemental ally.
 
@@ -70,7 +70,7 @@ The party tended wounds, gathered what supplies they could, and set out to scout
 
 ---
 
-### 🛡️ Session 03 – The Cracked Granite
+# 🛡️ Session 03 – The Cracked Granite
 
 Night cloaked the ogre war camp as the dwarves prepared their boldest gambit yet. Hurgan, mountain-born and keen-eyed, traced a perilous route along the cliff’s edge, guiding his companions through shadow and stone. The camp below seethed with ogres, elemental thralls, and the ominous glow of arcane rituals.
 
