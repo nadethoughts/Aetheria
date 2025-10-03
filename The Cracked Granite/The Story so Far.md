@@ -87,3 +87,24 @@ Reunited with Captain Kael Ironmark, the dwarves learned the grim truth: many ca
 - 500 XP for infiltrating the camp, rescuing the dwarves, and escaping with vital intelligence.
 
 ---
+# 🛡️ Session 04 – The Cracked Granite
+
+With the ogre warcamp in flames behind them, the dwarves fled into the mountains, guiding twenty-one rescued kin and the wounded Captain Kael Ironmark. Their destination: a dwarven watchtower two days away. But the ogres had loosed their hunters.
+
+The journey became a desperate race. The party navigated treacherous terrain, shielding the refugees from pursuit. But the howls came—dire wolves and a monstrous ogre werewolf found their trail. In a brutal clash, the dwarves stood firm. The werewolf fell, and a refugee was pulled from death’s grip by Rurik’s steady hands.
+
+They pressed on, evading a cyclops and its venomous spider companion, and a flame drake that scorched the skies. Through clever scouting and sheer grit, they avoided further bloodshed.
+
+But as dawn broke on the second day, the mountains betrayed them. A misstep in the final stretch brought the cyclops and spider down upon them—just hours from safety. The session ended on a cliffhanger, the watchtower in sight, but danger closing fast.
+
+**XP Awarded:**
+
+- 500 XP for surviving the escape, defeating the werewolf, and protecting the refugees.
+- The party advances to level 5.
+
+**Key NPCs:**
+
+- Kael Ironmark – Wounded, guiding the refugees.
+- Gorvok – Ogre warcamp leader (not encountered directly).
+- 21 dwarven refugees – Rescued from the warcamp.
+---
