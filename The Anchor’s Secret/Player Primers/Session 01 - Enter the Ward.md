@@ -16,52 +16,72 @@ _(Opening Scene — Player-Facing Introduction & GM Notes)_
 > 
 > He glances back at the fog curling through the cracks in the gate.  
 > 
-> “Name’s **Fredrick Wainshore**. I’m the one who opens this door. Glad to see they have found some people with experience this time..."
+> “Name’s **Fredrick Wainshore**. I’m the one who opens this door." He gives each of you a cursory glance, "Glad to see they have found some people with experience this time..."
 
 ---
 
 ### 👤 **Fredrick Wainshore, Iron Tide Gatekeeper**
-
+![[Fredrick Wainshore.png]]
 - **Rank:** Sergeant of the Iron Tide Regiment
 - **Appearance:** Mid-forties, thick-shouldered, salt-gray hair tied back. His armor is oiled to resist the sea air, though barnacles still cling to the lower greaves. His halberd bears an engraved tide mark near the haft — ten years of service.
 - **Personality:** Grizzled but professional; the kind of soldier who measures everyone by whether they’ll survive the night.
 - **Voice:** Rough and deliberate, coastal dialect with clipped consonants.
 
-#### **Fredrick’s Greeting**
+---
 
-> “So you’re the ones they sent.” _He studies each of you like a quartermaster inspecting weapons._  
-> “You’re not conscripts, then. That’s good. The Regiment needs specialists — people who can think, not just march.”
-> 
-> _He gestures at the gate behind him._  
-> “Tidewatch’s gone bad. The fog took it six months ago, and nothing we send in comes back whole. We’ve orders to hold the wall… but the brass says you’re to go _through_ it. Guess that means you’re either our salvation or our next report to the quartermaster.”
+### 🧭 **Fredrick Wainshore – Quick Reference**
+
+**About the Mission**
+
+- The Iron Tide Regiment has orders to _reclaim and stabilize_ the Tidewatch Ward.
+- The players are being sent to **investigate the source of the fog** and any threats within.
+- They’re to report back any discoveries — especially if it relates to the **creatures** or **magical disturbances**.
+- “You’re not here to fight a war. You’re here to find out what’s still fighting one.”
+---
+**About the Tidewatch Ward**
+
+- Once a harbor district — now flooded, fog-choked, and mostly abandoned.
+- **No civilians remain**; the area’s been quarantined for six months.
+- The Regiment holds the wall, but **nothing beyond it is secure**.
+- Patrols stopped three months ago after repeated losses.
+---
+
+**About the Fog**
+
+- Not natural — comes and goes with the tide but _moves against the wind_.
+- Warps sound and light; “sometimes you hear your own voice coming back wrong.”
+- The fog is **cold**, even when the sun’s up — and sometimes it glows faintly blue.
+- “Things move inside it. Slow. Like they’re watching.”
 
 ---
 
-### 💬 **Information Fredrick Can Share (If Questioned or Roleplayed With)**
+**About the Creatures**
 
-- **About the Mission:** “You’re being sent to **survey and stabilize** the ward — find out what’s stirring the fog and stop it if you can. We’ve lost patrols, and something big’s been moving beneath the streets.”
-    
-- **About the Iron Tide Regiment:** “We keep the city safe from whatever the Retribution left behind. The council gives orders, but we’re the ones who bleed for ‘em.”
-    
-- **About the Fog:** “It’s not weather — it’s alive. It rolls in and out like a tide, always colder in the middle. Nothing good happens where the mist gets thickest.”
-    
-- **About the Tidewatch Ward:** “Used to be shipwrights, fishmongers, taverns on every corner. Now? Just wreckage, salt, and bones. You’ll find cargo washed up in alleys — and sometimes the hands that hauled it.”
-    
-- **About Reinforcements:** “You’re on your own past this gate. We can’t spare a squad, and the fog blocks signals. If you need backup, you’ll have to come back to us — assuming you can.”
-    
-- **Rumors:** “Something’s feeding down there. The Bone Crabs have been restless — bigger, meaner. And last week, we heard something _eating them._ Like the sea itself got hungry.”
-    
+- **Bone Crabs** are common — twisted remnants of sea life, fused with bone and magic.
+- Something bigger has started **feeding on them** — “the fog’s getting hungrier.”
+- Corpses from failed expeditions often wash back up along the inner wall.
+---
+**About the Regiment**
+
+- The **Iron Tide Regiment** was formed from veterans of the Flaming Retribution.
+- Their duty is to **protect the city**, not reclaim the Ward — that’s why the PCs are here.
+- “Orders from the council don’t mean much if the wall doesn’t hold.”
+
+---
+
+**Rumors & Warnings**
+- “The fog hums before a storm.”
+- “If you hear bells underwater, run.”
+- “Don’t use open flame — the air gets strange when you do.”
+- “If the runes on the wall stop glowing, get back here _fast_.”
 
 ---
 
 ### 🧱 **The Setting of the Gate**
 
 - The **Tidewatch Wall** is 25 feet thick at its base, made from stone quarried from the old peninsula before it sank.
-    
 - The **Iron Gate** has sigils carved into it — old wards against storm and spirit, now worn thin.
-    
 - A **barracks and armory** sit just inside the safer side of the wall; the soldiers refuse to sleep near the gate itself anymore.
-    
 - **Sound design (for atmosphere):** distant waves, muffled shouting from patrols, the low groan of metal under pressure.
     
 
@@ -88,11 +108,8 @@ _(Opening Scene — Player-Facing Introduction & GM Notes)_
 **Encounter Notes:**
 
 - **CR:** Low to moderate — intended as a warm-up encounter.
-    
 - **Tactics:** Swarm behavior, target isolated PCs.
-    
 - **Environmental Detail:** Broken planks, tide pools, rusted nets, and barnacle-crusted debris provide difficult terrain.
-    
 
 ---
 
