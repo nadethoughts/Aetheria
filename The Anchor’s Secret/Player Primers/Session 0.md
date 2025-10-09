@@ -4,24 +4,7 @@
 > Volunteers of proven courage and skill are called to assist in the reclamation of the [[Tidewatch Ward]].  
 > Payment, provisions, and recognition to be granted upon mission completion.  
 > Glory to the Reclaimed City.”
-## ⚓ **Session 0 Introduction: The City That Refused to Drown**
 
-> _A year ago, Penmaris burned._  
-> When the **[[Flaming Retribution]]** swept across the [[Verdant Strand]], the proud coastal city was swallowed by fire and storm.  
-> The peninsula sank beneath the waves — all that remains is the island that was once its heart.
->
-> Now, that island is **[[New Penmaris]]**, a city still finding its footing on the bones of the old.  
-> It’s built mostly of wood and willpower — scaffolds and ship timbers hammered into half-finished streets, with only a few stone walls standing firm where the sea demands it.  
-> The air smells of salt, sawdust, and smoke. The docks never sleep. Hope and hardship live side by side.
->
-> But six months ago, that fragile peace shattered.  
-> The **[[Tidewatch Ward]]**, the great seawall district that guards the harbor, was overrun by monsters and magically warped beasts.  
-> The defenders fell back, sealing the ward behind walls and magic. Since then, the storms there haven’t stopped and the defenses are only just holding... for now.
->
-> The [[New Penmaris - Iron Tide Regiment|Iron Tide Regiment]] calls for those with courage — **adventurers, wanderers, and heroes** — to cross the wall and reclaim what was lost.  
-> You’ve each proven yourselves during the rebuilding: protecting workers, hunting threats, restoring fragments of the old city.  
-> But what waits in the[[ Tidewatch Ward]] will test your skill and resolve…  
-> Whether [[New Penmaris]] can truly survive the the tide rests in your hands.
 ## 🎲 **Session 0 Primer — Tales of the Valiant: The Anchor’s Secret**
 
 ### 🧭 What Is a Roleplaying Game
@@ -42,6 +25,25 @@
 - By the end of tonight, you’ll know **who your character is**, **why they’re in New Penmaris**, and **what drives them** to join the effort to reclaim the **Tidewatch Ward**.
 
 ---
+## ⚓ **Session 0 Introduction: The City That Refused to Drown**
+
+> _A year ago, Penmaris burned._  
+> When the **[[Flaming Retribution]]** swept across the [[Verdant Strand]], the proud coastal city was swallowed by fire and storm.  
+> The peninsula sank beneath the waves — all that remains is the island that was once its heart.
+>
+> Now, that island is **[[New Penmaris]]**, a city still finding its footing on the bones of the old.  
+> It’s built mostly of wood and willpower — scaffolds and ship timbers hammered into half-finished streets, with only a few stone walls standing firm where the sea demands it.  
+> The air smells of salt, sawdust, and smoke. The docks never sleep. Hope and hardship live side by side.
+>
+> But six months ago, that fragile peace shattered.  
+> The **[[Tidewatch Ward]]**, the great seawall district that guards the harbor, was overrun by monsters and magically warped beasts.  
+> The defenders fell back, sealing the ward behind walls and magic. Since then, the storms there haven’t stopped and the defenses are only just holding... for now.
+>
+> The [[New Penmaris - Iron Tide Regiment|Iron Tide Regiment]] calls for those with courage — **adventurers, wanderers, and heroes** — to cross the wall and reclaim what was lost.  
+> You’ve each proven yourselves during the rebuilding: protecting workers, hunting threats, restoring fragments of the old city.  
+> But what waits in the[[ Tidewatch Ward]] will test your skill and resolve…  
+> Whether [[New Penmaris]] can truly survive the the tide rests in your hands.
+
 ## ⚖️ **Table Expectations**
 
 ### 🎭 Story & Collaboration
