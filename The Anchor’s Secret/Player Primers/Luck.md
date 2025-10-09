@@ -10,7 +10,7 @@ Gain **1 Luck** when you:
 - Fail an **ability check**
 
 > Max **5 Luck**.  
-> If you gain Luck while at 5, instead roll **1d4** and add it to your next d20 roll.
+> If you gain Luck while at 5, instead roll **1d4** and change your total luck to the result of the roll.
 
 ---
 ### ⚡ **Spending Luck**
