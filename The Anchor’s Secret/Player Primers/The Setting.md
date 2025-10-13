@@ -73,17 +73,17 @@ One year ago, the [[Flaming Retribution]] swept across [[Aetheria]], destroying 
 
 **Religion:**
 
-| Deity Name  | Domain                    | Symbol              | Role in [[New Penmaris]]   |
-| ----------- | ------------------------- | ------------------- | ---------------------- |
-| [[Durnhal]] | Endurance, Craft          | Hammer & anvil      | Rebuilding, unity      |
-| [[Karnun]]  | Innovation                | Interlocking gears  | Shipwrights, tinkerers |
-| [[Gemmara]] | Artistry, Design          | Eye in gemstone     | Merchants, architects  |
-| [[Uhlvara]] | Hunt, Discovery           | Eye in compass rose | Sailors, explorers     |
-| [[Cadens]]  | Harmony, Inspiration      | Lyre                | Bards, diplomats       |
-| [[Miraine]] | Protection, Passage       | Shield & waves      | Harbor guards, sailors |
-| [[Serelle]] | Healing, Mercy            | Lantern             | Refugees, healers      |
-| [[Vessan]]  | Luck, Commerce            | Coin & scales       | Merchants, gamblers    |
-| [[Eldran]]  | Wisdom, Memory, Ancestors | Book & quill        | Chroniclers, mourners  |
+| Deity Name  | Domain                    | Symbol              | Role in [[New Penmaris]] |
+| ----------- | ------------------------- | ------------------- | ------------------------ |
+| [[Durnhal]] | Endurance, Craft          | Hammer & anvil      | Rebuilding, unity        |
+| [[Karnun]]  | Innovation                | Interlocking gears  | Shipwrights, tinkerers   |
+| [[Gemmara]] | Artistry, Design          | Eye in gemstone     | Merchants, architects    |
+| [[Uhlvara]] | Hunt, Discovery           | Eye in compass rose | Sailors, explorers       |
+| [[Cadens]]  | Harmony, Inspiration      | Lyre                | Bards, diplomats         |
+| [[Miraine]] | Protection, Passage       | Shield & waves      | Harbor guards, sailors   |
+| [[Serelle]] | Healing, Mercy            | Lantern             | Refugees, healers        |
+| [[Vessan]]  | Luck, Commerce            | Coin & scales       | Merchants, gamblers      |
+| [[Eldran]]  | Wisdom, Memory, Ancestors | Book & quill        | Chroniclers, mourners    |
 - Shrines and lanterns dedicated to these gods are found throughout the city and camps.
 
 ---
