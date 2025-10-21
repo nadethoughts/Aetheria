@@ -76,3 +76,52 @@ Locally respected in one district (Tide’s End), but largely unknown beyond it.
 Known more for reliability and compassion than for power or prestige.
 Haunted by his brother’s shadow — a personal threat, not yet a legend.
 Balancing between faith and self-doubt, trying to live up to Aldren’s legacy.
+### ⚔️ Arthur’s Contacts in New Penmaris
+#### **Father Aldren Thane (Deceased, Guiding Presence)**
+_Human Priest of Serelle — Former mentor_  
+Though gone since the Flaming Retribution, Aldren’s teachings still shape Arthur’s choices.  
+His old journal, kept in the Sanctum archives, sometimes “appears” to Arthur when he prays — an echo of memory guiding him toward mercy.
+
+---
+#### **Sister Mira Korran**
+_Half-elf Priestess of Miraine — Supervisor at the Sanctum of the Shield and Wave_  
+Practical and commanding, Mira is responsible for the safety patrols along Tide’s End.  
+She trusts Arthur’s heart but worries his compassion clouds his caution.  
+She’s the one who assigns him to escort duties near the sealed Tidewatch Gate.
+
+---
+#### **Captain Jorran Vale**
+_Human Veteran — Commander of the Tide’s End Watch_  
+A scarred soldier who served during the Flaming Retribution.  
+He values discipline and sees Arthur as reliable but green.  
+Jorran provides city orders, tactical insight, and occasionally bends protocol to let Arthur investigate beyond his post.
+
+---
+#### **Kaelrix the Burned**
+_Kobold Sorcerer — Former Brother, Now Rival_  
+Once Arthur’s childhood companion, now rumored to command a faction in Tidewatch Ward.  
+Whispers say his magic flared again within the ward’s haunted ruins — perhaps even seeking the Pearl.  
+For Arthur, Kaelrix is both a ghost of guilt and a test of faith.
+
+---
+#### **Helene Tarsin**
+_Human Scholar — Keeper of the Sanctum Archives_  
+A quiet historian cataloging relics recovered from the ruins.  
+She’s been studying pre-Retribution texts mentioning “the Heart Below the Tide,” a phrase that may describe the Pearl.  
+She often consults Arthur for guard duty during excavations, and secretly feeds him clues.
+
+---
+#### **Brother Tamric**
+_Halfling Medic — Faithful of Serelle_  
+A cheerful healer who patches up dockworkers and watchmen alike.  
+He’s Arthur’s closest friend within the faith, often teasing him about his “hero complex.”  
+Tamric keeps his ear to the streets and might hear first when strange injuries appear from Tidewatch’s border.
+# Session 00 info
+### **Arthur (Paladin – Ian)**
+
+- Began training as a **paladin at age 13**.
+- Was **present at the original Tidewatch invasion**.
+- **Fought alongside Skirk** (Dave’s character) during that attack; the two gained renown for **defeating a large monster** when others lacked the courage.
+- Both were **handpicked by the same counselor or guildmaster** for their **courage in defending others**.
+- Currently **entrusted with a new mission** from that counselor (details not decided in transcript).
+- Was asked in-session: _“What oath did you swear to the people or city that still guides your every choice?”_ — discussion began but wasn’t finalized.
