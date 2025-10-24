@@ -1,3 +1,5 @@
+# Player: Derek
+![[Jesrek.webp]]
 # Session 00 info
 ### Jezrek
 - Possesses a **star chart compass recovered from the wreckage of Old Penmaris**.
