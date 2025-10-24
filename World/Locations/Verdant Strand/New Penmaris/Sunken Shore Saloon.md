@@ -1,0 +1,1 @@
+An underground tavern in New Penmaris that is not in the the Tidewatch ward.
