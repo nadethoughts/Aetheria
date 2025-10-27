@@ -116,7 +116,7 @@ At dawn, a cyclops crested a massive fallen redwood, its single eye gleaming wit
 
 The party gathered enchanted loot and pressed on. Hammergate Hold rose from the mist, its gates opening to receive the wounded. Captain Thrain Emberhelm greeted the party and listened as they recounted the destruction of Dagger’s Sheath and the strange magic wielded by their foes. Ogres, trolls, and elemental corruption—threats not seen in the mountains for centuries.
 
-After a brief rest, Emberhelm revealed a troubling silence from Sentinel’s Rise, a nearby watchtower.Rings  The party agreed to investigate.
+After a brief rest, Emberhelm revealed a troubling silence from Sentinel’s Rise, a nearby watchtower. Rings  The party agreed to investigate.
 
 On the way, they passed the ancient Rings of Coram, glowing faintly with recent activity. At Sentinel’s Rise, they found devastation: elemental magic, troll and unknown footprints, and orders from Varric himself. The party sent word back to Hammergate Hold and was urged to reach Ironhold.
 
