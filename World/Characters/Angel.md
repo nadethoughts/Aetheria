@@ -13,7 +13,7 @@
 - **Eyes**: Bright green
 - **Distinctive Features**: A kind smile that contrasts with her orcish heritage, always dressed in practical yet neat clothing suitable for teaching and organizing
 
-![Angel](../../assets/Angel.jpg)
+![Angel](Angel.jpg)
 
 ## Background
 

@@ -14,7 +14,7 @@
 - **Eyes**: Bright green, sharp and observant
 - **Distinctive Features**: Faelar has a scar running down his left cheek from a close encounter with a wild beast. He often wears green and brown clothing to blend in with the forest.
 
-![Faelar](../../assets/Faelar%20Moonshadow.jpg)
+![Faelar](Faelar%20Moonshadow.jpg)
 
 ## Background
 

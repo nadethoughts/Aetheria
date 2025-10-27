@@ -1,12 +1,12 @@
 ## **New Penmaris**
 
-_The Pearl of the Verdant Strand_
+_The Pearl of the [[Verdant Strand]]_
 
 ### Overview
 
-Once the pride of the Verdant Strand, the city of **Penmaris** stood atop a sprawling peninsula, its harbors bustling with trade and its streets lined with stately mansions belonging to powerful merchant barons. Known as the jewel of the northern coast, Penmaris boasted the strongest navy in the region and a vibrant mercantile culture that drew travelers, diplomats, and adventurers alike.
+Once the pride of the [[Verdant Strand]], the city of **Penmaris** stood atop a sprawling peninsula, its harbors bustling with trade and its streets lined with stately mansions belonging to powerful merchant barons. Known as the jewel of the northern coast, Penmaris boasted the strongest navy in the region and a vibrant mercantile culture that drew travelers, diplomats, and adventurers alike.
 
-The **Flaming Retribution** changed everything. The peninsula that supported the city was shattered, leaving the proud metropolis stranded on what is now a rugged island just offshore. Despite this cataclysm, the citizens of Penmaris refused to yield. Within a generation, they rebuilt their city from the ruins, christening it **New Penmaris**, a symbol of resilience and unbroken ambition.
+The **[[Flaming Retribution]]** changed everything. The peninsula that supported the city was shattered, leaving the proud metropolis stranded on what is now a rugged island just offshore. Despite this cataclysm, the citizens of Penmaris refused to yield. Within a generation, they rebuilt their city from the ruins, christening it **New Penmaris**, a symbol of resilience and unbroken ambition.
 
 ### Geography
 
@@ -16,7 +16,7 @@ The island’s cliffs rise sharply from the sea, providing vantage points for de
 
 ### Culture and Economy
 
-New Penmaris remains the mercantile heart of the northern Verdant Strand. Its merchant barons wield influence both locally and across the eastern trade routes, and the city thrives on commerce, shipbuilding, and skilled craftsmanship. Markets overflow with exotic goods from distant lands, while guilds regulate trade, navigation, and shipwrighting with meticulous care.
+New Penmaris remains the mercantile heart of the northern [[Verdant Strand.]] Its merchant barons wield influence both locally and across the eastern trade routes, and the city thrives on commerce, shipbuilding, and skilled craftsmanship. Markets overflow with exotic goods from distant lands, while guilds regulate trade, navigation, and shipwrighting with meticulous care.
 
 Despite the disaster, the city has cultivated a culture of pride, perseverance, and opportunism. Festivals celebrating the sea, trade, and maritime history are held year-round, and tales of survival and heroic rebuilding are told to every newcomer.
 

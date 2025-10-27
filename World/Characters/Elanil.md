@@ -13,7 +13,7 @@
 - **Eyes**: Deep blue, with an intense, thoughtful gaze
 - **Distinctive Features**: An intricate tattoo of arcane symbols on her left forearm, often dressed in flowing robes adorned with mystical runes
 
-![Elanil](../../assets/Elanil%20Moonshadow.jpg)
+![Elanil](Elanil%20Moonshadow.jpg)
 
 ## Background
 
