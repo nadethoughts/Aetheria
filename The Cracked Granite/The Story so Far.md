@@ -108,3 +108,20 @@ But as dawn broke on the second day, the mountains betrayed them. A misstep in t
 - Gorvok – Ogre warcamp leader (not encountered directly).
 - 21 dwarven refugees – Rescued from the warcamp.
 ---
+# 🛡️ Session 05 – The Cracked Granite
+
+The dwarves pressed onward, guiding twenty-one rescued kin through frostbitten passes and ancient woods. The red drake that had hunted them circled above, its shadow a constant threat. But worse still waited in the trees.
+
+At dawn, a cyclops crested a massive fallen redwood, its single eye gleaming with fury. Skittering behind it, a venomous ogre spider joined the ambush. Rurik’s rifle roared, Demlor summoned elemental fury, and Hurgan’s twin axes carved through the chaos. The cyclops fell to a precise strike, bleeding out on the forest floor. The spider met its end in a hail of bullets and steel.
+
+The party gathered enchanted loot and pressed on. Hammergate Hold rose from the mist, its gates opening to receive the wounded. Captain Thrain Emberhelm greeted the party and listened as they recounted the destruction of Dagger’s Sheath and the strange magic wielded by their foes. Ogres, trolls, and elemental corruption—threats not seen in the mountains for centuries.
+
+After a brief rest, Emberhelm revealed a troubling silence from Sentinel’s Rise, a nearby watchtower. Its last message, a lockdown order from Grand Regent Varric Silvervein, raised suspicions of betrayal. The party agreed to investigate.
+
+On the way, they passed the ancient Rings of Coram, glowing faintly with recent activity. At Sentinel’s Rise, they found devastation: elemental magic, unconscious survivors, troll and unknown footprints, and orders from Varric himself. The party sent word back to Hammergate Hold and was urged to reach Ironhold.
+
+As night fell, mysterious lights glowed at the Rings of Coram. The dwarves pressed on, knowing the fate of Ironhold—and all dwarvenkind—rested on their shoulders.
+
+**XP Awarded:**
+
+- 500 XP for defeating the cyclops and spider, reaching Hammergate Hold, and investigating Sentinel’s Rise.
