@@ -7,7 +7,7 @@ Dwarven society is structured around powerful [[Ironhold#The Clans of Ironhold|c
 Politically, the dwarves are divided between two major factions:
 
 - **Isolationists**, who believe [[Ironhold]] should remain sealed and self-sufficient.
-- **Expansionists**, who support [[King Hargrin Deepmantle]]’s vision of reclaiming the surface and rebuilding dwarven influence.
+- **Expansionists**, who support [[King Hargrin Dee[[Hargrin Deepmantle]]iming the surface and rebuilding dwarven influence.
 
 Though the dwarves are deeply spiritual, they do not worship a unique pantheon. Instead, they revere select gods from the broader divine orders—especially those tied to craftsmanship, endurance, and elemental mastery. Their most honored deities include:
 

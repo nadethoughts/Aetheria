@@ -1,3 +1,4 @@
+#the-blessed-realm #crown-of-the-immortals 
 - **Title**: The Kingdom of the Sun
 - **Region**: Continent of Solaris, World of Aetheria
 - **Population**: Approximately 1.5 million before the Flaming Retribution

@@ -1,3 +1,4 @@
+#crown-of-the-immortals #Narmar-zul
 ### **Oloru, the Shellborn Sentinel**
 
 **Oloru** is a colossal sea turtle, ancient beyond reckoning, and a sacred gift from **[[Uhlvara]], the Seeker in the Wilds**. He is both sanctuary and guardian to the **[[Namar'Zul]]**, bearing their people on his mossy, forested shell as he travels the waters and skies of [[Aetheria]]. His slow movements conceal deep wisdom and immense power, and though he is at home beneath the waves, **when the world needs him most — he flies**.

@@ -1,0 +1,6 @@
+#Ironhold #Dwarf #the-cracked-granite 
+**Sentinel’s Rise** is one of the dwarven frontier watchtowers in _The Cracked Granite_ campaign. It is located northeast of Hammergate Hold and was assigned to **Captain Ironbrow**, a dwarven officer whose current status is unknown.
+
+Originally part of the defensive network protecting Ironhold’s borders, Sentinel’s Rise went silent after receiving a suspicious lockdown order from **Grand Regent Varric Silvervein**. This order instructed the watchtower to cease communications and remain isolated, which is highly irregular and raised concerns of internal betrayal.
+
+When the party arrived at Sentinel’s Rise, they found the watchtower heavily damaged—assaulted by elemental forces, trolls, and an unidentified hairy creature. Survivors were unconscious, and the destruction bore signs of raw elemental energy rather than conventional siege tactics. The party discovered documents confirming Varric’s involvement and sent word back to [[Hammergate Hold]] before continuing toward Ironhold.
