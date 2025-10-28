@@ -6,7 +6,7 @@ Now, the gates have opened.
 
 [[Ironhold]] is a kingdom of clans. Each clan has its own traditions, its own strengths—miners, warriors, scholars, traders, mystics, scouts. Some dwarves are born into these clans. Others walk alone, clanless but not without purpose.
 
-[[King Hargrin Deepmantle]], believes the time has come to reclaim the surface. He has sent out colonies—small footholds in the wilds—to reestablish dwarven presence in the world. Not all agree.
+[[Hargrin Deepmantle]], believes the time has come to reclaim the surface. He has sent out colonies—small footholds in the wilds—to reestablish dwarven presence in the world. Not all agree.
 
 Two factions now shape [[Ironhold]]’s future:
 
@@ -33,9 +33,9 @@ You are summoned to a sealed chamber beneath the throne room—one rarely used, 
 
 You are heroes of [[Ironhold]]—your names spoken with respect in the forges, the barracks, and the ale halls. You’ve earned that honor through your deeds.
 
-[[King Hargrin Deepmantle]] has called you here in secret, away from the eyes and ears of the council, for a purpose that will be revealed once your arrive.
+[[Hargrin Deepmantle]] has called you here in secret, away from the eyes and ears of the council, for a purpose that will be revealed once your arrive.
 
-You find yourself in the room with [[King Hargrin Deepmantle|King Hargrin]] and 4 of his trusted advisors 
+You find yourself in the room with [[Hargrin Deepmantle|King Hargrin]] and 4 of his trusted advisors 
 - [[Baelgrin Deepdelve]] (the High Loremaster)
 - [[Bramli Stoneguard]] (Captain of the Royal Guard)
 - [[Kelda Deepshiver]] (Spy Master)

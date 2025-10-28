@@ -1,11 +1,11 @@
-
+#the-cracked-granite 
 ## 🏔️ **Ironhold – The Last Great Bastion**
 
 Carved into the heart of the [[Stonefang Mountains]], Ironhold is more than a city—it is a fortress, a forge, and a legacy. Its halls stretch deep beneath the earth, layered like the rings of a tree, each level older and more sacred than the last. The outer gates are carved with the names of every king who has ruled since the First Age, and the inner sanctums glow with the light of rune-lanterns and molten forges.
 
 The city is divided into clan districts, each with its own architecture, traditions, and banners. The **[[#⛏️ Deepforge]]** quarter hums with the sound of gears and steam. The **[[#📚 Runeweaver]]** halls are quiet, filled with libraries and arcane laboratories. The **[[#🛡️ Stoneguard]]** barracks echo with the clash of training weapons and the bark of drillmasters.
 
-At the city’s heart lies the **Throne of Stone**, where [[King Hargrin Deepmantle]] rules. His court is a place of tension and tradition, where ancient oaths and modern ambitions collide.
+At the city’s heart lies the **Throne of Stone**, where [[Hargrin Deepmantle]] rules. His court is a place of tension and tradition, where ancient oaths and modern ambitions collide.
 
 Ironhold is a place of resilience. It withstood the [[Flaming Retribution]]. It remembers the [[Giant Wars]]. And now, its gates are open once more.
 

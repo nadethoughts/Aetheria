@@ -9,11 +9,11 @@ Set the tone, introduce the political landscape, and give the party their missio
 >
 > The summons comes quietly—no fanfare, no banners, just a sealed scroll and a time. You are led through the quieter halls of [[Ironhold]], past forges and council chambers, into a part of the mountain few ever see. The stone here is older, darker, carved with runes that predate the current age.
 > 
-> In a private chamber, [[King Hargrin Deepmantle]] waits, surrounded by a handful of trusted advisors. His expression is grim.
+> In a private chamber, [[Hargrin Deepmantle]] waits, surrounded by a handful of trusted advisors. His expression is grim.
 
 **NPCs Present:**
 
-- [[King Hargrin Deepmantle]] (quest giver, cautious, respected)
+- [[Hargrin Deepmantle]] (quest giver, cautious, respected)
 - [[Baelgrin Deepdelve]] (quiet scholar, hints at ancient threats)
 - [[Bramli Stoneguard]] (loyal captain, wary of political corruption)
 - [[Varric Silvervein]] (ambitious, subtly undermining)

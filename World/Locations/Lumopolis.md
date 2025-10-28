@@ -1,3 +1,4 @@
+#the-blessed-realm #crown-of-the-immortals 
 # Lumopolis, the Seat of Power of the Sun King
 
 - **Title**: [[The Blessed Realm]] Capital

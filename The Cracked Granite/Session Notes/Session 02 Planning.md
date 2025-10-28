@@ -21,7 +21,7 @@
 
 **Discovery:**
 
-- The party finds **[[Captain Kael Ironmark]]**, wounded and hiding
+- The party finds **[[Kael Ironmark]]**, wounded and hiding
 - Kael confirms:
     - The attack came from the **south**
     - **Ogres and giants** were involved

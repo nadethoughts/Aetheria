@@ -1,3 +1,4 @@
+#the-anchors-secret
 ## 🌿 **Verdant Strand**
 
 The **Verdant Strand** lies along the northern coast of Solaris, a region of **rocky cliffs, pine-covered hills, and sheltered bays**. Once overshadowed by the Shimmering Shores, the Verdant Strand has emerged as a hub of resilient mercantile towns following the upheavals of the Flaming Retribution. Though the southern coasts suffered collapse and devastation, the Strand’s inhabitants rebuilt, carving a new life from the rugged coastline and temperate forests.
