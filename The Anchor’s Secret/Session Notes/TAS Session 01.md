@@ -1,9 +1,9 @@
 ## **Session 01 Summary**
 
 - The party enters New Penmaris, a city rebuilt on the ruins of Old Penmaris after the Flaming Retribution.
-- Tidewatch Ward, closest to the open sea, was devastated by a magical storm and monster attack (Saltspawn). It is now sealed off by a wall and magical wards.
-- The city is overcrowded with refugees and desperately needs to reclaim Tidewatch Ward.
-- The Iron Tide Regiment (city guard/military) has run out of soldiers and is sending adventurers to investigate and reclaim the ward.
+- Tidewatch Ward, closest to the open sea, was devastated by a magical storm and monster attack ([[Saltspawn]]). It is now sealed off by a wall and magical wards.
+- The city is overcrowded with refugees and desperately needs to reclaim [[Tidewatch Ward]].
+- The [[Iron Tide Regiment]] (city guard/military) has run out of soldiers and is sending adventurers to investigate and reclaim the ward.
 - Each PC has a personal reason for entering the ward:
     - **Arthur & Skirk:** Tasked by the council to find and destroy a demon rumored to be in the ward.
     - **Mistral:** Treasure maps point to valuables in the ward.
