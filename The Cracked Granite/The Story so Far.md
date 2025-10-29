@@ -108,3 +108,12 @@ But as dawn broke on the second day, the mountains betrayed them. A misstep in t
 - Gorvok – Ogre warcamp leader (not encountered directly).
 - 21 dwarven refugees – Rescued from the warcamp.
 ---
+# 🛡️ Session 06 – The Cracked Granite
+
+Hammergate Hold’s walls faded behind them as the dwarves pressed north, the threat of an ogre army looming ever closer. Captain Thrain Emberhelm’s warning echoed in their minds: Sentinel’s Rise had gone silent, its fate uncertain. The party found the watchtower razed—troll footprints and strange, heavy fur marked the ground, and a lockdown order from Grand Regent Varric Silvervein hinted at betrayal within Ironhold’s own ranks.
+
+Reporting their grim findings, the dwarves learned their timely arrival had saved Hammergate Hold from a similar fate. Urged onward, they set out for Ironhold, but twilight brought them past the ancient Rings of Coram—a dwarven monument pulsing with arcane light.
+
+Stealth carried them close. Within the glowing runes, a cave giant performed a ritual, transforming weakened trolls into elementally empowered horrors: forest, ice, and rock trolls, each stationed at a cardinal gate. The dwarves watched, realizing the giant was not summoning an army, but forging one anew.
+
+Outnumbered but undaunted, the party struck. Hurgan’s bane-forged axe and Demlor’s elemental mastery clashed with the trolls and the giant, while Rurik’s rifle thundered from the shadows. Trolls fell, empowered by the gates but unable to withstand dwarven fury. The cave giant’s ritual faltered as the battle raged, the fate of the Rings—and Ironhold itself—hanging in the balance.
