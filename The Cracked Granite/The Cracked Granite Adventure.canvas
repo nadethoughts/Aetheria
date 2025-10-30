@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"a21ae6d1f1ec8938","x":-600,"y":-760,"width":1320,"height":440,"type":"group","label":"Players"},
+		{"id":"a21ae6d1f1ec8938","type":"group","x":-600,"y":-760,"width":1320,"height":740,"label":"Players"},
 		{"id":"581bf41032c674e2","type":"text","text":"","x":-320,"y":240,"width":250,"height":60},
 		{"id":"5d029981b08d2cd3","type":"text","text":"# Goals\n- [ ] Find out what happened to Dagger's Sheath\n- [ ] Save DS refugees\n- [ ] Make it to the watch tower before overtaken\n- [ ] travel ","x":171,"y":136,"width":549,"height":384},
-		{"id":"76d174387eb04f6e","type":"file","file":"The Cracked Granite/PCs/Demlor (Jason).md","x":-580,"y":-740,"width":400,"height":400},
-		{"id":"c62c4715fe68bee2","type":"file","file":"The Cracked Granite/PCs/Hurgan (Scott).md","x":-140,"y":-740,"width":400,"height":400},
-		{"id":"f74e25932afda58b","type":"file","file":"The Cracked Granite/PCs/Rurik Embercloak (Ramsey).md","x":300,"y":-740,"width":400,"height":400}
+		{"id":"76d174387eb04f6e","type":"file","file":"The Cracked Granite/PCs/Demlor (Jason).md","x":-580,"y":-740,"width":400,"height":700},
+		{"id":"c62c4715fe68bee2","type":"file","file":"The Cracked Granite/PCs/Hurgan (Scott).md","x":-140,"y":-740,"width":400,"height":700},
+		{"id":"f74e25932afda58b","type":"file","file":"The Cracked Granite/PCs/Rurik Embercloak (Ramsey).md","x":300,"y":-740,"width":400,"height":700}
 	],
 	"edges":[]
 }
