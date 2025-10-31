@@ -1,4 +1,7 @@
 ### **The Pearlbound**
+![[Coral Bound 1.png]]
+
+![[Coral Bound 2.png]]
 The Pearlbound are not living cultists—they are corpses animated by the Pearl’s desperate will to protect itself. When the Tidecutters tore the Pearl from its pedestal and dropped it in the chaos, the artifact unleashed a catastrophic surge of magic. The blast killed everyone in the immediate area instantly. But death was not the end. As consciousness faded, the Pearl reached out, binding the lifeless bodies into its hive mind. Now, these hollow vessels serve as extensions of its power, guardians of the storm’s heart.
 
 ---

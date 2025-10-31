@@ -1,5 +1,9 @@
 #new-penmaris #verdant-strand #the-anchors-secret 
 
+![[Stormcaller cultist 1.png]]
+![[Stormcaller Cultist 2.png]]
+![[Stormcaller Cultist 3.png]]
+
 The Stormcallers are a fanatical sect that emerged in the aftermath of the **Flaming Retribution**, believing the cataclysm was not a disaster but a divine cleansing. They worship the fury of the sea and sky, claiming the storm is a living will that must be obeyed. To them, the Pearl is not a relic—it is the heart of the tempest, a sacred core that must remain unclaimed by mortals.
 
 ---

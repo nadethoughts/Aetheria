@@ -1,5 +1,5 @@
 #the-anchors-secret #new-penmaris #verdant-strand
-
+![[Iron Tide Regiment.png]]
 The Iron Tide Regiment is the primary military force of **New Penmaris**, tasked with defending the city’s walls, maintaining order in its crowded wards, and safeguarding its harbors against threats from both land and sea. Formed during the desperate months following the **[[Flaming Retribution]]**, the regiment embodies resilience and discipline in a city struggling to survive.
 
 ---
