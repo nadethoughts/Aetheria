@@ -1,13 +1,15 @@
 ## PCs
 All have [Tracking Runes] given to them by the [[Iron Tide Regiment]]
 - [[Arthur]] - **Ian** (Demon Hunting) 
+	![[Plate_Armor.png|200]]
 - [[Skirk]] - **Dave** (Demon Hunting)
 	![[Dockbreaker's_Chain.png|200]]
 - [[Xander 'Floodbringer']] - **Ramsey** (Looking for lost friend)
+	![[Sentinel_Shield.png|200]]
 - [[Jezrek Sprocketmonger]] - **Derek** (Excited for Chaos)
 	![[Bombastic_Crossbow.png|200]]
-- [[Lil John]] - **Ryan** (collect Coralite)
 - [[Mistral]] - **Jason F.** (Treasure hunting)
+	![[Thunder_Fist_Hand_wraps.png|200]]
 ## **Starting Location**: [[Salty Dog]]
 
 
