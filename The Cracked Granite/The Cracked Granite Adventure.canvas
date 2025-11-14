@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"5bd075c912e73b01","type":"group","x":980,"y":-1480,"width":1500,"height":2120,"label":"Ironhold"},
-		{"id":"a21ae6d1f1ec8938","type":"group","x":-600,"y":-760,"width":1400,"height":740,"label":"Players"},
+		{"id":"5bd075c912e73b01","x":980,"y":-1480,"width":1500,"height":2120,"type":"group","label":"Ironhold"},
+		{"id":"a21ae6d1f1ec8938","type":"group","x":-600,"y":-760,"width":1320,"height":740,"label":"Players"},
 		{"id":"76d174387eb04f6e","type":"file","file":"The Cracked Granite/PCs/Demlor (Jason).md","x":-580,"y":-740,"width":400,"height":700},
 		{"id":"c62c4715fe68bee2","type":"file","file":"The Cracked Granite/PCs/Hurgan (Scott).md","x":-140,"y":-740,"width":400,"height":700},
-		{"id":"f74e25932afda58b","type":"file","file":"The Cracked Granite/PCs/Rurik Embercloak (Ramsey).md","x":300,"y":-740,"width":460,"height":700},
+		{"id":"f74e25932afda58b","type":"file","file":"The Cracked Granite/PCs/Rurik Embercloak (Ramsey).md","x":300,"y":-740,"width":400,"height":700},
 		{"id":"ad47556051ecc8fd","type":"file","file":"World/Characters/Ironhold Territory/Bramli Stoneguard.md","x":1000,"y":160,"width":400,"height":400},
-		{"id":"6f08977f312d675c","type":"file","file":"World/Locations/Ironhold.md","x":1180,"y":-1460,"width":1040,"height":480},
+		{"id":"6f08977f312d675c","x":1180,"y":-1460,"width":1040,"height":480,"type":"file","file":"World/Locations/Ironhold.md"},
 		{"id":"f1fd9493bc55e8ff","type":"file","file":"World/Characters/Ironhold Territory/Hargrin Deepmantle.md","x":1300,"y":-600,"width":400,"height":400},
 		{"id":"231b7e2c380e4485","type":"file","file":"World/Characters/Ironhold Territory/Varric Silvervein.md","x":1640,"y":220,"width":400,"height":400},
-		{"id":"b324d92a8bb23f90","type":"file","file":"World/Characters/Ironhold Territory/Kelda Deepshiver.md","x":2060,"y":-340,"width":400,"height":400}
+		{"id":"b324d92a8bb23f90","x":2060,"y":-340,"width":400,"height":400,"type":"file","file":"World/Characters/Ironhold Territory/Kelda Deepshiver.md"}
 	],
 	"edges":[
 		{"id":"13a7ea5c7c19d0b9","fromNode":"f1fd9493bc55e8ff","fromSide":"left","toNode":"a21ae6d1f1ec8938","toSide":"right","label":"Investigate Dagger's Sheath"},
