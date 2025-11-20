@@ -2,14 +2,18 @@
 All have [Tracking Runes] given to them by the [[Iron Tide Regiment]]
 - [[Arthur]] - **Ian** (Demon Hunting) 
 	![[Plate_Armor.png|200]]
+	![[+1_Warhammer.png|200]]
 - [[Skirk]] - **Dave** (Demon Hunting)
 	![[Dockbreaker's_Chain.png|200]]
 - [[Xander 'Floodbringer']] - **Ramsey** (Looking for lost friend)
 	![[Sentinel_Shield.png|200]]
+	![[+1_Amulet_of_the_Devout.png|200]]
 - [[Jezrek Sprocketmonger]] - **Derek** (Excited for Chaos)
 	![[Bombastic_Crossbow.png|200]]
 - [[Mistral]] - **Jason F.** (Treasure hunting)
 	![[Thunder_Fist_Hand_wraps.png|200]]
+- [[Lil John]] - Ryan (looking for the source of Coralite)
+	![[Bracers_of_Archery.png|200]]
 ## **Starting Location**: [[Salty Dog]]
 
 
@@ -76,3 +80,23 @@ All have [Tracking Runes] given to them by the [[Iron Tide Regiment]]
 - Track the party’s progress with the magical runes; decide if/when the Regiment intervenes.
 - Expand on the mutated monsters and undead factions (Lanternless, Coralbound, etc.).
 - Use thieves’ cant graffiti for secret messages, warnings, or hidden side quests.
+
+# Riddle in the Salty Dog
+_"Where rum runs dry and secrets sleep,  
+Behind the Dog, the gold runs deep."_ 
+
+### **Scene Description (Player-Facing)**
+
+_"The alley behind the Salty Dog is narrow and damp, hemmed in by leaning stone walls slick with mist. Rusted lantern brackets cling to the masonry. you see similar graffiti in the alley as you saw in the Salty Dog. This is a combination of dwarven script (the language of magic) and thieves cant You see a broken pipe near a stack of empty crates, and the scent of saltwater drifts in from the ocean visible at the alley’s far end.  There is some sort of clockwork mechanism, leaning up against the wall, with a number of parts strewn across the alley."_
+
+“Turn the tooth to what all sailors crave—  
+The sea, the flame, the stone,  
+And winds that misbehave.”
+
+**Clues mixed with flavor:**
+
+- Ocean visible → Water.
+- Flickering flame → Fire.
+- Cobblestones → Earth.
+- Sky above → Air.
+- Steam pipe and crates are red herrings.
