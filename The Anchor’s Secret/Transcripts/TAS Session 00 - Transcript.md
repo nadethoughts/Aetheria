@@ -1,4 +1,13 @@
-![[The anchor’s secret session 00.m4a]]
+# PCs
+|Player|Character|
+|------|---------|
+|Ian|Arthur|
+|Derek|Jezrek|
+|Lil John|Ryan|
+|Mistral|Jason|
+|Xander|Ramsey|
+
+# Transcript
 No planning.
 I actually use this pretty heavily.
 All right.

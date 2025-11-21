@@ -1,3 +1,25 @@
+# PCs
+|Player|Character|
+|------|---------|
+|Ian|Arthur|
+|Derek|Jezrek|
+|Lil John|Ryan|
+|Mistral|Jason|
+|Xander|Ramsey|
+
+# Transcript
+Ryan, I'm going to chuckle every time I look at your character's picture now.
+You're right.
+I love it, though.
+Man, I think I got it.
+Any last-minute stuff?
+Again, don't want to rush you, but I am good to go when everybody else is.
+I'm going to transcribe it, but I'm going to get it.
+Thumbs up.
+Thumbs up.
+Clear?
+Clear?
+Leroy!
 You are in the city of New Penmaris.
 This is what is left of the wreckage of hold parameters.
 Apparently, my volume just decided to die.
