@@ -1,4 +1,12 @@
-Alright, so, when last we met, we had the three dwarves, Demlur, Urik, and Hurgen, meet with the king.
+# PCs
+## Game System: Pathfinder 2e
+
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session TranscriptAlright, so, when last we met, we had the three dwarves, Demlur, Urik, and Hurgen, meet with the king.
 The king informed you that he has lost communications with one of the colonies that he established in the Overworld,
 after the Flaming Retribution destroyed the Overland.
 And it's been a year since the Flaming Retribution, and he had pushed out some colonies, and one of the colonies went silent.

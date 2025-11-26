@@ -1,4 +1,12 @@
-Alright, so when last we met, you guys were happening across a ritual that was taking place by a cave giant.
+# PCs
+## Game System: Pathfinder 2e
+
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session TranscriptAlright, so when last we met, you guys were happening across a ritual that was taking place by a cave giant.
 And we were beating them up pretty well.
 Yeah, so you happened to cross this ritual that was taking place with the cave giant and four trolls.
 Upon waiting things out a little bit to kind of see what was happening, you discovered that the trolls themselves, while they didn't look all that tough to begin with,

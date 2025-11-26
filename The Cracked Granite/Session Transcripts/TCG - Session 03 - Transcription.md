@@ -1,5 +1,12 @@
-WEBVTT
+# PCs
+## Game System: Pathfinder 2e
 
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session Transcript
 00:00.000 --> 00:25.800
 So, when last we met, you had investigated the ruins of Dagger Sheath, which is a southern
 

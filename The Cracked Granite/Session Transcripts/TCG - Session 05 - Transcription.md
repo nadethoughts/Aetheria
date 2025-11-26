@@ -1,4 +1,12 @@
-Alright, so when last we met, the group of three dwarves were fleeing the war camp of
+# PCs
+## Game System: Pathfinder 2e
+
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session TranscriptAlright, so when last we met, the group of three dwarves were fleeing the war camp of
 ogres, with 21 refugees, you all were ambushed by a group of wolves and a werewolf ogre, an
 ogre werewolf, and were able to protect yourself and protect the group of dwarves from the threat
 by defeating them.

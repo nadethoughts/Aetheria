@@ -1,4 +1,12 @@
-you guys are understanding
+# PCs
+## Game System: Pathfinder 2e
+
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session Transcriptyou guys are understanding
 all right when uh when last we met uh the group had traveled from the
 traveled from the watchtower of
 uh the group had been being hunted by a um by the ogres um parties which

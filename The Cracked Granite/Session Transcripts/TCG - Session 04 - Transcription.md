@@ -1,5 +1,12 @@
-WEBVTT
+# PCs
+## Game System: Pathfinder 2e
 
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session Transcript
 00:00.000 --> 00:12.960
 all right um when last we met you guys infiltrated the ogre war camp
 
