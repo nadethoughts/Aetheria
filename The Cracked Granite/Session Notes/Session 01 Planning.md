@@ -21,7 +21,7 @@ Set the tone, introduce the political landscape, and give the party their missio
 
 - Dagger's Sheath - A Dwarven Colony to the south of the [[Stonefang Mountains]]
 	- Appears to have gone silent
-	- Not sure what has happened, but don't want to cause alarm. It is hard enough to work with the [[Ironhold - Isolationists]] when things are going well.
+	- Not sure what has happened, but don't want to cause alarm. It is hard enough to work with the [[Isolationists]] when things are going well.
 -  Investigate what happened. Maybe they are just so busy that they lost track of time...
 
 **Roleplay Tips:**

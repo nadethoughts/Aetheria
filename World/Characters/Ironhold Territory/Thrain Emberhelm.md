@@ -1,7 +1,40 @@
 #the-cracked-granite 
-Captain Thrain Emberhelm is the commander of **[[Hammergate Hold]]**, a dwarven frontier watchtower in _The Cracked Granite_. He is a seasoned military leader—pragmatic, disciplined, and respected by his troops. When the party arrives at **[[Hammergate Hold]]** with 21 rescued dwarves, Emberhelm receives them with concern and urgency. He listens carefully to their report about the destruction of Dagger’s Sheath and the organized ogre threat, and quickly begins coordinating defensive measures and alerting other watchtowers.
+![[Thrain Emberhelm.png]]
+---
+## 🛡️ Captain Thrain Emberhelm – Commander of Hammergate Hold
+**Race:** Dwarf  
+**Gender:** Male  
+**Alignment:** Lawful Good  
+**Role:** Commander of Hammergate Hold, Frontier Watch Captain  
+**Faction:** Loyal to Ironhold, Non-political Military
 
-Emberhelm is not part of the political intrigue in Ironhold but serves as a stabilizing force on the frontier. He assigns the party a critical mission to investigate **[[Sentinel’s Rise]]**, a nearby watchtower that has gone silent under suspicious orders from **Grand Regent [[Varric Silvervein]]**. His actions show trust in the party’s judgment and a commitment to protecting dwarven lives above political maneuvering.
+---
+### 🧑‍🎓 Background
+Captain Thrain Emberhelm is the seasoned commander of Hammergate Hold, a dwarven frontier watchtower in The Cracked Granite. Pragmatic, disciplined, and respected by his troops, Emberhelm has spent his career defending the borders of Ironhold from external threats. He is known for his no-nonsense leadership style and his unwavering commitment to the safety of dwarven lives above all else. 
 
-## Player Facing
-**Captain Thrain Emberhelm** is the commander of Hammergate Hold, a frontier dwarven watchtower. Broad-shouldered and battle-tested, he’s a no-nonsense leader who values action over politics. When the party arrived with refugees, he took their report seriously and began coordinating defenses. Emberhelm is one of the few military voices still trusted in Ironhold’s uncertain times.
+---
+### 🏰 Current Status (Post-Cracked Granite)
+- **Frontier Stabilizer:** When the party arrived at Hammergate Hold with 21 rescued dwarves, Emberhelm received them with concern and urgency. He listened carefully to their report about the destruction of Dagger’s Sheath and the organized ogre threat, immediately coordinating defensive measures and alerting other watchtowers.
+- **Trusted Military Leader:** Emberhelm is not involved in the political intrigue of Ironhold. Instead, he serves as a stabilizing force on the frontier, trusted by both his troops and the wider dwarven community during uncertain times.
+- **Mission Giver:** Recognizing the party’s competence and integrity, Emberhelm assigned them a critical mission to investigate Sentinel’s Rise, a nearby watchtower that had gone silent under suspicious orders from Grand Regent Varric Silvervein. His actions demonstrate trust in the party’s judgment and a focus on actionable intelligence over political maneuvering.
+
+---
+### 🎯 Ambition
+To protect the borders of Ironhold and ensure the survival of its people, regardless of political machinations in the capital.
+
+---
+### 🔥 Motivation
+Emberhelm is driven by duty, pragmatism, and a deep sense of responsibility for those under his command. He values action, clear communication, and the well-being of his soldiers and civilians above all else.
+
+---
+### 🧩 Adventure Hooks
+- May call upon the party for urgent missions involving border defense, rescue operations, or the investigation of suspicious activity near Ironhold’s frontier.
+- Could become a key military ally as the war with the giants escalates, providing resources, reinforcements, or strategic advice.
+- His reputation as a trusted, apolitical leader makes him a potential mediator between rival factions within Ironhold.
+
+---
+
+**Current Status:**  
+Captain Thrain Emberhelm stands as a bulwark on Ironhold’s frontier, rallying his forces and trusted allies to meet the growing threats facing the dwarven kingdom.
+
+---
