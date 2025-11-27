@@ -1,6 +1,6 @@
 #guiding-luminescence 
 ## God of the Hunt
-![[Uhlvara Symbol.webp]]
+![[Uhlvara Symbol.webp|300]]
 
 #### **Title**: The Seeker in the Wilds
 #### **Rank**: [[The Rank of Guiding Luminecence]]

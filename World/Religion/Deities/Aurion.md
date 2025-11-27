@@ -1,6 +1,6 @@
 #luminous-authority
 # Aurion:  The Prime Architect
-![[Aurion-logo-1.webp]]
+![[Aurion-logo-1.webp|300]]
 
 - **Title**: The Prime Architect
 - **Rank**: [[The Luminous Authority]]

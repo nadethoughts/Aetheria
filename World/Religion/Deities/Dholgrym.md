@@ -1,6 +1,6 @@
 #dark-pantheon 
 ## **Dholgrym: the Hollow Flame**
-![[Dholgrym Symbol.webp]]
+![[Dholgrym Symbol.webp|300]]
 - **Title**: The Ember That Consumes
 - **Domain**: Greed, sabotage, false light
 - **Symbol**: A blackened flame inside a cracked gemstone

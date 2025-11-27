@@ -1,6 +1,6 @@
 #guiding-luminescence 
 ### **Gemmara, the Artisan’s Eye**
-![[Gemmara Symbol.webp]]
+![[Gemmara Symbol.webp|300]]
 - **Domain**: Precision, artistry, gemcutting, design
 - **Symbol**: A stylized eye set within a gemstone
 - **Tenets**:

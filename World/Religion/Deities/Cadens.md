@@ -1,6 +1,6 @@
 #guiding-luminescence 
 # Cadens: The Melodic Maestro
-![[Cadens-Logo-1.webp]]
+![[Cadens-Logo-1.webp|300]]
 
 - **Title**: The Melodic Maestro
 - **Rank**: [[The Rank of Guiding Luminecence]]

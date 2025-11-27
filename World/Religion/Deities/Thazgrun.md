@@ -1,6 +1,6 @@
 #dark-pantheon 
 ## **Thazgrun, the Oath-Breaker**
-![[Thazgrun Symbol.webp]]
+![[Thazgrun Symbol.webp|300]]
 - **Title**: The Shattered Vow
 - **Domain**: Betrayal, vengeance, broken bonds
 - **Symbol**: A severed chain wrapped around a bloodied axe

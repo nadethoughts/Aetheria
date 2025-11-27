@@ -49,7 +49,7 @@ Elanil believes in the pursuit of knowledge as the highest goal. She sees the wo
 Elanil is driven by the desire to uncover lost knowledge and arcane secrets, particularly those lost during the Flaming Retribution. She aims to restore the magical heritage of her people and unlock new realms of understanding in the arcane arts.
 
 ### Rivals/Enemies
-- **[[La Pelu]]**: the La-Pelu's actions have left a deep scar on Elanil’s psyche. She is determined to find a way to reverse the damage caused by these Deamons!
+- **[[La Pelu (Sun Swords)]]**: the La-Pelu's actions have left a deep scar on Elanil’s psyche. She is determined to find a way to reverse the damage caused by these Deamons!
 ## Fears and Phobias
 Elanil fears the loss of knowledge and the return of chaos and ignorance. She is also wary of the misuse of magic, having witnessed the devastation it can cause when wielded irresponsibly.
 
