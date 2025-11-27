@@ -6,7 +6,7 @@ Now, the gates have opened.
 
 [[Ironhold]] is a kingdom of clans. Each clan has its own traditions, its own strengths—miners, warriors, scholars, traders, mystics, scouts. Some dwarves are born into these clans. Others walk alone, clanless but not without purpose.
 
-[[King Hargrin Deepmantle]], believes the time has come to reclaim the surface. He has sent out colonies—small footholds in the wilds—to reestablish dwarven presence in the world. Not all agree.
+[[Hargrin Deepmantle]], believes the time has come to reclaim the surface. He has sent out colonies—small footholds in the wilds—to reestablish dwarven presence in the world. Not all agree.
 
 Two factions now shape [[Ironhold]]’s future:
 

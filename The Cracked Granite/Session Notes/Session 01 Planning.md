@@ -9,11 +9,11 @@ Set the tone, introduce the political landscape, and give the party their missio
 >
 > The summons comes quietly—no fanfare, no banners, just a sealed scroll and a time. You are led through the quieter halls of [[Ironhold]], past forges and council chambers, into a part of the mountain few ever see. The stone here is older, darker, carved with runes that predate the current age.
 > 
-> In a private chamber, [[King Hargrin Deepmantle]] waits, surrounded by a handful of trusted advisors. His expression is grim.
+> In a private chamber, [[Hargrin Deepmantle]] waits, surrounded by a handful of trusted advisors. His expression is grim.
 
 **NPCs Present:**
 
-- [[King Hargrin Deepmantle]] (quest giver, cautious, respected)
+- [[Hargrin Deepmantle]] (quest giver, cautious, respected)
 - [[Baelgrin Deepdelve]] (quiet scholar, hints at ancient threats)
 - [[Bramli Stoneguard]] (loyal captain, wary of political corruption)
 - [[Varric Silvervein]] (ambitious, subtly undermining)
@@ -21,7 +21,7 @@ Set the tone, introduce the political landscape, and give the party their missio
 
 - Dagger's Sheath - A Dwarven Colony to the south of the [[Stonefang Mountains]]
 	- Appears to have gone silent
-	- Not sure what has happened, but don't want to cause alarm. It is hard enough to work with the [[Ironhold - Isolationists]] when things are going well.
+	- Not sure what has happened, but don't want to cause alarm. It is hard enough to work with the [[Isolationists]] when things are going well.
 -  Investigate what happened. Maybe they are just so busy that they lost track of time...
 
 **Roleplay Tips:**

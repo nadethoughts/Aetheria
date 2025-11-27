@@ -1,4 +1,12 @@
-# Session 00
+# PCs
+## Game System: Pathfinder 2e
+
+| Character | Player | Class (Subclass)               |
+| --------- | ------ | ------------------------------ |
+| Demlor    | Jason  | Kinetisist (Metal Gate)        |
+| Hurgan    | Scott  | Ranger (Flurry)                |
+| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+# Session Transcript
 Try six Yeah. The game is paused because I have it paused. So And you're recording. And I'm recording, so I can keep track of what decisions you guys make and be able to plan accordingly. I do have an adventure, but I do also like to use my players' back stories and different things that they've come up with to kinda help them along.
 
 So, as you guys know, we are playing, team dwarf. So, we are this adventure itself, the craft granite is going to be taking place in the, Northern Mountain Range of do do I have it, but not readily available. But it's in the northern it's in the Northwestern Mountain Range of, Solaris. So kind of like where you guys were on the map, where you guys were on the map, Northwest. There's a big mountain range on the Western side.

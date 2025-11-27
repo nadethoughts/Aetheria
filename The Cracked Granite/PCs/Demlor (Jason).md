@@ -63,3 +63,6 @@ Now, as Ironhold looks outward once more, Demlor stands ready—part elemental, 
 - **Shared Oath with Rurik:** _“Stone unbroken, forge unquenched, together we endure.”_
 - **Saved by Hurgan:** During a cave-in, Hurgan took a bolt for him; Demlor treated the wound and avenged the attack.
 - **Commendation with Rurik:** Broke through enemy lines during an orc ambush, saving their platoon and earning the king’s recognition.
+
+# Visual Prompt
+A male dwarf in the prime of his life. A Metal Kineticist. He has long, dark red hair styled into two thick braids over his shoulders, and braided beard. Large eagle talon tribal tattoos cover his face around his eyes. He wears heavy carapace armor with insect-like chitinous patterns scavenged from an orc champion. A glowing blue gemstone pendant hangs at his chest, and a traditional dwarven clan dagger rests at his belt. A wrist-mounted grappling gun is strapped to his forearm. No weapons in his hands—he is his own weapon. for a Pathfinder 2e game I am running
