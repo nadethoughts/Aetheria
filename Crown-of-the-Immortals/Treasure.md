@@ -2,15 +2,15 @@
 ### Gold
 120 GP
 
-| Permanent items      | Item level | Consumables                          | Item Level |
-| -------------------- | ---------- | ------------------------------------ | ---------- |
-| ![[Cape of Justice]] | 4          |                                      | 4          |
-| ![[Spacious Pouch]]  | 4          |                                      | 4          |
-|                      | 3          |                                      | 3          |
-|                      | 3          |                                      | 3          |
-| --                   | --         | ![[Scrolls#Scroll of Worm's Repast]] | 2          |
-| --                   | --         |                                      | 2          |
-|                      |            |                                      |            |
+| Permanent items | Item level | Consumables | Item Level |
+| --------------- | ---------- | ----------- | ---------- |
+|                 | 4          |             | 4          |
+|                 | 4          |             | 4          |
+|                 | 3          |             | 3          |
+|                 | 3          |             | 3          |
+| --              | --         |             | 2          |
+| --              | --         |             | 2          |
+|                 |            |             |            |
 ## Level 4
 ### Gold
 200 GP

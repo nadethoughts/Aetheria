@@ -8,29 +8,6 @@
 |Xander|Ramsey|
 
 # Transcript
-I'm not saying
-I'm not an idiot
-that's not what I'm saying
-alright
-that's hilarious
-what is on the back of this
-just to make it easier to pick up
-exactly
-because if it was just a washer
-you don't have super fingernails
-I'm impressed
-I've got custom hardware coming in
-I'm working on it
-I'm working on it
-I'm working on it
-I'm working on it
-alright
-papa
-the chief of his men
-stole the queen from her
-cc
-cc
-one last minute
 you all were
 hired by
 hired being
