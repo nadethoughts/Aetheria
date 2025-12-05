@@ -1,11 +1,12 @@
 # PCs
-|Player|Character|
-|------|---------|
-|Ian|Arthur|
-|Derek|Jezrek|
-|Lil John|Ryan|
-|Mistral|Jason|
-|Xander|Ramsey|
+| Player   | Character |
+| -------- | --------- |
+| Ian      | Arthur    |
+| Derek    | Jezrek    |
+| Lil John | Ryan      |
+| Mistral  | Jason     |
+| Xander   | Ramsey    |
+| Skirk    | Dave      |
 
 # Transcript
 Ryan, I'm going to chuckle every time I look at your character's picture now.

@@ -1,11 +1,12 @@
 # PCs
-|Player|Character|
-|------|---------|
-|Ian|Arthur|
-|Derek|Jezrek|
-|Lil John|Ryan|
-|Mistral|Jason|
-|Xander|Ramsey|
+| Player   | Character |
+| -------- | --------- |
+| Ian      | Arthur    |
+| Derek    | Jezrek    |
+| Lil John | Ryan      |
+| Mistral  | Jason     |
+| Xander   | Ramsey    |
+| Skirk    | Dave      |
 
 # Transcript
 No planning.
