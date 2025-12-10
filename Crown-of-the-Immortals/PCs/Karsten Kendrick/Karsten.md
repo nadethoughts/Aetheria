@@ -1,5 +1,3 @@
-# Karsten Kendrick
-
 ![[karsten.Avatar.webp]]
 
 ## General Information

@@ -1,5 +1,3 @@
-# Simear
-
 ![[simear.Avatar.webp]]
 
 ## General Information

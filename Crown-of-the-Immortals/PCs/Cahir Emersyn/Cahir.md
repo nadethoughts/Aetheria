@@ -1,5 +1,3 @@
-# Cahir Emersyn
-
 ![[Cahir.Avatar.webp]]
 
 ## General Information

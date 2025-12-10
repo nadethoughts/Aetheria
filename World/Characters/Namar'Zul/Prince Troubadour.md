@@ -1,3 +1,4 @@
+![[Prince Troubadour.webp]]
 ## General Information
 - **Full Name**: Bogwynne Greenleaf
 - **Race**: [[Tripkee]]
@@ -9,8 +10,6 @@
 - **Hair**: Green mottled skin
 - **Eyes**: Black
 - **Distinctive Features**: Excited and courageous
-
-![[Prince Troubadour.webp]]
 
 ## Background
 
