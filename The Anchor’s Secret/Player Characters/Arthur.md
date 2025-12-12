@@ -7,7 +7,7 @@
 ## Back Story
 Arthur was born amid the grime and shadows of Old Penmaris, in the slums beneath the city’s proud sea walls. His mother, a laundress, and his father, a dockhand, both perished in a warehouse fire when he was still a cub. Left to fend for himself, Arthur survived on scraps, wit, and a stubborn belief that even in darkness, one must not become what devours the light.
 
-Among the alleys and half-flooded docks, he found kinship with another orphan — a young kobold truescale named Kaelrix. Though their tempers clashed, the two became inseparable brothers. Together, they ran with the back-alley gangs of Penmaris, daring the guards and the world itself. Arthur’s stubborn fairness and Kaelrix’s cunning made them leaders among the forgotten.
+Among the alleys and half-flooded docks, he found kinship with another orphan — a young kobold truescale named [[Kaelrix]]. Though their tempers clashed, the two became inseparable brothers. Together, they ran with the back-alley gangs of Penmaris, daring the guards and the world itself. Arthur’s stubborn fairness and [[Kaelrix]]’s cunning made them leaders among the forgotten.
 
 But the bond would not last.
 
@@ -15,7 +15,7 @@ But the bond would not last.
 
 The Fracture
 
-When Arthur was twelve, Kaelrix’s sorcerous bloodline awakened — flames kindling at his fingertips, power answering his every whim. At first, Arthur saw wonder in it. But Kaelrix’s gift soon curdled into cruelty. He began using magic to control others, ruling their small gang by fear. Arthur tried to stop him, but Kaelrix only sneered, calling him a fool chasing a dead world’s kindness.
+When Arthur was twelve, [[Kaelrix]]’s sorcerous bloodline awakened — flames kindling at his fingertips, power answering his every whim. At first, Arthur saw wonder in it. But [[[[Kaelrix]]]]’s gift soon curdled into cruelty. He began using magic to control others, ruling their small gang by fear. Arthur tried to stop him, but [[Kaelrix]] only sneered, calling him a fool chasing a dead world’s kindness.
 
 Their final fight was brief and bitter. Arthur walked away bruised and alone — the last time he would ever see his brother as a friend.
 
@@ -27,15 +27,15 @@ A year later, Arthur collapsed beside the blackened ruin of a chapel — beaten,
 
 Aldren took him in, over the objections of the watch and his own superiors. He taught Arthur to read, to work, to pray — and to believe that mercy was not weakness. Under Aldren’s care, Arthur’s claws grew steady. He learned the hymns of Serelle and the disciplines of Miraine, goddess of protection and passage. In time, he was sent to train as a squire of the faith.
 
-He never forgot the gutter. Nor did he forget Kaelrix.
+He never forgot the gutter. Nor did he forget [[Kaelrix]].
 
 ---
 
 The Confrontation
 
-At seventeen, newly anointed and proud in his first mail shirt, Arthur met Kaelrix again — now a ganglord wreathed in fire, ruling the ruins of the southern wharves. The meeting ended in violence: light against flame, conviction against fury. Arthur survived, barely, and the flames left scars that never quite faded.
+At seventeen, newly anointed and proud in his first mail shirt, Arthur met [[Kaelrix]] again — now a ganglord wreathed in fire, ruling the ruins of the southern wharves. The meeting ended in violence: light against flame, conviction against fury. Arthur survived, barely, and the flames left scars that never quite faded.
 
-Kaelrix escaped into the chaos of the slums, swearing that Arthur would one day see the world as he did — beyond redemption.
+[[Kaelrix]] escaped into the chaos of the slums, swearing that Arthur would one day see the world as he did — beyond redemption.
 
 ---
 
@@ -97,11 +97,11 @@ He values discipline and sees Arthur as reliable but green.
 Jorran provides city orders, tactical insight, and occasionally bends protocol to let Arthur investigate beyond his post.
 
 ---
-#### **[[Kaelrix the Burned]]**
+#### **[[[[Kaelrix]] the Burned]]**
 _Kobold Sorcerer — Former Brother, Now Rival_  
 Once Arthur’s childhood companion, now rumored to command a faction in Tidewatch Ward.  
 Whispers say his magic flared again within the ward’s haunted ruins — perhaps even seeking the Pearl.  
-For Arthur, Kaelrix is both a ghost of guilt and a test of faith.
+For Arthur, [[Kaelrix]] is both a ghost of guilt and a test of faith.
 
 ---
 #### **[[Helene Tarsin]]**
