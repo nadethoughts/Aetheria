@@ -1,4 +1,5 @@
 Ranger of the Firewalker Tribe.
+![[Gurlunk.png|300]]
 ## Description
 - **Skin and Pattern:** The goblin’s skin is a rugged volcanic green, streaked with ember-red fissures that resemble cracked earth glowing from within. These fiery lines run across the arms, neck, and partially exposed chest, pulsing faintly like molten veins.    
 - **Armor and Clothing:** The ranger wears a mix of hardened leather and scorched cloth, optimized for mobility and stealth. A dark, weathered leather cuirass covers the torso, reinforced with metal plates that bear heat-warped cracks and rust. A deep crimson scarf wraps around the neck and shoulders, its edges frayed and blackened as if singed by flame. The lower body is clad in flexible, soot-stained trousers, bound at the calves with charred wraps for silent movement.    

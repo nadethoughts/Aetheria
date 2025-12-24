@@ -1,4 +1,5 @@
 Firewalker witch
+![[Minargul.png|300]]
 ## Description
 - **Skin and Pattern:** The goblin’s skin is a deep, earthy green, marred by jagged fissures glowing ember-red, like volcanic cracks across the arms, neck, and chest. These fiery lines pulse faintly, suggesting a connection to elemental magic.    
 - **Attire:** The witch wears a patchwork robe of scorched leather and charred cloth, layered with tattered strips that hang unevenly. The robe is adorned with dangling charms—bone fragments, shards of obsidian, and small pouches filled with ritual powders. A crimson sash wraps around the waist, frayed at the edges, and a hood drapes loosely over the head, shadowing the upper features.    

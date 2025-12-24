@@ -1,4 +1,5 @@
 A Monk of the Firewalker Tribe and servant of Vorath.
+![[Zibini.png|300]]
 ## Description
  - **Skin and Pattern:** The goblin’s skin is a deep, volcanic green, etched with ember-red fissures that trace across the arms, chest, and neck like glowing cracks in cooled lava. These fiery lines pulse faintly, emphasizing the monk’s elemental connection and inner discipline.    
 - **Attire:** Unlike the heavy armor of warriors, the monk wears minimal protective gear for agility. A sleeveless, charred leather tunic wraps tightly around the torso, reinforced with soot-stained cloth strips. The lower body is covered by loose, tattered trousers bound at the ankles with scorched wraps, allowing freedom of movement. A crimson sash cinches the waist, its frayed ends trailing like tongues of flame.    
