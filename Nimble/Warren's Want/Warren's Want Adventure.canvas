@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"20c6c1ea4076540d","type":"text","text":"# What's Going on\nThe recent Cataclysmic effects of the [[Flaming Retribution]] has uncovered a wildness to the once peaceful town of [[Clackson]]. There are monsters abroad and strange happenings afoot. There is a crater left by a giant meteor that has revealed an entrance to some sort of dungeon or long forgotten forte. The village hasn't had time to investigate much, but it appeared to be uninhabited... until now. \n\n[[Clackson]] is not sure what is inside it, but there have been reports of movement inside the entrance and the live stock of farmers are disappearing at an alarming rate. The village has recruited you (either as a member of the community or as a traveler just passing through) to investigate the structure to determine what if anything is going on in the depths of that tunnel.","x":-640,"y":-420,"width":520,"height":400},
+		{"id":"43c9548b50b7ed0c","type":"text","text":"# Bad Guys\nA war party of [[Kobolds|Kobold]] has taken up residence in the dungeon. They are choosing to act as bandits and gain the spoils of war rather than building a village of their own.  \n## BBEG\n[[Snaggel Tooth]] a [[Kobolds|Kobold]] that was empowered by a dark artifact that grants him the power of [[Erabose]]. He leads the Warband with both respect and fear. The Kobolds that follow him understand his power and fear it, but have hitched their wagons to his grandeur. He is an object of fear and worship by his followers.","x":-820,"y":60,"width":420,"height":440},
+		{"id":"10ac9dee7e45fd02","x":-292,"y":60,"width":250,"height":440,"type":"text","text":"# Quest Hooks\n- **Farmers** are scared of the amount of live stock that has gone missing. They need to conserve their produce to survive the winter.\n- **Treasure** may live inside that Dungeon. Maybe eve powerful magic that will help the community or yourself.\n- **Could we be Next?** Some townsfolk look at the missing live stock as a first fruits of the attacks a head."},
+		{"id":"c7901b6231255300","x":16,"y":63,"width":250,"height":297,"type":"text","text":"# Treasures\n- 15 Sheep and 5 Goats\n- 25 GP per Player\n- Axe of Snaggle Tooth: 2d4+2 Slashing(2 handed, Req 2 STR)\n- Caustic Brew (Heals 3d6+6 HP, but grants the poisoned condition for 3 rounds)"},
+		{"id":"6eab97befdbc41ed","x":-1,"y":-340,"width":250,"height":240,"type":"text","text":"# Encounters:\n- [ ] 1 Skill Challenge\n- [ ] 2 Easy Fights\n- [ ] 1 Medium fight\n- [ ] 1 Puzzel\n- [ ] 1 Boss Battle"},
+		{"id":"ad324e3c1772b063","x":320,"y":-340,"width":250,"height":240,"type":"text","text":"# Into the Crater (Skill Challenge)"},
+		{"id":"4ea121cd21e93e00","x":640,"y":-340,"width":250,"height":240,"type":"text","text":"# Enter the Dungeon (Easy Fight 1)"},
+		{"id":"775ba94004c9091d","x":960,"y":-220,"width":250,"height":240,"type":"text","text":"# Enterence to the Throne Room (Medium Fight and Puzzel)"},
+		{"id":"2aceadbc5ef18425","x":960,"y":-500,"width":250,"height":240,"type":"text","text":"# Sheep Pens (Easy Fight 2)"},
+		{"id":"07f999227759df35","x":1340,"y":-340,"width":250,"height":240,"type":"text","text":"# Throne Room (Boss Battle)"},
+		{"id":"a57e8afba032e2c7","x":1440,"y":20,"width":800,"height":460,"type":"text","text":"# Snaggle Tooth\n## Level 2 Solo monster\nHP: ***75***\nArmor: ***Medium***\nSaves: +STR -INT\n### Actions\n- **Move & Hack***: Move 8, attack for 1d8+2; on Damage **Prone**\n- **Batter Up**: 1d8+2, on damage: they are hit towards another hero within 6 spaces. Both make a DC 12 DEX save or take 1d8+2 damage and re knocked Prone, half damage on save.\n### Bloodied\n@37 HP Snaggel Tooth's Damage increases to 1d12+2\n### Last Stand\nSnaggel Tooth is dying! 20 more damage and he dies. Until then Snaggle Tooth can move **6** spaces and use **Batter UP** each turn."}
+	],
+	"edges":[
+		{"id":"db441d15b9a5f09a","fromNode":"20c6c1ea4076540d","fromSide":"bottom","toNode":"43c9548b50b7ed0c","toSide":"top"},
+		{"id":"f8e63ec00e1de1c5","fromNode":"20c6c1ea4076540d","fromSide":"bottom","toNode":"10ac9dee7e45fd02","toSide":"top"},
+		{"id":"c7a071c9f46d1277","fromNode":"20c6c1ea4076540d","fromSide":"bottom","toNode":"c7901b6231255300","toSide":"top"},
+		{"id":"05e67af1c984ca80","fromNode":"43c9548b50b7ed0c","fromSide":"bottom","toNode":"a57e8afba032e2c7","toSide":"bottom"},
+		{"id":"442cd0eb0217b0a5","fromNode":"20c6c1ea4076540d","fromSide":"right","toNode":"6eab97befdbc41ed","toSide":"left"},
+		{"id":"d47303121d52ac99","fromNode":"6eab97befdbc41ed","fromSide":"right","toNode":"ad324e3c1772b063","toSide":"left"},
+		{"id":"59995aee151018ad","fromNode":"ad324e3c1772b063","fromSide":"right","toNode":"4ea121cd21e93e00","toSide":"left"},
+		{"id":"fbf938bcfb98d717","fromNode":"4ea121cd21e93e00","fromSide":"right","toNode":"2aceadbc5ef18425","toSide":"left"},
+		{"id":"1136dcc6e73cad9a","fromNode":"4ea121cd21e93e00","fromSide":"right","toNode":"775ba94004c9091d","toSide":"left"},
+		{"id":"a323482edf56790d","fromNode":"775ba94004c9091d","fromSide":"right","toNode":"07f999227759df35","toSide":"left"},
+		{"id":"b0f663e4cd97275b","fromNode":"07f999227759df35","fromSide":"bottom","toNode":"a57e8afba032e2c7","toSide":"top"}
+	]
+}
