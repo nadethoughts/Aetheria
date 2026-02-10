@@ -1,4 +1,4 @@
-#Ironhold 
+[[Ironhold]] 
 ## Twilight Spire
 **Location:** Northern mountains, east of Ironhold
 

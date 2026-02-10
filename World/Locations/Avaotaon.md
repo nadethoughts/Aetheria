@@ -1,4 +1,4 @@
-#crown-of-the-immortals 
+[[crown-of-the-immortals]] 
 # Pronunciation:
 ## Ava-O-Ton
 # Overview

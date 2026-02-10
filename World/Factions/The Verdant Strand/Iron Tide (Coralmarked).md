@@ -1,4 +1,4 @@
-#verdant-strand #the-anchors-secret #tide-watch-ward #new-penmaris 
+[[verdant-strand]] [[the-anchors-secret]] [[tide-watch-ward]] [[new-penmaris]] 
 ### **The Coralmarked**
 The Coralmarked are surviving members of the Iron Tide Regiment who endured the chaos of Tidewatch Ward—but not unchanged. Prolonged exposure to the Pearl’s unleashed magic fused coral and barnacles into their flesh, leaving them visibly mutated yet fully conscious. Mistaken for monsters, they were abandoned by their own and forced to carve out a life in the drowned ruins. Now, they cling to their sense of duty and offer wary alliance to those who seek to reclaim the ward.
 

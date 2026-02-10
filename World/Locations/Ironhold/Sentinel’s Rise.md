@@ -1,4 +1,4 @@
-#Ironhold #Dwarf #the-cracked-granite 
+[[Ironhold]] [[Dwarf]] [[the-cracked-granite]] 
 ## Sentinel’s Rise
 **Location:** Northeastern frontier of Ironhold  
 **Type:** Dwarven Frontier Watchtower

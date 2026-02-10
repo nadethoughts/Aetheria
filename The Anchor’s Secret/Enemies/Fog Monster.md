@@ -1,4 +1,4 @@
-#tide-watch-ward
+[[tide-watch-ward]]
 ![[Fog Monster.png]]
 ![[ToV-Invisible-Stalker.png]]
 ![[Steam Mephit Image.png]]

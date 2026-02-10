@@ -1,4 +1,4 @@
-#the-cracked-granite 
+[[the-cracked-granite]] 
 ![[Thrain Emberhelm.png]]
 ---
 ## 🛡️ Captain Thrain Emberhelm – Commander of Hammergate Hold

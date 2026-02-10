@@ -1,4 +1,4 @@
-#guiding-luminescence 
+[[guiding-luminescence]] 
 # Cadens: The Melodic Maestro
 ![[Cadens-Logo-1.webp|300]]
 

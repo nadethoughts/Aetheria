@@ -3,4 +3,4 @@ In the sacred annals of the [[Luakini o ka Manawa]] Temple, it is proclaimed: Be
 
 By divine decree, the Great Time Turner was wrought by the hands of [[Shananooah]] Herself, fashioned from the sands of time and imbued with Her celestial essence. It is written that the Turner is the heart of temporal harmony, its gears and cogs in perfect concord with the celestial spheres. Thus, does it ensure the unceasing flow of time and the orderly march of days.
 
-#divine-artifact #shananooah
+[[divine-artifact]] [[shananooah]]

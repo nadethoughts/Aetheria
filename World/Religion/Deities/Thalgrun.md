@@ -1,4 +1,4 @@
-#rank-of-brilliance
+[[rank-of-brilliance]]
 ### **Thalgrun, Lord of Flame**
 ![[Thalgrun.webp|300]]
 - **Domain**: Fire, heat, transformation

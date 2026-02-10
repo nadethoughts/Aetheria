@@ -1,4 +1,4 @@
-#luminous-authority
+[[luminous-authority]]
 # Aurion:  The Prime Architect
 ![[Aurion-logo-1.webp|300]]
 

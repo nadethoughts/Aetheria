@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ### **Zhurak, the Maw of Storms**
 ![[Zhurak Symbol.webp]]
 - **Domain**: Wind, chaos, wrath

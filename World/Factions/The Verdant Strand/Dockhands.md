@@ -1,4 +1,4 @@
-#verdant-strand #new-penmaris #verdant-strand 
+[[verdant-strand]] [[new-penmaris]] [[verdant-strand]] 
 ### **The Dockhand Golems**
 
 When the Pearl was torn from its pedestal, its unleashed magic rippled through Tidewatch Ward, awakening more than storms and monsters. Among the ward’s shattered docks, the enchanted constructs once used for heavy lifting and cargo hauling gained sentience. These **Dockhand Golems**, forged for labor, now guard the waterfront with unwavering resolve—and a deep mistrust of all outsiders.

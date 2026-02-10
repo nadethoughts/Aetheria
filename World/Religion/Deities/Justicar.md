@@ -1,4 +1,4 @@
-#luminous-authority 
+[[luminous-authority]] 
 # The Guardian of Balance
 ![[Justicar-logo.webp|300]]
 

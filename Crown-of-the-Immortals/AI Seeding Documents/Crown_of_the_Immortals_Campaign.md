@@ -2341,7 +2341,7 @@ A Marshy area that contains a lot of Hot Springs.
 - **Clue**: The journal entry includes a fragment: 
 > The Betrayer stirs in the Ruins of [[Kuth'Alar]], his servants—beasts of the underdark—dig ever deeper to restore him to power. May the gods preserve us.”
 
-#clue/quest-item
+[[clue/quest-item]]
 
 
 - **Description**: A scroll, written in a mix of goblin and infernal, is a prayer to “The Betrayer.” It speaks of raising an ancient master who will restore their tribe’s strength.

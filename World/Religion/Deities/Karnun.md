@@ -1,4 +1,4 @@
-#guiding-luminescence 
+[[guiding-luminescence]] 
 ### **Karnun, the Gearwright**
 ![[Karnun Symbol.webp|300]]
 - **Domain**: Engineering, invention, mechanics

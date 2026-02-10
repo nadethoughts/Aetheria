@@ -1,4 +1,4 @@
-#dawn-father-creator-of-all
+[[dawn-father-creator-of-all]]
 # The Sun God and Creator
 ![[Raythelion-logo-2.webp|400]]
 

@@ -1,4 +1,4 @@
-#rank-of-brilliance 
+[[rank-of-brilliance]] 
 # **Aelra: Mistress of Flow**
 ![[Aelra symbol.webp|300]]
 - **Domain**: Water, cooling, tempering, adaptability

@@ -1,4 +1,4 @@
-#new-penmaris #verdant-strand #the-anchors-secret 
+[[new-penmaris]] [[verdant-strand]] [[the-anchors-secret]] 
 
 ![[Stormcaller cultist 1.png]]
 ![[Stormcaller Cultist 2.png]]

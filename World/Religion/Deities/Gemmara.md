@@ -1,4 +1,4 @@
-#guiding-luminescence 
+[[guiding-luminescence]] 
 ### **Gemmara, the Artisan’s Eye**
 ![[Gemmara Symbol.webp|300]]
 - **Domain**: Precision, artistry, gemcutting, design

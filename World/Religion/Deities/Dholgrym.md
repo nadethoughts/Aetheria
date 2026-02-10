@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ## **Dholgrym: the Hollow Flame**
 ![[Dholgrym Symbol.webp|300]]
 - **Title**: The Ember That Consumes

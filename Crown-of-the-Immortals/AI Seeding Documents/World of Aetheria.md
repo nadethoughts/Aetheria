@@ -933,22 +933,22 @@ In the sacred annals of the [[Luakini o ka Manawa]] Temple, it is proclaimed: Be
 
 By divine decree, the Great Time Turner was wrought by the hands of [[Shananooah]] Herself, fashioned from the sands of time and imbued with Her celestial essence. It is written that the Turner is the heart of temporal harmony, its gears and cogs in perfect concord with the celestial spheres. Thus, does it ensure the unceasing flow of time and the orderly march of days.
 
-#divine-artifact #shananooah
+[[divine-artifact]] [[shananooah]]
 
 # Location
 ## The Burned Wood
 a Charred forest that is North of [[The Blessed Realm]] used to be. There appear to be a tribe of [[Goblin]]s in there.
 
-#location 
+[[location]] 
 
 ### Description
 This area is a steaming marshy swamp. The waters in this area run from warm to hot. If you are not careful you will scald yourself by stepping in the wrong space. 
 
-#location 
+[[location]] 
 
 A location to the far North that is a singular mountainous island in the middle of a lake.
 
-#location 
+[[location]] 
 
 ## [[Avaotaon]]
 ### Pronunciation: Ava-O-Ton
@@ -960,11 +960,11 @@ a Village of survivors of the [[Flaming Retribution]] who are trying to rebuild 
 
 A series of tunnels and caverns in the mountains to the east of [[The Blessed Realm]]
 
-#location #dungeon
+[[location]] [[dungeon]]
 
 A city that is rumored to be a location of strength for the Dark [[La Pelu]], [[Vorath the Betrayer]]. The location is rumored to be in the Western Mountains.
 
-#location #city 
+[[location]] [[city]] 
 
 ## Luakini o ka Manawa
 ### Legend of the Temple
@@ -972,7 +972,7 @@ Let it be known, the Luakini o ka Manawa Temple, erected in the desolate expanse
 
 Thus, the legend endures, enshrined in the hearts of the faithful. [[The Great Time Turner]], a testament to the divine order of time, stands as a reminder of [[Shananooah]]’s eternal guidance. It is written that time is both a divine gift and a holy charge, guiding the world in its endless dance through the ages, under the watchful gaze of the Goddess of Time and Space.
 
-#location #temple #shananooah 
+[[location]] [[temple]] [[shananooah]] 
 
 ## Lumopolis, the Seat of Power of the Sun King
 
@@ -1028,7 +1028,7 @@ Thus, the legend endures, enshrined in the hearts of the faithful. [[The Great T
 #### **The Flaming Retribution**
 - **Destruction**: Over a year ago, Lumopolis was devastated by the Flaming Retribution, a cataclysmic event that brought meteors and flaming debris raining down upon the city. The once-great capital was reduced to ruins, and its surviving inhabitants were forced to flee.
 
-#old-world #city #the-blessed-realm
+[[old-world]] [[city]] [[the-blessed-realm]]
 
 ## **Oloru, the Shellborn Sentinel**
 
@@ -1073,7 +1073,7 @@ The eastern coastline, known as **[[The Shimmering Shores]]**, boasts some of th
 
 Embark on a journey through [[Aetheria]] and discover the wonders that await in each of these remarkable regions.
 
-#location #continent
+[[location]] [[continent]]
 
 ## Temple  of [[Cadens]]
 ### Location: [[Lumopolis]]
@@ -1153,7 +1153,7 @@ Embark on a journey through [[Aetheria]] and discover the wonders that await in 
 ### **The [[Flaming Retribution]]**
 - **Destruction**: Over a year ago, the Blessed Realm was devastated by the [[Flaming Retribution]], a cataclysmic event that brought meteors and flaming debris raining down upon the kingdom. The once-great realm was reduced to ruins, and its surviving inhabitants were forced to flee.
 
-#old-world #country
+[[old-world]] [[country]]
 
 ![[La Pelu Raythelion-logo-1.webp]]
 or in the common language ***Sun Swords***

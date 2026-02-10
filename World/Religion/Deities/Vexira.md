@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ### **Vexira, the Shard Queen**
 ![[Vexira Symbol.webp|300]]
 - **Domain**: Ice, cruelty, stillness
