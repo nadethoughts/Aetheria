@@ -1,4 +1,4 @@
-#the_granite_cracks #giant-tribes
+[[the_granite_cracks]] [[giant-tribes]]
 
 ![[Grondar Earthcaller.webp]]
 

@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ### **Tharuum, the Stone Reaper**
 ![[Tharuum Symbol.webp|400]]
 - **Domain**: Earth, decay, inevitability

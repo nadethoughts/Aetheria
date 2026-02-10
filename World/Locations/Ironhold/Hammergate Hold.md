@@ -1,4 +1,4 @@
-#Ironhold #Dwarf #the-cracked-granite
+[[Ironhold]] [[Dwarf]] [[the-cracked-granite]]
 ## Hammergate Hold
 **Location:** Northern mountain passes, Ironhold frontier  
 **Type:** Dwarven Frontier Watchtower

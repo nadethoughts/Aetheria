@@ -1,4 +1,4 @@
-#dark-pantheon
+[[dark-pantheon]]
 # The Sovereign of Shadows
 ![[Erabose-Logo.webp|300]]
 

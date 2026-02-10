@@ -1,4 +1,4 @@
-#rank-of-brilliance 
+[[rank-of-brilliance]] 
 ### **Varnok, the Stoneheart**
 ![[Varnok symbol.webp|300]]
 - **Domain**: Earth, Might and Confidence

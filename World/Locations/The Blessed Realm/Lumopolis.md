@@ -1,4 +1,4 @@
-#the-blessed-realm #crown-of-the-immortals 
+[[the-blessed-realm]] [[crown-of-the-immortals]] 
 # Lumopolis, the Seat of Power of the Sun King
 
 - **Title**: [[The Blessed Realm]] Capital
@@ -53,4 +53,4 @@
 ### **The Flaming Retribution**
 - **Destruction**: Over a year ago, Lumopolis was devastated by the Flaming Retribution, a cataclysmic event that brought meteors and flaming debris raining down upon the city. The once-great capital was reduced to ruins, and its surviving inhabitants were forced to flee.
 
-#old-world #city #the-blessed-realm
+[[old-world]] [[city]] [[the-blessed-realm]]

@@ -1,4 +1,4 @@
-#luminous-authority 
+[[luminous-authority]] 
 # The Greenwarden
 
 ![verdanth logo|300](Verdanth-logo-1.webp)

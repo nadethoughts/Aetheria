@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ### **Molgrath, the Ember Tyrant**
 ![[Molgrath Symbol.webp|300]]
 - **Domain**: Fire, destruction, conquest

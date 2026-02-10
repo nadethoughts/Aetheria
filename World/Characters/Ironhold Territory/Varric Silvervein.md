@@ -1,4 +1,4 @@
-#the_granite_cracks #Ironhold 
+[[the_granite_cracks]] [[Ironhold]] 
 
 ![[Varric Silvervein.webp]]
 

@@ -2,4 +2,4 @@
 - **Clue**: The journal entry includes a fragment: 
 > The Betrayer stirs in the Ruins of [[Kuth'Alar]], his servants—beasts of the underdark—dig ever deeper to restore him to power. May the gods preserve us.”
 
-#clue/quest-item
+[[clue/quest-item]]

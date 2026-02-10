@@ -1,5 +1,5 @@
 
-#the_granite_cracks #giant-tribes 
+[[the_granite_cracks]] [[giant-tribes]] 
 
 ![[Korrak Flintshard.webp]]
 

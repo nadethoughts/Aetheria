@@ -1,4 +1,4 @@
-#dark-pantheon 
+[[dark-pantheon]] 
 ## **Thazgrun, the Oath-Breaker**
 ![[Thazgrun Symbol.webp|300]]
 - **Title**: The Shattered Vow

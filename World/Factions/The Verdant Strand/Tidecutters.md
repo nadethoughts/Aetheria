@@ -1,4 +1,4 @@
-#islands #verdant-strand #the-anchors-secret 
+[[islands]] [[verdant-strand]] [[the-anchors-secret]] 
 
 The Tidecutters are a ruthless pirate brotherhood that rose from the chaos following the **Flaming Retribution**. Once scattered raiders haunting the southern coasts, they have become a disciplined and dangerous force, united under a single banner and driven by ambition. Their name is whispered in fear across the Shimmering Shores and now, ominously, in the streets of **New Penmaris**.
 

@@ -1,4 +1,4 @@
-#the_granite_cracks #Ironhold 
+[[the_granite_cracks]] [[Ironhold]] 
 
 ![[Skarn the Emberborn.webp]]
 

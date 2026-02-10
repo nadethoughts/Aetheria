@@ -1,4 +1,4 @@
-#guiding-luminescence
+[[guiding-luminescence]]
 ### **Durnhal, the Forgefather**
 ![[Drunhal symbol.webp|300]]
 - **Domain**: Smithing, metallurgy, endurance
