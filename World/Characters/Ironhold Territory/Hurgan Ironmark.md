@@ -1,7 +1,7 @@
 # Hurgan, Dwarven Scout Ranger
 
 Ironmark Clan • “The Night Watch Sentinel” • Hero of The Cracked Granite
-![[Hurgan Portrait.jpg]]
+![[Hurgan Portrait.webp]]
 ## Appearance & Gear
 
 - Male dwarf, mid-30s (human equivalent), powerful and broad-shouldered (~4'10"–5'0")

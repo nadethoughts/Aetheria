@@ -1,5 +1,5 @@
 [[the-cracked-granite]] 
-![[Thrain Emberhelm.png]]
+![[Thrain Emberhelm.webp]]
 ---
 ## 🛡️ Captain Thrain Emberhelm – Commander of Hammergate Hold
 **Race:** Dwarf  

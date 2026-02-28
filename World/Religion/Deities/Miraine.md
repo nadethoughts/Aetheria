@@ -1,5 +1,5 @@
 ## **Miraine, the Tidekeeper**
-![[Miraine Symbol.png|300]]
+![[Miraine Symbol.webp|300]]
 - **Domain:** Protection, Safe Passage, Boundaries
 - **Symbol:** A shield entwined with waves
 - **Philosophy:** Miraine embodies the steadfast defense of home and harbor. She is invoked by sailors before a voyage, by city guards at the gates, and by families seeking safety from storms or monsters. Her followers believe that true strength is found in protecting others and holding the line against chaos.

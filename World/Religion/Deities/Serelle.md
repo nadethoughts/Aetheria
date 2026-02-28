@@ -1,5 +1,5 @@
 ## **Serelle, the Lantern of Mercy**
-![[Serelle’s holy symbol.png|300]]
+![[Serelle’s holy symbol.webp|300]]
 - **Domain:** Healing, Compassion, Shelter
 - **Symbol:** A lantern with a gentle flame
 - **Philosophy:** Serelle teaches that mercy and kindness are the greatest strengths in times of hardship. Her followers care for the sick, shelter the lost, and offer comfort to those in mourning. She is invoked in refugee camps, hospitals, and homes where hope is needed most.

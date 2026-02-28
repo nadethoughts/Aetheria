@@ -1,6 +1,6 @@
 ### **Name:** Commander Veyric Thorne
 _(Titles among his people: The Last Shield, Keeper of the Line)_ 
-![[Veryic Thorne.png]]
+![[Veyric Thorne.webp]]
 
 ---
 #### **Background**

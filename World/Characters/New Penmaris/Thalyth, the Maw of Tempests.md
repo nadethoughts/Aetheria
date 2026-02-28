@@ -1,6 +1,6 @@
 ### **Name:** _Thalyth, the Maw of Tempests_
 _(Titles whispered by cultists: The Drowning Voice, The Tide Unbound)_
-![[Thalyth.png]]
+![[Thalyth.webp]]
 
 ---
 #### **Origins**

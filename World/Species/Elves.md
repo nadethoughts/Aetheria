@@ -1,5 +1,5 @@
 ## **The Elves of [[Aetheria]]**
-![[Elf.png|300]]
+![[Elf.webp|300]]
 ### **Origins and Homeland**
 The Elves of [[Aetheria]] are an ancient people whose roots stretch back to the earliest ages of the world. Their homeland, **[[Luminael]]**, lies beyond the [[Emeraldine Mountains]] in the west of [[Solaris]]—a region of deep, enchanted forests and hidden valleys. The fate of [[Luminael]] after the [[Flaming Retribution]] is uncertain, with rumors of untouched groves and lost sanctuaries.
 ### **Culture and Society**

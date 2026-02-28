@@ -1,3 +1,7 @@
+---
+tags: [type/event, world]
+---
+
 # The Flaming Retribution
 
 ![[flaming-retrobution.webp]]

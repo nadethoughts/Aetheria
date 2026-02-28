@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4e8075d976edee9c","type":"text","text":"# Scenes Left:\n## Race to the Pearl\n## Boss Battle\n## Camp-fire Scene\n## Legacy","x":-480,"y":-160,"width":250,"height":240},
+		{"id":"fc1c5287e630a59e","type":"text","text":"# Race to the Pearl","x":-82,"y":-228,"width":250,"height":60},
+		{"id":"9891fb0756a995cf","type":"text","text":"# Mechanics:\n4 Successes before 3 Failures\n## Current: 1 Success, 1 Failure","x":260,"y":-248,"width":250,"height":308},
+		{"id":"87f98471744c8155","x":-136,"y":-65,"width":250,"height":285,"type":"text","text":"# Collapsed Bridge"}
+	],
+	"edges":[
+		{"id":"b70325cba0987cf7","fromNode":"4e8075d976edee9c","fromSide":"right","toNode":"fc1c5287e630a59e","toSide":"left"},
+		{"id":"3dd41cecc69565b2","fromNode":"fc1c5287e630a59e","fromSide":"right","toNode":"9891fb0756a995cf","toSide":"left"},
+		{"id":"298b76c06ac876df","fromNode":"fc1c5287e630a59e","fromSide":"bottom","toNode":"87f98471744c8155","toSide":"top"}
+	]
+}

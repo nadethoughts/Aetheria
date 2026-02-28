@@ -1,3 +1,7 @@
+---
+tags: [campaign/crown, arc/ribbits-revenge, type/adventure]
+---
+
 ## Home: [[Avaotaon]]
 ## Traveled Through: [[Time Caverns]]
 ## Adventure Location: [[The Swamp]]

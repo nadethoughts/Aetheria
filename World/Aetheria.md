@@ -1,3 +1,7 @@
+---
+tags: [world, region/solaris, type/location]
+---
+
 # 🌍 Aetheria
 ### The World of Aetheria
 Aetheria is an ancient and vast world, a sphere of wonder and strife where divine legacies, elemental powers, and mortal ambition weave together in endless cycles of creation and destruction. Its lands are shaped by both natural forces and the scars of divine conflict, and its people endure within landscapes as varied as soaring mountain ranges, enchanted forests, storm-lashed coasts, and shattered plains.

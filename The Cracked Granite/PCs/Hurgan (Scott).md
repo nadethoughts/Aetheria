@@ -1,8 +1,8 @@
 # Hurgan Dwarven Ranger - Ironmark Clan
 
-![[Hurgan Portrait.jpg]]
+![[Hurgan Portrait.webp]]
 
-![[Hurgan Action.jpg]]
+![[Hurgan Action.webp]]
 ## Player - Scott Anderson
 
 ## Night Watch Sentinel

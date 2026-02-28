@@ -1,5 +1,5 @@
 ## **Eldran, the Keeper of Echoes**
-![[Eldran’s holy symbol.png]]
+![[Eldran’s holy symbol.webp]]
 
 - **Domain:** Wisdom, Memory, Ancestors, History
 - **Symbol:** An open book with a feather quill

@@ -1,3 +1,7 @@
+---
+tags: [campaign/crown, type/adventure]
+---
+
 # Crown of the Immortals Pitch
 ## Feel of the Campaign
 This will be a high magic high fantasy campaign that will be both **Character Driven** and **Story Driven** you will have access to all of the options in the **[Pathfinder](https://2e.aonprd.com/)** system with little limitation. So you will have access to **Sword and Sorcery** as well as **Guns and Technology**. This campaign will be high steaks with occasional punnyness and is intended to go all the way from **Level 1-20**.

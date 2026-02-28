@@ -1,7 +1,7 @@
 # Demlor Dwarven Kineticist Investigator - Ironmark Clan
-![[Demlor Portrait.jpg]]
+![[Demlor Portrait.webp]]
 
-![[Demlor Action.jpg]]
+![[Demlor Action.webp]]
 ## Player - Jason Schultz
 
 ## Hunter of Orcs

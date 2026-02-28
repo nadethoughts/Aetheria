@@ -1,3 +1,7 @@
+---
+tags: [campaign/crown, arc/aftermath, type/adventure]
+---
+
 # Player Characters
 ## [[Alwor]] - Ramsey
 Gnome Entertainer who is friendly and cares about the community, Always checking in on everyone in the aftermath of the Flaming Retribution

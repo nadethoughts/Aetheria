@@ -1,7 +1,7 @@
 # Demlor, Dwarven Kineticist Investigator
 
 Ironmark Clan • “The Iron Pulse” • Hero of The Cracked Granite
-![[Demlor Portrait.jpg]]
+![[Demlor Portrait.webp]]
 ## Appearance & Gear
 
 - Male dwarf, mid-20s to 30s (human equivalent), stocky, average height (~4'6")

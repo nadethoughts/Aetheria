@@ -1,4 +1,4 @@
-![[alwor_thistlegift.Avatar.webp]]]
+![[alwor_thistlegift.Avatar.webp]]
 
 # Alwor Thistlegift
 

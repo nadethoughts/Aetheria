@@ -1,5 +1,5 @@
 ### **Beastkin**
-![[Beastkin.png]]
+![[Beastkin.webp]]
 **Front:**  
 Wild souls with animal traits—wings, claws, tails, or more. Beastkin thrive on the edge of civilization, guided by instinct and curiosity. Scouts, wardens, and survivors, they bond fiercely with those who earn their trust.
 
@@ -15,7 +15,7 @@ Wild souls with animal traits—wings, claws, tails, or more. Beastkin thrive on
 ---
 
 ### **Dwarf**
-![[Dwarf.png]]
+![[Dwarf.webp]]
 **Front:**  
 Sturdy, stone-born folk of Ironhold. Dwarves are resilient, loyal, and skilled in craft and battle. Tradition and clan shape their lives; endurance is their legacy.
 
@@ -30,7 +30,7 @@ Sturdy, stone-born folk of Ironhold. Dwarves are resilient, loyal, and skilled i
 ---
 
 ### **Elf**
-![[Elf.png]]
+![[Elf.webp]]
 **Front:**  
 Ancient, graceful, and psionic. Elves are attuned to mind and spirit, living in harmony with nature and memory. Their senses and discipline are unmatched.
 
@@ -45,7 +45,7 @@ Ancient, graceful, and psionic. Elves are attuned to mind and spirit, living in 
 ---
 
 ### **Human**
-![[Human.png]]
+![[Human.webp]]
 **Front:**  
 Ambitious, adaptable, and diverse. Humans thrive in every land, driven by dreams and ingenuity. They shape the world with their will.
 
@@ -59,7 +59,7 @@ Ambitious, adaptable, and diverse. Humans thrive in every land, driven by dreams
 ---
 
 ### **Kobold**
-![[Kobold.png]]
+![[Kobold.webp]]
 **Front:**  
 Small, draconic tricksters with a knack for traps and tinkering. Kobolds are clever survivors, thriving in tunnels and ruins.
 
@@ -76,7 +76,7 @@ Small, draconic tricksters with a knack for traps and tinkering. Kobolds are cle
 ---
 
 ### **Orc**
-![[Orc.png]]
+![[Orc.webp]]
 **Front:**  
 Resilient and bold, orcs are driven by exploration and survival. Their strength and perseverance are legendary.
 
@@ -91,7 +91,7 @@ Resilient and bold, orcs are driven by exploration and survival. Their strength 
 ---
 
 ### **Syderean**
-![[Syderean.png]]
+![[Syderean.webp]]
 **Front:**  
 Mystical, plane-touched beings with celestial or fiendish traits. Sydereans walk between worlds, marked by cosmic power.
 
@@ -108,7 +108,7 @@ Mystical, plane-touched beings with celestial or fiendish traits. Sydereans walk
 ---
 
 ### **Smallfolk (Gnome/Halfling)**
-![[Smallfolk.png]]
+![[Smallfolk.webp]]
 **Front:**  
 Small, clever, and community-minded. Gnomes and halflings survive with luck and wit, fitting in anywhere.
 
