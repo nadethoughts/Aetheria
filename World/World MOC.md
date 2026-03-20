@@ -51,7 +51,7 @@ Notable deities: **[[Cadens]]**, **[[Justicar]]**, **[[Aelra]]**, **[[Miraine]]*
 ## 👥 Factions
 
 - **[[Solaris-Sentinels]]** — Cross-region protectors
-- **[[The Veilcant Guard]]** — Ancient order (Llano, La Pelu legacy)
+- **[[World/Factions/The Veilcant Guard]]** — Ancient order (Llano, La Pelu legacy)
 - **[[The Sentinels of Equilibrium]]**
 - **[[The Order of The Blessed Realm]]** / **[[The Order of the Dawnguard]]**
 - **Ironhold:** **[[Ironhold/The Reformists]]**, **[[Ironhold/Isolationists]]**, **[[Ironhold/Expansionists]]**, **[[Ironhold/The Loyalists]]**, **[[Ironhold/The Radicals & Cults]]**

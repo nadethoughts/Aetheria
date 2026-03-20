@@ -2168,8 +2168,8 @@ The party now understands that the temporary fix using star metal won't last. Th
 - **Clue**: One line stands out: “At the Broken Tower of Kuth'Alar, we shall serve him. In the shadows beneath, he waits to walk the world again.”
 
 
-![[Crown-of-the-Immortals/2.Aftermath/Adventure#Player Characters]]
-![[Crown-of-the-Immortals/2.Aftermath/Adventure#Outside the Dungeon]]
+![[Campaigns/Crown-of-the-Immortals/2.Aftermath/Adventure#Player Characters]]
+![[Campaigns/Crown-of-the-Immortals/2.Aftermath/Adventure#Outside the Dungeon]]
 # Open Questions
 - Did the Players want to name the village?
 # Intro
@@ -2243,7 +2243,7 @@ Plants attack and The Mantis attacks while they are distracted.
 	- [[Jared]] went into the tunnels to help put to rest the Elven Undead that were destroyed and investigate the Cave Exits
 	- Team Discovered that the Exit to the north opens in to [[The Burned Wood]] and the south entrance opened in to [[The Swamp]]
 
-![[Crown-of-the-Immortals/2.Aftermath/Adventure#Player Characters]]
+![[Campaigns/Crown-of-the-Immortals/2.Aftermath/Adventure#Player Characters]]
 
 # Location
 ![[The Burned Wood]]

@@ -1,7 +1,6 @@
 ---
 tags: [type/meta, meta]
 ---
-
 # 📁 Obsidian Organization Guide — Aetheria Vault
 
 Suggestions to keep your vault easy to navigate and consistent across campaigns.
