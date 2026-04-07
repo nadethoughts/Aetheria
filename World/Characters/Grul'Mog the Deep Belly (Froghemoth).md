@@ -27,4 +27,4 @@ Grul'Mog is a froghemoth—a towering, bulbous creature of the steaming swamps. 
 
 - **Location:** [[The Swamp]], [[Oloru]], [[Lumopolis]] (ruins)
 - **Faction:** — (creature)
-- **Campaign:** [[Crown-of-the-Immortals/3. Ribbit's Revenge/Adventure]]
+- **Campaign:** [[Campaigns/Crown-of-the-Immortals/3. Ribbit's Revenge/Adventure]]

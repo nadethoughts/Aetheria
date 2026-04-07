@@ -34,6 +34,6 @@ The **Sunken Temple of Cadens** is an ancient temple of **Cadens** (god of music
 
 - **Deity:** [[Cadens]]
 - **Locations:** [[Lumopolis]], [[The Blessed Realm]], [[Oloru]]
-- **Faction:** [[The Veilcant Guard]]
+- **Faction:** [[World/Factions/The Veilcant Guard]]
 - **Items:** [[Llano]], [[The Great Time Turner]], Beacon's Blade, Heart of the Flame, Mirror of Ashes, Infernal Breeze Gauntlets
 - **Events:** [[The War of Fractured Dawn]]

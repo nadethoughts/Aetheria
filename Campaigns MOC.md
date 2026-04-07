@@ -12,27 +12,27 @@ Hub for all **Aetheria** campaigns and one-shots. Each campaign has its own fold
 
 **System:** Pathfinder 2e · **Levels:** 1 → current 5 · **Status:** Ongoing · **Home base:** [[Avaotaon]]
 
-Survivors of the [[Flaming Retribution]] building a new community; characters are revealed as reincarnated **[[The Veilcant Guard|Veilcant Guard]]** (La Pelu), hunting **Llano** fragments and facing the legacy of [[Erabose]].
+Survivors of the [[Flaming Retribution]] building a new community; characters are revealed as reincarnated **[[World/Factions/The Veilcant Guard|Veilcant Guard]]** (La Pelu), hunting **Llano** fragments and facing the legacy of [[Erabose]].
 
 | Link | Description |
 |------|-------------|
-| [[Crown-of-the-Immortals/Pitch-Document]] | Campaign pitch, tone, expectations |
-| [[Crown-of-the-Immortals/Character-Creation]] | Character creation guidelines |
-| [[Crown-of-the-Immortals/AI Seeding Documents/Crown_of_the_Immortals_Campaign]] | AI seeding / campaign context |
+| [[Pitch-Document]] | Campaign pitch, tone, expectations |
+| [[Character-Creation]] | Character creation guidelines |
+| [[Crown_of_the_Immortals_Campaign]] | AI seeding / campaign context |
 
 ### Arcs
 
 | Arc | Entry note | Summary |
 |-----|------------|--------|
 | **1. The Light's Fall** | `1. The-Light's-Fall/` | Founding, early threats |
-| **2. Aftermath** | [[Crown-of-the-Immortals/2.Aftermath/Adventure]] | Goblin incursions, Luakini o ka Manawa, tunnels of time |
-| **3. Ribbit's Revenge** | [[Crown-of-the-Immortals/3. Ribbit's Revenge/Adventure]] | Time Caverns → Swamp, Namar'Zul, Sunken Temple of Cadens, Llano fragment |
+| **2. Aftermath** | [[Campaigns/Crown-of-the-Immortals/2.Aftermath/Adventure]] | Goblin incursions, Luakini o ka Manawa, tunnels of time |
+| **3. Ribbit's Revenge** | [[Campaigns/Crown-of-the-Immortals/3. Ribbit's Revenge/Adventure]] | Time Caverns → Swamp, Namar'Zul, Sunken Temple of Cadens, Llano fragment |
 
 ### Crown resources
 
-- **PCs:** [[Crown-of-the-Immortals/PCs/Alwor Thistlegift/Alwor]], [[Crown-of-the-Immortals/PCs/Cahir Emersyn/Cahir]], [[Crown-of-the-Immortals/PCs/Karsten Kendrick/Karsten]], [[Crown-of-the-Immortals/PCs/Simear/Simear]] (+ relics, visions)
+- **PCs:** [[Alwor]], [[Cahir]], [[Karsten]], [[Simear]] (+ relics, visions)
 - **Session transcripts:** `Crown-of-the-Immortals/Session Transcripts/`
-- **Treasure:** [[Crown-of-the-Immortals/Treasure]]
+- **Treasure:** [[Treasure]]
 
 ---
 
@@ -44,11 +44,11 @@ Dwarven champions investigated the fallen colony **[[Dagger's Sheath]]**; giants
 
 | Link | Description |
 |------|-------------|
-| [[The Cracked Granite/The Story so Far]] | Campaign summary and session recaps |
-| [[The Cracked Granite/Intro Read through]] | Intro / read-aloud |
-| [[The Cracked Granite/NPCs of The Cracked Granite]] | NPC roster |
+| [[The Story so Far]] | Campaign summary and session recaps |
+| [[Intro Read through]] | Intro / read-aloud |
+| [[NPCs of The Cracked Granite]] | NPC roster |
 
-**PCs:** [[The Cracked Granite/PCs/Hurgan (Scott)]], Demlor, Rurik (see World/Characters/Ironhold Territory)  
+**PCs:** [[Hurgan (Scott)]], Demlor, Rurik (see World/Characters/Ironhold Territory)  
 **Sessions:** `The Cracked Granite/Session Transcripts/` · **Planning:** `The Cracked Granite/Session Notes/`  
 **Canvas:** `The Cracked Granite/The Cracked Granite Adventure.canvas`
 

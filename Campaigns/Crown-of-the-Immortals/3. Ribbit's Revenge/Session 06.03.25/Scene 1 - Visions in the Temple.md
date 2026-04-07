@@ -6,21 +6,21 @@
 
 ---
 ### 🔮 Transition 1: Alwor’s Vision
-![[Crown-of-the-Immortals/PCs/Alwor Thistlegift/Vision 2]]
+![[Campaigns/Crown-of-the-Immortals/PCs/Alwor Thistlegift/Vision 2]]
 
 ---
 
 ### 🔥 Transition 2: Cahir’s Vision
-![[Crown-of-the-Immortals/PCs/Cahir Emersyn/Vision 2|Vision 2]]
+![[Campaigns/Crown-of-the-Immortals/PCs/Cahir Emersyn/Vision 2|Vision 2]]
 
 ---
 
 ### 🌪️ Transition 3: Karsten’s Vision
-![[Crown-of-the-Immortals/PCs/Karsten Kendrick/Vision 2|Vision 2]]
+![[Campaigns/Crown-of-the-Immortals/PCs/Karsten Kendrick/Vision 2|Vision 2]]
 
 ---
 ### 🔮 Transition 4: Simear’s Vision
-![[Crown-of-the-Immortals/PCs/Simear/Vision 2|Vision 2]]
+![[Campaigns/Crown-of-the-Immortals/PCs/Simear/Vision 2|Vision 2]]
 
 ---
 
