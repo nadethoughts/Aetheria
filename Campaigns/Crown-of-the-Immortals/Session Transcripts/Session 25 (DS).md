@@ -13,7 +13,7 @@ As you were getting to the exit of the cave, you heard a voice emanating from th
 you will not defeat me like you did last time.
 I will stop you before you're powerful enough.
 And then a flash happened.
-And in that flash, you see the afterimage of Valkra's cragged face.
+And in that flash, you see the afterimage of Velkra's cragged face.
 And then you wake up in a bed in an inn.
 And you wonder, what was that dream that you just had?
 It seems so real, but it was not.
