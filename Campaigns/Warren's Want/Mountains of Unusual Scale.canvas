@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8b35e2d3ec8286c9","x":720,"y":-380,"width":360,"height":350,"type":"text","text":"# Shattered Fang Orcs\nThis Orc Tribe has been a part of the Balshar Gorge for quite some time, living in the Caves and tunnels of the mountain. They do not often venture in the open as they are easy prey for the Erie Birdmen. \n\nThere has been a blood feud between the Orcs and the Birdmen for as far back as one can remember."},
+		{"id":"44ac8ca543fa6943","x":720,"y":0,"width":360,"height":300,"type":"text","text":"# Rock Scale Kobolds\n\nRock Scale Kobolds are a small tribe of Kobolds that have made their home in the Range of Balshar. They are and evil tribe of Kobolds, but "},
+		{"id":"beef48ff2ce262cb","x":720,"y":320,"width":360,"height":280,"type":"text","text":"# Erie"},
+		{"id":"76a291956496b6e9","type":"text","text":"# Razor","x":720,"y":640,"width":360,"height":280},
+		{"id":"282130a8cfbc085d","x":-140,"y":115,"width":585,"height":410,"type":"text","text":"# What is happening?\nA Dragon has taken up residence in the [[Western Balshar Mountain Range]] It has quickly Won the [[Kobolds]] over to it's side and has quitely made and alliance with the [[Orcs]] of the Balshar Region. The [[Erie]] has been able to maintain it's superiority due to it's ability to fly. [[Orcs]] and [[Kobolds]] in general don't have the ability to do this. The Erie have been protectors of the mountains and secretly guardians of the resting place of the Dragon flights, the location of a ancient battle where the [[Erie]] and the Dragons fought for superiority of both the [[Western Balshar Mountain Range]] and [[Eastern Balsher Mountain Range]]. The Dragons were defeated and in the subsiquent age, the power of the Erie has Wained. They are now nothing but a shadow of the Dynasty that they once were, but the memory of the Dragon's runs deep. [[Razor]] a Dragon of the [[Meegalalor Hills]] has migrated up the the West Range of Balshar to see if the mountains could once again be his race's home."}
+	],
+	"edges":[
+		{"id":"15cf2f0c0ea7b31f","fromNode":"282130a8cfbc085d","fromSide":"right","toNode":"8b35e2d3ec8286c9","toSide":"left"},
+		{"id":"ad4ed24cc8c387b6","fromNode":"282130a8cfbc085d","fromSide":"right","toNode":"44ac8ca543fa6943","toSide":"left"},
+		{"id":"9133a94992f70456","fromNode":"282130a8cfbc085d","fromSide":"right","toNode":"beef48ff2ce262cb","toSide":"left"},
+		{"id":"abe59ec42a3fb94b","fromNode":"282130a8cfbc085d","fromSide":"right","toNode":"76a291956496b6e9","toSide":"left"}
+	]
+}
