@@ -1,0 +1,9032 @@
+# Characters
+
+| Player | Character        | Class        | Ancestry   |
+| ------ | ---------------- | ------------ | ---------- |
+| Dave   | Umbrail          | Mage         | Birdfolk   |
+| Derek  | Alder            | Shadowmancer | Shroomling |
+| Ian    | Rubius Haggard   | Berserker    | Half-Giant |
+| Jason  | Whisper          | The Cheat    | Human      |
+| Ramsey | Rowan Hearthboro | Bun Bun      | Oathsworn  |
+| Ryan   | Lil Chan         | Orc          | Zephyr     |
+
+-------
+5 shadowblames.
+So,
+that's okay people can be late this is fun um especially considering that i'm not sure i've
+got a full night's worth of planning here yeah that happens i have a feeling that we're going
+to finish the dungeon could be wrong but i think we're going to finish the dungeon
+and then from there we need to figure out what the heck we're doing
+so i can prepare for what's at what's next so um there might be a little group discussion at the end
+i could be wrong though we might not make we might not make it i mean less people less
+distractions that is true let's figure we're down uh yeah we're down both dave and ian
+um but we do have ryan who has yet to have actually played eventually so that will
+almost certainly slow it down yeah just new game moody's exactly
+no no no no he has never played this game before he's never played this character before
+right he's never and you know he's and he's relatively new to rpg so you know that's no shade
+on ryan at all so i don't know what my weekend looks like actually i know i had friday i have
+wakana pre-release oh okay and then sunday is mother's day yeah oh yeah sunday is mother's day
+i might be free saturday but i don't know okay okay
+that's why i have to put something on sunday fair enough yeah we're probably not doing anything
+on the sunday yeah maybe we are i know i am doing things on sunday we typically do
+things off day yeah which is not because i mean yeah but okay
+so i don't know what's going to work on because her hand is going to be in town and we've not seen
+her not back so i want to be here saturday to hang out with her yeah i think dave's going to want to make
+a few times several past week weekends
+that's all right i just want to get to root to the table yeah yeah sure
+that's all right
+that's going around
+what'd you do to yourself oh just fire
+oh yeah i yeah that's what happens when you play cards in the middle of the week
+and you're at the card store till 9 30 and he's like ah well then you gotta back home
+then you gotta decompress uh-huh you know and decompressing is at least is a minimum of two
+hours in front of the in front of the computer right
+uh-huh
+so you only go to bed
+you want to read
+yeah
+you want to read for way too long
+there you go
+it's good but bad
+it's good to sleep
+well that's better than just not uh that's better than literally just binging on youtube for two for that time period so
+yeah i suppose
+you are reaching your mind at the very least
+i well
+i don't know
+i'm reading the book equivalent of youtube i think
+it's fine
+dungeon crawler carl
+it takes
+yeah
+okay
+it still takes more effort than youtube
+that's true
+oh dungeon crawler carl
+uh yeah
+it's real fun
+i imagine it is
+um i
+myself have
+not done that
+just yet
+yeah i
+don't
+imagine you would actually enjoy it
+oh really
+maybe you would
+but
+i don't know
+am
+what is your deal
+be friendly
+not mighty
+but yeah
+i just need to learn to like fold my reading time into the
+daylight times
+into the
+the non-sleeping times
+into the decompressed time
+ah
+i need to not decompress the computer
+and then also read
+yeah yeah yeah
+i need to be like oh
+it's nine o'clock
+i'm gonna go read
+and that will be my decompress
+and then i can read for two hours
+and still go to bed at 11
+and wake up at 7
+and get eight hours of sleep
+and it'll be fine
+but now
+i wrote about at like 10 30
+and then i wind up reading until like 12 30
+and that is not fine
+is what you would call a sleep deficit
+yeah
+uh
+do do do do
+oh
+so you're doing work on a wednesday
+mm-hmm
+nice
+mm-hmm
+oh my
+it's getting busy on wednesday
+yeah
+yeah
+what else is going on on wednesday
+one piece
+oh yeah
+one piece taking off
+yeah
+nice
+yeah there was
+uh
+between the two of us
+it was full
+wow
+wow
+yeah
+that's crazy
+how many for work on it or so
+i think it was
+i think this last week was 12
+okay
+so
+yeah
+i'm telling
+and then
+i think one piece had
+14
+something like that
+somewhere around there
+maybe a little more
+yeah
+nice
+there's
+30-ish people
+30 plus people
+if you include
+george
+yeah
+yeah
+and then
+the youngs stopped in
+oh
+apparently one of them
+wants to start playing work on them
+oh really
+yeah
+okay
+noise
+at least that's what george was saying
+yeah
+yeah
+get into one piece of me
+it's like a cancer
+it spreads
+on stock
+right
+i take it there's one piece
+ttrpg now
+there is
+it's been a long
+around for
+quite a while
+yeah
+15 sets
+yeah
+15 sets
+that's all
+yep
+wait
+is that
+how often do they release sets
+probably like the
+average
+three to four months
+yeah
+probably four a year
+yeah
+how does it go
+quite that long
+well it's also
+it's been
+out far longer
+than it's been
+available
+yeah
+probably
+yeah
+i don't know
+one piece of them
+yeah
+i guess
+because for the first
+like year
+it was impossible
+to find anything
+these prices
+were insane
+yeah
+now they've dropped
+or they're also insane
+depending on what kind of card
+you're picking
+well yeah
+that's true
+that is true
+yeah
+so how deep are you in the dungeon crawler carl
+uh
+what
+five
+five
+what five
+um
+seven currently
+one two
+five
+yes
+no
+maybe so
+yeah
+cruss is moving a little slow
+yeah
+five of seven
+earlier
+five
+five seven
+okay
+earlier today
+we
+we were
+he was
+in such a bad way
+we were thinking
+we might need
+to put him down
+he just
+couldn't put weight
+on his last
+on his hind leg
+couldn't settle
+was just yelling
+in pain
+it's not good
+he made it through
+so
+he's a tough cookie
+or tough somebody
+trying to think about
+what
+what to ask about
+dungeon crawler carl
+because that's
+that at least
+I can participate in
+the
+ttrpg
+or the
+ccg
+discussion
+I've got
+nothing
+uh-huh
+I've got
+nothing
+um
+oh
+were you able to
+sell your
+your magic cards
+that you were looking
+to upload
+I haven't sold them
+yet
+no
+oh
+okay
+I just haven't
+gone to
+the
+haven't gone to
+stores yet
+yeah
+fair enough
+I was curious
+I was just there
+uh
+the place I recommended
+upkeep games
+uh
+I noticed
+they also do
+board games
+on consignment
+oh
+so like
+you give them
+your game
+and you're like
+this is how much
+I want to sell it for
+and then you get
+70% of your
+asset price
+that would have been
+yeah
+yeah
+yeah
+yeah
+that would have been
+nice to have
+known before
+well I mean
+where all my
+where my
+all my board games
+went was
+a donation to
+Camp Living Waters
+for
+um
+for their
+game library
+so
+it wasn't
+a bad
+donation
+but at the
+same time
+like
+it would have
+been nice
+to have
+gotten some
+money
+yeah
+yeah
+yeah
+so yeah
+I'm almost
+certainly going
+to do that
+because I'm sure
+it beats a lot
+of them down to
+Gen Con
+and
+trying to do
+anything with
+them there
+yeah
+currently trying to
+offload
+some of my
+older RPGs
+to
+like the ones
+that I'm just
+like I'm never
+going to play
+this game
+yeah
+I had grand
+intentions but I'm
+never going to
+play it
+yep
+like
+speaking of
+Dungeon Call
+Carl
+there's an RPG
+yep
+getting
+kickstarted
+but not
+on kickstarter
+on a different
+thing
+yep
+yeah
+I can't
+I can't believe
+like that
+that RPG
+like
+I think it
+blew
+it's
+it's very
+well
+it blew
+it blew
+every
+TTRPG
+out of the
+water
+like up to
+and including
+like Drawsteel
+which was
+the reigning
+champion
+at that point
+so
+it's because
+the book series
+yeah
+is
+probably
+the entry
+point
+into
+that type
+of book
+yeah
+that's fair
+like the
+yeah
+the lit RPG
+type genre
+book
+it's like
+hey
+it's either
+this one
+or
+he who
+fights
+monsters
+one of
+those two
+I like
+the classic
+like
+try this
+one out
+yeah
+and then
+you're
+down the
+slop train
+yep
+because
+they're just
+they're fun
+easy reads
+yeah
+yeah
+yeah
+yeah
+it's
+uh
+I wouldn't
+quite call it
+a YA novel
+but
+I mean
+it's definitely
+the only reason
+is because
+there's like
+quite a bit
+of profanity
+look at that
+yeah
+wait a minute
+that's
+I wouldn't say
+gory detail
+but it's
+yeah
+very violent
+yeah
+yeah
+exceptionally violent
+it is
+multiversal
+gladiator
+yes
+and just
+overall
+very crass
+is that
+why you think
+that I
+wouldn't like
+it
+there is
+book one
+forget it
+also it
+is
+uh
+it starts
+to become
+more heroic
+but it starts
+out not there
+heroic
+ish
+I would not
+call
+I would not
+call him
+a hero
+I mean
+he's like
+I'm gonna
+end the ish
+again
+he's trying
+to
+uh huh
+kill
+the really
+really bad
+guys
+sure
+but remember
+just because
+he's
+just because
+he's a bad
+guy doesn't
+mean that
+he's a bad
+guy
+yeah
+that's probably
+closer to the
+truth
+anti-heroes are
+fine
+I'd say
+he's definitely
+in that
+um
+I'll burn
+the world
+down to
+do it
+yes
+yes
+so I
+think that
+I'll kill
+as many
+people as
+I need
+to kill
+you
+yes
+exactly
+so
+I don't
+think I
+don't think
+I would
+necessarily
+have a
+problem
+with that
+yeah
+where I
+have
+where I
+tend to
+get
+really
+irritable
+about
+those sorts
+of things
+is when
+I'm
+when I'm
+reading an
+epic fantasy
+uh huh
+and there's
+literally
+nobody
+who
+actually
+has the
+world's
+best interests
+at heart
+sure
+you know
+they're just
+all
+terrible
+people
+yeah
+yeah
+yeah
+I can't
+deal with
+that
+right
+but if
+it's
+but if
+it's
+a bad
+person
+but if
+it's a
+but if
+it's a
+if it's a
+light
+if it's a
+light easy
+read and
+it's not
+supposed to
+be like
+the fate
+of the world
+isn't on
+the line
+sure
+whatever
+the fate
+of the world
+is on
+the line
+that's
+for sure
+I mean
+kind of
+I guess
+or his
+own ass
+is on
+the line
+yeah
+but like
+isn't like
+the whole
+I mean
+it's been a
+while since
+I've read
+book one
+yeah
+yeah
+yeah
+like
+isn't like
+only a
+select few
+people on
+the game
+show and
+the world
+is still
+like
+kind of
+the world
+outside
+or
+yes
+and no
+okay
+so like
+anyone who's
+really
+thrown out
+into the
+dungeon
+yeah
+is protected
+by law
+so like
+they're not
+supposed to
+be fucked
+with
+yeah
+so like
+their fate
+isn't really
+up to the
+dungeon
+at all
+it doesn't
+really matter
+I thought
+if you did
+well
+your world
+was better
+yes
+theoretically
+but no one
+is even
+kind of close
+exactly
+even a little
+bit
+yeah
+so like
+yes
+technically
+technically
+yeah
+yeah
+yeah
+it is not
+like
+hit on
+very hard
+throughout
+the whole
+thing
+but
+yeah
+yeah
+yeah
+yeah
+I thought
+it was kind
+of just
+like the
+setup
+of like
+hey
+you have
+to do
+this thing
+for survival
+and the rest
+of your
+humanity
+yep
+but yeah
+no
+also thankfully
+like first book
+pretty short
+I didn't realize
+how much longer
+they were getting
+but they do
+start getting
+longer
+yeah
+well the first
+one's pretty
+short
+and I think
+pretty out
+equivocably
+if you read
+the first one
+you're going
+to know
+what you're
+going to
+like
+I mean
+it does
+evolve quite
+a bit
+between the
+time where
+you're at
+like
+yes
+I agree
+the first
+one
+takes itself
+zero percent
+seriously
+yes
+yes
+that's fair
+it does
+yeah
+that's fair
+but yeah
+the humor
+if you don't
+like the humor
+in book one
+then you're not
+going to like
+the humor
+the vibe
+stays pretty
+similar
+yes
+do you have
+an extra soda
+I do
+can I have
+one
+yes
+you absolutely
+can
+I don't think
+I've got many
+cold ones
+but I have
+also regular
+I also have
+warm ones
+not
+well I have
+not so cold
+ones
+I do not
+have warm
+ones
+because
+one that
+is
+it's hardly
+a one
+at all
+one that
+is warm
+is hardly
+a one
+at all
+exactly
+hey Ryan
+oh man
+well that's
+too bad
+little chat in the
+house
+you know
+hey hey
+let me try
+let me try
+it again
+wing wing
+wing wing
+ding ding ding
+ding wing
+that's my
+sensation
+I got
+I got nothing
+I got nothing
+but uh
+so
+Ryan
+there
+I did forget
+there is
+one
+more thing
+that you need
+to do
+for your
+character
+alright
+um
+what
+a baby
+no
+he didn't
+he didn't even
+he didn't even blink
+when I told him
+he needed to name
+his character
+he did not even
+he just was like
+bam
+there I am
+um
+and I'm sure
+that you will
+enjoy it
+uh
+but
+you do need
+to pick a
+background
+so
+um
+background
+actual
+yeah
+so you can
+basically
+I
+there are like
+two pages of
+backgrounds
+they're all
+relatively short
+you can just
+go through
+and pick one
+that you like
+it will give
+you
+certain
+it will give
+you special
+bonuses
+for certain
+things
+bye
+bye
+yes
+I'm gonna get out of the office
+early
+scoot down here
+and they're like
+oh by the way
+your code doesn't work
+what do you mean my code doesn't work
+and they're like well
+it doesn't work
+I go
+did you ask chat 3bt
+it's been working for three weeks in my test environment
+and then we're like
+what's different
+well they're like
+oh we've turned off always on
+on a database cluster
+and I was like
+well that's fun fact
+if you turn off always on
+you just turned off always on encryption
+if you turn off always on encryption
+you can't decrypt
+so yeah
+what is this test environment
+so I was like
+if you change
+if you change my requirements
+I was like
+I've been testing on this thing
+for three weeks
+it's always on
+everything's got always on
+but they decided
+to take always on
+off on the dev box
+overnight
+Ramzi
+I just went from
+0 to 150
+in less than 5 seconds
+I have this close
+to kicking you out
+of my house
+what is this test environment
+coming
+that's where we went sir
+or rather
+thank you
+please and thank you
+the one that resonates
+the best with me
+is
+everyone has a test environment
+some people are just lucky enough
+to have a separate
+production environment
+if you don't have a test environment
+guess what
+Rob is test
+and that's not what
+it's going to be
+I had this moment
+where Rob is like
+leading all your servers
+and it's like
+reading through
+y'all like thinks
+like I should delete
+all the servers
+actually he probably
+intended to delete
+the dev server instead
+well maybe he just
+intended to do
+like he's like
+telling me
+like as it's like
+whipping through
+like oh my gosh
+I'm like
+oh I stopped this thing
+I was like
+unfortunately
+it's like
+okay it did correctly
+just delete
+the dev box
+that I should have
+deleted
+but I was like
+I was going to have
+a heart attack
+with that thing
+and I was like
+no
+well I just
+earlier this week
+I just had to have
+a conversation
+with somebody
+about why we needed
+a QA environment
+they're like
+we just need dev
+and
+pre-prod
+no QA
+that's fine
+you know that's
+where my team
+is supposed to be
+doing like
+90% of their work
+right
+you know
+this is kind of
+like
+a
+it's a
+not for you sir
+I
+have been using
+the word
+anti-pattern
+so many times
+recently
+I was like
+this isn't anti-pattern
+this also
+is an anti-pattern
+and this other thing
+right here
+anti-pattern
+yeah
+that's
+that's what it is
+it's so great
+but
+the
+the
+yeah
+the
+we're transitioning
+to safe
+um
+which is a
+new
+agile framework
+for
+highly regulated
+companies
+okay
+and
+um
+we
+have put
+we
+uh
+we
+we've
+actually
+separated
+people out
+into
+this is a
+builder role
+and this is a
+planner role
+hey
+and I've been
+trying to
+inform people
+that they
+needed
+to have
+that
+that they
+are
+they no longer
+get to do
+things
+the way that
+they have
+before
+yeah
+it has not
+been received
+well
+we've got
+somebody who's
+a
+we've got
+somebody who
+is used to
+being builder
+who
+just
+uh
+she's been
+doing this
+for like
+30 years
+and we're
+all of a sudden
+telling her
+that she can't
+that she can't
+work tickets
+anymore
+she's pissed
+and it's like
+you applied
+for this job
+you wanted
+this job
+now you're
+telling me
+you don't want
+to do the job
+that you wanted
+right
+you're wanting
+to do the job
+that you used
+to do
+yeah
+yeah
+and this
+no
+no
+that's not
+how that's
+not how the
+force works
+no
+so
+so much
+fun
+yeah
+well
+I will
+make a
+I will make
+a plug
+for one
+background
+which is
+I'm so
+I'm so
+dumb
+I'm smart
+sometimes
+I like
+that one
+I
+I
+I tried
+to get
+Ian to
+take it
+but he
+wouldn't
+it was
+very sad
+but
+it would
+have been
+awesome
+for his
+barbarian
+but
+I'm so
+dumb
+I'm smart
+sometimes
+allows you
+to
+when you
+make
+an
+intelligence
+base
+roll
+you
+roll
+2d20
+and then
+you take
+the
+you get
+advantage
+on it
+so you
+roll
+2d20
+and you
+take
+the
+higher
+number
+with your
+negative
+one
+int
+it's
+could be
+clutch
+or it could be
+it could be
+fun
+but there
+are a bunch
+of other
+really fun
+backgrounds
+in there
+as well
+so
+many to be
+had
+little
+dog
+action
+little
+yeah
+actually
+that's our
+reason
+you want to be
+the acrobat
+where I'd be
+thrown by a
+larger ally
+really far
+well
+there is
+oh yeah
+like that
+one
+that happens
+to be
+uh
+true
+are you
+small
+no
+no
+oh
+you're not
+throwing
+anybody
+technically
+medial
+we got
+fey
+touched
+I could be
+you know
+take that
+out of
+diameter
+can
+is that
+Asian
+persuasion
+boy
+I do not
+need to get
+covered
+glasses
+thank you
+my
+you don't
+need it
+but you
+want them
+boy
+my boy
+my boy
+hi
+oh boy
+I missed
+you
+how are
+ya
+how are
+ya
+my boy
+oh my
+good boy
+yeah
+my
+good boy
+he's so much
+better now
+that you're
+giving him
+all that
+yeah
+yes
+he knows
+he knows
+he knows
+who his
+friends are
+yeah
+my boy
+oh my
+good boy
+yeah
+you too
+you too
+I know
+I know
+he's aggressive
+he is
+I know
+cut the other
+dog
+come on
+now
+come on
+come on
+come on
+come on
+come on
+come on
+come on
+come on
+come on
+there's a quiet
+can I just
+complain for a
+moment
+I'm on the subway
+for the first
+time in like
+a year
+you got two
+wraps
+you said
+$26
+I was like
+what is
+happening
+no chips
+no drinks
+nothing
+yeah
+I was like
+that was like
+20 years ago
+I'm so upset
+still
+uh-huh
+yeah
+fast food
+as a whole
+is now
+unaffordable
+and
+in here
+oh
+that makes
+sense
+it doesn't
+make sense
+I'm not
+making that
+much
+I'm not
+making
+I had
+Wendy's
+for the first
+time
+in like
+forever
+yeah
+they have
+a jalapeno
+cheeseburger
+oh yeah
+it was pretty
+tasty
+that do
+sound good
+we got
+the uh
+we got
+jesus chicken
+and they've
+got a
+jalapeno
+ranch
+chicken club
+sandwich
+sounds pretty
+good
+nevermind
+this is my
+whole gift
+card
+nevermind
+I
+have
+I
+had
+to
+зд�
+have
+heard
+when
+I
+can't
+do
+All right, I'll go ahead and kick us off and get things going.
+Ryan, obviously we'll pull you in pretty quickly, but we've got some space here for you to work
+out your stuff.
+Wait a minute.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Well, thank you.
+Well, thank you. You have been so much pitiful. You're like, thank you, thank you, thank you.
+So, when we were last, when we had last met, there was a village by the name of
+Claxton that had all of a sudden gotten missing livestock. You were all, mine is right, part
+of a posse that was mustered in order to figure out what happened to the sheep and goats.
+Uh, you were all, um, you were, you all did some investigating and were able to find that
+there was a kobold that was, um, trying to, trying to lead a stubborn mule to the, uh, to
+an undisclosed location. You were able to capture and interrogate said kobold and found out about
+a secret lair where there was a big boss that was, um, that was running, uh, running the
+warren. You entered in, you followed the directions, found a, um, found a impact site of a meteor
+that revealed that revealed the entrance to what looks to be an ancient, um, an ancient barracks.
+barracks. You entered in, found that there were many kobolds, not just the one, and proceeded
+to, um, proceeded to jump in and smash them up. Uh, you found the, uh, you were able to defeat
+them, um, and you have been, and you found a piece of crest, uh, that was among them.
+You also, uh, you went deeper in and found a tea where you, where there was a room that
+was full of, um, a bunch of different traps and things, but at the end of the, uh, corridor,
+you saw that there was a glint of gold as well as the, a glint of gold with one of the kobolds
+in the room that was smashed against the wall with a piece of floor.
+You were able to navigate the room, get both pieces, and return to the tea. You head back up,
+and you hear the sound of the bleeding of goats and sheep as you came up, as you came up the corridor,
+um, and you entered into this room right here. Uh, you did not see where the sheep and goats were, but
+they appeared to be very close, um, as well as, and there were a lot of kobolds that were there as well.
+Um, you attacked, found, um, and were able to dispatch, um, all the kobolds in that room, including,
+um, a kobold that was a little bit different than the others. He was, uh, he was basically clanging two
+pieces of metal together, um, and that seemed to invigorate the rest of the kobolds,
+causing them to do more damage than they would normally. Um, you defeated him, and that was where we
+ended. Um, on his corpse, uh, you did find two more pieces of that golden crest. Those were the symbols
+that he was clanging together. Um, upon, uh, upon further investigation in the room, you are able to see
+that there are, um, a, a bunch of different sheeps and goats that are in this alcove to the, um,
+to the, um, to the left, but that, that cardinal direction, whatever that cardinal direction is.
+The least. The least. Yes. The least, indeed.
+The least, indeed.
+Um, the, so, to explain how Haggard and, um, uh, his name is...
+Something dark. Not, not, not Suleo. Suleo is a different game.
+Yes.
+Something that is.
+Umbraille.
+Yeah, that's the one. Same dark.
+Um, so I'm gonna, I'm gonna say that Haggard and Umbraille, um, are basically see that the
+sheep and goats are basically kind of contained in some sort of magical field.
+And Haggard, as a animal lover, is wanting to kind of help them out.
+And Umbraille, as a, um, as a, uh, arcane artist, um, is, is specifically suited to the task of
+figuring out how to remove said enchantment. So they are going to be taking their, they're going to be
+taking some time to try and see if they can figure out what's going on with that, um,
+while the rest of the team will proceed forward.
+Yeah.
+Um, so there are two rooms. This one was the one that the, uh, kobold who was playing the pieces of
+metal, um, came out of. There's also this one. It appears to be barred, um,
+and besides that, um, there is a, another tunnel that, that kind of slopes this way.
+Nothing coming off that other room over there.
+Nothing coming off that other room over there.
+Well, uh, I'll go, yeah, I'll check this one out somewhere under.
+It's a little hard. Probably, probably nothing much I can do about it, but.
+Uh, you're, you're able to, you're able to kind of get through it. It, it doesn't have any magic
+enchantments, nothing, nothing terrible going on there. And, uh, Ryan, if you would be so kind
+as to describe your character and how he is, um, how he's bound in that room. You were jumped by
+kobolds on, on, on, on your, uh, on your way to this, into the town of Clapston to answer the call
+of being a, uh, of being part of the posse. Um, you were jumped by kobolds and there were too many of
+them for you to be able to fend off and you were captured. Um, the kobolds themselves basically
+decided not to kill you primarily because they wanted the big boss to be able to test
+something on you. But if you'd be so kind as to just let everybody know what you're,
+what you look like and, uh, how you're bound. Um, I do have a, I do have the picture on there
+as well, but it's, it, it will be coming forth shortly. But if you do have like a character
+description or something that you'd like to work, that you'd like to use, you can. Otherwise,
+I'm half orc, one half asian kung fu master.
+I don't like these creatures. Once lost in a great battle with them, I've lost my great master, Wing Ding.
+I once lost my master, Wing Ding Ho.
+And he's my master mentor. So I particularly don't like these creatures and I'm bound to
+seek them out wherever they are so that I can eliminate them. The whole family has banned
+blackness of me and no longer considers me worthy of their presence. I longed to marry Wing Ding Ho's
+daughter. The beautiful. I'm waiting for it. Soho. Soho. Okay. All right. Now I mourn for her love.
+So I must defeat the creatures. I got here because I was chasing them here. Okay. I am bound to hunt them.
+All right. Well, so you see, you see him chained up to, chained to the wall? Yeah, yeah. So you see a four foot tall,
+bipedal, bonny person. I mean, full armor and a shield, kind of peeks through the bars. So, well,
+how about that? You don't look like another full bug. I don't know. I'm assuming it's like locked,
+locked somehow. It is. It's, it does, it does definitely, it definitely would require, um,
+some way of being able to open, uh, the lock or break the bar or, or break the chain or something
+like that. So, well, sit right there. I'll be right back. I'm going to see if I can't find a key.
+Hop back out. I'm going to search, especially the, the dude there. Yep.
+Uh, you can come out. I'll turn to my, uh, to, to, to, to Alder and whisper and see if we got a,
+uh, looks like prisoner. Cobalt's took. No. Um, okay. Uh, is he, uh, I'll waddle over there.
+You see an orc chained to a wall. Uh, does he look healthy? He looks ripped.
+Dope. Dope. Yes. He looks healthy. He does not look like food for your mushrooms.
+That's, I guess, not food for the mushrooms yet. Eventually, everybody's food for the mushrooms.
+Um, yeah, you see a, uh, about, uh, think dwarf as in, uh, about size, like width and height,
+but, uh, he, he's just a mushroom person. Um, big old mushroom cap for head, big old black eyes,
+pretty, just featureless white body, you know, arms, legs, but. I'm, I'm picturing the Stay Puft
+Marshmallow Man with a mushroom cap on top. Yeah, I mean, like, it's like, you know, it's, it's not
+like pure white. It's, it's like that off. It looks a lot like the picture, so. Yeah, it looks like
+the picture right there. Um, so no medical attention. Okay, that's, that's, that's, that's good. Uh,
+try to prove to you. Uh, uh, Uh, uh, uh, uh, uh, uh,
+uh, the ñ uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh.
+Come help me I want revenge on these monsters and demons
+I've been here for a few days but I am in good health
+Okay um we're getting get get I guess we're getting a key
+I would appreciate it
+You go searching for a key on the kobold that was apparently in charge here
+and you do indeed find a small key in a uh in a coin purse
+but there's nothing else in it besides the key
+So while this is happening what is Whisper doing Jason?
+Um I think I'll probably just kind of go go over towards the wall with him
+and see if I can help him with something
+Okay
+Yeah to try and help them find a
+find a key
+Hello there what is your name?
+I'm Whisper
+I'm the only human out of the bunch
+That's true
+He's the only normal person
+Normal
+I mean Andrew's normal he's just big
+He's tall
+He's just tall for his age
+Well yeah okay so I guess I'm not the only human
+You're walking
+Yeah
+I look human-ish
+No
+No
+No
+I have all the main features
+Face, mouth, eyes
+Going by that everybody looks human
+Yeah
+Arms
+Exactly
+Legs
+Stubs
+I wouldn't go that far but
+They all look the same to me
+All right
+Oh you and the tiny nut
+Right
+All right so
+So I'll hop back over to the key here
+All right
+Get them unshackled
+Oh
+Help them up
+Thank you
+All right fair for now
+Been here a few days
+Oh
+A little unsteady
+Yeah
+Let me see if I got some
+Just stand up a little bit
+Rummage through my pack a bit
+For some rations
+Okay
+All right
+Give you some food
+Yeah
+Water
+All right
+So besides the clangar pieces
+You were able to find
+Two more caustic bruves
+Oh that's good
+More caustic bruves
+That is good
+I was spending a hit die
+Work
+In this
+Oh
+Okay so
+Surely you should have one
+To give you
+I'm definitely down to like 10
+Yeah
+So
+There are three types of rest
+In this
+In this one
+It's actually pretty similar
+To what I was home brewing
+Yeah
+I actually stole it from here
+You
+Take a
+Take a minute to catch your breath
+And just roll
+Roll your
+Spend a hit die
+Roll that and heal that
+Plus your con
+Plus your con
+Um
+Or
+Plus your strength
+Sorry
+Yep
+Yep
+Yep
+Yep
+Um
+Or
+If you do
+You can take a
+Extended rest
+Which is an
+Eight hour
+When you sleep
+Eight hours
+Um
+Like
+But you're sleeping rough
+You
+Get to
+You get to
+Spend a hit die
+And you
+Just
+Roll
+You
+You just
+Roll max
+Whenever
+For any hit die
+That you spend
+When you sleep overnight
+Okay
+And then there's a safe rest
+Which
+You sleep
+Um
+Where you're sleeping
+In a safe place
+Like you don't have to be
+On your guard
+And that kind of thing
+Yeah
+And that does the full heal
+Okay
+So
+Roger
+Roll
+Alrighty
+Well
+I'm gonna
+Do that
+I'm gonna
+Take a breather
+And spend my hit die
+Cause uh
+We're working
+On the war off
+Yeah
+Memory serves
+You do have a wound
+I do have a wound
+Um
+Wounds can only be healed
+When you
+Have a safe rest
+And they only heal
+One
+Wound
+Per
+Um
+Per safe rest
+You take
+So
+That's alright
+Back up to 15
+Out of 17
+So
+We'll be alright
+Alright
+We're
+Another point
+Yep
+Alright
+So
+Um
+As far as
+The rest of this room
+Is there anything
+Else that
+You guys
+Want to do
+Before you
+Proceed forward
+I'm gonna
+Look
+Yeah
+I'm gonna
+Do what I was
+Originally intending to do
+Just look through
+This guy's room
+That he came out of
+Yeah
+If I
+Notice anything
+Yeah
+So
+In
+In that room
+You
+That does seem to be
+More of like a private
+Quarters
+So this guy appeared
+To be a little bit
+Higher up on the food chain
+Um
+He
+Uh
+Had
+Um
+He did have
+The
+Um
+Kobolds don't really have
+Journals
+But
+He had
+Some
+Graffiti
+That he was
+Um
+That he was putting
+On the wall
+There
+Um
+And it
+Basically
+Talks
+Uh
+In
+When you
+When you look
+At it
+Um
+It said
+It says
+In big
+Bold letters
+Snaggletooth's
+Ascension
+Whether he
+Whether he
+Whether he
+Whether he
+Thinks he's
+Snaggletooth
+Or Snaggletooth
+Is somebody
+Else
+You're not
+Really quite
+Sure
+But
+That is a
+Word that
+Came out
+Um
+Also
+Who is
+Taking this
+Other caustic
+Brew
+I
+I
+I
+Mean
+I
+Can
+Give it
+To
+Somebody
+Again
+So
+Maybe
+Yeah
+Yeah
+Yeah
+Okay
+All right
+Um
+So
+Jason
+You
+Whisper
+Comes up
+You know
+Kind of
+Takes a
+Look at
+What's
+Going on
+Um
+You see
+That
+The
+The
+Orc
+Is being
+Unshackled
+By
+Um
+By
+Rowan
+And
+Um
+Alder
+Is kind of
+Rummaging
+Through
+Uh
+The
+Other room
+Uh
+There is
+A
+Tunnel
+Um
+Or
+Tunnel
+Is
+Probably
+An
+Incorrect
+Statement
+There's a
+Corridor
+That
+Comes
+Out
+That
+Direction
+That
+You
+Can
+Um
+That
+You
+Can
+See
+Something
+Is
+Happ
+Or
+You
+Can
+See
+There's
+There's
+Definitely
+Been
+Movement
+To
+And
+From
+That
+Specific
+Corridor
+Um
+Pretty
+Significant
+Movement
+Um
+But
+Yeah
+That's
+Kind of
+The
+Lay
+Of
+The
+Land
+For
+You
+Right
+Now
+Alright
+Let's
+Go
+Check
+It
+Out
+Alright
+So
+Whisper
+You
+Go
+Ahead
+And
+Scout
+Ahead
+A
+Little
+Bit
+Um
+Let's
+Go
+Ahead
+And
+Have
+You
+Roll
+A
+Perception
+Which
+Would
+Be
+A
+D20
+Plus
+Your
+Perception
+Skill
+While
+Everybody
+Else
+Is
+Kind
+Of
+Getting
+A
+Feel
+For
+What's
+Happening
+19
+That's
+Pretty
+Good
+Alright
+Um
+So
+You
+Are
+Able
+To
+Kind
+Of
+Sneak
+Down
+The
+Corridor
+A
+Little
+Bit
+Um
+You
+Do
+See
+That
+There
+Is
+A
+Uh
+You
+You
+Were
+Able
+To
+Keep
+Into
+The
+Shadows
+Well
+Actually
+Go
+Ahead
+And
+Roll
+Me
+In
+Stealth
+As
+Well
+Um
+Because
+That
+Will
+Determine
+How
+Far
+You
+Can
+Get
+Eight
+Oh
+Okay
+Um
+So
+Yeah
+You're
+Pretty
+Much
+Able
+To
+Make
+It
+To
+The
+Lip
+Of
+The
+Entrance
+To
+The
+Next
+Room
+Um
+What
+You
+See
+In
+That
+Room
+Is
+A
+Dimly
+Lit
+A
+Dimly
+Lit
+Low
+Ceilinged
+Chamber
+Um
+There's
+A
+Bunch
+Of
+Scavenged
+Masonry
+Trying
+To
+Hold
+Up
+Hold
+The
+Ceiling
+Up
+But
+The
+Ceiling
+Appears
+To
+Be
+A
+Little
+Bit
+More
+Unstable
+Um
+It
+Could
+Have
+Been
+Some
+Of
+The
+Destruction
+From
+The
+Recent
+Cataclysm
+Or
+It
+Could
+Have
+Been
+Or
+It
+Could
+Be
+That
+There's
+Something
+Else
+Going
+On
+Here
+Um
+The
+Floor
+Is
+Cluttered
+With
+Crates
+Broken
+Equipment
+And
+Trap
+Components
+And
+You
+Hear
+Scrape
+The
+Scraping
+Of
+A
+Metallic
+Sound
+From
+Beyond
+A
+Circular
+Stone
+Door
+Um
+At
+The
+End
+That
+Appears
+To
+Have
+A
+Round
+Impression
+In
+The
+Center
+Um
+And
+You
+Do
+Actually
+See
+In
+That
+In
+That
+Round
+Impression
+A
+Piece
+Of
+A
+Crest
+Um
+Next
+To
+The
+Door
+You
+Also
+See
+A
+Child
+Sized
+Hole
+That's
+In
+The
+That
+Leads
+Into
+The
+Room
+Beyond
+Um
+So
+It's
+Something
+That
+Is
+A
+Small
+Size
+Creature
+Oh
+Now
+You
+See
+All
+That
+But
+You
+Also
+See
+That
+There
+Are
+Kobolds
+In
+That
+Room
+As
+Well
+You
+See
+About
+About
+Seven
+Kobolds
+That
+Are
+Kind
+Of
+Meandering
+Around
+Although
+Meandering
+Is
+Not
+Really
+A
+Good
+Word
+It's
+More
+They
+Are
+All
+Moving
+With
+Purpose
+Um
+They
+Appear
+To
+Be
+A
+Lot
+More
+Um
+Regimented
+Uh
+Than
+Any
+Of
+The
+Kobolds
+That
+You've
+Run
+Into
+So
+Far
+Like
+These
+Ones
+Seem
+More
+Um
+More
+With
+It
+Um
+And
+That's
+What
+You
+See
+So
+What
+Are
+You
+Gonna
+Do
+With
+That
+Information
+Um
+I'm
+Gonna
+Head
+Back
+To
+The
+Rest
+Of
+The
+Team
+Filling
+In
+On
+On
+Uh
+What's
+Down
+In
+That
+Direction
+As
+Far
+As
+Making
+Sure
+That
+We
+Got
+Or
+That
+Not
+That
+We
+Have
+Uh
+There's
+Another
+Piece
+Of
+The
+Medallion
+Yeah
+Um
+There
+Is
+More
+Kobolds
+Down
+There
+Uh
+The
+Room
+Looks
+A
+Little
+Rough
+There
+Is
+Some
+There
+Is
+Some
+Sounds
+Coming
+From
+You
+Said
+At
+The
+Opposite
+End
+Of
+The
+Yeah
+So
+Yeah
+So
+There's
+A
+Door
+At
+The
+Other
+End
+Of
+The
+Corridor
+And
+That
+Door
+Itself
+Has
+Um
+Like
+There
+There
+Appeared
+To
+Be
+Some
+Scraping
+Sounds
+That
+Are
+Happening
+On
+The
+Other
+Side
+Of
+That
+And
+The
+Only
+Way
+That
+You
+Can
+Tell
+That
+Is
+Because
+Of
+The
+Hole
+That
+Is
+There
+So
+There's
+Some
+Noises
+Coming
+From
+The
+Other
+Side
+Of
+The
+Door
+That's
+Down
+There
+Whether
+It's
+Good
+Or
+Bad
+I
+Can't
+Tell
+All
+Right
+You
+Were
+Looking
+For
+Revenge
+I
+Reckon
+You're
+About
+To
+Get
+Some
+All
+Right
+Well
+I
+Think
+It's
+About
+Time
+That
+I
+Change
+Some
+Different
+Or
+Different
+That
+On
+That
+Change
+The
+Battle
+Maps
+Around
+A
+Little
+Bit
+Like
+Jason
+In
+My
+Little
+Chained
+Cell
+I
+Was
+Able
+To
+Cover
+My
+Sandals
+And
+My
+Tactical
+Rope
+Yeah
+Stuff
+Yeah
+So
+Something
+To
+Note
+About
+The
+Zephyr
+Which
+Is
+What
+You
+Currently
+Have
+Your
+Or
+That
+Your
+Class
+Um
+So
+The
+Martial
+Arts
+Thing
+Allows
+You
+To
+There
+You
+Go
+That's
+Cool
+You
+Got
+To
+Believe
+That
+Yeah
+Um
+So
+The
+Martial
+Arts
+Ability
+Allows
+You
+To
+To
+That
+That
+Is
+Probably
+More
+Like
+It
+It's not
+Exactly
+A
+Low
+Ceilinged
+Chamber
+But
+This
+Is
+What
+We're
+Working
+With
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Yeah
+Please
+Please forgive me
+I can't
+I didn't have
+A chance
+To
+Make
+This
+To
+Scale
+Um
+So
+The
+The
+Door
+Is
+Over
+Here
+Actually
+Just
+Door
+Door
+Okay
+Um
+And then
+There's
+That
+Little
+Small
+Hole
+Right
+There
+Um
+I'm
+Sorry
+You said
+Something about
+My Staff
+And Kung
+It Allows
+Yeah
+Yeah
+Sorry
+So
+Uh
+This
+Will make
+More sense
+When you
+Were
+When
+Once you've
+Actually played
+Uh
+Once you've
+Actually been
+In combat
+But
+You can
+Attack
+Multiple
+Times
+In this
+Game
+But
+Every time
+You do
+You
+Have
+What's
+Called
+Disadvantage
+So
+You
+Just
+What
+You do
+Is
+You
+Roll
+Two
+Of
+The
+Same
+Die
+And
+Then
+You
+Take
+The
+Lower
+Of
+The
+Lower
+Of
+The
+Abilities
+Um
+Rushed
+Attacks
+Grant
+You
+Disadvantage
+For
+For
+Your
+Secondary
+And
+Your
+Third
+Attack
+And
+You
+Can
+Get
+Double
+Disadvantage
+Which
+Means
+You
+Roll
+Three
+And
+You
+Take
+The
+Worst
+Of
+Three
+Zephyr
+Zephyrs
+Have
+The
+Ability
+When
+They're
+Using
+Their
+Unarmed
+Strikes
+To
+Not
+Have
+Any
+Impact
+From
+Rushed
+Attacks
+When
+They're
+Doing
+Unarmed
+Strikes
+So
+Something
+That
+You
+Could
+Do
+That
+Would
+Be
+Kind
+Of
+Lean
+Into
+It
+Is
+Do
+Your
+First
+Attack
+With
+Your
+Staff
+And
+Then
+Start
+Doing
+Unarmed
+Strikes
+After
+That
+Your
+Staff
+Does
+Bigger
+Damage
+But
+Your
+Unarmed
+Strikes
+Are
+Less
+Likely
+To
+Fail
+Because
+You're
+Not
+Going
+To
+Be
+Rolling
+Disadvantage
+When
+You're
+Hitting
+So
+Just
+Okay
+And
+Then
+One
+Other
+Question
+So
+It
+Says
+When
+Unarmored
+Does
+That
+Mean
+I'm
+Armored
+Because
+I have
+A
+Plus
+Three
+Here
+No
+You
+Are
+Unarmored
+Right
+Now
+Because
+You
+Don't
+Have
+Any
+Armor
+I
+Mean
+I
+Just
+My
+Armor
+That's
+Different
+Yeah
+It's
+An
+Yeah
+Yeah
+Armor
+Is
+An
+Item
+And
+You
+Don't
+Have
+That
+Item
+So
+You
+Get
+The
+Bonuses
+For
+Being
+Unarmored
+You
+Are
+Level
+One
+There's
+There's
+Partly
+Any
+Thin
+Hits
+Of
+This
+Room
+Corridor
+Uh
+Negative
+Ghost Rider
+There's
+Definitely
+Things
+There
+There
+Are
+Bad
+Dicks
+There
+Are
+Okay
+Okay
+Did
+The
+Rest
+Of
+Us
+Level
+No
+Not
+Yet
+Okay
+Oh
+Okay
+Sorry
+I
+Misunderstood
+I
+Thought
+When you
+Were
+Describing
+The
+Kobolds
+They
+Were
+On
+The
+Other
+Side
+The
+Door
+Yes
+No
+Who
+Was
+Seeing
+Them
+Like
+Through
+The
+Hole
+Okay
+I
+Understand
+Now
+I
+Understand
+They
+Aren't
+Specifically
+Looking
+For
+You
+Guys
+They
+Appear
+To
+Be
+Like
+They
+Appear
+To
+Be
+Kind
+Of
+A
+Couple
+Of
+Them
+Like
+The
+Green
+Ones
+Appear
+To
+Be
+Like
+Kind
+Of
+Moving
+Some
+Rubble
+That
+Direction
+They
+Appear
+To
+Kind
+Of
+Been
+Walking
+From
+From
+That
+Hole
+There
+Are
+A
+Number
+Of
+Things
+That
+Are
+Kind
+Of
+Like
+Like
+I
+Said
+Like
+There
+Are
+Some
+Masonry
+Bits
+That
+Are
+Kind
+Of
+Propped
+Up
+To
+Kind
+Of
+Hold
+Up
+The
+Ceiling
+Like
+Some
+Sort
+Of
+Weird
+Scaffolding
+And
+That
+Kind
+Of
+Thing
+Yeah
+Can
+I
+Attempt
+To
+Sneak
+Behind
+That
+Pillar
+Over
+There
+Before
+They
+Start
+To
+Shoesh
+Things
+You
+Totally
+Can
+Choose
+To
+Try
+To
+Sneak
+I
+Would
+Like
+To
+She
+Scared
+Yeah
+That's
+Not
+A
+Great
+It's
+Not
+A
+Great
+It's
+More
+Than
+A
+Ten
+Yeah
+It
+Could
+Be
+A
+Lot
+Worse
+It
+Was
+Almost
+A
+One
+It
+Which
+Was
+Just
+Ever
+Sleep
+Is
+How much
+Sneak
+Can
+Ghost
+New
+Bark
+Well, Ryan, I appear to have lost your dice.
+I'm sure I'll find it, but I'll get that later.
+Okay, what'd you roll?
+I rolled an 11.
+An 11, okay.
+Okay, um, we will go ahead and have them roll to see if they notice you, but they will be
+at disadvantage because they're not expecting you.
+They do not notice you, so you're just cheeked.
+Good thing, okay.
+All right, um, and Lil' Chan, uh, you should probably get your, get your dude up there
+on the battle map.
+Your, your Pog, get up on the battle map somewhere.
+Do I have a, I don't see a range, do I have a range or five still?
+You do not, um, unless you've got something that has a range attack.
+Which it doesn't look like you do, so you specifically have to be up in people's faces
+and I'll be able to punch them.
+I meant how many squares I made for a turn.
+Oh, oh, oh, okay, sorry.
+At least six.
+Um, you are able to, at this point, your speed is six, so you can move six squares.
+Okay.
+Um, yep.
+All right, so, let's go ahead and, unless anybody has any pre-combat things that they
+want to try to do secretly, let's go ahead and roll initiative.
+I have no sneak in me.
+I have snuck the snooped.
+All right, so, um, Ryan, go ahead and roll a d20 and then add your initiative score to it.
+Okay, that's all right.
+No!
+14.
+Yep, and then add your initiative score, which I think that's there.
+16?
+16, okay.
+No?
+No.
+Oh, could have been worse.
+Oh.
+I mean, I rolled a three.
+Yeah, like two, three.
+All right, I feel a little bit better about myself.
+All right, so, the way that initiative works in this game is whoever's ready first goes first.
+And then we basically just have everybody go around the table.
+What your initiative did was that determined how many actions you have in your first round
+of, in your first round of combat.
+Outside of your first round of combat, you always have three actions that you can spend.
+They refresh at the end of your turn.
+So, if you rolled a two-digit number that is under 20, then you have two actions that you
+can spend your first round of combat.
+If you rolled a one-digit number, you have one action that you can spend.
+And if you rolled a 20 or above, you get all three of your actions.
+So, for you, Ryan, you rolled a 16.
+So, that's, your character gets two actions.
+Ramsey and Jason both rolled a single-digit number, so they only get one action this first
+term.
+Uh-huh.
+And, uh, I...
+I get two actions.
+And Derek gets two actions as well.
+Modified to a seven.
+So, I guess who...
+I guess...
+Little Chan's going first.
+Little Chan's going first.
+Absolutely good.
+Give him a first player marker.
+Yep.
+Ramsey.
+Okay.
+Okay.
+And then...
+He says...
+I move twice.
+He wants revenge.
+So, that was your...
+So, you spent both your actions to get where you are.
+Yep.
+Now, you...
+Your actions refresh at this...
+At the end of this turn.
+Or at...
+Right now.
+So, you have three actions again.
+But you can't spend them until your initiative comes back around, unless you want to use
+one of these reactions.
+Um...
+You're not going to be able to do anything for attacking outside of the opportunity attack,
+which requires them to move.
+But, um...
+But those are really nice things to know what's...
+Know what's going on.
+So...
+The opportunity attack?
+Well, you would have to wait for them to do something that would provoke that opportunity
+attack.
+Drop.
+Alright, Ramsey, you're up.
+Yep.
+Show him.
+Five, two, three, four, five, six.
+We're done.
+Alright.
+We'll get a little closer.
+We'll go about a little six to there.
+Alright.
+And...
+Whisper?
+One, two, three, four, five, six.
+I'm going to pair with him.
+You're all right.
+Ah, friends!
+Um...
+I'm going to say the words.
+Yeah!
+And I'm going to summon.
+Yeah.
+I'm going to summon, uh...
+We start with a...
+A little shadow mushroom?
+A little shadow friend.
+Are the shadows mushroom-shaped?
+No, they are, uh...
+Eldritch entity-shaped.
+Ah, demon dogs.
+Got it.
+Uh...
+I will summon him here.
+One, two, three, four, five, five, six.
+Move.
+Yep.
+Move six.
+Yep.
+He's going to move up to...
+I guess...
+Well, I can summon him here and get to here, probably.
+One, two, three, four, five.
+Yeah.
+Perfect.
+I'll send him that way.
+Okay.
+And he's going to attack A.
+Right.
+Green A, which I assume is a kobold.
+That is a kobold.
+These are all kobolds.
+Oh, right.
+Um, the...
+Uh, yeah.
+Do any of them stand out to me as special?
+Uh, well, the purple one and the yellow one stand out to you as special.
+You get the purple.
+I'll get to the purple one who stands out as special.
+And I'll attack him.
+My shadow monster.
+Will miss!
+Oh, no!
+No.
+I'm fired.
+Well, I mean, he's probably sacrificed, but that's fine.
+Yep.
+All right.
+So, now it's their turn.
+So, the...
+The purple A is going...
+Will definitely be attacking.
+Will be looking to stab a...
+Looking to stab a shadow spawn.
+Yeah, yeah.
+Yeah, yeah, yeah, yeah.
+And...
+Crits.
+Yeah.
+That's a...
+It's a dead shadow spawn.
+A has been fired.
+It was B's turn.
+B's.
+Hello, B's.
+Um, the...
+Uh...
+All right.
+Uh, C is going to...
+Uh, stab...
+Lil' Chan.
+Ah!
+Ah!
+Wow!
+Son of a monkey!
+And he crits again!
+Tong-tong-tong-tong-tong-tong-tong!
+Crits!
+Does he actually crits?
+He does actually crits.
+Oh, I'm almost certainly interposing here.
+Oh, no.
+That's...
+Okay.
+Um...
+I don't see why not.
+Uh, that is nine points of damage.
+Oh, yeah.
+Oh, yeah.
+Yeah, we're going to interpose.
+So, uh, as the strike comes in, I'll, like, leap in front of you by shield.
+Um, but we'll push you back a little.
+I'll hop in front of you.
+Uh, I will interpose and defend.
+Okay.
+Uh, so I will take no damage.
+Yep.
+So...
+Armor 12.
+Yeah.
+So he basically...
+To explain a little bit, so I've got three actions, and I can do three actions in my turn.
+I'm kind of a tank.
+Like, that's kind of my whole deal.
+Um, so I interposed, so I pushed you out of the way and jumped in front, and I also defended.
+And when you defend, you use your armor value, and you reduce the damage by that much.
+And I've got a lot of armor.
+So this big crit of nine damage just did nothing.
+Yeah.
+Except charge up my sword.
+My spear, rather.
+Which is now starting to blow with holy power.
+Yep.
+Yep.
+Um, all right.
+So you, uh, you're rolling the 2d6 set on the side, right?
+Yep, yep, yep, yep, yep, yep.
+Okay.
+Bam.
+Aw, five.
+Eh, could be better, but...
+That's fine.
+It's, it's, it's still, it's still not bad.
+It's still not bad.
+All right.
+Um, so C did that.
+A is going to, uh, move around.
+Please excuse me.
+Please excuse.
+Please excuse.
+He's going to move up.
+He's going to attempt to stab a stab.
+Yep.
+Probably.
+Throwing.
+Let's see if I keep on rolling these crits.
+Nope.
+That's a miss.
+Oh, sweet.
+Um, so, oh, uh.
+The dice giveth, but the dice giveth.
+So, Ryan, Ryan, I think this is probably, we've kind of been doing this.
+So when, when I'm, when I attack, I just take the damage die.
+It's the same thing with you.
+You take the damage die, you roll it.
+If you roll a 1, you miss.
+If you roll anything else, you do the damage equal to whatever your, whatever your thing is.
+If you roll the maximum number, so on D4, you roll a 4, you crit.
+And that means you roll another, another die, and you add that to the damage.
+And as long as you're rolling, as long as you keep on rolling the maximum, you'll just keep on getting bigger and bigger and bigger.
+So, like, you can actually, like, have a D4 that does, like, 20 points of damage if you're really lucky.
+Um, so, that's how attacks work in this game.
+Um, alright, so B.
+3B is going to move up to, uh, to Whisper.
+He's going to attempt to stab Whisper.
+In the knee.
+He's going to kneecap you for 5 points of damage.
+It's a pretty strong kneecap.
+If you wish to defend, that could cost you a action, but you would be able to reduce it by your armor value.
+Uh, well, then, yeah, let's defend.
+Yeah, no need.
+Uh, armor value 6.
+Oh, yeah, yeah, absolutely.
+That's a perfect time, that's a perfect time to defend.
+You're probably not going to need to move on your turn, so.
+No.
+And you can only attack once in the system, right?
+Uh, you can attack as many times as you want to.
+You just get disadvantage.
+You get stacking disadvantage.
+You get, you get stacking disadvantage, so it becomes less and less, you know, great.
+Right, right, right.
+And that's if you're doing the same attack, right?
+No, that's just in general.
+Any attack.
+Unless, like, unless it breaks the rules.
+Yeah, unless you have a class ability that makes it so that you don't do that.
+Like the Zephyrin is on Omni-Tax.
+All right, uh, we also have, um, so we're going to go with the, yeah, all's well.
+And he's going to chuck two.
+Two spears at you.
+Spears?
+Spears.
+Bullshit.
+Yeah.
+Probably not going to be a reason.
+All right, one of them crit.
+The other one did hit.
+Oh, darn.
+Uh, four.
+Seven points of damage and four points of damage.
+That's a lot of damage.
+That's not good.
+Uh.
+We'll leave it.
+Uh.
+Eh, maybe I kill the next turn.
+I'm going to, I'll take it.
+I'll take it.
+These guys.
+They're going to move.
+They're going to attempt to hide.
+Uh, they do succeed in hiding.
+Um, but, you know.
+We'll see if that really affects anything in the future.
+But that's, that's the bad guy's turn.
+So, Ryan, you're up.
+All right.
+I want to attack.
+Oh, yeah.
+The staff.
+So, that would be a.
+So, you're going to need to move up in order to be able to reach somebody.
+Reach out to someone with a boot stick.
+Okay.
+Move in.
+All right.
+So, you're going to, okay.
+So, that was one action to move in.
+Now, you've got two more actions that you can spend.
+We're going to attack B.
+Okay.
+And we're going to head with the staff.
+All right.
+The staff is.
+I think it's up top here.
+1D8 plus an STR.
+Plus two.
+Yep.
+So, it's a D8 plus two.
+That's a D8.
+Yep.
+All right.
+So, you do five points of damage to Green B.
+Do you have armor?
+Yes, he does.
+And this is actually a really.
+This is a.
+This is a new mechanic for everybody.
+So, what.
+This.
+This guy has medium armor.
+What medium armor does is that makes it so that you only do damage equal to your roll.
+You don't get to add anything to it.
+So, instead of doing five points of damage, you do three.
+Because you can't add your strength to it.
+Because he's medium armor.
+Yeah.
+Okay.
+Most monsters don't actually have armor in this game.
+But, you know, medium armor is kind of hairy.
+Heavy armor is even worse.
+That it's just the roll and it's half the roll is how much damage you do.
+So, it seems like he just attacked B would be considered distracted.
+If the target is distracted, if it's adjacent to or counted by an ally.
+Uh, yes, that, he is, because, because you are adjacent to, because the bad guy that you're
+attacking is adjacent to an ally, he does indeed count as distracted.
+So, I gotta attack him a second time, right?
+Because I've got.
+Yep.
+Yep.
+And now I'm going to use my swift fists.
+Yep.
+Which is 1D4 plus this TR.
+So, D4.
+Yep.
+Uh, trial piece then.
+Yep.
+And fist turn, elbow, head block turn.
+Yeah.
+Two.
+Okay.
+Uh, so you do.
+Yeah.
+He is still medium armor.
+So, it is still two.
+But, it's good that you're, it's good that you're doing that.
+Because most, just keep that in your, in your muscle memory.
+Okay.
+That's perfect.
+But I moved and I attacked twice.
+Yep.
+So, you moved up, you hit him with your staff, and then you came back around with a round
+house kick to the face.
+Um, it's, it's not as impactful as you usually, as you would expect, because your blows are
+kind of knocking off of, knocking off of some of the metal pieces that he, that he, that
+he has on, um, that he's got strewn across his body.
+All right.
+Ramsey.
+All right.
+Uh, Rowan, I've only got one action left, because I spent two on reactions.
+I'm going to just stab this fool.
+Uh, so I'm going to hop it around, block the shot, come back with the spear, try to
+stab him in the throat.
+Uh, probably not, but that is eight total with the five divine.
+All right.
+Because that score gets added, right?
+It's just the bottom layer.
+That does.
+Okay.
+Yeah, that, there, that's the reason why, um, those abilities say, roll these dice and
+set them aside.
+Right, right.
+Because they count as dice.
+Yep.
+They count as numbers on dice instead of, like, added numbers.
+Sweet.
+So.
+Well, stab him for eight then.
+Stab him for eight.
+Um, and that is green A.
+Yes, sir.
+All right.
+All right.
+So you stab him.
+He looks, uh, you, you've, you know, you've, you've definitely, you've definitely hit him
+in a soft spot, but, and he's, like, holding, holding the wound, but he's still, he's still
+in it.
+He's ready to, he's ready to retaliate.
+All right.
+I'm sure.
+Uh, Jason.
+If.
+Uh.
+Whisper would be so kind.
+Give him one of those stabbing.
+All right.
+So, I'm going to do the vicious opportunist.
+Yeah, you are.
+I just don't know if I want to do A or B.
+You're going to bring the squishy bits.
+So.
+Um.
+So, the vicious opportunist.
+Well, somebody, like, attacks us.
+It was at the future, right?
+I, well, I just want to make sure that, because there's, there's the one that allows you to
+switch a roll to any, any number.
+Yep.
+That is in reaction to a roll.
+So, you have to roll.
+Oh, I got it.
+And then you can switch it.
+So, you can't just be like, well, I'm, I just picked four.
+You know, you have to roll, see if you hit, and if you hit, then you can switch it to a four
+to a four, which means I roll another D4, right?
+Okay.
+All right.
+So, I'm going to go, I'm going to attack D.
+Okay.
+Okay.
+Okay.
+Get some fingernails, man.
+I know, right?
+Uh.
+Okay.
+Now, you can use your Vicious Opportunist.
+All right.
+So, we're going to change that to a four, which means I roll another D4, right?
+Yep.
+Okay.
+Another two.
+So, at least six points of damage.
+Yep.
+He's still armored, so.
+Yeah.
+Four.
+No, he, he rolled a four, and then.
+Oh, yeah, yeah, yeah.
+So, it is six.
+Yep.
+Yep.
+Okay.
+Yep.
+No, he.
+I forgot to change the die.
+I know we critted.
+All right.
+He is hanging on by a thread, this guy.
+Oh.
+You have two more actions, so you can spend this.
+Uh, just one, because I, I did a, I defend it.
+Oh, yep.
+You have one more action that you can spend, Jason.
+Uh.
+Come on, Dad.
+Yeah.
+I mean, I was, I was getting, I'm going to go for A, but.
+Yeah.
+Let's.
+Well done.
+Yeah, let's go for.
+Okay, so.
+Finish B offside, roll both, right?
+You roll both and keep the lower.
+Double free.
+Do the last one.
+All right.
+Two.
+You successfully killed Green Bee, so.
+Do you get some kind.
+That's what you get from picking on the new guy.
+Uh.
+I don't know.
+I.
+I thought I told you.
+Well, I'm going to start off with my first action, and I am going to, uh, hit it with a shadow glass.
+There is, there is a thing that does happen.
+A thing that happens?
+A shadow thing that does happen.
+Yeah.
+Summon, summon, summon, take him.
+Well, I can only summon one.
+Oh.
+If I get, when I get to level two, I can summon, summon, take him.
+Yeah.
+All right.
+So, this guy died.
+Uh-huh, uh-huh.
+Anybody with, that's within two spaces of the, within two spaces of the move, goes, no, and
+attacks.
+So, this guy attacks.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Yep.
+This guy attacks.
+This guy moves up.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+With the power of friendship, right?
+Uh-huh.
+Uh-huh.
+Uh-huh.
+So, we'll start with the green A.
+Miss.
+Uh-huh.
+Uh-huh.
+Uh-huh.
+Five points of damage to Rowan.
+Good.
+Yeah.
+Good.
+Good.
+Okay.
+Good.
+Good.
+The brown A.
+Is going to attack.
+A.
+whisper for five points damage okay now all right if you'd be so kind I'm gonna
+start off in shadow blast a okay is he armored a is not armored there's gonna be 11 points of shadow
+damage to him or necrotic yes all right and then well we're gonna we got it we got a try so I am
+gonna summon a shadow 10 10 more points of necrotic damage
+all right uh he takes all of those hits and for some reason or another
+he is still up some reason is it like an unnatural life or is it like he's just tough he's just really
+tough all right um also when your um when your shadow moves adjacent to him uh he a a a net trap
+pops up around your shadow and it is um and it is restrained um
+which you will basically just need a dc 10 roll to be able to get out of it
+okay all right that's their turn um okay so uh
+the brown a is going to attack lil chan
+four five uh four seven points of damage
+uh you can choose to defend which will cost you one of your actions
+at that point um and that would reduce your that would reduce the seven to a four instead of
+all right
+okay um
+the just uh and and the um
+the kobolds that are kind of uh that that are medium armored over there
+um they appear to be getting this uh they appear to be getting this
+oh yeah yep oh that's why are you rolling stink guys
+okay um they but the uh the purple the purple a is basically encouraging them and and um in fact
+like flinging chunks of metal at them and that kind of thing so um
+so um green a is going to be attacking rowan
+he's gonna miss rowan
+um green c
+is going to be
+i think he's just gonna attack rowan as well
+he's gonna miss rowan
+sweet
+i'm off to see you
+the
+um
+um
+all right a is already attacked
+or brown a is already attacked brown b is going to be
+moving up
+uh-huh
+knocking everything over
+um and he's going to
+sling
+he's going to whip out a sling
+yeah and throw it at um alder
+for four points of damage
+it's probably not tenable is it
+uh that is the only one that is
+i will block
+uh yeah
+uh not tonight
+um and then a
+is going to
+that is the correct
+that is the correct
+all right
+all right
+um and he
+is going to
+um
+oh wait
+no he doesn't
+he doesn't move that way
+he does not have a melee attack
+he's got range tabs
+so he's gonna go back
+he's gonna fling two more spears at you
+do i get some amount of cover being behind this pillar
+uh sure
+so we'll get
+we'll grant him disadvantage
+it's a miss
+that's good
+that's good
+gotta do that one more time
+that's not a miss
+that's not a miss
+yep
+thank you
+uh bunny legs
+bunny hop
+i like bunny hop better
+here move
+one two three four
+uh five six
+and we'll interpose
+push you out of the way
+and take the hit myself
+you said four
+four
+all right
+i will not do that
+but i will take four
+five six
+okay
+okay
+all right
+and that is
+if you did defend
+then you wouldn't take any
+that's my turn
+correct
+but then i only have one action
+on my turn
+and i need to move
+to get to him
+mm-hmm
+but good
+but yeah
+it's fine
+it's fine
+right
+i didn't
+take a little damage
+yeah
+i can take a tiny
+i'm taking all the damage
+i can
+you do have the caustic brew
+but it is uh
+there is a price
+all right
+so that's my turn
+ryan you're up
+all right
+yeah
+i don't know where i am
+hit it with the elbow
+and stick
+am i this guy
+this one
+i'm this guy
+okay
+well i'm just going to go right to hitting him
+all right
+um
+just going to hit him with my staff again
+my staff
+is uh
+look jason in the eye
+i get a better roll
+i got eight
+all right
+re-roll that eight
+um
+or roll another one
+well
+you can re-roll it
+just go ahead
+roll another eight
+look at him in the eye
+make a blush
+it's still a good roll
+six
+we'll take it
+nice
+okay so that's
+fourteen points of damage
+that's where we go
+plus my
+plus your strength
+which this guy is medium armored
+so he uh
+so
+he is
+he
+yeah
+yeah
+he he removed
+he removes your strength
+but you still did
+fourteen points of damage
+okay
+um
+it feels like
+his damage points more
+than it was the last game we played
+it's more consistent
+it's
+yeah
+there's something different
+yeah
+sorry
+my brain's like
+it's like there's a different mechanic
+because the mechanics are slightly different
+okay
+okay
+so
+all right
+this guy
+he's still
+he's still alive
+but he is
+hanging on by a threat
+you gotta attack him again
+right
+yep
+so if you want to attack him again
+you want to do
+martial arts
+with your swift fists
+which will be a d4 instead
+um
+you can
+choose to attack him
+with your
+with your staff
+again
+you would just be rolling
+two d8
+and then taking the lower number
+right
+okay
+so
+either way
+now martial arts
+is uh
+is what now
+what's
+it's the
+it's the d4
+it's the d4
+yeah
+it's the
+with fists
+just one d4
+it's just one d4
+yeah
+all right
+it's a three
+all right
+you
+you kill
+you kill the brownie
+apparently this is how this works
+um
+all right
+okay
+so you were able to defeat him
+you have one more action that you can spend at this point
+um
+there's nobody within range of you to attack
+so you're probably
+gotta move or something
+you said this purple a is the one that's murdering people
+yes
+like throw an armor at him
+yep
+yeah
+so
+maybe move up to a so you can like just
+blender him next round
+okay
+and is there
+yeah
+so
+yeah
+so
+and ryan
+just
+just
+uh
+here's
+here's some additional things
+like the bad guys in this
+in this game
+have a tendency to have
+effects that affect other bad guys
+right
+so like the purple a has been throwing pieces of metal
+in
+in front of
+everybody that's within
+a couple of squares of him
+which is what's been giving everybody the medium armor
+so if you defeat
+the purple a
+then
+everybody else loses their medium armor
+medium armor
+so
+so next in purple ed
+probably one square away from the other two to
+right
+right
+so yeah
+so like basically
+that
+that
+there
+there are a bunch of these sorts of dynamics
+where like there's a
+like in the last battle
+there was a
+there was a
+bad guy
+that didn't ever
+attack anybody
+all he did is made
+everybody else's attacks
+yeah
+hit harder
+you know
+so it's a
+it's kind of
+it's got a little bit of a gaming mechanic
+mechanic sort of thing to it
+it's like which guy is the guy who's causing the biggest problems
+you know
+okay
+uh
+remzy
+we're gonna move up and stab this dude
+all right
+we're gonna do
+four damage
+four damage
+that's not good
+i assume because everyone's armor right
+not that guy
+not that guy
+what guy is it
+okay
+six damage
+all right
+how do you want to kill him
+oh that's good
+this guy's basically
+like this was the guy that
+derek
+piled like
+twenty some odd damage on
+oh yeah yeah yeah yeah
+so
+you can break up your move
+in this game right
+yes
+okay
+sick
+so i'm going to
+do the exact
+uh
+thing from uh
+from troy
+okay
+where achilles
+like
+fights
+the one big dude
+and he just like
+runs and like
+jump stabs him
+as he just goes past him
+that's what we're doing
+so we're gonna go
+one two
+three four
+five six
+and just stab
+and kill that guy
+and the way to be
+okay
+there we go
+all right
+cool
+um
+jason
+all right
+i'm gonna use my sling
+on green seat
+can i give you a
+recommendation
+nope
+your guy
+is best
+when he is
+attacking somebody
+who
+somebody else
+is
+next to
+so
+really
+the people that you
+should be aiming at
+are either
+oh because my sling
+has distance on it
+doesn't it
+it does
+and your ability
+that allows you
+to switch
+you switch
+the
+switch the die roll
+doesn't require you
+to be in melee
+okay
+so you
+the people that you
+want to be focusing on
+either are the
+purple a
+or the brown b
+okay
+let's go purple a
+yeah i forgot that i had
+green like
+yeah
+good range on my sling
+yep
+okay
+i mean it's not gonna solve
+the c or the a problem
+but you know
+that's your
+so i rolled a three
+but i can change that
+to a four
+right
+you can change that
+to a four
+or you can just use that
+and then attack again
+okay
+because that will give me
+a six
+okay
+yeah let's do that
+take the six
+and then i'll attack
+him the second time
+okay
+when you attack him
+a second time
+you do have
+you do have disadvantage
+so
+it is a little bit risky
+if you wanna
+if you wanna do
+the for sure crit
+that
+you could change that
+three and two
+or four
+and then do
+the for sure crit
+you can't switch the die
+if you roll a one
+so
+you know
+it's
+it's a bit risky
+but
+it just depends
+on what you wanna do
+um
+you said the
+purple a is
+the one that's
+giving everybody
+right
+uh
+50-50
+let's
+let's
+let's
+let's
+change it
+to the crit
+okay
+change that
+first one
+to the four
+okay
+and then
+roll again
+i mean
+i guess
+better that way
+yeah
+yeah
+yeah
+would you roll
+a one
+no
+okay
+all right
+so you
+fling your sling
+at him
+and you
+do definitely
+get some purchase
+on there
+um
+you do still have
+one more action
+one more action
+that you can
+no i defended
+well yeah yeah
+once you only slinged
+once
+yeah
+oh that's right
+yeah
+so you can
+try and sling again
+and just
+also
+wait wait wait
+wait wait wait
+wait
+wait a minute
+wait wait
+wait wait
+you have sneak
+attack sir
+you have sneak
+attack
+when you crit
+you deal an extra
+one d6 damage
+roll another
+d6
+that's pretty good
+uh square
+yeah
+yeah
+yeah
+yeah
+whenever you roll
+a four
+you would
+okay
+that's pretty good
+that's pretty good
+okay
+and let me
+let me make sure
+i think it's only
+once a round
+but
+yeah
+every time you
+max it out
+like
+make sure that
+you remind
+remember to do
+that extra d6
+yeah
+all right
+uh so you
+you know
+you fling that
+sling and do
+some do
+some heavy damage
+um go ahead
+and roll your
+second attack
+though
+so that's
+2d4 and then
+you take the
+lower one
+all right
+and we're gonna
+stay on the same
+guy
+purple day
+double four
+got a one
+okay
+well
+uh your
+your second
+attack goes
+wide
+oh because
+he's armored
+so
+i don't get
+the plus three
+right
+uh right
+well when you
+roll a one
+you just
+automatically
+miss
+oh that's
+right
+okay
+yep
+so
+all right
+all right
+so how does
+this how does
+this trap
+thing work
+i have to
+make a roll
+to have it
+move out
+yeah so you
+have to get
+a um you
+have to have
+a dc 10
+um
+yeah
+yeah in order
+to escape
+you you need
+to do you
+need to roll
+a 10
+a 10
+yeah
+for any
+particular skill
+or is it
+it's an escape
+skill
+or it
+i don't think
+that there's
+an escape skill
+so it's
+yeah just
+roll a dc 10
+dc 10
+um
+yeah
+if it was
+you i would
+say that you
+probably want to
+you could probably
+add dex to it
+but i don't know
+that your shadow
+does your shadow
+show your shadow
+well that's a 10
+so hold on
+well he's
+escape
+so with my command
+he is gonna
+move and attack
+uh he's gonna
+move
+move and attack
+oh nice
+it's gonna be
+six points
+of damage
+okay
+on the die
+so he doesn't get
+a plus
+because he's
+a minion
+uh and then
+hmm
+he's he
+this guy is
+uh definitely
+bloodied
+um so he's
+looking pretty
+he's looking
+pretty rough
+there
+um
+rough
+like a dog
+rough rough
+we will do
+things in that
+option
+and i will
+drink
+yeah
+you could be
+a pug person
+i'm pretty sure
+there's a pug
+in there
+probably
+yeah
+oh
+there for sure
+i am
+poisson
+um
+uh
+uh
+uh
+uh
+uh
+uh
+uh
+uh
+so that was
+hurting
+that's me
+okay
+awesome
+because it is
+an action to
+drink a potion
+correct
+yes
+okay
+and you
+and you did
+defend
+in the off
+time
+okay
+cool
+all right
+so
+um
+let's see
+what am I
+going to
+what are we
+going to do
+uh well
+I mean
+clearly
+A is going
+to be
+attacking
+somebody
+the purple
+A
+uh
+we're
+gonna
+let me
+go for
+the
+gonna go
+for
+shadow
+B
+he's
+a
+shadow
+B
+has been
+a valiant
+soldier
+shadow
+B
+is
+now
+shadow
+B
+eats
+a
+crit
+it's
+better
+that
+shadow
+B
+eats
+a
+crit
+than
+anybody
+else
+all right
+green
+C
+is
+going
+to
+take
+a
+step
+forward
+to
+attack
+whisper
+and that
+will be
+five points
+of damage
+to whisper
+okay
+um
+and
+green
+A
+is going
+to
+take
+two
+steps
+forward
+to
+attack
+whisper
+and
+miss
+all right
+and the
+brown B
+is going
+to
+uh
+do
+what
+do
+what he
+should be
+doing
+and attacking
+uh
+attacking
+good old
+what's
+his face
+funny
+guys
+uh
+five
+rowan
+rowan
+is
+what's
+his face
+all right
+and that's
+that's all
+my guys
+ryan you're
+up
+what's
+little
+chan
+doing
+shoulder
+sky
+bad
+time
+get
+him
+dead
+let me
+roll
+one
+two
+yeah
+let's
+go
+attack
+mr.
+A
+all right
+hit up a
+staff here
+now why
+was the
+staff better
+than
+to fill up
+the first
+stack
+because it
+does more
+damage
+because it's
+a higher
+damage die
+so you
+just roll
+one
+yeah you
+roll that
+and it's
+just
+it'll be
+more
+consistent
+damage
+unless you
+happen to
+roll a
+one
+then you
+miss
+if you
+if you
+attack with
+the staff
+a second
+time you
+would need
+to roll
+to take
+the worst
+miss again
+do you
+want to
+switch
+rather
+instead of
+instead of
+rolling
+three
+d8
+and taking
+the worst
+would you
+like to
+roll
+one d4
+he's really
+called up
+in the
+revenge
+two
+really going
+up there
+oh my
+god
+oh boy
+oh boy
+slow down
+ten
+all right
+you
+you
+you swung
+with your
+you swung
+with your
+staff and
+he blocks
+it with his
+armor and
+you swing
+with your
+staff again
+he blocks
+it with his
+armor and
+then you
+punch him
+in the
+nose
+little blood
+just runs
+straight out
+of it
+he looks
+down
+goes at
+you
+all right
+ramsey
+all right
+uh
+i'm gonna
+stab this
+fool
+uh
+are these
+guys
+armored this
+round since
+purple a
+attacked rather
+than
+some shot
+armor
+uh well
+purple a
+always grants
+that
+it's just
+a
+it's an
+aura
+understood
+it's
+being far
+enough away
+uh
+so that is
+a three
+so that is
+eleven points
+of damage
+to this
+guy
+assuming
+he has
+no armor
+yeah
+he
+does not
+have
+oh
+so
+thirteen
+thirteen
+uh
+you
+you kill
+him
+excellent
+bye bye
+bye
+same kind
+of
+what was
+he attacking
+me with
+um
+he was
+uh
+using daggers
+he's a little
+he's a sneaky
+guy
+the daggers
+yeah
+yeah
+yeah
+yeah
+so i like
+as he tries
+to stab at me
+like my shield
+is the
+again like
+troy
+the kind
+with like
+the circle
+thing in it
+like trap
+his arm
+into there
+and kind of
+twist it
+breaking it
+and then
+poke him
+with his spear
+and stab him
+nice
+um
+and then we're
+gonna move
+we're gonna
+move
+uh
+two three
+four
+five
+five
+we move right
+there
+okay
+that is a good
+place
+and i can
+intercept
+from here
+all right
+jason you're
+up
+um
+now
+i also
+um
+so something
+it didn't
+affect you
+didn't affect
+you this
+round because
+you were
+this past
+round because
+you were
+slinging or
+the round that
+you were
+slinging
+but you've
+got two
+daggers and
+when you're
+dual wielding
+you get
+advantage
+when swinging
+your daggers
+once a
+once a
+once a round
+so
+like you
+could
+stab with a
+dagger and
+your first
+attack and
+your second
+attack
+um
+advantage
+cancels out
+disadvantage so
+you basically
+end up with a
+straight roll on
+the second
+attack or you
+could have
+advantage on
+your first
+round on
+your first
+attack and
+see if you
+just crit
+naturally as
+well you know
+so you
+you have
+you have
+options there
+I don't
+know if
+that was
+were either
+of these guys
+injured before
+uh yeah
+green a was
+injured
+am I able
+to so if
+I'm using
+only a little
+bit
+okay
+if I
+split
+or if I
+do my
+two daggers
+can I
+split it
+between the
+two between
+a and c
+no you
+you it's
+basically just
+kind of like
+you get
+advantage on
+your one
+attack to
+to the
+guy
+a has been
+hit
+a has been
+hit already
+yeah
+he's been hit
+pretty good
+already
+all right
+so let's use
+the advantage
+on c
+okay
+all right
+that looks
+like a crit
+all right
+is there
+a ragweed
+allergy
+that's
+what's
+what's
+it's
+just
+everything
+everything
+everything
+so then I'll
+roll this
+plus a d6
+yeah
+I'll
+I'll
+order
+to
+it
+did you
+roll another
+four
+no
+unfortunately
+I did get a crit
+there though
+well you
+you rolled next
+damage
+you did not
+you don't get a crit
+on that one
+so
+12
+plus
+3
+would be 15
+is he armored
+or if
+he's not armored
+he is not armored
+he's he's actually
+made it far enough
+out that he's no
+longer under the
+protection of the
+then warden
+um so you did
+15 points of
+damage to this
+guy
+yes sir
+uh you you
+just killed him
+outright
+all right so
+with the damage
+you did
+I literally just
+had to take one
+of each hand
+and just took his
+head off
+going side by
+side
+all right
+all right
+all right
+all right
+um where you
+gotta use your
+pop with your
+head
+um I'll use
+my uh daggers
+again
+with disadvantage
+on hate
+okay
+oh
+humans
+yep
+all right
+cool
+oh
+all my
+all my strength
+taken
+and the other
+guy's head
+off
+still pretty
+good
+you just did
+15 points of
+damage and
+one attack
+that's pretty
+good
+we're gonna
+move
+okay
+nuts
+and then
+i will
+sure
+i will
+send a
+shadow blast
+at a
+poison
+so i'm
+at disadvantage
+but
+i am
+rolling d12
+so i'm still
+pretty consistent
+uh that is
+gonna be
+eight
+eight points
+of necrotic
+damage
+all right
+and it was
+against
+uh
+green
+aim
+no purple
+purple
+okay
+there's so
+many
+aims
+um
+and it was
+how much
+eight
+okay
+how do your
+shadows consume
+him
+yeah so
+um
+this one
+is my
+it's my
+essentially my
+shadow bolt
+so i
+summon like
+a dark
+fireball
+almost
+and like
+send it at
+him
+and it
+instead of
+expanding
+it pierces
+through
+fades off
+into the dark
+about here
+all right
+when it runs out
+of state
+all right
+green or purple
+oh purple
+just uh
+yeah
+just
+just play
+a lot of
+street fighter
+and pick up
+what's his face
+oh
+the kung fu
+guy in
+street fighter
+i forget
+his name
+all right
+excellent
+um
+now
+it's
+the one
+arm
+burn
+guy
+so
+green
+a
+he's gonna
+try and
+run
+i was saying
+he's shaking
+his boots
+now
+you can
+try
+um
+so
+any
+so
+oh
+both
+i am gonna
+summon a shadow
+beast with my
+last action
+because i have
+one more
+he's gonna go
+right there
+get out of
+here
+oh yeah
+so green
+a is going
+to attempt
+to run
+anybody who
+uses who
+wishes to
+use a reaction
+out of
+whisper
+rowan
+or the
+shadow
+uh wait
+shadows do
+not
+get
+it is a
+minions
+do not
+get reactions
+so
+but if
+rowan
+and whisper
+wish to
+spend an
+action to
+do a
+reactive
+strike
+attack
+or
+attack
+opportunity
+attack
+you can
+do it
+uh yes
+i believe
+so
+yep
+bam
+doesn't matter
+oh
+doesn't matter
+that's it
+it sure
+it sure
+is
+okay
+the
+re-roll
+doesn't have
+his advantage
+right
+right
+no it's
+just a
+straight
+d6
+uh so
+that's gonna
+be 12
+points of
+damage
+okay
+uh he is
+still alive
+uh do
+does whisper
+wish to
+use an
+action to
+do a
+reactive
+strike
+oh sure
+or do a
+sorry
+opportunity
+attack
+okay
+yeah
+crit
+you
+well
+with an
+opportunity
+attack
+you
+oh
+nevermind
+i took a lower
+so that was a
+three
+yeah
+so three
+so six
+points
+okay
+nice
+he he turns
+to run
+and you both
+just like
+simultaneously
+just cut him
+down
+and he
+takes a few
+steps out
+and then just
+falls down
+dead
+excellent
+shadow's gonna
+take his snack
+on the way out
+um
+in the uh
+in the trap
+in the
+uh in the
+guy that
+was over
+there that
+had all
+those hit
+points
+in his
+bags
+you find
+another one
+of these
+and there
+is that
+one piece
+that is
+already on
+the door
+okay
+now
+um
+there is
+a small
+sized hole
+that
+over here
+um
+outside of
+that there
+isn't really
+a whole lot
+else going
+on here
+um
+now we
+have
+an actual
+physical
+puzzle
+for you
+guys
+to maybe
+solve
+you can
+look into
+the hole
+if you
+if you so
+desire
+that's
+role
+playing
+my
+negative
+one
+into
+character
+oh yeah
+that's
+totally
+that looks
+about right
+all right so
+you've
+successfully
+put the
+crest
+together
+um
+you have
+assembled
+the crest
+um
+you have
+a pretty
+good idea
+about where
+it goes
+uh
+what do
+you guys
+want to
+do
+you do
+still hear
+that scraping
+that scraping
+and clattering
+noise
+um
+coming
+through
+that hole
+I don't
+think we're
+uh
+out of the woods
+quite yet
+there's not
+been a big
+boss
+just take a
+little bit
+of a breather
+yeah
+I've taken
+all the
+breather
+I can
+right
+you only
+have the
+one hit
+die to
+spend
+yep
+I love
+a one
+you only
+have one
+well spend
+it
+well
+I'm gonna
+spend this
+potion
+then
+because I'm at
+six out of
+seventeen
+that is
+about enough
+that is
+definitely not a
+good place to be
+walking into
+uh
+three
+six
+seven
+six
+seven
+um
+so I
+go up
+thirteen
+and I'm
+gonna spend
+four out of
+my five
+uh
+land
+hand
+points
+bloop
+to go
+back to
+fold
+alright
+I'm gonna
+eat them
+oh
+how many
+what's your max
+hit points
+uh
+what about
+yours Ryan
+I think that
+your
+just check
+here
+just to make
+sure
+your max
+one hit
+points are
+thirteen
+okay
+so
+um
+on here
+you'll probably
+want to make
+sure that
+you've got
+like a thirteen
+somewhere
+to
+you know
+where
+where
+how
+how low
+you are
+finish
+yourself
+all the way
+up
+huh
+what
+yeah
+you can
+you can
+take a rest
+at this
+point
+so
+d6
+to roll
+your hit
+die
+and
+heal
+yourself
+that's
+the d8
+yeah
+heal
+yourself
+um
+up to
+uh
+it's the
+number that
+you roll
+plus your
+strength
+so
+that'll
+okay
+so you
+oh
+you healed
+yourself
+back up
+to full
+which is
+thirteen
+at this
+point
+yeah
+okay
+so i got
+four
+which takes
+me
+full
+all right
+excellent
+um
+these guys
+probably don't
+have much
+on them
+but i'll
+take a look
+around
+yeah yeah
+yeah
+um
+so
+while they're
+rested
+they
+actually
+oddly enough
+have two
+costa
+grues
+weird
+kind of
+weird
+kind of
+odd
+who wants
+the
+other one
+yeah
+it's probably
+a good
+exciting
+all right
+so you
+uh
+yeah
+so you
+go through
+their stuff
+you're able
+to find
+um
+you're able
+to find
+a few
+more caustic
+brews
+out of
+the um
+the two
+like lieutenant
+guys
+like the
+warden
+and the
+trapper
+um
+they each
+had a
+caustic
+brew
+in their
+pockets
+um
+and this
+is
+that's all
+you're able
+to find
+yep
+all right
+well i'm
+gonna go at
+least listen
+and see if
+i can
+hear anything
+uh
+yeah you
+hear a
+um
+you hear
+the sound
+of
+um
+tools
+kind of
+tanking
+against
+against
+um
+against
+stone
+um
+and you
+see
+and you
+hear
+a
+um
+a deep
+voice
+um
+encouraging
+threatening
+not
+you're not
+quite sure
+um
+the
+the workers
+that are
+that are
+working on
+the stone
+to
+uh
+hurry up
+well
+i guess we
+gotta
+the one
+piece that
+was in the
+door still
+is that
+like
+does it
+look like
+it would
+unlock
+the door
+if we
+completed
+the puzzle
+yes
+yeah
+that is
+your
+assumption
+it's the
+one piece
+who's
+who's
+the king
+of the
+pirates
+clearly
+the mushroom
+yeah
+that makes
+sense
+that makes
+sense
+i did eat
+the mushroom
+mushroom
+and gave
+me shadow
+powers
+and an
+elder
+chance
+to eat
+all right
+so yeah
+so you
+you've
+you've got
+the door
+you know
+you know
+you have
+the key
+you're pretty
+sure that
+that key
+will open
+the door
+um
+is there
+anything we
+can do
+to like
+prepare for
+combat
+i don't think
+that there
+are any
+that
+there
+um
+if you
+are able
+to surprise
+the opponent
+you're
+you would
+get
+a
+um
+you would
+get all
+three
+actions
+at
+the first
+at the
+first round
+of combat
+otherwise
+no
+um
+opening a
+giant ancient
+door
+probably not
+going to
+surprise
+anybody
+sneak
+sneak
+a shadow
+through the
+hole
+it only
+works
+when
+danger
+is afoot
+oh god
+understood
+it only
+works
+when i can
+make it
+eat
+things
+otherwise
+it gets
+feisty
+so we're
+not
+sneaking
+up on
+them
+nope
+none of us
+are putting
+through that
+hole
+you're a
+medium-sized
+mushroom
+person
+yeah
+yeah
+yeah
+there's only
+one person
+who can
+fit through
+that hole
+it's rolling
+definitely not
+haggard
+he could
+probably make
+a hole
+bigger
+for us
+to fit
+through it
+but
+that also
+would not
+be sneaky
+he could
+always try
+and kool-aid
+man his
+way through
+but you
+know
+well
+only one
+thing left
+to do
+yeah
+let's do it
+put the
+puzzle all
+together
+all right
+yeah
+back in
+the hole
+it goes in
+the square
+hole
+the price
+is wrong
+the price
+yeah
+Bob Barker
+smacking
+the hell
+out of
+that was
+great
+he's living
+dead
+though
+almost
+all right
+you put
+the
+put the
+crest
+in there
+the
+the crest
+starts spinning
+in the
+in the
+indentation
+it kind of
+burrows its way
+in
+as it does
+the rest
+of the
+round door
+starts
+starts to
+spin
+and it's
+as it
+spins
+it
+kind of
+it pulls
+a pocket
+door
+sort of
+sort of
+thing
+it just
+kind of
+spins
+into
+the side
+wall
+anybody else
+playing Indiana
+Jones
+I don't
+know what
+you're talking
+about
+I was on
+the deep
+space nine
+doors
+yeah so you
+the the door
+opens to what
+appears to be
+some sort of
+throne room
+yeah
+there is a
+dais
+up up top
+with a
+it's not a
+yeah
+with a
+statue
+that appears
+to have a
+shield
+and an
+empty
+hand
+to your
+to your
+right
+like right
+over
+yeah
+over there
+yeah
+there are
+four
+coats
+all with
+some kind
+of
+chisel
+or pick
+or something
+yeah
+and they're
+actively
+working on
+the hole
+to
+make your
+wider
+the reason
+why they're
+trying to
+make this
+hole wider
+becomes
+very evident
+to you
+very
+quickly
+you see
+it's not a
+kobold
+but
+it's not
+not a
+kobold
+it is a
+giant
+creature
+as big
+as
+haggard
+13
+foot
+tall
+kobold
+thick
+as
+yeah
+thick
+as
+thick as
+thick as
+this table
+it sees
+it looks at
+the open
+door
+hungrily
+he grips
+he grips
+a shadowy
+battle axe
+the axe
+itself
+the shaft
+is made
+out of
+wood
+the
+blade
+itself
+is
+a dark
+iron
+and
+shadows
+just kind
+of erupt
+from it
+he grips
+he grips
+that axe
+he looks
+at the
+exit
+and he
+says
+my time
+of ascension
+is come
+out of
+the way
+or be
+destroyed
+the reign
+of snaggletooth
+the destroyer
+is at
+hand
+does he
+have a
+snaggletooth
+if he
+does
+we're
+coming in
+right here
+you're not
+gonna
+you're not
+gonna tell
+him
+or maybe
+you will
+we're
+coming in
+right next
+to like
+this
+yeah
+you're
+like right
+there
+man
+ah
+yes
+the reign
+of snaggle
+puss
+snaggle
+tooth
+right there
+don't remember
+snaggle
+puss
+from old
+hanna-barbera
+cartoons
+I don't think
+I ever
+see that
+yeah
+yeah
+yeah
+yep
+those
+band
+cartoons
+oh it was
+like
+bloodstones
+and
+snaggle
+tooth
+oh
+he's not
+in the hole
+no
+he's
+okay
+he is
+free
+he just
+couldn't
+make it
+through the hole
+these guys
+were
+okay
+they were
+trying to
+widen the space
+so that he
+could make it
+through
+because they
+couldn't figure out
+they're only
+they're only couples
+man
+yeah yeah yeah
+they couldn't figure out
+how to open the door
+yeah yeah yeah
+the puzzle was on the other side
+so right
+yeah I mean they clearly had all the pieces of puzzle
+they just didn't know what to do with them
+um
+all right so
+with that snaggle tooth grips his axe
+and charges
+everybody
+roll initiative
+do the thing
+d20
+yep d20
+boop
+ho
+he's almost there
+bam
+just like we grew it up
+all right so that would be
+modified to eight
+but would give you one action
+for your first turn
+all right
+16
+okay
+plus your initiative
+oh so 16
+oh wait
+19
+almost
+almost
+need one more
+yeah
+it's not int
+it's in int
+yeah
+I've had time to say this
+for I love it
+yeah
+all right
+uh so
+who wants to go first
+uh how do we want to
+do this
+do you want to take
+these little guys out
+first
+maybe they just run
+he told them to run
+to leave
+oh did he
+yell at the leave
+he said get out of the way
+no he he said get out of the way to you
+oh well
+well that ain't
+I'm not very good at
+understanding social situations
+that's fair
+you are just a farmer mushroom
+after all
+just a little mushroom
+I'll go
+sure
+I don't know
+sure
+um
+I have two actions
+uh
+I will
+clearly
+I will summon
+because
+lost
+where's the little chant
+uh
+I don't know
+where I go
+I can just hit him with a
+shadow blast
+I'm gonna try to hit him
+with a shadow blast
+all right
+because that one
+will do more damage
+theoretically
+that one will miss
+I'll miss
+just
+just like I drew it up
+I'm uh
+I'm gonna try
+I ain't done this before
+one two three four
+yay
+I'm gonna use one of my actions
+to help
+okay
+um
+so
+I'm going to help
+how does this
+is there
+how does this work
+in the system
+uh
+you basically have to say
+I help
+in this way
+I call for a
+I call for a role
+if you succeed
+then
+you
+you grant it
+sweet
+uh
+so I'm just going to try
+to kind of like
+distract the big guy
+as he's doing this
+okay
+I'm gonna kind of like
+point a challenge at him
+like hold my shield
+point my spear at him
+and say something
+very pallid like
+you know
+like
+your evil lap be on leash
+on this world today
+you're mine
+all right
+um
+so
+go ahead
+and roll me
+an
+influence
+um
+with advantage
+because
+ooh
+ah
+23
+all right
+nope
+but
+23
+yeah
+okay
+so
+you
+do
+succeed
+in helping
+excellent
+um
+you have
+his attention
+excellent
+so
+uh
+Derek
+yeah
+go ahead
+and
+re-roll
+that
+that 12
+all right
+that's much better
+that's a 1
+with a 0
+behind it
+excellent
+uh
+so that's gonna be
+13 points
+of necrotic damage
+pow
+bolt of shadow
+bolt of shadow
+okay
+all right
+now
+this is going to be
+a little bit of a new thing
+this is a boss monster
+boss monsters
+work differently
+than other monsters
+shocking
+in the uh
+a boss monster
+takes an action
+after everyone's turn
+ah
+yeah
+that makes sense
+so
+um
+you took your
+you took your action
+he is going to
+use his
+action
+and he's going to
+hack and move
+that sounds like
+two actions
+well
+we're moving hack
+in this case
+he accepts
+your challenge
+i am sure
+he does
+um
+he raises
+the battle axe
+yeah
+and
+yeah
+i mean
+it's a counter
+does
+8 points
+of damage
+to you
+8
+uh
+i will
+defend
+okay
+um
+as you defend
+you
+feel the weight
+of the
+of the axe
+and it
+almost knocks you
+on your
+it
+it almost knocks you over
+um
+but you're able to
+you're able to
+use your defenses
+to stay on your feet
+yep
+okay
+aka
+had you not defended
+had you taken damage
+you would be on your butt
+yeah
+all right
+Ryan
+Ryan
+what
+is it bagweed or something
+you think they're cool
+all right
+it's probably
+I don't know
+that's my one action
+is it moving
+yeah
+yep
+all right
+um
+now it's his turn
+he's going to use
+batter up
+well that sounds bad
+question one way
+yes
+does he
+also go on
+on bad guy turn
+no
+oh
+okay
+thank goodness
+in place
+in place of him
+going in bad guy turn
+he goes
+he goes
+after everybody
+all right
+understood
+so
+no he doesn't get it
+that would be terrible
+no
+he's going to use
+batter up
+so
+he
+gonna
+he
+takes his axe
+and he
+tries to
+smack you up
+in the air
+he does
+he does
+he does
+hit you
+for five points
+of damage
+yep
+I've already
+defended
+so
+yep
+and
+he
+smacks you
+into
+um
+he
+smacks you
+straight into
+um
+um
+into
+whisper
+i need
+both
+of you
+to make
+a
+dc
+12
+deck
+safe
+yeah
+and
+jason
+you do
+have
+advantage
+on deck
+saves
+so
+you can
+roll
+you roll
+two
+and
+take
+the
+highest
+12
+yep
+negative
+ghost
+rider
+okay
+okay
+okay
+so
+you guys
+take an
+additional
+five points
+of damage
+jesus
+ouch
+and
+you're both
+prone
+okay
+oops
+what does
+prone do
+prone
+does
+movement
+costs twice
+as much
+and disadvantage
+on all
+attacks
+melee attacks
+against you
+have advantage
+range
+attacks
+have disadvantage
+spend three
+spaces
+of your
+speed
+to stand
+up
+so
+i was gonna
+say
+how do you
+have
+plus
+three
+to decks
+it should
+because
+you have
+so
+your save
+should be
+yeah
+your save
+should be
+five
+because you
+do have
+proficiency
+in decks
+saves
+so
+there's been
+11
+which is
+still not
+a 12
+but
+yeah
+yeah
+yeah
+like
+because he
+has
+positive
+yeah
+that just
+means he
+gets
+oh
+that's
+advantage
+yeah
+yeah
+yeah
+proficiency
+bonuses
+don't
+don't
+matter
+don't
+do
+anything
+yeah
+okay
+yep
+I don't
+think there
+is proficiency
+bonuses
+in this game
+yeah
+probably not
+so
+yep
+alright
+so
+that's
+his turn
+okay
+alright
+well
+I only got
+one action
+left
+well you had
+three right
+because you rolled
+the natural
+point
+yeah I did
+but I
+aided you
+oh
+yeah
+yeah
+yep
+yep
+now you're
+prone
+so
+so
+I guess
+I
+so
+what was that
+prone
+that's the
+only I can't
+do
+what's that
+what did you
+tell us
+the male
+pro is
+prone
+means that
+you
+you have
+disadvantage
+on all
+attacks
+it takes
+double your
+speed
+it takes
+two spaces
+of speed
+to move
+one space
+and
+you
+have
+people have
+advantage
+to attack
+you
+alright
+so I'm
+just
+it's just
+it's not
+good
+gonna stand
+up
+and I
+don't
+actually
+wanna move
+anywhere
+I think
+I think
+I'm good
+right where I am
+so I just
+stand
+I mean maybe you
+come around
+so it doesn't
+like knock you
+into somebody else
+yeah I kinda
+thought about that
+but I'm pretty sure
+he's gonna move
+okay
+yeah
+well I mean
+you did
+you did
+challenge him
+you might be able
+to hide him
+a little bit
+that's true
+like if you
+can get away
+from him
+yeah we're gonna
+stand up
+takes three
+you said
+yep
+and we're gonna
+go one two three
+just get on the
+other side
+of him
+and as I'm like
+hopping around
+like I know I can't
+attack but I'm gonna
+like hurry him
+with the spear
+you know
+try to piss him
+off
+and I'm gonna
+I'm gonna give him
+the neo
+okay
+um
+you
+also
+um
+do
+uh
+also
+just
+yeah
+I'm pretty
+well I'm gonna
+I'm gonna rule
+it this way
+the
+these guys
+don't
+like
+enemies don't
+do
+um
+opportunity
+attacks
+oh okay
+so
+do they
+for us
+do they trigger
+when you
+yeah moves
+out of reach
+yeah
+so yeah
+yeah
+well I would have
+triggered anyway
+no you
+you wouldn't have
+but if you did
+want to move
+out of his reach
+I didn't want you
+to not be able
+to do that
+so
+cool cool cool
+cool
+I know I didn't
+know I didn't
+even use it
+but it was me
+I was like
+oh look
+look at that
+it's like when
+you re-organize
+the whole house
+and you can't
+find nothing
+and it's in the
+wrong spot
+well at first
+I'm like
+did I seriously
+stuff them
+in the fridge
+when I was
+like
+Emily
+put all our
+scissors in the
+same drawer
+and I was like
+Emily there's nine
+scissors for a
+reason
+I want scissors
+in every drawer
+he's like
+oh
+okay
+so he is
+going to
+he is going
+to batter up
+but he's going
+to batter up
+on the shadow
+so he's going
+to see if he
+can knock the
+shadow into
+something
+it's creepy
+he did
+crit the
+shadow
+yes
+the shadow
+dissipates
+when it takes
+a point of
+damage
+all right
+whisper
+you're up
+and I'm prone
+what you said
+was disadvantage
+on an attack
+yes
+and they have
+advantage on
+attacks against
+you
+how many
+actions do you
+have
+two
+okay
+you could
+use one action
+to move
+to spend
+three squares
+to stand up
+and then you
+still have
+three squares
+of movement
+that you can
+do
+move into
+and then
+attack
+and move
+advantage
+yeah
+or move
+to sea
+or
+kill some
+kill some
+other kobolds
+or something
+all right
+yeah
+let's head
+to sea
+just because
+I think
+I'm going to
+survive
+another hit
+and if I
+go in front
+attack
+and then
+I'll hit
+him with
+my daggers
+that's a crit
+nice
+that's a crit
+so
+eight points
+or
+I'm sorry
+11 points
+okay
+nice
+okay
+okay
+uh
+oh 11 points
+yes he's
+he's
+dead
+yep you got
+you got him
+you were not
+attacking
+snaggletooth
+that's not
+what was
+happening
+all right
+um
+snaggletooth
+is going
+to
+he'll
+attack
+wrong
+for six
+points
+of damage
+and that's
+a batter
+up
+yeah he basically
+effectively what he
+does is he
+knocks you up
+in the air
+and then smacks
+you into an
+ally
+so as long
+as he doesn't
+have to move
+he can do
+that all day
+long
+okay
+so
+he
+basically
+boss monsters
+have
+generally have
+two abilities
+that they can
+use
+right
+right
+um so
+one is a
+move and attack
+and then the
+other one is
+like if you
+don't have to
+move this is
+what you
+gotta do
+um
+okay
+so
+if he does
+damage to me
+I'll have to
+make that
+deck
+save again
+yeah
+and if I
+fail
+I'm gonna go
+flying and
+be prone
+yeah
+well he's
+probably going
+to knock
+you into
+into Rowan
+or no
+not Rowan
+but um
+Oliver
+or something
+like that
+worry
+um
+that was
+uh
+he did
+six
+six
+yep
+I'm just
+gonna do it
+notch by
+and I'm
+gonna get
+to the
+final
+lots
+yeah
+that's
+bad
+yeah
+I mean
+we'll defend it
+okay
+we'll tell you
+where we can get it
+all right
+so you
+smack him
+uh
+or he
+lifts you up
+but your defenses
+keep you on the ground
+and you are fine
+you
+you
+stalwart
+is
+is a
+is a good thing
+here
+um
+just as a tactical
+thing for you guys
+like having one person
+hang out
+with the
+with the big bad
+is
+probably gonna
+end up killing
+everybody
+yep
+so
+um
+I
+yeah
+I
+I did not
+real
+like
+I did not
+realize
+that
+but
+I'm
+I'm
+trying
+yeah
+with
+with boss
+monsters
+it seems
+or at least
+with this one
+it seems like
+it's
+really good
+to kite him
+you know
+just try and
+keep him at
+distance
+so he can't
+just like
+just
+pile on
+you know
+so
+but we're all
+learning right
+so I'm
+so
+oh
+I got so excited
+about this
+battle
+I forgot
+um
+I was
+expecting
+I was
+intending
+for everybody
+to level
+before
+he walked
+in here
+oh
+level 2
+so
+interesting
+we'll
+we'll finish
+off this round
+uh-huh
+then we'll pause
+I'll take a picture
+of this
+we'll level
+and if we've got
+any time left
+then we can
+continue
+but
+it was very easy
+it's just
+sick
+so
+sorry about that
+I
+I
+I completely
+it completely
+slipped my mind
+and now I feel
+stupid
+so
+hopefully
+that
+this will
+make things
+a little bit
+better
+um
+okay
+so
+who we got
+rest of the bad guys
+that's it
+okay
+well
+ABD
+that's easy
+they're running
+they're running
+they're going
+they're going
+look we didn't like
+this
+MF
+to begin with
+so
+they are relying
+on their groveling
+skills to get them
+through
+having abandoned
+their big boss
+we want no trouble
+how uh
+how does
+okay
+so
+now we get a level
+yeah
+yeah
+bam
+the HP
+work
+okay
+so
+oh yes
+leveling up
+first thing that happens
+is you get a HP increase
+your hit die increases
+by one
+um
+so instead of having
+one be
+whatever
+on your hit dice
+you've got two
+um
+so
+right here
+1d8
+now it's 2d8
+um
+now to increase
+your hit points
+you roll your hit
+die
+um
+with advantage
+so
+you roll
+2d8
+and then take the
+higher
+so you got an 8
+okay
+all right
+um
+so
+you increase your max HP
+by that much
+it's the law of averages
+they got 8
+i got 8
+1 and a 2
+oh no
+i'm gonna use my vicious opportunist
+unfortunately that's uh
+that's not able to be done
+at this point
+plus strength or no plus strength
+no plus strength
+just a hit dice
+max and current
+or just max
+um max and current
+okay
+so
+that's helpful
+yeah
+um okay
+you also gain more skills
+gain one skill point
+that you may
+um
+gain one skill point
+for any of your
+any of your skills here
+um
+you may also
+move one skill point
+from one place
+to another
+oh
+that's cool
+yeah
+and the maximum skill bonus
+that you get
+is
+that you can have
+is a plus 12
+so you can never have
+anything above
+plus 12
+which
+we're not anywhere near
+mm-hmm
+okay
+uh
+everybody good on that
+you
+making this again
+yeah
+all right
+i like that
+that's neat
+i like the
+skill point
+thing
+yeah
+because i had
+a decent
+i put some skills
+into major craft
+mm-hmm
+but i realized
+last session
+i'm in dave
+and so did
+the end
+so i'm like
+all right
+we're gonna move
+the point out
+yeah
+and we'll pull it
+somewhere a little
+better
+yeah
+and and also
+it kind of gives you
+the ability
+for your character
+to kind of grow
+in specific areas
+where it's like
+i'm really focusing
+on this
+and i haven't
+really been doing
+this
+so
+you know
+it makes more sense
+that the character
+would have a higher
+this
+okay next thing
+you have
+is gain
+a new
+gain new
+class features
+for your level
+so you go over
+to your level
+two
+and all the
+level two
+stuff in there
+you get
+and i believe
+that means
+that a couple
+people just
+gained a spell
+pool
+so that's
+exciting
+uh for you
+uh for you
+ryan
+uh you
+have
+a plus
+two speed
+and
+plus
+your level
+two initiative
+so
+your
+uh speed
+will go
+from
+six to
+eight
+and your
+initiative
+will go
+from two
+to four
+or yeah
+two to four
+and that
+and your
+initiative
+will continue
+to get
+bigger
+every time
+you level
+it'll just
+go up
+by one
+every time
+you level
+at that
+point
+um
+and then
+let's see
+what else
+we got
+here
+burst of
+speed
+when you
+roll initiative
+you gain
+dex burst
+of speed
+to use
+during the
+encounter
+once
+once per
+turn
+you may
+spend
+one
+burst
+of speed
+to use
+any of
+the following
+things
+so
+um
+so
+when you
+roll
+initiative
+gain
+dex
+bursts
+of speed
+so
+you get
+two
+bursts
+of speed
+every time
+you roll
+initiative
+that you
+can spend
+to do
+the slip
+stream
+whirl
+whirling
+defense
+swift
+strike
+or
+win step
+so
+those
+are
+those
+are
+just
+kind
+of
+like
+abilities
+that you
+can
+activate
+you can
+activate
+one of
+those
+um
+you can
+activate
+any of
+those
+twice
+in the
+in the
+combat
+so
+that's
+okay
+now let's
+see
+any
+other
+adjustments
+if any
+of your
+base
+stats
+increase
+remember
+to adjust
+your other
+elements
+of your
+character
+skills
+damage
+initiative
+armor
+mana
+all that
+stuff
+now that
+happened
+so
+there we
+go
+you're
+leveled
+that
+that
+wasn't so
+bad
+all right
+just nimble
+yeah
+um
+okay
+so
+all right
+next
+next round
+i will
+say the
+words
+twice
+yeah
+i will
+uh
+summon
+two
+shadowlings
+one
+two
+and uh
+the number
+two
+then
+with my
+third
+action
+i will
+command
+and they
+will move
+and attack
+this guy's
+gonna move
+over here
+this guy's
+gonna move
+over here
+they're both
+gonna hit me
+from back
+here
+um
+yeah
+all right
+uh
+that is
+gonna be
+womp womp
+only a total
+of
+seven damage
+low on
+those d12s
+okay
+um
+and was
+that
+that is
+three actions
+summon
+summon
+command
+okay
+one picture
+of
+shadow
+warlocks
+no
+they are
+they are
+um
+the picture
+i have
+in my
+head
+is like
+like a
+shoggoth
+from
+yeah
+yeah
+yeah
+yeah
+all right
+so
+he uh
+snaggletooth
+is going
+to
+um
+attack
+one
+uh
+he's gonna
+attack
+e
+he's gonna
+attack
+e
+and
+he's going
+to hit
+e
+so he's
+gonna go
+all right
+little chang
+and
+and as we
+learned last
+round
+it's always
+good to
+end your
+no that's a
+good gag
+that's a good
+gag
+yeah
+it's just the
+boss here
+yeah it's just
+the boss
+it's always good
+to end your
+end your
+uh
+combat
+away from
+the guy
+so he
+has to
+move
+so
+you can
+split your
+movement though
+so like
+if you've got
+extra movement
+from which
+with a movement
+of eight
+at this point
+you've got
+extra movement
+you can move
+away
+after you
+hit him
+so
+2d8
+would be
+two dice
+uh
+what is
+what is
+the two
+yeah
+the 2d8
+that's for
+your hit dice
+it's not
+for your
+attacks
+you still
+you still
+just do
+the 1d8
+for your
+staff attack
+okay
+four
+okay
+how
+armored
+is this guy
+he is
+medium armored
+medium armored
+okay
+and we're
+gonna
+here we go
+with the
+staff
+three
+okay
+and then
+we're gonna
+at least I
+can run away
+after this
+so my
+third one
+would be
+whoa
+well
+your third
+thing was
+your move
+oh yeah
+so if you
+do split
+your movement
+it still only
+counts as
+one action
+right
+yeah
+so
+when you
+take the
+move action
+you have
+a bank
+of six
+moves
+unless you're
+fast
+then
+you can
+be fast
+all right
+so he
+is going
+to
+snaggletooth
+is going
+to
+continue
+to wail
+on the
+bunny
+who dared
+to challenge
+him
+that's a crit
+that's not
+good
+that's bad
+I dare
+you not
+to
+sorry
+defended
+my
+shadowling
+interposes
+you'll have
+be great
+uh-huh
+all right
+um
+that is
+at least
+you love him
+you've got more
+HP
+that is
+technically
+accurate
+that's 14
+points of damage
+okay
+I have a three
+I did there
+all right
+well
+mr. three
+you're up
+all right
+uh
+I've only got
+two actions
+eh
+as I defended
+well
+I suppose
+blast him
+uh
+yep
+I'm gonna blast him
+uh
+I attack him
+okay
+is BD my
+release safe
+yes
+you did
+you did get
+the
+two sixes
+right
+yes
+yep
+yep
+there are nine
+I've been sitting
+I wasn't able
+to use a blast
+turn because I
+couldn't attack
+but
+bam
+uh
+sick
+uh
+so that is a
+two
+plus nine
+uh
+and
+I'm going to
+spend one of my
+mana pools
+to smite him
+with a
+condemning strike
+I deal plus five
+radiant damage
+this is going to be
+aligned to 11
+16 points of damage
+he has been
+smote
+smote his ruin
+upon the mountain
+uh
+and then I will
+in fact move
+because uh
+uh
+you know
+he is going to
+attack the
+shadow that's
+right next to him
+uh-huh uh-huh
+he's going to
+miss the
+shower that's
+right next to him
+yes
+hey you have
+redeemed yourself
+attaboy
+all right
+jason
+all right
+so
+how's whisper
+going to handle
+this
+uh whisper
+is going to
+use his
+level ability
+oh
+yeah
+uh
+which means I
+can either move
+or hide for free
+oh
+that's sick
+I am going to
+move up to this
+guy
+and I am going
+to use my
+daggers
+I can do that
+for free
+that means I
+still have three
+yeah you do
+attack with
+advantage on
+this first one
+so if I do
+advantage on
+the first one
+it will be
+disadvantage on
+the second one
+on the second
+I plan on
+attacking for all
+three
+or you could
+have two
+straight walls
+yep
+that's great
+there you go
+all right
+roll another
+four
+plus the six
+that's another
+roll another
+four
+there we go
+oh
+it didn't go
+in the rolling
+surface
+it didn't matter
+it meant to be
+a two
+nice
+so eleven
+you still haven't
+used your thing
+so if you hit
+it could be
+another crit
+let's take advantage
+of this one
+there you go
+you can just
+make that a crit
+if you want
+oh yeah
+yep
+unfortunately
+you can only
+do the six
+once a turn
+so
+but still
+crits are crits
+yep
+yeah
+yeah
+yeah
+you know
+another four
+roll another
+roll another
+roll
+all right
+let's
+let's go for
+a streak
+here
+all right
+yep
+yep
+well
+bigger they are
+the more
+they get stabbed
+14
+14
+holy crap
+and i still
+have one more
+attack
+yep
+this one is
+3d12
+double disadvantage
+oh yeah
+3d12
+take the worst
+well no it should
+just be single
+disadvantage right
+no it
+because you
+because you
+use your
+um
+effectively what
+happened in your
+second attack
+was you had
+single disadvantage
+but you had
+single advantage
+so they cancel
+each other out
+in your third attack
+you have double
+this
+oh okay so i got
+the chance
+yep
+so
+that'll hit
+oh well
+we gotta roll
+one
+just hope that you
+don't roll one on
+that and you hit
+all right
+oh and then i'm
+going to take my
+i'm going to take
+the rest of my
+move
+three
+and we'll stay
+over here
+run forrest run
+all right
+well
+he uses eviscerate
+he does not use
+eviscerate
+however
+whisper used
+eviscerate
+yeah he did
+eviscerate
+yes
+whisper
+definitely used
+eviscerate
+because
+snaggletooth
+is now bloodied
+which means
+he is frenzied
+oh
+which means
+he has
+super power
+excellent
+things
+that he does
+great
+wonderful
+sorry guys
+um
+okay so where
+he's currently at
+he's going to
+he's gonna stick
+with the creatures
+that are right
+next to him
+so we got a
+shadow
+valiant shadow
+dodge with all
+your might
+so snaggletooth
+basically his eyes
+just start glowing
+with this
+with these
+with these
+shadows
+just shadowy
+wisps start
+coming out of
+his
+out of his
+eyes
+and he grabs
+and he grabs
+his uh
+his axe
+with both
+hands
+and
+make
+and lets out
+a mighty roar
+and
+swings
+into
+the
+shadow
+and
+hits the
+shadow
+it is a
+mighty
+and it gets
+it gets
+it gets launched
+up into the air
+and then dissipates
+before he can
+do anything
+with it
+derrick
+uh-huh
+it is
+alder's turn
+uh
+first
+is much like
+the second
+we
+summon
+two shadows
+and
+send them
+to their
+death
+they will
+and i will then
+command them
+to attack
+that is
+oh
+sadly
+it's better
+than last time
+eight
+eight points
+of damage
+from the two
+shadows
+to combine
+excellent
+okay
+all right
+he is going
+to
+um
+he is
+he's decided
+that he is
+he's had enough
+of those
+he's had enough
+of these shadows
+uh-huh
+they're not
+doing what
+they're not
+doing what he wants
+that is correct
+so he's going
+to
+move up to
+little chan
+and he is
+going to
+use his
+frenzied
+attack
+um
+which
+he hits
+for
+two
+or
+four
+four points
+of damage
+and i choose
+to defend
+yeah
+i'll defend
+that
+okay
+so that
+is a
+no
+no roll
+just reduced
+by your
+armor
+yeah
+so you
+take one
+point
+uh
+when you
+do get
+hit
+um
+he
+the weight
+of his
+axe
+is so heavy
+that it
+knocks you
+to the
+ground
+you are
+prone
+um
+and
+it's your
+turn
+so what's
+prone
+mean
+that you
+are on
+the ground
+um
+you
+anybody
+who
+is
+attacking
+you in
+melee
+has
+advantage
+to hit
+you
+um
+anybody
+or
+you have
+disadvantage
+to hit
+anybody
+else
+while you're
+prone
+it takes
+three squares
+of movement
+for you
+to
+get up
+from your
+prone
+so you've
+got
+two actions
+you can
+spend
+one of
+them
+to move
+get up
+attack
+him
+and then
+move
+away
+okay
+because
+you'd
+still have
+like
+five
+squares
+that you
+can
+move
+so you
+stand up
+and then
+you attack
+him
+and then
+you finish
+your move
+yep
+yep
+let's just
+get it
+five
+all right
+uh
+five points
+damage
+all right
+so you
+get up
+you whack
+him with
+your
+staff
+and
+then you
+run away
+run away
+run away
+right
+i got one
+more action
+uh
+no
+you had
+to
+you
+you defend
+it
+so that
+was one
+and then
+you
+yeah
+which way
+you want to go
+right
+you've got
+you've got
+five squares
+of movement
+that you
+can go
+well if i go
+too far away
+you just attack
+somebody else
+right
+correct
+but
+do you want
+to be the
+target of
+his
+how are you
+doing
+i'm good
+it's fine
+yeah
+i mean there
+there are
+there are a
+couple of
+people here
+that can
+soak damage
+a little bit
+better than
+you can
+um
+so
+even if he
+does move
+as far away
+you can still
+get to him
+yeah
+he's got
+eight squares
+of movement
+he can pretty
+much get
+wherever he
+wants to
+at this point
+um
+so you know
+it's not a question
+of you
+not being able
+to get to him
+you should be
+able to get to him
+no matter where he is
+all right
+um
+it's his turn
+uh
+he is
+frustrating
+people
+keep on getting
+he can't get
+a good wind
+out
+he's
+so annoying
+um
+let's see
+where would he
+tell me
+is that a moment
+of
+a lot
+so
+there's a movement
+of yes
+5, 10, 15
+why do I keep
+doing that
+1
+2
+3
+4
+there we go
+right on
+good job
+glad he came
+for me
+saves me an action
+I desperately
+need a save
+all right
+um
+all right
+moves
+attacks
+for
+11 points
+of damage
+excellent
+I say
+I say
+the words
+pound
+I defound
+I take
+zero
+fine
+armor went up
+armor went up
+no
+it's always been
+12
+all right
+uh so that's
+his turn
+yep
+and I believe
+that uh
+that's you
+yep
+it's above
+average
+maybe
+it's about as
+average as those
+days get
+yeah
+fair enough
+another action
+I donate to you
+my third action
+as long as my
+shadows don't die
+I only need two
+I don't have it
+oh here's what I'm gonna do
+this is a good idea
+uh
+I'm a
+smacking
+that's smack
+spend the mana
+smiting
+so that's gonna be
+11 12 17
+points of damage
+saying all pal
+words
+defend
+smite
+then I'm going to
+move
+and I'm going to
+move
+there is not a
+great place
+for me to be
+yes there is
+you gotta stay next
+to him
+it's a wonderful
+place for me to be
+no
+if I stay next to him
+it's real bad
+for everybody
+because he starts
+hitting me into
+other people
+is what we found
+out before
+I move
+right there
+is that
+no that's not
+correct
+crap
+follow the mechanic
+so
+yeah so
+when he
+when he starts
+his turn
+like when he
+takes his turn
+right next to
+somebody
+then he
+he knocks
+he attacks
+that person
+and then
+he knocks
+that person
+into another
+ally
+and causes
+damage
+for both
+of them
+so he pretty
+much does
+double damage
+for the person
+that he attacks
+and damages
+as I move
+next to you
+you can
+kind of donate
+me in action
+I wave this
+potion to you
+that's my turn
+certainly
+if
+yep
+that'll
+that'll
+that'll be
+that's great
+at this point
+he's going to
+he is going to
+take care of
+that one
+uh
+nasty shadow
+shadow sea
+all right
+that would be
+whisper
+yes
+go
+do the same
+thing
+fertilize
+there
+you can have
+an ally
+next to him
+uh-huh
+yeah
+sorry
+I had to
+look something
+on
+no worries
+um
+two
+three
+four
+five
+five
+two
+you can
+back up
+one at least
+that's good
+that's good
+okay
+okay
+yep
+we're gonna
+come in
+and
+yeah
+it's gonna look
+just like the last
+round
+hopefully
+the numbers look
+the same too
+oh well you can
+still
+you can use your thing
+you can use your thing
+you can use your thing
+you can use your thing
+no
+guarantee at least
+you can pull
+yeah
+yeah
+all right
+four
+five
+don't sit
+yeah
+don't forget your
+d6
+oh yeah
+five gloves
+five plus five
+that's good
+and it's another
+straight roll
+because you catch your
+daggers
+two
+so I can change that
+to a crit
+as well
+or I can only do that
+once
+yeah
+so you two
+yep
+okay
+there's a crit
+all right
+so
+and then
+I can move
+back one
+right
+yeah
+yeah
+dodge
+dodge
+all right
+so
+um
+you have
+beaten through
+his bloodied state
+now
+the boss is on
+the last
+stand
+what this is
+is
+he gets a
+super powered
+attack
+that combines
+the two
+attack
+the two attacks
+they had before
+combines them
+into one
+oh
+and he
+and
+you
+and
+but with this
+he's only got
+a few hit points
+left
+yeah
+so as long as you can
+burn him down
+really really really
+fast
+yep
+you're gonna make it
+but
+you need to burn him down
+as quickly as possible
+so he's
+he's officially
+in the last stand
+state
+now his turn
+he's going to move
+six and then do
+the batter up
+excellent
+so
+lean and go over here
+that was not six
+move up to six
+move up to six
+and he
+and he
+like he
+he's got
+he's got it
+double
+double handed
+he's got that
+he's got that
+D
+he's rolling D12s now
+instead of a D8
+uh huh
+uh huh
+he does
+eight points of damage
+or
+nine points of damage
+to you
+okay
+if the target
+doesn't take damage
+from this one
+do they get knocked around
+no
+no
+no
+the
+the extra stuff
+that happens
+is only upon
+taking damage
+yeah
+yeah
+well
+so if you can prevent it
+yep
+we're gonna do that
+I'm gonna intercept
+and defend
+I'm gonna be like
+well
+I just gotta look at you
+shrug
+two
+three
+four
+we will intercept
+and defend
+and I will take
+zero
+alright
+thanks buddy
+I hope we'll ever get to use those
+but
+yep
+alright
+so
+that's
+uh
+that's that
+yeah
+Derek
+I will command
+since I don't have to summon
+action economy
+I will command them to move and attack
+they will do that
+they will both attack
+that is
+fifteen points
+from my shadows
+woo
+and then
+with
+my second action
+I will
+blast it
+with shadow
+yeah
+well I cast a spell
+that takes two
+luxuries
+I will cast a spell
+that takes two actions
+and with a free action
+I will
+attempt my bravest taunt
+I'll say
+you sir
+have a snaggletooth
+I thought you were gonna be
+talking about
+something about
+how fresh he is
+no
+and
+no
+I mean
+mushrooms hate fresh things
+right
+yeah yeah yeah
+it's kinda
+you're
+you're
+you're
+next on the farm
+I will cast
+a shadow trap
+next to me
+it takes two options
+up to one minute
+the next creature to move adjacent to me
+will take 3d12
+and become restrained
+and that is my one spell
+I can take from my
+from my patron
+before
+becoming
+uh
+yeah yeah
+unsafe
+uh huh
+okay
+before my patron takes notice
+of me
+all right
+all right
+well he is going to
+it was a free action
+I did that
+so
+yeah
+I'm not like
+I did not
+intentionally
+grab him over
+no I
+I got you
+I got you
+yep
+just trying to decide
+all right
+well
+Ramsey
+yeah
+Rowan's getting
+yeah
+getting battered here
+sick
+um
+also for one there
+uh
+he whisper
+yes sir
+can you intercept
+for me this time
+because this is
+going to poke me
+in the ground
+yep
+all right
+all right
+so you basically
+do the exact same thing
+you can move two squares
+and you just flip around
+and then I'll defend
+as well
+okay
+what do you
+he did six
+it's gonna be six
+oh that's the perfect number
+yeah
+oh
+nice
+hell yeah
+okay
+what's gonna work
+this is
+this is
+this is great
+this is good
+you guys are doing great
+yeah
+I was
+like there's gonna be
+some big fireworks
+going off
+but it's fine
+everything's fine
+it's fine
+it's fine
+yeah
+we're okay
+yeah you heard the same thing
+I did didn't you Chris
+it's fine
+it's not gonna be a problem
+because I heard it
+all right
+Ryan
+you
+Lil Chang is up
+kill him dad
+roll and get him
+picture why you have this big stupid smile too
+seven
+so I got one to run away from
+yep
+five
+okay
+uh-huh
+uh-huh
+three
+you
+you killed him with your first one
+yeah
+so how do you want to have defeated him with your staff
+and then
+and then
+and then
+well bam
+he's knocking right on the head
+this one's for wingding
+for wingding
+no
+we're all
+nice
+I'm glad somebody appreciates me in this world okay
+might as well be you
+all right
+with your
+with your
+many swirls
+and
+and knocks him
+knock him on the head
+he falls to the ground
+lifeless
+as
+the
+as his hand
+uh
+falls from the axe
+he starts shrinking down
+into a more
+normal sized
+kobold
+and that's where we will call it for tonight
+pretty good
+maybe you can get some of the shadow power
+because of the axe
+and you can grow
+big mushroom
+right
+wouldn't that be awesome
+well
+or we have a huge sized giant
+nah
+so
+in
+this is all that I had planned
+so
+I'm not sure where we want to go from here
+yeah
+so I'm going to need your guys' help
+to tell me
+like what you think
+your character would want to do
+I can throw out a few options of things that I see as something available
+yeah yeah yeah
+um
+but it's
+but that
+that by no means
+means
+that is
+by no means
+the only stuff
+like if you have a specific character quest
+that you want to follow through on
+or the group has like some idea about what they want to do
+and you want to discuss it
+then
+that's perfectly legit
+I just need to figure out
+how to plan for the next session
+really
+we don't even have to have an entire adventure or anything all worked out
+I just want to know
+what to plan for the next session
+because
+you found the sheep and goats
+you've defeated the big bad
+diggle bad
+there is
+um
+a shadow axe
+that
+is
+available
+if somebody wants to pick it up
+but then again
+you are warned not to pick up shadow axes
+because they're big bad and evil
+uh
+or shadow things
+not shadow axes
+specifically
+I don't know if I necessarily believe that
+and Derek starts
+channels on this side of the fence have been great
+and Derek starts looking at the reaver subclass again
+can
+can the
+and
+to answer that
+unasked question
+should you want
+a
+should
+should you want to
+have
+your scythe
+be a shadow axe
+ah
+it could be a shadow axe
+but
+um
+it
+yeah
+if you guys want to stay closer to the town
+you can
+you know
+there can be something there
+where did the kobolds come from
+maybe that's something you want to investigate
+um
+cause kobolds aren't really native to this area
+um
+bunch of different options
+and
+you know
+I don't want to
+you know
+I don't want to limit you guys
+or
+you know
+drive you down a specific
+uh
+specific
+uh
+path
+like I think that this is a
+good opportunity
+for a little bit of a
+choose your own adventure source
+then
+sure
+sure
+so
+or if you want me to just come up with something
+I'll come up with something
+but
+you know
+I figured we could do a little bit
+a little bit of collaboration on this
+so
+and I will send out that
+I'll send out all those things to the greater group
+because
+you know
+Ian or
+or Dave might have some opinions as well
+sure sure
+and I want to include
+the other two
+so
+yep
+I mean yeah
+to me the obvious threats are
+even
+or
+these
+promised
+that
+I mean yeah
+so
+I mean
+that
+what I mean
+that
+I mean
+let's
+yeah

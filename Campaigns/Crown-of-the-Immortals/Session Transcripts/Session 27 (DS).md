@@ -1,0 +1,1728 @@
+# PCs
+| Player | PF2e Character | DS Character |
+| ------ | -------------- | ------------ |
+| Ramsey | Alwor          | Aurora       |
+| Scott  | Cahir          | Kroff        |
+| Clark  | Karsten        | Duncan       |
+| Jason  | Simear         | Po           |
+# Transcript
+Just doing it.
+Just so you're not.
+Thanks.
+A little bit slow on the uptake on that one.
+All right.
+So with your practical magic, really.
+Hit the play button or?
+No.
+You want to go ahead and click on the knockback.
+Okay.
+It brings up a menu, but there's nothing to do here.
+There's no clicking.
+There's no, you know, well, why don't you just roll 2d10?
+Okay.
+And to do that, I roll 2d10.
+Yep.
+Oh, that's 1d100.
+I don't think that's what I want.
+Right?
+Right.
+Uh, no, you, you, you want to go to the d10, um, thing, and then just click on that twice.
+And then click roll.
+All right.
+So that's 11.
+Plus.
+Yep.
+Plus your reason, um, because you're using your cells stuff.
+Yeah.
+That's a 13, a 13 is, uh, is a tier two result for your knockback.
+So that's gives you a push too.
+So you can push the guy.
+Two spaces.
+Two spaces into that lovely three by three square that you had.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+There we go.
+All right.
+So that three by three square that I do, I, I target all three creatures.
+Yep.
+Right.
+Get out of the way.
+Thank you.
+Okay.
+Um, point of order here.
+The, the thing says, the thing that I'm looking at here.
+Yep.
+That's the, no, I need to go this way.
+Sorry.
+Um, do I need to like click on myself to say I'm taking the turn here.
+I didn't do that.
+I should have.
+Oh yeah.
+You, you definitely need to do that.
+Yeah.
+Cause that will give you your resource.
+Yeah.
+So, uh, sorry.
+I did that.
+No, I'm taking my turn.
+I did part of my turn.
+Um, three cube.
+Within 10.
+Um, I am presently one, two, three, four, five, six, seven, eight, nine, 10 to this square
+right here.
+Right.
+Do I need to take a step forward to get to this last guy?
+Nope.
+No.
+You just need to, you need the cube to start with, you need to keep the cube to start within
+10.
+So you could be at the 10th square and then three, three, three, three spaces out from
+there.
+Okay.
+All right.
+Um, just cause it's fun.
+I'm going to go ahead and throw up your cube right there.
+It's everybody who's, Oh, everybody who's watching can see.
+All right.
+Um, so I've got, all right.
+I hit the play button.
+Right.
+And 2d 10 plus two, no edges, bangs, bonuses, penalties, goblin, we're going to roll roll.
+Oh, that's really low.
+And it's really low.
+That is unfortunate.
+Would you like to spend a hero point to re-roll?
+Yep.
+I was going to say this might be a good time to hero token.
+Oh, okay.
+Sure.
+How do I, how do I do that?
+Minus one.
+Spend one.
+Yep.
+Okay.
+I'm going to spend one.
+All right.
+Re-roll that.
+Hit the play button on that ability again, essentially.
+Okay.
+Re-rolling.
+You better.
+That's a little bit better.
+That's a lot.
+That's like a tier.
+Yeah.
+We went from tier sucked at tier three.
+Great.
+All right.
+So go ahead and apply that beautiful 12 fire damage.
+That's pretty good.
+Yeah, that is.
+That's beautiful.
+All right.
+Which was enough to,
+was enough to kill this guy.
+And then Duncan can choose a new person to judge as a free action.
+Um, he will, uh, judge, judge, judge, judgment.
+Um, he'll choose this guy to be judged.
+All right.
+And it kills this guy.
+Goober's still alive.
+Oh, he's real close, though.
+Yeah, he is very close.
+Um, and what, is there a secondary effect for your, for that spell?
+Um, he's persistent two.
+Right.
+So, it is fun.
+Uh-huh.
+Which allows me at the start of my next turn to use the, use a maneuver to use this ability again without spending essence.
+Ooh.
+Ooh.
+That's, that's, that's pretty baller.
+That is.
+Oh, man.
+Yeah.
+Yeah.
+So, you get, you can, it's persistent two.
+So, does that mean for two additional rounds or does that mean for a second round?
+Either way, that's still awesome.
+Mm-hmm.
+Yeah, yeah.
+Uh, so that's, that's a free fireball is what that is.
+It is.
+Okay.
+Yep.
+And, and I don't have to spend essence to do it?
+Persistent magic.
+It's, it's one of your features.
+Uh, instance, whenever you, so she's a persistent ability, you decide whether you want to maintain it and start doing so immediately after you use the ability.
+If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the abilities persist.
+Okay.
+Oh.
+So, oh, so I'd have to, too.
+Yeah, you're, you're taking a home loan out, uh, against your future, uh, resource.
+Okay.
+Um, the, so I had six, I spent five, I should have one more, right?
+Uh, that is the math.
+Yes.
+Yeah.
+Yeah.
+So, I'm just curious why it took all six.
+Uh, do that?
+For me?
+Like, take the loan out?
+Is it already doing that?
+It should have.
+Because that should be against your, your future earnings.
+And you for sure had six.
+Yes.
+Yep.
+Yep.
+Yep.
+Yep.
+Uh, I'm not sure.
+You can always just go ahead and put in, uh, like, just add an essence on there.
+Throw the one back in.
+Okay.
+Yeah.
+All right.
+All right.
+Well, that was pretty, that was pretty awesome.
+Aurora.
+That was fun.
+Thank you.
+Aurora, do your thing.
+Oh, sick.
+Oh, there's no bad guy to go, huh?
+No, no.
+You, you, wait.
+This guy, he's yellow.
+Oh, yes.
+There is, there's the one yellow guy.
+Uh, ah, it's his turn.
+Um, Goblin Warrior, he's going to, well, this is going to be kind of awkward here, but.
+Yeah.
+He's going to go over here.
+Uh-huh, uh-huh.
+Go this way, go this way.
+Come up to attack Croft.
+He is currently judged.
+Which means, when he takes his action.
+Oh, yeah.
+He is judged, isn't he?
+Yeah.
+That's pretty good.
+Takes his man action within line of effect.
+You can use a free triggered action to, yep.
+So, he takes four points of damage as he tries to attack Croft and dies.
+Oh.
+Poor guy.
+Excellent.
+That is assuming that Duncan decides that he wants to deal damage from which, why would he not?
+So, all right.
+Love to see it.
+Um, all right.
+So, wait.
+And then, Duncan gets to choose a new person.
+Uh-huh.
+Yeah, judge.
+Uh-huh.
+Because when you're judged by, you're reduced, when somebody who's judged by you is reduced to zero stamina,
+you can free triggered action, use this ability against a new target.
+So, yeah.
+Yeah.
+So.
+A judge.
+Yeah, yeah.
+Like, this is, this is sick.
+Like, if you, if you get a bunch of people down to, like, a low ability score, you can just, like, one by one, as they act, just kill them all off.
+Yep.
+Yeah, that is.
+All right.
+Yeah.
+That's nice.
+So, the power of this thing is just, oh my gosh, that's, no.
+Okay.
+All right.
+Uh, me, huh?
+Yeah.
+Aurora, do your thing.
+Huh.
+Which, hold on.
+Which way is better here?
+I was going to do a thing.
+I'm still going to do that thing.
+Uh, first of all, hold on.
+I need to get my turn.
+Bam.
+Turn started.
+Uh, okay.
+What I need to decide.
+Uh, one, two, three, four.
+One, two, three, five, six, seven, eight, nine, ten.
+Oh, yeah, that works just as well, I suppose, um, is I'm going to, uh, look back at my buddy
+Poe there as he's, you know, still crackling with power, uh, kind of smile and say, you
+want to go again?
+Uh, and I'm going to use kinetic grip.
+Uh, I realized this was a thing I could do.
+Um, and I'm going to do it.
+Uh, I'm going to use kinetic grip on Poe.
+Hmm.
+I can target a creature or object.
+Poe certainly is a creature.
+Yeah.
+Uh, so I'm going to go ahead and make my power roll.
+Uh.
+You have to, okay.
+Boop.
+Sick.
+Uh, so that is a tier three.
+Oh, it does prone you.
+Hmm.
+Hmm.
+That's fine.
+I don't think that matters.
+What does prone do?
+Sounds great.
+It's getting, somebody's sliding across the floor.
+I mean, it should be fine.
+I did it, so I'm doing it.
+Uh, but yeah, Jason, uh, you've got eight squares.
+Go ahead and move yourself wherever you want, preferably so that you're within range of those
+two guys in the back.
+Right.
+So, you know, somewhere up by Duncan, I think is, is, is perfectly acceptable.
+I don't know if that on the, any strike they make, any melee abilities used against them get
+Yeah, it's, I can't do it.
+Where do you want to go?
+Yeah, you, yeah, where do you want to go?
+Just point it out.
+Yeah, let's, um, let's go ahead and put myself, like, yeah, maybe right there would be fine.
+Right there.
+Yeah.
+Why not?
+Sweet.
+Bane.
+And then you're prone.
+Oh, strikes have bane.
+Well, it's a good thing your conflagration isn't a strike.
+Cool.
+Uh, next, I'm going to use my maneuver to, uh, flashback.
+I'm going to spend five clarity.
+Um, and, uh, you feel Poe Aurora kind of like enter your mind a little bit, um, and shows
+you like doing their conflagration again, but this time, you know, on, on different targets.
+Um, and what the ability says, uh, is the target is, oh, actually it's a little different target is thrown several seconds back in time.
+So you get a little timey whimey, uh, and gets to do it all again.
+Uh, the target uses an ability with a base heroic resource cost of seven or less.
+So they previously used this round without needing to spend the base cost.
+Oh, so you just get to conflagrate again.
+Right.
+Yeah.
+Get them.
+Um, Chris, I'm going to need help because it's not my turn.
+Right.
+Um, here, free movement.
+There you go.
+Um, and we'll go ahead and.
+I target those two.
+Drop that there.
+We'll do this.
+And we'll.
+Yeah.
+Do that.
+Oh, that's a winner.
+Yeah.
+Yeah.
+Okay.
+So go ahead and apply that fire damage.
+And.
+Yeah, you kill them all.
+Yeah.
+So your, your, uh, your fireball that you sent out, um, not only, not only gets the guys where the fireball exploded, but it also like, um, like.
+It's like, it's like a laser.
+It just goes through the other sniper, um, gets empowered as it's going over the bracer, goes through the other sniper, kills it, and then explodes, killing the other two snipers.
+Um.
+Mm.
+Mm.
+Mm.
+Love to see it.
+That was great.
+Which brings.
+Yeah.
+Yeah.
+That's a fun.
+Spectacular.
+Yeah, that is.
+Yeah.
+All right.
+Um, and that will end our combat.
+Woo.
+Um.
+Which awards everybody one victory.
+Um.
+And.
+I victoryed myself.
+Or somebody else did.
+At the same time that I tried.
+Do do do do do do do do do do do do.
+Yeah.
+Oh.
+Really.
+Yeah.
+Do do do do do do do do do do do do.
+So going at this, uh.
+Oh, gosh.
+Yeah.
+That's pretty awesome, Ransy.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+All right.
+So.
+I haven't heard that in years.
+Years and years.
+Really?
+Oh, my God.
+Runs through my head all the time.
+Right?
+Uh, it doesn't hurt that I've recently done a bad thing and started getting back into magic and they released Final Fantasy magic cards.
+Oh, yeah.
+So.
+Yeah.
+They've got the original, like, fighter and.
+They've got, they've got every, they got stuff from all of the games and it is, that's, yeah, so I've been making Final Fantasy magic decks.
+But, anyway, either here or there, we have a victory.
+Yes, you now are, you are now running with two victories.
+One from the previous battle, one from this one.
+Everybody at this point, you can choose to spend recoveries to heal yourself.
+So, I think Duncan is going to do that.
+I've already spent two previously, it looks like.
+All right, so we're going to seven, I heal six.
+Deal.
+So.
+Hmm.
+Okay.
+So, if I spend two, I make myself down to six here.
+I get myself an extra victory points.
+It's not 164, just 16.
+So, 164 would be fantastic.
+All right.
+Yes.
+All right.
+Massive.
+I mean, you were a tank in the first combat, so.
+I was.
+You kind of were, yeah, yeah.
+I didn't, I didn't tank it quite so aggressively this time.
+Yeah.
+Yeah, yeah, yeah.
+But I was in the back of the field challenging to get forward.
+At that little choke point, like you were saying.
+You are no longer prone.
+Oh, I get up and dust my slug off.
+Like, sorry about that.
+I slugged you a little too hard.
+It's all good.
+Are you healing everybody, Chris?
+I just.
+No, everybody's healing themselves.
+No, I missed out.
+Sorry.
+You can choose to spend any number of your recoveries to heal yourself at this point.
+Okay.
+How do I do that again?
+I was.
+Something different on another screen.
+I just have to manually do it.
+Yeah.
+So, if you open up your character sheet, go ahead and look at what you have for your current recovery value, which it looks like it's.
+11.
+11.
+Yeah, I know.
+You have more recoveries right now than I start with.
+And then reduce your current recoveries from 10 to 9.
+And that will add.
+And then just change your current.
+Your current from 15 to 26.
+You could choose to do another one, but really, you're at the 33.
+Oh, good.
+It seems like a little bit of a waste.
+So, at least to me.
+So, you guys, as you recover from the battle and just, you know, those were a lot of goblins.
+Oh, cool.
+It was a lot of goblins.
+You kind of look around.
+You see that there are a bunch of sleeping bags and different things around here.
+It's very clear that these goblins have been here for a bit.
+Which you find kind of odd that, you know, they're, that they weren't noticed prior to this.
+But then again, this tomb is very heavily avoided by the townspeople.
+So, it's possible that they just kind of laid low a little bit.
+It doesn't seem very goblin-y like a very good thing to do.
+So, there's a brazier in the center and there is only one exit from this room besides the place that you came in, which is to the far south.
+There's a door that opens to what looks to be a hallway to your left to go deeper into the tomb.
+What do you do?
+Well, I'm assuming these gobbles, they got a whole lot on them.
+Yeah, you definitely do search the room, look around, see what you can find and that kind of thing.
+But there, as you, well, let's go ahead and do a roll because rolls are good.
+What I would want is a intuition roll.
+And if you have a skill that applies, you may pitch that to me.
+Yeah, yeah, yeah.
+That's how it works in this situation.
+Yep.
+Which is why I'm having you make a roll because it's a weirdo.
+So, depending on what is here that I might be looking for, maybe magic, but that's all I got.
+Okay.
+Yeah, I'll allow it.
+So, go ahead and roll your intuition.
+Add magic as your skill.
+You rolled really well.
+Sure did.
+That's a crit.
+Sure did.
+Unfortunately, crits don't do anything for you at the skill level.
+However, if we were in combat, you would have gotten an extra action for critting, which is pretty awesome.
+But that only applies on main actions.
+So, but regardless, like you sweep the room looking for anything magical or anything that would kind of infer what's going on.
+You do actually happen across a, what looks to be a used staff that doesn't look to be of, looks to be a little bit larger than what you would expect from a goblin.
+So, it's a used, broken, but definitely more medium-sized creature-sized, more human-sized than small creature-sized.
+Um, you do also find, um, remnants of some, um, of like what looks to be kind of like a, a lunchbox sort of thing.
+Um, again, not really goblin style things, but, uh, looks like it belonged to somebody.
+Like, and it's like a, it's like a handkerchief, kind of like one of those handkerchiefs that gets, that they wrap a bunch of food in and that kind of thing.
+Um, and it only strikes, it, it only pops out to you, um, because it's, um, it's relatively new, um, or fresh here, which could imply that it might've been Violet's lunch.
+Oh, okay.
+Okay.
+Okay.
+I'll definitely take that, um, and the staff.
+Mm-hmm.
+Um, I don't know.
+Uh, I mean, I know the magic things, but Poe, I imagine you do too.
+Can you make anything out of this staff?
+Um.
+Uh, mm-hmm.
+How, what?
+Oh, oh, here they are.
+Mm.
+Um, yeah, yeah, sure, I, absolutely.
+Yeah.
+All right.
+This is quite the treat.
+Yeah, you're, you're a magic guy, you do magic stuff.
+So, Poe, I would like you to go ahead and make a reason roll for me.
+And if you have a skill that you would like to apply to that, um, you can pitch that to me if you would like.
+Yeah, I've, um, I've got the blacksmithing and the magic skills.
+Mm-hmm.
+No, I think I could use to, you know, hey, hey, how was this crafted and what's its purpose, magic crafting as well as funding.
+Yeah.
+Um.
+Um.
+Okay.
+So, yeah, go ahead and roll, um, either one.
+Just, just choose one of those as the skill that you're applying.
+Um, or how do I, how do I choose one, huh?
+Uh, well, on the reason skill, or the reason thing, there will be a dial, dial up.
+Oh.
+And in there, there's a drop down for skills, and you can choose one.
+Oh.
+It does not give me, um, oh, here it is.
+Never mind.
+Um, I'll do the magic, yeah, that was, that was fantastic.
+Yeah.
+All right.
+I rolled some numbers.
+Uh-huh.
+All right, so that gives you a tier two result, which is enough for you to determine that this specific staff is not, um, a staff that is generally used by people, um, based off the magic runes that you see on it.
+But it appears to be more of a, um, more of a dark sorcery sort of usage.
+Mm-hmm.
+Mm-hmm.
+I don't know how you got a 23 there.
+That's pretty fantastic.
+Good job.
+You rolled a 20.
+Yep.
+You did.
+It's amazing.
+Also, Chris.
+Yes.
+I think this might be your fault.
+What?
+Yep.
+Oh, no.
+What'd I do?
+These pumpkin, these pumpkin seeds.
+Ah.
+That I think you brought to the, the RLM game weekend.
+Yeah.
+Um, whatever you want to call that thing.
+These things are darn tasty.
+I don't know where you got them, but you didn't take them home and I did.
+And so now I don't know where, again, I don't know where you got them, but you have to get some more, like maybe three bags.
+Oh my gosh.
+So that when I come down, I can, um, purchase those from you.
+Okay.
+I'll, I'll try and see if I can remember where I found them.
+Um.
+Yeah.
+All right.
+No, I, yeah.
+So, but that's, that's what you're able to determine from the, from the staff itself.
+It seems like there's some sort of shadow sorcery or something involved with the user of the staff.
+The staff itself is not an actual magical item.
+It's just an implement that's used for magic.
+So.
+All right.
+It's just a what?
+It's an implement used for magic.
+Okay.
+Okay.
+It's like, you know, Gandalf's staff.
+Yeah.
+The staff isn't the, uh, isn't, isn't the power.
+It's, it's, uh, Gandalf who is the power.
+Not all you're talking about.
+It's just an old man's walking stick.
+Exactly.
+These are dark.
+All right.
+Well, this little girl ain't going to save herself.
+Uh-uh.
+Let's go.
+All right.
+Clearly.
+Um, okay.
+So.
+Let's see here.
+So you head down the, to where the hall is.
+Uh, you see a narrow, uh, yeah.
+Oh.
+Sorry, Aurora.
+I wasn't trying to step on you.
+Yeah.
+Yeah.
+Oh.
+That's where those beefy guys go first.
+Yeah.
+Thanks, Rob.
+He's barely injured anyway.
+Yeah, yeah, yeah, yeah.
+Barely.
+Still has more hit points than I do ever.
+Oh.
+That's, uh.
+That's a dead goblin?
+Question mark?
+Uh, it's not looking very goblin-esque.
+Yeah.
+Maybe it's, maybe it's a helmet on the dead goblin's detached head.
+Uh-huh.
+Uh-huh.
+I can see it.
+Looks rather big.
+Okay, so you see, down the hallway, you see frescoes on the wall of this narrow hall
+that show fallen knights and a large silver chalice being carried by a procession of warriors
+into a tomb carved with the name Delius atop its entrance.
+Aww.
+The head of goblin lies on the floor next to the presumably matching corpse.
+Yes, yes, yes.
+Well, uh, interesting.
+I'm not really curious.
+I think it's safe to say the little girl didn't do that, so we should probably be looking out
+for some other critters in here besides the goblins.
+Yes, or traps.
+Good call, good call.
+Yeah, I hadn't thought of that.
+Mm-hmm.
+Um, the hallway itself is relatively small.
+Um, it's a pretty short hall, but, uh, there is definitely, uh, and, and will, um, and curves
+to the, uh, to the left.
+It looks like it'll open up into a larger space at the end there.
+Um, what do you guys do?
+Hmm.
+It looks like there might be light at the end of the tunnel.
+Yeah, I think your thought on traps is a good one.
+We should maybe be careful.
+Yeah.
+That's not a bad idea.
+Um.
+Hmm.
+If they're magic in nature, I can help look for them.
+But other than that, I'm not particularly skilled at, at the traps.
+Well, I can tailor.
+I didn't understand what you did earlier, where you said, roll me a this and put this skill
+in it.
+Sure.
+Um, well, this is going to be a great opportunity for you, because I'm going to be asking you
+to do this exact same thing, um, at this moment, because you were the one who mentioned traps.
+And so I'm going to say that your is going to be a looking forum, um, since that was your
+idea.
+Mm-hmm.
+Seems reasonable to me, which means that I'm going to want a reason or an intuition test from
+you.
+Um, and what you're going to need to do in order to do that is open up your character
+sheet.
+And on the top of the, um, on the top of the character sheet by your character art, you
+have your abilities, uh, your ability things in here.
+So, um.
+Yep.
+I'm doing intuition.
+You've got might.
+I'm doing alertness.
+It will be, uh, alertness.
+Where is that?
+Oh, alertness is a skill.
+Yes.
+Yep.
+Yep.
+So, uh, so you're choosing intuition for your, for your abilities check and you're pitching
+alertness as your skill, which makes sense to me.
+So yeah, go ahead and pick alertness for that.
+You said reason or intuition, uh, agility.
+Right.
+His, his intuition is not a bad intuition.
+Yeah.
+Yeah.
+The difference between a plus one and a plus two is not that significant, especially
+when you roll like that.
+Um, so that is a tier three result.
+Uh, you find a pressure plate, um, about halfway down the hall about, you know, a step or two
+ahead of where that goblin corpse is.
+Uh, um, or a step or two behind where the goblin corpse is.
+Um, if you, you can choose to disarm the trap without having to make a second test because you rolled so well.
+Well, so you walk down the hallway, you're kind of keeping an eye out and you notice that one of the, uh, one of the floor, um, one of the floor pavers is slightly wiggly.
+And you determine that that is a, um, that is a pressure plate for, um, some sort of scythe.
+And he, and when you look to the side, you see like a slit in the, uh, in the side of the wall.
+Um, that's, um, about, about head height for a goblin, about mid section for a person.
+Um, so you are pretty confident that there's some sort of like slicing mechanism that's gonna pop out if you push on that pressure plate.
+How do you disarm it?
+Am I throwing Poe at it?
+Or?
+Well, you could throw things kills.
+Um, well, you, you, you don't, you don't have to make a skill check on this at all.
+Oh, you are able to, you are able to disarm it because you rolled as well as you did.
+Tier three result.
+So you don't have to do a follow up skill check.
+Um, I'm just.
+You're asking me to be creative.
+Okay.
+It's 915.
+You don't have to be creative.
+You can say, I wedge, I wedge it open or say,
+Chris, you decide.
+I don't care.
+You know.
+It's fine.
+Very creative.
+You can be.
+I think when I could blacksmith for what I have and.
+Put around it so it can't go down.
+All right.
+Would that be something like that?
+Yep.
+You're able, you're able to fashion.
+Yeah.
+You're able to fashion some sort of weight, wedging mechanism to keep the, uh, to keep the
+pressure plate open.
+Um, and you are highly confident that you will be able, that everybody will get through without
+dying.
+Nice.
+Um.
+That'd have been cool to see though.
+People.
+Yeah.
+So much fun.
+Um.
+All right.
+So.
+The next part.
+Oh.
+Uh, you turn around the, um, turn around the corner.
+Um, and what you see on the next part of the room or the next room in the, in the thingamahoozit,
+um, is, uh, it looks like some sort of burial chamber.
+Um, but, um, yeah, it looks like some sort of burial chamber.
+Um, there are a number of sarcophaguses on both sides of the chamber.
+Um, there, um, there is a statue in the center at the end.
+Um.
+Um.
+Um, there, there, there's a painted red skull that glows, um, that glows on the ground with
+angry light.
+Uh, um, uh, usually a fan of red embers.
+That's cool.
+Yeah.
+Yeah.
+Um, a dozen arrangements not tickling my fancy though.
+Yeah.
+Yeah.
+Yeah.
+It seems kind of bad.
+Um, there, there's also a dozen stone coffins tucked against the east and west side of the
+walls in the room to the north is a statue of a proud human warrior, holding a spear, um,
+holding a spear, uh, proud human warrior, holding a spear.
+And it's built against the wall to the side of it is a transcription that reads once, uh,
+once failed, the battle is lost.
+Wait.
+I need, I need better light.
+My old man eyes can't handle this.
+I understand.
+I hate that.
+Yes.
+Oh, I don't know why I clicked that button, but it clicked it.
+How come I'm even here?
+Well, once the, okay, so.
+To, to, to, to, to, to the north of a proud human warrior.
+Yeah.
+He holds a spear, um, to the side of it, there's an inscription that reads once this
+fails, the battle is lost.
+A sinister muffled chanting comes from the, from B from the wall behind the statue.
+Hmm.
+What do you do?
+Once this fails, the battle is lost.
+Mm-hmm.
+Well, uh, stating it.
+Yeah.
+That doesn't matter.
+Ramsey, what do you think?
+Uh, I mean, there's nothing for it.
+There's nothing in this room.
+Uh, it's a good thing.
+Everything in these coffins are dead and will always stay dead.
+Uh, but really, we gotta, we gotta, we gotta, we gotta get in that room.
+Uh, there's changing from behind the wall.
+There must be some way to get back there.
+There's must be somebody behind it.
+Yeah.
+Uh, all right.
+Dude.
+Uh, okay.
+So, yeah, let's wander on in here.
+We're, we're barely hurt, so.
+Yeah, yeah, yeah.
+We're good.
+Uh, we should get in here and probably look for secret stuff.
+Maybe check that statue out.
+That seems like a fine idea.
+Yeah.
+So, um, just real quick, would like to, um, we'll check that these coffins here along
+the side haven't, uh, any real evidence of being tampered with or that they do have
+some real evidence of having been tampered with.
+Oh, I see.
+Well, um, yeah.
+Hello, friend.
+Oh, oh.
+So, you, uh, so Poe walks up to the coffin.
+Uh-huh.
+Um, he gets, uh, he gets back, about to where he currently is.
+Mm-hmm.
+Um, and all of the coffins erupt.
+Ooh!
+I've been tampered with.
+There's no way anyone could have possibly foreseen this sort of circumstances.
+With the giant glowing skull.
+I'm sure I don't know what you're talking about.
+Um.
+Get Duncan in there.
+Put him in front.
+Get Duncan in there.
+What?
+All right.
+All right.
+Some good holiness going on.
+Um, okay.
+So, you see, um, you see a, the, the coffins themselves open.
+There are a number of zombies, skeletons, and a couple of ghouls that emerge from them.
+Um, all, like, ravenously hungry.
+Um, and they all, all are focused specifically on Poe.
+Oh!
+Your dog did it now.
+Of course we did.
+At least for the moment.
+Um, but, like, they all, they all animate.
+They all get, they all come out of their coffins, and they all focus in on the person that was so close to them.
+And so, now, let's go ahead and begin another battle.
+Cool.
+Yeah.
+Ooh.
+Bow, bow.
+All right.
+We start with two resources, because we have two victories.
+Yes.
+Do I?
+Um.
+Yep.
+Also.
+They reset at zero after the last combat, right?
+Uh-huh.
+Right.
+All right.
+And so, you're just picking up where you left off based on your victories.
+All right.
+Very good.
+Correct.
+Correct.
+The more fights we have, the more resources we start with.
+Yeah.
+It's a per-encounter, um, uh, yeah.
+A per-encounter resource, but your victories basically make you start off with more of them.
+At a higher level.
+Until you, you know, like, rest for a full day.
+Right.
+Right.
+Right.
+And then things kind of, okay.
+Um, right.
+I am kind of thinking it would be good for me to not be in the exact location that I'm
+at.
+Yeah, I'm not focused on you.
+Maybe getting you, uh, out of here is a good idea.
+So, before we, uh, before we get, get going, we do need to roll initiative, which means I
+need somebody to roll a D10.
+If it's a six or above, you get to choose who the, uh, which side goes first.
+If it is a five or below, I get to choose which side goes first.
+A D10?
+Yep.
+A D10.
+Yep.
+Anybody want to take it?
+Oh, sure.
+Your life depends on it.
+Oh, okay.
+Oh, yeah.
+Woo.
+Yeah.
+That was almost a five.
+Uh, life depends on it.
+All right.
+So, you guys get to choose which side goes first.
+Well.
+Did Jason accidentally lower our hero points?
+Your tokens?
+No, we just, we've used them.
+I used one that I know of.
+Yeah.
+I don't know if anybody else did.
+Somebody else used one as well.
+Okay.
+All right.
+I forget.
+Was it Aurora that did it?
+I think somebody did.
+Okay.
+I don't remember.
+I don't remember.
+I know we used the Jason re-roll, but.
+Yeah.
+I don't remember.
+Can these characters be pushed into each other in this long line?
+Mm-hmm.
+Oh, yes, they can.
+Yes.
+Yeah.
+Which is part of what I'm kind of contemplating a bit here.
+Um, can you push?
+I am.
+I, I have my practical magic knockback maneuver.
+Um, yeah.
+So.
+It becomes the distance of my hurl element, which is a range 10.
+Um, I don't know if that's my distance, though.
+Yeah.
+So, you can knock somebody back within 10 squares of you.
+Within 10 squares.
+Okay.
+And then the power of that is my.
+Sure.
+Roll.
+I think you, it'll either do one, two, or three, depending on your tier result.
+And I would add my reason instead of my might.
+Right.
+So, and I think I did that, uh, uh, the easiest way to do that in the future is just click on
+your reason and then just don't add a skill to it and roll that.
+And that'll be.
+Oh.
+That'll be your knockback thing rather than putting in the 2d10 and then adding your reason.
+Okay.
+Um, be easier just to roll reason.
+Gotcha.
+Okay.
+So, yeah, my, my hope was to, um, the sudden surprise of these opening up and the, uh, was,
+you know, to, um, kind of do a little, uh, Hey, I'm going to maybe move back to, to this
+square here, then be able to do that push along the wall here, um, with those lovely gentle
+things.
+Sure.
+Is there anybody in opposition to, to that?
+Not at all.
+Go ahead, sir.
+Are you taking the action in doing so?
+Yeah, yeah.
+No, do it to it.
+All right.
+We'll, I'll take my action.
+I got two resources.
+Uh-huh.
+Um, I will reposition myself.
+Uh, gosh.
+Here, I guess.
+Whatever.
+And then we will target this feller.
+And you said just to do my reason, right?
+Yep.
+No skills.
+Nope.
+Let's roll.
+Bam.
+That's a 12.
+Okay.
+Yeah.
+It's still tier one, right?
+Mm-hmm.
+Um, let's see.
+Uh, if it is.
+Uh, looks like you did a tier two result on that.
+Oh.
+Uh, it's a 12, which is tier two.
+Oh.
+Oh, okay.
+Oh, look at that.
+Tier two.
+Yeah.
+Yeah.
+Isn't that nice?
+Yeah.
+All right.
+So, knock back.
+Um.
+Okay.
+So long.
+Let's push two.
+Plus my reason.
+So, plus two.
+So, it'd be, I'm pushing them back four.
+Uh, well, it, you don't add your reason to it.
+It's just.
+Okay.
+Um, unless, well, let me, let me just make sure.
+Um, unless it says plus.
+No.
+Yeah.
+So, it's just, it's just the two.
+Um, so when you push this guy, push him into that guy, into that guy here.
+Yeah.
+Yeah.
+Yeah.
+Um, we, uh, unfortunately we don't get like a, we don't get a chain reaction, but what we
+do get is both of them take two points of damage because they, um, because you push them
+into each other.
+Uh-huh.
+All right.
+And what are you going to do for your main action?
+And they're both, um, they're both knocked back from each other?
+Like, do they change their physical location now?
+Uh, they, they don't, they just kind of like, okay, it's kind of like a, um, a three stooges
+sort of thing.
+They just kind of hit each other and then just kind of bounce back.
+Ah, uh-huh.
+Gotcha.
+Gotcha.
+That would be fun.
+Yeah, I can't, I can't do that.
+I mean, object.
+Yeah.
+I don't think they count as objects.
+No.
+If one of them dies, they count as an object, but.
+They did already die.
+Yeah.
+De-animate.
+It will no longer be an object.
+Right.
+Okay.
+Okay.
+Um.
+I think that I will do.
+The bi-circated incineration.
+Yeah.
+Okay.
+I think we'll try that.
+All right.
+So we'll go here.
+Oh, that doesn't do it.
+Ah, I remember.
+We got to hit the play button.
+Hit the play button.
+And we, we roll.
+Oh, did I?
+No, I didn't.
+I forgot.
+I didn't.
+I don't think I targeted them.
+Sorry.
+I targeted one.
+I needed to target the other one.
+Okay.
+There.
+They're both targeted now.
+Sorry.
+Do I need to redo that roll?
+No, that's, that's fine.
+I think that you're, I think that you're okay.
+Uh, so you did get a tier two result with your bifurcated incineration.
+Okay.
+Splendid.
+And go ahead and apply that damage.
+All right.
+All right.
+So you basically do a, you know, it's basically a twin, a twin spell flame dart goes and hits
+both of them.
+Um, um, the ghoul that is, that you are the closest with appears to be, uh, a bit at this
+point, um, which means they're over half, they, they have over their, half their hit
+points.
+Oh, yeah.
+All right.
+Yeah.
+He's, he's just, um, all right.
+And so that's that.
+Um.
+Um, so that's the maneuver.
+That's my main action.
+I took a partial move.
+I think I might take another partial move.
+Yeah.
+Get out of there.
+It seems like a good idea.
+And kind of maybe.
+He will take his free strike against you.
+Uh-huh.
+Uh-huh.
+Yeah.
+Which.
+No big deal.
+Uh, which.
+Get.
+Gives.
+Uh.
+That was one point of damage to you.
+I do have.
+Uh.
+You gain a plus one to the distance you shift.
+No.
+That's graceful retreat.
+Right.
+And I disengage.
+I can just add one to my move action.
+Right.
+Oh, uh, so this is, this is a good opportunity because you just moved to, right?
+So you move down one and then move down another one.
+Yeah.
+If that was all that you're planning on doing, you could choose to disengage rather than move.
+Oh, okay.
+Okay.
+Your disengage value allows you to move away with, um, without actually taking, um, your, your disengage value, um, it allows you to move without provoking attacks of opportunity.
+Oh, okay.
+Okay.
+Um, most people, for most people, it's one and they can only move one square and that counts your full movement.
+However, you have disengaged two, which means you can move two squares without provoking.
+Okay.
+But you have to choose to disengage, not move.
+Just move.
+Okay.
+Mm-hmm.
+All right.
+So, all right.
+So that is a, there's a thing called disengage and that's not, and that's not there.
+Um, do I find that in my abilities?
+Is that where you find that?
+Uh, it is on the left-hand side of your character sheet.
+There's a current movement section there.
+It's got size, stability, lock, and disengage.
+Okay.
+And so I would click on that to, no, clicking on that doesn't do anything.
+No, you, you don't have to click anything.
+You just need to tell me that you're disengaging and then I won't, then I won't.
+Do the attack of opportunity.
+Okay.
+Right.
+All right.
+All right.
+Well, then.
+So you did, uh, you did a point of damage, right?
+On my retreat?
+Yeah.
+So I removed that point of damage.
+So you're back up to 15 instead of 15.
+Okay.
+Okay.
+All right.
+So we disengage.
+I'm going to choose to disengage.
+Right.
+Sounds fantastic.
+Good idea.
+Thanks, Chris.
+Yeah.
+No problem.
+Hey, we learned something.
+Oh, yeah.
+Okay.
+So now it's bad guy's turn.
+Yeah.
+Go ahead and start off.
+Start off with one.
+One is the ghouls.
+This ghoul is going to move over here.
+Oh, hi.
+Seems logical.
+Yeah.
+I don't want to say reasonable, but.
+Logical.
+All right.
+He's actually going to do a leap.
+So he leaps from where he is.
+So he's one of those fast moving zombies.
+Yeah.
+Yeah.
+Yeah.
+Oh, he's still after me.
+Oh, guys, look at that.
+Oh, why am I going places?
+I'm moving stuff around.
+Okay.
+So he leaps on to you, making, knocking you prone.
+Hmm.
+And he will perform his free strike against you as well, which you take one point in damage.
+Ooh.
+And then he has to use his razor teeth.
+His razor teeth?
+Yeah.
+From which he has an edge because you are knocked prone.
+Mm-hmm.
+Mm-hmm.
+Which grants him a plus two on his attack.
+Ooh.
+That could be life or death.
+Definitely in the death direction.
+Uh, yeah, it's not looking so great.
+But it wasn't quite a crit.
+Um, he does five points of damage to you.
+Hmm.
+Do I need to click on the apply damage?
+No, I got it.
+Oh, okay.
+Um, and because you, and your might is less than two, which means he applies the bleeding condition.
+Less than one.
+And less than zero.
+Oh, ho, ho, ho, ho.
+Yes, yes.
+This is real bad.
+Yeah.
+This guy is going to do a similar thing.
+He's going to leap at Duncan.
+Oh, this is going to be bad.
+Jerk.
+Bad for him.
+Duncan's got it.
+But this, this undead thing.
+Yeah, yeah.
+Not going to go well for him.
+On size one.
+Enemy.
+Okay, the ghoul jumps three squares to land on a size one enemy.
+He's knocked prone and the ghoul can make a free strike against them.
+Um, so he knocks, he hits, he gets to Duncan, knocks Duncan prone.
+Um.
+And then does a point of damage to him with the free strike and then he follows it up with razor claws again.
+Um, and again, um, and again, he has an edge because Duncan is also knocked prone.
+Um.
+Um, which would have been a tier, is a two result, um, deal damage to Duncan and he is not bleeding at this point.
+So, that is bad guy's turn.
+Um, Aurora, Duncan, Cruff, who wants to go next?
+Um, I'm gonna, uh, I don't have a great turn right now.
+Uh, if you do, Scott, or if we think Duncan has a good turn.
+Um, I, I, I mean, not.
+But to get some of the melee guys in place, uh, does not seem like the worst option to me.
+Yeah, and not to be a one trick pony or anything, but Cruff does start with two victories and he would get another one.
+And that AOE burst.
+It's pretty good.
+He'd be able to do straight out.
+And, if a certain Poe wanted to boost that burst.
+Mm-hmm.
+Mm-hmm.
+I'm waiting for it.
+That could cause some pretty heavy damage.
+That's true.
+What is, it's the back ability, right?
+Yep.
+Yeah.
+So, it deals damage to everything.
+Speaking English.
+Aoe.
+AOE.
+Area of effect.
+First one.
+Yeah.
+Interesting.
+Okay.
+Um.
+I mean, it's not, you know.
+It, it's.
+I don't mind being a one trick pony.
+Yeah.
+It's not bad.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+So, light them up.
+Okay.
+Okay.
+Well, looks, they're going to go.
+Yeah, yeah, yeah.
+Now, go ahead, Kroff.
+Go ahead, Kroff.
+I was, I was thinking I could do something to help, but then they get to go before.
+So, yeah.
+Yeah, yeah, yeah, yeah, yeah.
+All right.
+Why does it tell me I'm up next?
+I'm not up next.
+Oh.
+Did I get three ferocity that time?
+You did.
+It's a roll.
+So, for you, you get either one, two, or three ferocity.
+Oh.
+What does your five do?
+Right?
+That's the blood for blood one.
+Oh, you just rock one dude, it looks like.
+Yeah, yeah, yeah.
+Neat.
+I think the other one makes more sense if Jason can push it.
+Yeah, yeah.
+That's what I go to here.
+I don't know how to make it.
+Um, you probably want to go to a spot where you have three in a row, so like the square
+above that, because all three, like the skeleton, the skeleton, the zombie, the skeleton, the
+ghoul, and the zombie that are right there, they all count as adjacent to you.
+So, that, that line of three people right there.
+That would do some pretty heavy.
+I mean, that blood for blood is also pretty, pretty wreck-tastic, but it's better on single
+targets.
+So, this is, yeah, this is your good one for, for this one.
+And this is where you step into the foyer and pretend that you're a sauron.
+Yeah, so you're, you basically run up with your mate, with your big hammer, and you effectively
+just do like a whirlwind attack.
+You just do this huge sweeping strike, um, hammer into these guys.
+Go ahead and roll it.
+Hmm.
+Abo.
+That's sad.
+To re-roll?
+You want to re-roll?
+Feel free to use a hero.
+Are we using a hero?
+Yeah, as well.
+They're only for tonight, so.
+Yeah.
+How do you do it again?
+You hit spend token.
+Yeah, spend token.
+And then.
+Just do it again?
+Do it again, yep.
+I'll do it again.
+See if we can get higher than a tier one result.
+That's better.
+That is higher than a tier one result.
+Yeah, yeah, yeah.
+It is.
+So, it gets you at eight instead of five.
+That's a heck of a lot better.
+All right.
+So.
+All right.
+So, on top of this, um, really, we wanted the, we wanted to make sure the higher thing
+for the push.
+So, like I said, it, it, the, this push, it says push one, but I think it really meant
+push two because it's typically how these abilities work.
+So, the tier two, we're counting as a push two here.
+So, all three of these guys hit the wall.
+So, um, Jason, are you going to be doing your bump?
+Mm-hmm.
+Make it a push four?
+Yeah.
+All right.
+So, these guys, they hit the wall.
+That costs one of your push.
+So, that, that does two points of damage to each of them.
+Then, you have three remaining push.
+You have three remaining movement, and they can't go anywhere.
+So, they take a point of damage for each of those.
+Yeah.
+So.
+And, and I, I can't do the essence.
+I'll, I'll spend an essence.
+Hmm.
+What does that do on it?
+So, it gains a, the effect is that it gains a bonus equal to two.
+When I spend an essence, the bonus equals to twice my reason score.
+So, it'd be four.
+Oh.
+So, four instead of, plus four instead of plus two.
+Nice.
+Okay.
+So, now you're doing seven points of damage to these three guys.
+Um, which, so you started with eight.
+Um, so it's 15 points of damage.
+Nice.
+Yeah.
+That's on all four pushes, is what you're saying?
+The three guys here.
+Yeah.
+Yeah.
+Uh.
+Seems pretty good.
+There's 15 points of damage on one.
+So, you, well, um, just run up and smash them all into the wall, and they crumble to dust.
+Good job.
+Great job.
+Thanks for your heart, Jason.
+Yeah, yeah.
+Nice work on with you.
+Yeah.
+Yeah, it's very nice working with you.
+So, yeah.
+So, it, it, it is kind of this whole thing.
+Like, you do that sweeping strike, and then as you're swinging, there's basically kind of like a, uh, effectively like a jet rocket, uh, rocket sort of effect.
+That happens at the end of your hammer and pushes it forward, um, which causes a heavier, a heavier knockback for all of the guys, uh, for all the, all the zombies, and you just smash them all against the wall.
+Um, good teamwork.
+That, man, I, I love, you know, I love that back ability.
+That is, like, it's pretty good.
+Especially when you have someone to add the push.
+Yeah.
+Yeah.
+No, especially, yeah, especially with that combo.
+It's like, you, like, on a, you, you're doing, with that combo, you're doing a minimum of a five push against everybody who's adjacent to you.
+That's just nuts.
+Oh, that is so cool.
+All right.
+Thanks.
+Um, so, Kruf, that, that was your, did you maneuver?
+I didn't maneuver yet, right?
+I don't think you did, so.
+And then I also, like, I thought I gained three ferocity.
+Did I start with two?
+Yes, you did.
+Oh, I should still have two left?
+Yes.
+Yes, you should.
+I can't change that, but would you?
+Yeah.
+Two, three.
+Yep.
+I understand the maneuvers.
+The knockback maneuver, like, I still have two moves, so could I go up to here, try to knock back?
+Yeah.
+You, you totally could.
+I don't even know what the knockback really does, but.
+Uh, it just, it pushes, it pushes somebody, so it, like, it wouldn't be as effective as what you currently did, but it would, like, but it still does damage, and damage is damage.
+Damage is damage, so.
+Damage is damage.
+Damage is damage.
+And that was a tier two result, so you did a push two to this guy, which will do three points of damage to him.
+Um, so you basically, you know, you do your thing, move up a couple of squares, and just, like, kind of ret, shoulder, shoulder the, the, the skeleton.
+It rattles against the wall, um, and it isn't quite, you, you aren't able to do quite enough to, to drop him, but, um, you do, uh, still, you do still, uh, a decent, a decent thing.
+So.
+Yep.
+There we go.
+All right.
+Aurora, do you have something that you want to do?
+Uh, on his turn?
+No.
+Do you want to do your turn, or do you want to wait for Duncan?
+Oh, wait, no, it's.
+Bad guys.
+Bad guys.
+Bad guys.
+Bad guys.
+Yeah, yeah, yeah.
+All right.
+So we're going to go with.
+Guys.
+School's going to move down.
+And he's going to Razor Claw.
+Yeah.
+No.
+Um, he's going to Razor Claw.
+Cruf.
+Oh, wow.
+Woo.
+Ooh.
+Tier three result.
+It is tier three result.
+Just need to check my.
+Okay.
+It was, was not a crit.
+Oh.
+Maybe.
+Critical hits.
+Natural 19 or 20.
+Okay.
+He rolled 19.
+He did not critically hit.
+That's good.
+Um, you have, um, so we're going to go ahead and apply the damage that he does.
+Um, do you, your might's two.
+So, um, he is not able to apply the bleeding condition because you are too strong for his Razor Claws.
+Yeah, you're just too tough.
+Just too tough of a dude.
+Um.
+This guy.
+He's going to run down to Duncan.
+And he's going to Razor Claw Duncan.
+Oh.
+Okay.
+Jerk.
+Yeah.
+For a tier two result for four damage on Duncan.
+All right.
+Well, I don't know if it's going to be better than that.
+I'll use my thing to psychically link and deal two damage back to that zombie or whatever
+it was.
+The ghoul takes two damage.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+It's a little.
+Every, every point counts.
+Yeah.
+All right.
+Now, Aurora, do you have something that you want to do or do you want Duncan to do a thing?
+Um, I think let's have Duncan go first.
+Okay.
+He does need to, you know, judge somebody.
+It's true.
+That is true.
+It is, it is good to get the judging going.
+Mm-hmm.
+All right.
+So he is going to perform judgment against, uh, the ghoul that has been, been hurt.
+That seems like the right call.
+Oh, well, not himself.
+He's not judging himself.
+Mm-hmm.
+Awful.
+Just want to alert that it's 9.54 and it will be black snaking at 10 o'clock.
+Yeah.
+No, I, I've been, I've been paying attention myself.
+So, I do know that we're, I do know that we're here.
+Um, okay.
+So he does that.
+You gain a wound, blah, blah, blah, blah, blah, blah.
+Judge uses action without the effects.
+Um, additionally, when you spend one wrath token, follow the free trigger actions.
+Uh, okay.
+So he judges, and he's also going to use God's Punish and Defend.
+Yeah.
+He's, oh, he should probably start his turn first.
+Uh-huh.
+All right.
+Then, he's still going to God's Punish and Defend.
+Um, well, that was a tier three result, which is great.
+Pretty good.
+Um, that does 17 holy damage.
+Oh.
+Um.
+That's such a pretty good.
+By 17 holy damage.
+Which just kills him outright.
+Nice.
+Sweet.
+I can spend recovery for a one within 10 square, for a one ally within 10 squares of me to gain
+10 stamina.
+Yeah.
+So, Duncan is pretty good.
+He's going to...
+Yeah, he should use stamina himself, yeah.
+Yeah, he's going to spend a recovery to stand...
+Uh-huh.
+To heal himself.
+Does he get to, uh, reassign his judgment?
+Uh, he does.
+Yeah.
+So, um, he's going to...
+Let's see.
+He's going to move his judgment over to...
+The ghoul that...
+Poe.
+This ghoul is...
+This ghoul is dead.
+All right.
+Sweet.
+So, we've got group three, which contains one ghoul who's going to be running out, and he's
+going to be charting and razor-clawing.
+He had a compatriot that was going to do things as well, but somebody blew him up.
+Yeah.
+Yeah, yeah.
+For a reason.
+Uh, ooh.
+And he's going to be doing three points of damage to Duncan.
+All right.
+Now, Aurora, you're up.
+Uh, sick.
+Um, uh, yeah.
+I think this is a pretty good time to do...
+Do the thing.
+Um, I will...
+Uh, start my turn.
+That's a good idea.
+Maybe.
+There we go.
+Bam.
+Sick.
+We did it.
+We like it.
+Um, I'm going to target...
+Oh, wait.
+No, that doesn't work.
+Because that's...
+Oh, wait.
+No, it does work.
+Uh, we're going to target a homeboy over here that's, uh, all up in Poe's grill.
+Um, and I am going to kinetic grip him.
+Uh, we're going to say get off my bud.
+Hmm.
+Excellent.
+Uh, so we get to slide six.
+Uh, we're going to say one.
+Uh, we're going to say one, two, three.
+Three, four.
+Uh, we're going to put him right here.
+And then for the six, one, slam him into his buddy.
+Because I have one left.
+Okay.
+This buddy?
+Yep.
+Or this buddy?
+Uh, no, no, no, no.
+Definitely, definitely that one.
+Right.
+This buddy.
+Okay.
+So one point of damage each.
+Okay.
+Yep.
+Uh, then for my maneuver, I'm going to spend five clarity.
+And I'm going to rewind time for Croft and, uh, tell Croft to go ahead and use, get back
+again.
+Yeah.
+Scott, if you would be so kind.
+Because, uh, moving that guy into position, that seems pretty good right now.
+Right.
+Right.
+Can I do it?
+Yeah.
+Or do you have to do it?
+No, you, I, I'm pretty sure you can do it.
+Yeah, you can do it.
+Yeah.
+Big money.
+12.
+That's a tier two result.
+Yeah.
+So go ahead and apply that damage.
+Uh, so this guy gets pushed back here.
+Uh, well, so when, when pushing, you know, you can direct bad guys anywhere as long as
+they are going away from you.
+So the guy who's right here can be pushed into, he doesn't have to be pushed out here.
+He can be over here.
+So just that I point that out.
+Um, do you want to push him into a wall?
+I believe so.
+All right.
+So it's not going to be nearly as powerful as last time because you didn't have that additional
+plus four.
+However, you push him into the wall, which will grant you with, uh, with one remaining
+with, with one movement, you takes one movement to get there and then the next movement to
+push him into the wall, which does two additional points of damage to him.
+Yeah.
+Um, the other two that were already against the wall, you do not really need to be pushed
+into the wall because you just bashed him against the wall and they just, they just dusted.
+Um, so one guy who's left, um, Aurora, do you have anything else for you?
+That's it.
+That's me.
+All right.
+Um, well, we're not quite finished with the combat round, but we are finished with all
+of the player characters at this point.
+Um, so why don't we go ahead and call it and they're up, uh, where are we off here?
+Sounds good.
+Sounds good to me.
+We can, uh, expect Clark to freak out when he sees that he's surrounded by zombies.
+Oh, that's fine.
+Does he have anybody targeted right now?
+I don't see anybody with that cross thing.
+Oh, you're right.
+That guy died.
+Yeah, he did.
+So we will go ahead and.
+Where would he do that?
+Hmm.
+Okay.
+So those guys act.
+That guy.
+This is just so ugly.
+All right.
+Why did they make these guys so absolutely hideous?
+I, I did that.
+Uh.
+Yeah.
+So he's going to.
+He's going to judge this guy.
+Uh.
+Uh.
+Targets.
+Judge.
+So.
+Judge.
+Yeah.
+Hmm.
+So that way.
+Um.
+That guy hasn't acted yet.
+So he's gonna.
+He would have focused on the guys who are already hurt, but.
+They've already acted.
+It's probably better to focus on somebody who.
+Isn't.
+So.
+All right.
+Cool.
+Well.
+That's.
+Uh.
+It seems like.
+A good.
+Uh.
+Good.
+Time to get quicker with that.
