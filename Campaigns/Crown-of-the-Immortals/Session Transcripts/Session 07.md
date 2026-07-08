@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "07"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 07 - Transcript
+
+## Transcript
 
 And we are good there. Does everybody remember where we left off? We are going into the Cave Of Awesomeness and kick some tushy Mhmm. Surrounded by a literal dump truckload of dead goblins. That's That's an under dump truckloads of goblins waiting to be deleted.
 

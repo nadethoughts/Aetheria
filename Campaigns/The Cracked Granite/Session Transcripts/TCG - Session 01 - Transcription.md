@@ -1,12 +1,25 @@
-# PCs
-## Game System: Pathfinder 2e
+---
+type: transcript
+campaign: "The Cracked Granite"
+session: "01"
+tags: [type/transcript, campaign/cracked-granite]
+---
+
+# TCG - Session 01 - Transcript
+
+## PCs
+
+### Game System: Pathfinder 2e
 
 | Character | Player | Class (Subclass)               |
 | --------- | ------ | ------------------------------ |
 | Demlor    | Jason  | Kinetisist (Metal Gate)        |
 | Hurgan    | Scott  | Ranger (Flurry)                |
 | Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
-# Session TranscriptSo, yeah, what what surface creature did you track and defeat after it breached the lower halls? This could be a solo thing that you did, or you could have done it as part of a group. But it was you that were the that were rec that was recognized as the hero of the day. Sure. Sure.
+
+## Transcript
+
+So, yeah, what what surface creature did you track and defeat after it breached the lower halls? This could be a solo thing that you did, or you could have done it as part of a group. But it was you that were the that were rec that was recognized as the hero of the day. Sure. Sure.
 
 Sure. That is a good question. And if anybody else has any ideas, Yes. Yes. Yes.
 

@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "04"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 04 - Transcript
+
+## Transcript
 
 Clarification for you. Oh, dear. Sorry. I'm pissed off. I don't have any clarification other than that.
 

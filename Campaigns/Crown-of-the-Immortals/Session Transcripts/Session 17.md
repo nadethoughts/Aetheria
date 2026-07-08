@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "17"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 17 - Transcript
+
+## Transcript
 
 I'm very impressed. Yeah. And, well, and just to just kind of, you know, add some more to that, like, you've never heard of a giant turtle like this. You are fairly certain that you are at least close to Lobopolis, if not in Lobopolis proper. Her giant sea turtles don't just pop up anywhere.
 

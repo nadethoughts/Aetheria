@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "18"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 18 - Transcript
+
+## Transcript
 
 You. You can roll from one. Yeah. So if you if you just go to your crafting, and you're not looking at recall knowledge repair craft or any of that, just click on the crafting, header, that should roll it. That's that's very different.
 

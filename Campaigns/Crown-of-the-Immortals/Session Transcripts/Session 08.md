@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "08"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 08 - Transcript
+
+## Transcript
 
 Automatic counter. Okay. Next. So you guys attacked the, there it is. Number one.
 

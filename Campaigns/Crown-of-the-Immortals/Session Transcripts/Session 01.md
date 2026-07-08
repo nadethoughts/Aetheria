@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "01"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 01 - Transcript
+
+## Transcript
 
 So it is the early spring. A year has passed since the flaming war tribulation. You guys have, been in a year of building and trying to find your way in the world. In some ways, this world seems very familiar as you have as you've grown up, but grown up in it. But, also, there are so many things that you don't know and so many alien situations that you found yourself in.
 
@@ -444,6 +454,3 @@ Yeah. I don't Alright. So the combat has finished. You guys get a 160 XP for thi
 I don't have to do anything? Correct. Good. Excellent. So you again, you're just kinda taking taking, stock of of what's going on, At you know, as you finish off this combat, it's only been a few seconds since you since you landed, and you start hearing people calling down, from the from the ceiling.
 
 Cahir, Awol, Karsten, Samir, are you alright? Looking up, you see, a few heads poking poking, out, looking looking down the hole. Again, like, the area itself is, like, there's scorch marks all over the place, signs of explosions. There's more undead, that are that are dead, undead, and more goblins than than these. These were just the ones that survived the initial, the initial, event.
-
-
-

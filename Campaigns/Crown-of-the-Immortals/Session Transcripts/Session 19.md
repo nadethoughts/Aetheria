@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "19"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 19 - Transcript
+
+## Transcript
 
 Alright. So when last we met, you were in the in the Temple Of Cadence, you found these brand new slash really, really old relics that belonged to a previous self. Upon touching, upon picking up each of the relics, you found yourselves caught up in a vision, that further explained the relics and the people that you used to be. And then afterwards, you listen to a story that, Argyle gave gave you, concerning your previous selves. You had you then had a few conversations with him as as as you were as as you were curious about what was going on.
 

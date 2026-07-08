@@ -1,0 +1,58 @@
+# Lil Chan
+
+![[Lil Chan.webp|300]]
+
+## Player
+Ryan
+
+## Quick Details
+- **Campaign**: Nimble
+- **Class**: Zephyr
+- **Ancestry**: Orc
+- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Party Entry**: Found chained in the Warren after being captured by kobolds
+- **Current Arc**: His old mountain connections are about to matter through the Cloud-Tusk orcs
+
+## Appearance
+Lil Chan's full visual description is still lightly defined in the notes. At introduction, he was an orc chained to a wall in the Warren, still healthy, ripped, and ready for revenge despite having been imprisoned for several days.
+
+His fighting style is Zephyr-fast and martial: staff strikes, unarmed follow-ups, movement, sandals, rope, and the kind of practical gear that belongs to someone who expects to solve problems with speed.
+
+## Back Story
+Lil Chan was on his way to [[Clackston]] to answer the posse call when kobolds ambushed him. There were too many to fight off alone, so they captured him and chained him in the Warren. They did not kill him because they wanted their big boss to test something on him.
+
+His initial table backstory ties him to a lost martial mentor named Wing Ding Ho, who died in a great battle against the same kinds of creatures Lil Chan now hunts. Lil Chan also longed to marry the mentor's daughter, Soho, and now carries both grief and revenge as reasons to seek out kobolds and destroy them.
+
+The later mountain prep adds another strong thread: Lil Chan has an old connection to the Cloud-Tusk orcs, high-pass guides and storm-hunters of the Balshar mountains. That history is intentionally still flexible. He may have trained with them, owed Kora a favor, left during a winter crisis, or carried an old clan name he hoped the party would never hear.
+
+## Personality
+Lil Chan is practical, money-minded, and physical. He wants coin for food, drink, shelter, and whatever else keeps a fast-moving wanderer alive.
+
+He is also direct in a fight. In the warg battle, he crushed throats, followed staff strikes with martial attacks, and made it clear that "no throats are safe" was less a joke than an operating principle.
+
+## Notable Campaign Moments
+- Joined the campaign in Session 03 after the party found him chained in a Warren side room.
+- Had been captured by kobolds while traveling to answer the Clackston posse call.
+- Was freed by Rowan, Alder, and Whisper after they found the key.
+- Entered combat quickly and took a first-player position in his first fight.
+- Finished a kobold with his staff and dedicated the strike to Wing Ding.
+- In the mountain warg fight, used staff and martial follow-up attacks to finish enemies brutally.
+
+## Current Hooks
+- Kora Skybreak may recognize him and call him by an old Cloud-Tusk name or nickname.
+- Jun Ashstep may accuse him of leaving when the mountain got hard.
+- Elder Mauk Cloud-Tusk may ask whether the clan should trust "the road that took you away."
+- The Cloud-Tusk need someone fast and reckless enough to reach captured scouts or disable a wind harness mid-launch.
+- Lil Chan's kobold hatred can connect the Warren, the mountain devices, and Razor's Rock Scale followers.
+
+## Open Questions
+- Is Lil Chan fully orc, half-orc, or something Ryan wants to refine later?
+- What did the Cloud-Tusk call him before he left?
+- Did he leave the Cloud-Tusk because he failed the clan, because the clan failed him, or because he wanted more than the mountain could give?
+- What exactly happened to Wing Ding Ho, Soho, and the family or clan that cast Lil Chan out?
+
+## Source Notes
+- [[Nimble Session 03 Transcript]]
+- [[Nimble Session 04 Transcript]]
+- [[Nimble Session 05 Transcript]]
+- [[Session 06 Prep - Mountains of Unusual Scale]]

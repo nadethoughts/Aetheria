@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "14"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 14 - Transcript
+
+## Transcript
 
 Would hope that always freaks me out. I would kinda communicate to the group, like, something's off with these particular goblins to the fact that, you know, they they made those comments that we heard. I'm kind of now curious to what they meant, like, in its totality if you kinda if we could figure out how to capture them and not just slaughter them right out the gate. Unless it's a trick, and then I'll be mad. But I'm I'm more leaning toward kind of figuring out what you're talking about, which it could be.
 

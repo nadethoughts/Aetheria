@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "11"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 11 - Transcript
+
+## Transcript
 
 There it goes. I was gonna say incoming scary sound. Or not that it's scary. It just always gets me. Yeah.
 

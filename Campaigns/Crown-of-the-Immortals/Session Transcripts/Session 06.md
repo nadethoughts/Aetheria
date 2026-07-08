@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "06"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 06 - Transcript
+
+## Transcript
 
 That note, let's kill some people. Alright. Alright. So when last we met, you guys were six months had passed since the since the temple had appeared. You were trying to figure out what was going on with, you you've been chasing down, the goblins.
 

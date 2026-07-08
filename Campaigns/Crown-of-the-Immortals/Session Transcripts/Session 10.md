@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "10"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 10 - Transcript
+
+## Transcript
 
 We go. Mhmm. So, yes, we have the, the statue of Vorath the betrayer that popped up. In legend, he was a elven man. So that's upon looking at the statue, you guys were like, well, I good.
 

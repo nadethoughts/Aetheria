@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "05"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 05 - Transcript
+
+## Transcript
 
 Just to get everybody caught up to what's happened in the past six months. So I'll get through this as quickly as quickly as I can. And I am also going to be, posting let's see. We'll put it in the game chat. Oh, thank god.
 

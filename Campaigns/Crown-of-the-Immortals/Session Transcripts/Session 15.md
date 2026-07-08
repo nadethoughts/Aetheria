@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "15"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 15 - Transcript
+
+## Transcript
 
 Alright. So Carson's gonna take how how many Three. How much lay on hands are you doing? Two lay on hands and a recharge. I think unless I it looks like everyone else is pretty good.
 

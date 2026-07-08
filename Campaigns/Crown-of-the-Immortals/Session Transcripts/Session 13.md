@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "13"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 13 - Transcript
+
+## Transcript
 
 Alright. So just to remind everybody where we are, we are currently in a what appears to be an underground fort inside a cavern. The party, has just defeated a group of goblins and a large green wart covered woman of some kind. Upon closer inspection of the goblins, you did discover that these goblins have, are different than the ones that you've been facing up until this point. These ones have green skin like the other goblins, but they also have a red, a red design on their skin as well.
 

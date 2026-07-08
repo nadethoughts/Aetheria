@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "09"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 09 - Transcript
+
+## Transcript
 
 I'm gonna start this recording off. Ramsey, we miss you. Alright. Listen. So when last we met, you guys were continuing to move through the tunnels for the goblin players.
 

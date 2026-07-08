@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "00"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 00 - Transcript
+
+## Transcript
 
 So and there are some additional things that I'll be going over here before we actually get into character creation. Nothing too serious here. I just wanna kinda give you guys a little bit of a background about what you're building your character into. Like, you know, some just overall setting stuff, to be able to build be able to build your character, and then we'll get into character creation. And who knows?
 

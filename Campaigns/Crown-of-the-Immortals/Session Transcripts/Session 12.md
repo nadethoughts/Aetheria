@@ -1,3 +1,13 @@
+---
+type: transcript
+campaign: "Crown of the Immortals"
+session: "12"
+tags: [type/transcript, campaign/crown]
+---
+
+# Session 12 - Transcript
+
+## Transcript
 
 Go into so if you go into the hand yeah. Like Jason said, on on the character, little HUD thing down there. Yeah. Click on the the hand. Under there, you'll see survival.
 
