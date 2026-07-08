@@ -1,1 +1,1 @@
-![[Knight.png]]
+![[Knight.webp]]

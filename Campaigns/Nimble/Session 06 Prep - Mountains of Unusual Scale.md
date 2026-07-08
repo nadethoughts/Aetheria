@@ -583,5 +583,5 @@ Ask each player to confirm subclass/class choices. Haggard was leaning **Mountai
 - [[World/Religion/Deific-Beings/La Pelu (Sun Swords)]]
 - `System Info/Nimble/ULT Lil' Toolbox A4 v0.2.2.pdf`
 - `System Info/Nimble/MonsterCards.pdf`
-- `System Info/Nimble/Nimble_CombatCheatSheet_1.0.png`
+- `System Info/Nimble/Nimble_CombatCheatSheet_1.0.webp`
 - `System Info/Nimble/SpellCards.pdf` checked, but it did not expose extractable text in the local PDF pass and was not needed for this encounter prep.

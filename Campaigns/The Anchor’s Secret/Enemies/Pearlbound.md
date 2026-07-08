@@ -1,1 +1,1 @@
-![[Zombie Statblocks.png]]
+![[Zombie Statblocks.webp]]

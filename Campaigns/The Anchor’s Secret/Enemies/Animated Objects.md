@@ -1,1 +1,1 @@
-![[Animated Objects.png]]
+![[Animated Objects.webp]]

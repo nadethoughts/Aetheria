@@ -1,4 +1,4 @@
 # Giant Rat
-![[Giant Rat.png]]
+![[Giant Rat.webp]]
 # Rat Swarm
-![[Rat Swarm.png]]
+![[Rat Swarm.webp]]

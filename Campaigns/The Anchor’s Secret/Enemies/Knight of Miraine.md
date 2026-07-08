@@ -1,8 +1,8 @@
-![[Moon Knight Image.png|300]]
+![[Moon Knight Image.webp|300]]
 The Knight of [[Miraine]] is a protector of the Pearl That [[Miraine]] has called into keep it on the island of [[New Penmaris]] to protect the people.
 
 [[tide-watch-ward]] 
-![[Moon Knight Stat block.png]]
+![[Moon Knight Stat block.webp]]
 
 # Battle with the Knight of Miraine Mechanics
 1. The Knight of Miraine is a Legendary Monster inside it's layer. I have an idea for 1 of it's legendary actions, but I would like to get 1 more and a layer action as well.

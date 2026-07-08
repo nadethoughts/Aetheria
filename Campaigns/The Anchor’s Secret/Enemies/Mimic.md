@@ -1,1 +1,1 @@
-![[Mimic Stat Block.png]]
+![[Mimic Stat Block.webp]]

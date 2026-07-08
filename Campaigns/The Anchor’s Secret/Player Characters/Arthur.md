@@ -1,5 +1,5 @@
 # Player: Ian
-![[Arthur.png|300]]
+![[Arthur.webp|300]]
 ### Lineage: Beastkin (Lion)
 ### Class: Paladin of Serelle
 ### Heritage: Anointed

@@ -51,7 +51,7 @@ The party must lead the refugees through rough terrain while avoiding detection.
 Each failure triggers a consequence. These are cumulative.
 
 #### ❌ First Failure: The Ogre Werewolf Finds the Trail
-![[Ogre-Werewolf.jpg]]
+![[Ogre-Werewolf.webp]]
 - The party must choose: fight or split the group and risk losing refugees.
 - If they fight, they face the **Ogre Werewolf and his wolf pack** (see encounter below).
 - If they flee, 1d4 refugees are lost to the wolves unless a PC sacrifices speed or safety.
@@ -93,7 +93,7 @@ Each failure triggers a consequence. These are cumulative.
 - If they choose to fight, it becomes a siege-style encounter with waves of enemies.
 - If they flee, they lose 2d6 refugees and suffer a morale penalty in Ironhold.
 ## 🏰 Boxed Text: Failed Arrival at the Watchtower
-![[Dwarven Watchtower.png]]
+![[Dwarven Watchtower.webp]]
 > **The mountain pass opens into a wide clearing, and for a moment, hope flickers. The watchtower stands ahead—its stone walls scorched, its banners torn. Smoke curls from the shattered gate. The silence is deafening.**
 > 
 > **Bodies lie scattered across the courtyard—soldiers, refugees, ogres. The ground is blackened with fire and blood. The outpost has fallen.**
@@ -133,7 +133,7 @@ If the party succeeds in the skill challenge or survives all three encounters, t
 ---
 
 ## 👑 Scene 4: Return to Ironhold
-![[Ironhold.png]]
+![[Ironhold.webp]]
 **Setup:**  
 The party returns to Ironhold with survivors and evidence. They are granted an audience with King Hargrin Deepmantle.
 
@@ -164,7 +164,7 @@ Varric Silvervein is present and attempts to discredit the party.
 The king knights the party and begins mobilizing Ironhold’s forces.
 ## 🎭 Social Challenge: Convince the King
 
-**DCs (Level 4):**![[Ironhold Throne Room.jpg]]
+**DCs (Level 4):**![[Ironhold Throne Room.webp]]
 
 |Skill|DC|Notes|
 |---|---|---|

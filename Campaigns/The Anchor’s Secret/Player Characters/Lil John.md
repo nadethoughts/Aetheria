@@ -1,5 +1,5 @@
 # Player: Ryan Naylor
-![[Lil John.jpeg|300]]
+![[Lil John.webp|300]]
 ### Lineage: Orc
 ### Class: Ranger
 ### Heritage: Supplicant

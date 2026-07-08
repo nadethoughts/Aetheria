@@ -1,1 +1,1 @@
-![[Cultist Fanatic.png]]
+![[Cultist Fanatic.webp]]

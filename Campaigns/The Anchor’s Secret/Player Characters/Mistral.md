@@ -1,5 +1,5 @@
 # Player: Jason
-![[Mistral.png|300]]
+![[Mistral.webp|300]]
 ### Lineage: Elf
 ### Class: Monk
 ### Heritage: Cloud

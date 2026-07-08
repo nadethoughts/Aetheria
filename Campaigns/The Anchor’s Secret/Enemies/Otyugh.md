@@ -1,2 +1,2 @@
-![[Otyugh.png]]
-![[Otyugh stat block.png]]
+![[Otyugh.webp]]
+![[Otyugh stat block.webp]]

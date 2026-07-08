@@ -1,1 +1,1 @@
-![[sporeborn.png]]
+![[sporeborn.webp]]

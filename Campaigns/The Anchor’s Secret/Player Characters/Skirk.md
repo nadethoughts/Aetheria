@@ -1,5 +1,5 @@
 # Player: Dave
-![[Skirk.png|300]]
+![[Skirk.webp|300]]
 ### Lineage: Kobold
 ### Class: Barbarian
 ### Heritage: Fireforged

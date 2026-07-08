@@ -1,1 +1,1 @@
-![[Acolyte.png]]
+![[Acolyte.webp]]
