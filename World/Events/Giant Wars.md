@@ -10,3 +10,11 @@ By the end of the Third Age, the [[Giant]]s were believed to be wiped from the f
 
 Their temples are silent. Their bones are dust.  
 Or so the [[Dwarves]] believe.
+
+## Fourth Age Renewal
+
+The events of _The Cracked Granite_ proved that the giants survived. Forces loyal to [[Grondar Earthcaller]] destroyed [[Dagger's Sheath]], raised ogre armies, and used elemental magic to create trolls and dwarven thralls.
+
+The giant resurgence was aided by the betrayal of [[Varric Silvervein]], who attempted to deliver [[Ironhold]] in exchange for being installed as its ruler. After the conspiracy was exposed, scouts discovered a major force on the newly formed island of [[Far Grand]] and another army moving across the mountains.
+
+The renewed Giant War began openly after Ironhold discovered those forces. The dwarven kingdom survived the attempted surprise conquest and entered the war with its king, army, and defensive network intact.

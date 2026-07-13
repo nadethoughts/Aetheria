@@ -40,4 +40,11 @@ The Pearlbound are not living cultistsâ€”they are corpses animated by the Pearlâ
 - **Urgency:** Destroying bodies after combat becomes critical to prevent reinforcements.
 - **Choice:** Will the party risk lingering near the Pearl, knowing death means eternal servitude?
 
+## Revealed During The Anchor's Secret
+
+- The Pearlbound gather in overwhelming numbers around the [[Temple of Miraine]].
+- They parted without attacking when Xander Floodbringer approached, suggesting that the influence of [[Miraine]] or [[The Pearl]] recognized him.
+- Bodies that die within Tidewatch rise after roughly twelve hours unless burned.
+- The Pearlbound remain active extensions of the ward's defensive magic rather than an organized mortal cult.
+
 ---

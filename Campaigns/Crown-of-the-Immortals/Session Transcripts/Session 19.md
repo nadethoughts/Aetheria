@@ -2,14 +2,50 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "19"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 19 - Transcript
+# Crown of the Immortals - Session 19 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 18|Session 18]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 20|Session 20]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Closing and Table Discussion - Part 7]]
+
+---
 
 ## Transcript
 
-Alright. So when last we met, you were in the in the Temple Of Cadence, you found these brand new slash really, really old relics that belonged to a previous self. Upon touching, upon picking up each of the relics, you found yourselves caught up in a vision, that further explained the relics and the people that you used to be. And then afterwards, you listen to a story that, Argyle gave gave you, concerning your previous selves. You had you then had a few conversations with him as as as you were as as you were curious about what was going on.
+### Opening and Recap
+
+Alright. So when last we met, you were in the in the Temple Of Cadens, you found these brand new slash really, really old relics that belonged to a previous self. Upon touching, upon picking up each of the relics, you found yourselves caught up in a vision, that further explained the relics and the people that you used to be. And then afterwards, you listen to a story that, Argail gave gave you, concerning your previous selves. You had you then had a few conversations with him as as as you were as as you were curious about what was going on.
 
 And then you, and then he raised the temple from the bottom of the from the bottom of the lake. The temple rose to the top of the top of the lake. It is now a floating temple, and you found a way or and you saw that, Oloru was under attack. You found your way over there and fought, a bunch of goblins that were, along with, Prince Troubadour and another Tripty scout that was in your general vicinity. After a long hard fought battle, you find yourself with a number of goblin bodies hanging around, and Prince Troubadour by your side, And you are back on Oloru.
 
@@ -21,7 +57,7 @@ Sometimes there are only a few. This time, there were many. They have a crude bo
 
 Crude boats. Okay. Crude boats. Okay. One of the points towards the rear the the rear or the tail of Oloroo where there is a little bit of a, kind of like a stone staircase.
 
-That's kind of what you guys, what you guys kind of it's what you guys walked up, when you were originally coming on, onboarding onto Uluru. Does he know where they come from? And these are the same goblins that keep attacking them over the past? These goblins do definitely have that red cracked, scorched earth, style skin, where there where there are red veins, where the, where the cracked earth would look would be. So these definitely look like they are firewalker tribe goblins.
+That's kind of what you guys, what you guys kind of it's what you guys walked up, when you were originally coming on, onboarding onto Uluru. Does he know where they come from? And these are the same goblins that keep attacking them over the past? These goblins do definitely have that red cracked, scorched earth, style skin, where there where there are red veins, where the, where the cracked earth would look would be. So these definitely look like they are Fire Walker tribe goblins.
 
 Is that our next gentleman. Oh, that's a good question. Ultimately, that was our kind of next goal was to go hunt these things down. Yep. And try to kill the leader, make sure they don't harass us again, which will have a knock on effect of making sure they don't harass these guys again.
 
@@ -47,7 +83,7 @@ Probably maybe one night. One night. To go with this. Probably down one second l
 
 Not necessary for me. I will say that. Yeah. Okay. So there is, so just just a couple of reminders on kind of what you're what what you're facing there.
 
-You totally can go after the goblins, and that's not a that's, you know, I'm I'm not telling you you can't, and it's not a good idea or anything. But when you were talking to, the chief, chief Krokmar Mhmm. He did specifically say that he's had scouting parties that have gone out to try to find the goblins, and they either never returned or they got confused and ended up going the opposite direction of where they were of where they were headed. So there's a little bit of some mystification sort of stuff happening. So if so it it is totally legit for you to for you to, you know, plunge into the forest and try and and try and follow the tracks, as well.
+You totally can go after the goblins, and that's not a that's, you know, I'm I'm not telling you you can't, and it's not a good idea or anything. But when you were talking to, the chief, Chief Croakmar Mhmm. He did specifically say that he's had scouting parties that have gone out to try to find the goblins, and they either never returned or they got confused and ended up going the opposite direction of where they were of where they were headed. So there's a little bit of some mystification sort of stuff happening. So if so it it is totally legit for you to for you to, you know, plunge into the forest and try and and try and follow the tracks, as well.
 
 So I'm not saying don't don't do it, but I just wanna make sure that everybody remembers that part of it since it did well. Did not. So thank you. I think I did remember that, but I was like Superheroes. Yeah.
 
@@ -57,7 +93,7 @@ Is there any living could, like, force departure telling us to take him back to 
 
 K. I thought I remember we kept one alive. So if you wanted to Did we capture him, or did we let him go? Oh, you already captured him. Yeah.
 
-We captured him and turned him over to the Yeah. The frog people. Right. That they were gonna question him? So so if you if you wanna figure out what happened to him, probably talking to chief Croakmar would be your would be your best bet.
+We captured him and turned him over to the Yeah. The frog people. Right. That they were gonna question him? So so if you if you wanna figure out what happened to him, probably talking to Chief Croakmar would be your would be your best bet.
 
 Okay. Seems like a great idea. Yeah. Yeah. Yeah.
 
@@ -71,7 +107,7 @@ It's all good. His. Yeah. He he trusts his son. He trusts his son's ability to t
 
 Yep. He's the next chief. So Yep. So yeah. Yeah.
 
-Yeah. Let's, let's talk to the chief. K. So you head over to, chief Croakmar. He, he's as you as you approach him, he's basically cleaning off some goblin blood from a giant war hammer, or at least giant for him.
+Yeah. Let's, let's talk to the chief. K. So you head over to, Chief Croakmar. He, he's as you as you approach him, he's basically cleaning off some goblin blood from a giant war hammer, or at least giant for him.
 
 Giant for Awar. Maybe not giant for, maybe not giant for Cahir, but, and he sees you coming and says, oh, did you get in on the fun? A little at the end? Sure did. Oh, good.
 
@@ -97,6 +133,10 @@ Right, Chris? Which lords did you guys pick up again? I I don't think so. Yeah. 
 
 Kingdoms to pass. Belt guard. I did number two. Lost kingdoms. Okay.
 
+---
+
+### Session Play - Part 2
+
 Yeah. So it it the the amber key sounds ominous, and you and, again, you know, given kinda what he said, you suspect it has something to do with the time turner. But, that's about all you know. Okay. And Okay.
 
 Okay. We also noticed your, eldest has not returned yet. We're, starting to worry about him. Yeah. As as am I.
@@ -111,11 +151,11 @@ He was he was tracking Troubadour, and with and when you say that, it almost see
 
 He knows, he calls him, was it riveting riveting word? Give me one second. He's actually using his real name. Right. Right.
 
-He isn't on troubadour. Boguen. He initially was following Ogwyn, but he would have found him and you, if he was tracking him. So I would suspect that he started going down that path, but was diverted by something that was more important than checking on his little brother, which would imply something of, great importance. He is not a he's not a person that would just, abandon family.
+He isn't on troubadour. Bogwynne. He initially was following Ogwyn, but he would have found him and you, if he was tracking him. So I would suspect that he started going down that path, but was diverted by something that was more important than checking on his little brother, which would imply something of, great importance. He is not a he's not a person that would just, abandon family.
 
 So I would say that going in the path that you had been and looking for, potential areas where things are where he could have, gone off path, whether it's some sort of game trail or something else would be where to start. Alright. I said let's go. I think we will need to borrow one of your boats. Of course.
 
-You are welcome to Where do we? You're welcome to any of our any of our canoes. So our is our subs still active? It is, but it is currently sitting it's it's currently sitting in the, in the Temple Of Cadence. Oh, that's right.
+You are welcome to Where do we? You're welcome to any of our any of our canoes. So our is our subs still active? It is, but it is currently sitting it's it's currently sitting in the, in the Temple Of Cadens. Oh, that's right.
 
 Right. No. Wait. Did you take that over here? Yes.
 
@@ -125,7 +165,7 @@ Right. Yep. Which, yeah. Maybe that's something we need to tell the chief too. I
 
 Building over there? Yes. Yeah. Yeah. Yeah.
 
-Yeah. So you're bound to see, you haven't already, but, there was a temple To Cadence at the bottom of this lake, that we investigated. That's now on the surface. It still may well be very started, but it's there. And I believe that's why, Oloru, chose this place, to help guard it.
+Yeah. So you're bound to see, you haven't already, but, there was a temple To Cadens at the bottom of this lake, that we investigated. That's now on the surface. It still may well be very started, but it's there. And I believe that's why, Oloru, chose this place, to help guard it.
 
 Yep. Is that why we've been being targeted by the goblins, do you think? Most likely. Most likely. Oh, the journey is the journey is long.
 
@@ -133,13 +173,13 @@ Which for oh, yeah. He he says yeah. He says the journey is long. And but you wh
 
 I believe it's more of a well, it's more of a state statement of, like, resolve. You know? The the turn of phrase of the journey is long is something that seems that seemed to roll out of his roll out of his mouth as if it was a common mantra that was that was that was said that he says, in considering that he, serves Ovara, the god of the hunt, who is about the hunt and not necessarily the the destination or the the quarry. It seems like that's just kind of something that, so he he he hears, he sees, he accepts kind of thing. It's kind of like one of those things where he's kinda been through a lot recently, and so he's just, like, accepting what's in front of him and, trusting that Olorun knows what he's doing.
 
-So, yeah. I he yeah. He'll he'll Krokmar will say, I've if if the if our, if our destiny is to protect a sacred place of of the gods, then that is what we will do. I'm every level I I'm every bit I'm very confident that we will be able to see this see this, see this hunt end to the end. And Prince of Prince, Troubadour, but with it since he knows the area better.
+So, yeah. I he yeah. He'll he'll Croakmar will say, I've if if the if our, if our destiny is to protect a sacred place of of the gods, then that is what we will do. I'm every level I I'm every bit I'm very confident that we will be able to see this see this, see this hunt end to the end. And Prince of Prince, Troubadour, but with it since he knows the area better.
 
 Bhagwan, would you travel with this group? Bhagwan looks you all up and down, very scrutinizingly, appraisingly, and says, yes, father. These are honorable men. Go ahead. I need him to heal me.
 
-Dictates that I must go with them. So prince Troubadour joins the party. Yay. Oh, yeah. So, as yeah.
+Dictates that I must go with them. So Prince Troubadour joins the party. Yay. Oh, yeah. So, as yeah.
 
-And and, basically, while chief Croakmar, you know, kind of has this stoic air about him, like, after you guys have that conversation and you, you know, when you start moving away and everything, you do kinda catch that he kind of, like, moves as quickly as propriety would allow to the, to the upper left hand side of Uluru to take a look at the floating temple. So and he calls his he calls his wife and daughter to go and look at it with so Prince Troubadour looks at you and says, well, my friends, what do we do here? We head out on an adventure. I'm going off on an adventure. I think we should rest for one for one night.
+And and, basically, while Chief Croakmar, you know, kind of has this stoic air about him, like, after you guys have that conversation and you, you know, when you start moving away and everything, you do kinda catch that he kind of, like, moves as quickly as propriety would allow to the, to the upper left hand side of Uluru to take a look at the floating temple. So and he calls his he calls his wife and daughter to go and look at it with so Prince Troubadour looks at you and says, well, my friends, what do we do here? We head out on an adventure. I'm going off on an adventure. I think we should rest for one for one night.
 
 Alright. Yeah. Are there any provisions or anything that you wish to wish to use or get, I guess? I would probably like to get some healing potions, just to have extra. How many healing potions do you guys currently have?
 
@@ -169,11 +209,15 @@ Not like that, you know. Dang it. Why do I not have money then? No. You got mone
 
 It's not like that. Well, then I need more money, Chris. I I'm giving you the appropriate amount of money for your level. I'm not I'm not holding out on you. I'm not being stingy like I was when I when I was running Star Wars way back in the day.
 
-I promise. Fair enough. So we follow Bogwater? Yeah. You you follow Prince or Bogwin.
+I promise. Fair enough. So we follow Bogwynne? Yeah. You you follow Prince or Bogwynne.
 
 He makes you to, there's there is a there's a blacksmith in the in the area, who has a, is basically like the bellows is built into the shell of Uluru. The fire, you know, the the it's an open air black blacksmith shop as most of the as most of the, buildings on, on Uluru are. But inside there, is a forge. And inside that, we have, a very thick, trip key. This is like the most muscled frog man you've ever seen.
 
 He looks almost as thick as, as Cahir. He looks over his shoulder and he says, ah, Baghwyn. What what why are you why are you here and who are these people? And Baghuen says, I have a feeling that these might need a, an upgrade, and he and he references your guys' weapons. Any waves at your guys' weapons.
+
+---
+
+### Session Play - Part 3
 
 The The, Trippke blacksmith looks at them and says, oh, yes. They do seem to be a bit underpowered. He goes he goes and starts rummaging through his through a chest that is next to the forge and starts pulling out what appear to be stones. He looks at these, throws it out, looks at another one, throws it out, looks at another one, throws it out. And he just continues that way until he gets to, a couple of a couple of things.
 
@@ -189,7 +233,7 @@ Alright. So what a fearsome weapon does, and just so just just for your guys' pr
 
 So, like, if you wanted to get the flaming property on your weapon, you you would do that through a rune and that kind of a thing. So, what the fearsome rune does is when you critically hit with this weapon, the target becomes frightened one. So, So, yeah, that's that's what you have on on your axe. Got it. Yay.
 
-I mean, he he looks over at Carson. He looks over at Carson. Yep. That's me. And he praises you, and he says, alright.
+I mean, he he looks over at Karsten. He looks over at Karsten. Yep. That's me. And he praises you, and he says, alright.
 
 I I think I have the measure of you. And he holds out his hand, and he had and takes your takes your weapon. And he will, and he transfers a rune onto your weapon Oh. As well. And you now your and winter's dawn now has a vitalizing rune on it.
 
@@ -263,6 +307,10 @@ Yep. K. Yes. I think so. Scott might not be.
 
 I'm just looking at all the level seven stuff and things just to see Yeah. The level seven stuff is just there to tempt you. I don't think that you're gonna be able to afford much of that. But but when you're level seven, you will. Maybe.
 
+---
+
+### Session Play - Part 4
+
 Yeah. Oh, now I remember. I had a I had a third thing that I wanted to talk to you guys about. It's really quick, really simple, but, since, you know, you're currently level four, but when you get to level eight, that's when you're going to be if, like, as far as, like, the levels are concerned, this is that's when you're gonna be, like, a starting to hit, like, that top tier, power level sort of thing. So level eight is, like, when people could start building keeps or making make making magic schools, attracting followers, and that kind of stuff.
 
 And so if, you know, so I just wanted to let you guys know that, like, about level eight, that's when you're gonna start being, like, somebody who's, like, important. And so if you wanted to think about, like, what sort of important you wanna be and have that worked out, and it may and then it'll make it easier for me to just kind of integrate it in, and that kind of thing. So Okay. Okay. We're not too far away from that.
@@ -279,9 +327,9 @@ Yeah. Yeah. Click on rest for the night. That will do that for you. Boom.
 
 No longer fatigued. I ate too. Okay. So we'll go ahead and remove the enfeebled. So because you did eat, you're no longer have have a super crazy metabolism.
 
-Thank goodness. I was gonna eat. Alright. And so we'll go ahead and have Prince Chodor drop back down to where everybody else is at. And in the morning, Chief Procmar, Farella, and lady green, and lady green leaf, all see you off.
+Thank goodness. I was gonna eat. Alright. And so we'll go ahead and have Prince Troubadour drop back down to where everybody else is at. And in the morning, Chief Croakmar, Frorella, and lady green, and lady green leaf, all see you off.
 
-Lady Greenleaf gives you all, a token of her appreciation, which is, a my gosh. It's going to be an apothecary medicinal medicinal herb. Here we go. And I'm going to put it in it's, in the, chat. And she basically pulls out, she she pulls out, some fresh plants that she had freshly picked from her garden, and she gives each of you an apothecary's medicinal herb.
+Lady Lilypad Greenleaf gives you all, a token of her appreciation, which is, a my gosh. It's going to be an apothecary medicinal medicinal herb. Here we go. And I'm going to put it in it's, in the, chat. And she basically pulls out, she she pulls out, some fresh plants that she had freshly picked from her garden, and she gives each of you an apothecary's medicinal herb.
 
 Mhmm. Medicinal herb. Excellent. So everybody pull one into your inventory. Pull one where?
 
@@ -311,7 +359,7 @@ K. But Prince Troubadour is an NPC so he will lean on the PCs to be doing the he
 
 Pull him in when necessary. Yep. So Joe. Else do go down our path, but look for game trails and such? Yeah.
 
-That was the general instruction that chief toadwin or chief Croakmar gave you was knowing his knowing his son, he would not have just kind of diverted himself. He would have been diverted by something. So either they either he was taken on the road by something, or there was something that was extremely important that diverted his attention from finding his brother. So either way, looking for a game trail is probably a good place to start. And we know what trail he would have started on?
+That was the general instruction that chief Toadwin or Chief Croakmar gave you was knowing his knowing his son, he would not have just kind of diverted himself. He would have been diverted by something. So either they either he was taken on the road by something, or there was something that was extremely important that diverted his attention from finding his brother. So either way, looking for a game trail is probably a good place to start. And we know what trail he would have started on?
 
 Yeah. So why don't you go ahead and roll a survival for me or tracking? Are you Scott? Track. Yeah.
 
@@ -327,7 +375,9 @@ I mean, I have to. Right? You don't have to. You could see where a 12 leads you.
 
 Alright. So, you start going down start going to retracing your steps. And you do make it through, I mean, the you make it through a few days. It took you it took you took you a while to get to here from where you were. You you make it you make it, well into your first day before you start seeing anything that might be kind of off track.
 
-A majority of the bog land that you off that you offloaded on is covered by a boardwalk, and so there's not really a whole lot of, like, diversionary, things because you have just a bunch of boiling water at the bottom. So it's boardwalk or boiling water. You're not really going going into the boiling water. But you do eventually, at the end of the at the end of the day, you do see, that there are some, places where there where there are woods and are not woods, but, like, solid ground that are kind of off from the boardwalk itself. You don't see anything that specifically is looks like it was a looks like it was a that it was diverted from, like, somebody walked on it or anything like that, but these are areas that could be things that you were a that somebody would be able to move through.
+A majority of the bog land that you off that you offloaded on is covered by a boardwalk, and so there's not really a whole lot of, like, diversionary, things because you have just a bunch of boiling water at the bottom. So it's boardwalk or boiling water. You're not really going going into the boiling water. But you do eventually, at the end of the at the end of the day, you do see, that there are some, places where there where there are woods and are not woods, but, like, solid ground that are kind of off from the boardwalk itself.
+
+You don't see anything that specifically is looks like it was a looks like it was a that it was diverted from, like, somebody walked on it or anything like that, but these are areas that could be things that you were a that somebody would be able to move through.
 
 So you're starting to get to more solid more solid land. Make it to the end of the day, you still haven't really caught much of anything, but it's starting to get dark. So should probably try and figure out where you're going to be staying for the night. Not survival. Not survival.
 
@@ -344,6 +394,10 @@ Or Most likely. My I would agree. Also going to use my wand of alarm, that picke
 So okay. So you set up the you set up the alarm. How how are you guys wanting to split up your watches? I don't mind taking the first watch. Yeah.
 
 And probably just three three watches. One each is Yeah. The best. Yeah. Okay.
+
+---
+
+### Session Play - Part 5
 
 Okay. So This this. Who wants to do who's second? Who's third? No.
 
@@ -367,13 +421,13 @@ Oh. Scott, go ahead and roll your perception. Oh. Alright. I'm along like Jason.
 
 Like Right. Oh, you eventually, you're gonna roll a load of numbers, Scott. I mean Okay. You're, you can't roll Go ahead and get your every time. But no.
 
-No. Likewise, you, you know, you see a number of things throughout the night. There there are some, carnivorous plants that, are moving around in the vicinity. But again, they kinda get distracted by, they they kinda get get a whiff of some of the undead creatures that, Clark or that Carson saw earlier, and and they travel up after them. So you are in the clear as well.
+No. Likewise, you, you know, you see a number of things throughout the night. There there are some, carnivorous plants that, are moving around in the vicinity. But again, they kinda get distracted by, they they kinda get get a whiff of some of the undead creatures that, Clark or that Karsten saw earlier, and and they travel up after them. So you are in the clear as well.
 
 Wow. Ramsey. Alright. Preception. Why was it I don't know.
 
 Whatever. Alright. So our Mhmm. You see, you don't see anything that's coming after you guys. You found a pretty good spot to hold up, so you're not necessarily, getting tracked by anything.
 
-But you do notice something I see. With, with Sameer, specifically. He, he kinda wakes up a little bit, and kinda grabs grabs his chest. After a few seconds, he pulls out the mirror that he pulled in the the thing, and you see something amazing happen. In that mirror, he it's a it's a travel mirror, so he opens up and he opens it up and he looks at it for a second, and then a flame erupts from it.
+But you do notice something I see. With, with Simear, specifically. He, he kinda wakes up a little bit, and kinda grabs grabs his chest. After a few seconds, he pulls out the mirror that he pulled in the the thing, and you see something amazing happen. In that mirror, he it's a it's a travel mirror, so he opens up and he opens it up and he looks at it for a second, and then a flame erupts from it.
 
 The the flame and, you know, he starts staring at it and, after, after a moment, you see, you you wouldn't normally see this, but, you know, just with your exceptional perception. You see in in in the flame, you see like a the look of a, of of a grove of red trees. It looks similar to where it looks similar to the swamp, but, like, it just has this red misty sort of, error about it. Okay. Also, inside that, you see a a young, Trippki wearing a feather headdress with clothing that has geometric pattern pattern stitch in them.
 
@@ -389,7 +443,7 @@ Alright. Cool. Cool. Cool. No.
 
 No. No. No. No. Oh, where's the red trace?
 
-Dang it. And you and and you and Samir share a look. Yeah. Yeah. Both, that same thing.
+Dang it. And you and and you and Simear share a look. Yeah. Yeah. Both, that same thing.
 
 Yep. Clark, we're sleeping. What I know. Why was this happening? Like, is this still, like, dark dark?
 
@@ -405,7 +459,7 @@ Oh, great. The one we definitely don't wanna tango with? Yes. The the one that y
 
 Right. Right. Yeah. Yeah. You don't wanna touch that.
 
-Well, alright. I, very nervously spread the through my watch. I think everybody get everybody up and let them know what's what. Yeah. Samir's Samir's like, apparently, on top of whatever else we can do.
+Well, alright. I, very nervously spread the through my watch. I think everybody get everybody up and let them know what's what. Yeah. Simear's Simear's like, apparently, on top of whatever else we can do.
 
 Kinda what's a c thing? Revealed, where we're headed is that way. Point toward where baby the giant frog is, you know, that's a guy at the moment. Saw red trees and mist. And then, and then we saw your brother playing a turbanor.
 
@@ -446,6 +500,10 @@ It feels like, you know, you might lose track of where you are at any given poin
 You might have an option c, but I mean, I think we keep kinda pushing through. Yes? Hello? On one hand speaking? On one hand.
 
 I don't know. It's both bad. There's no good option. Like, if we don't sleep, we'll be tired. Right.
+
+---
+
+### Session Play - Part 6
 
 But if we do sleep, who knows what crazy stuff works on the right best? I think, you know, big frog we already know. Yeah. We Here's the thing we should try to get some rest. I don't know.
 
@@ -491,13 +549,13 @@ If we're all sticking together, maybe all of us or maybe I could drop it on me. 
 
 Hey? Yeah. I guess I'll just put it on b, for now. K. And then if I do have to extinguish it, it's like on one of us.
 
-K. And like and like I said, I mean, at least the the only people that really need to worry too much about it is, is you and Carsten. The rest of the group has, low light vision. So, basically, what that means for the rest of you is anything that isn't lit at this point is is black and white. So you can see in black and white, but, further out than the the space of the light.
+K. And like and like I said, I mean, at least the the only people that really need to worry too much about it is, is you and Karsten. The rest of the group has, low light vision. So, basically, what that means for the rest of you is anything that isn't lit at this point is is black and white. So you can see in black and white, but, further out than the the space of the light.
 
 So you guys, you guys get onto that land, and then there's another boardwalk. You start moving towards that. And go ahead and roll some perception checks. More perception, More perception. More better.
 
 Boop. There we go. That's how you do it. K. Alright.
 
-So, Kahir, you noticed this specifically. With your low light vision and your high roll, you definitely notice as you are approaching the, the, the boardwalk to get onto the next section of land and just beyond that peninsula that you're about to get onto, is kind of where the mist kind of, not if it it dissipates. I was about to say evaporates, but that's the incorrect word. Dissipates is the word I was looking for. But you see that there are a number of creatures that are moving in in the trees and the bushes and in different areas, on that peninsula, do you suspect that there's some sort of ambush in place?
+So, Cahir, you noticed this specifically. With your low light vision and your high roll, you definitely notice as you are approaching the, the, the boardwalk to get onto the next section of land and just beyond that peninsula that you're about to get onto, is kind of where the mist kind of, not if it it dissipates. I was about to say evaporates, but that's the incorrect word. Dissipates is the word I was looking for. But you see that there are a number of creatures that are moving in in the trees and the bushes and in different areas, on that peninsula, do you suspect that there's some sort of ambush in place?
 
 What do you do? Out where you get the don't Then out where you get to the light guy. Well, you can you can you don't need to necessarily worry about the or are you moving away from the light? No. I was just joking.
 
@@ -535,7 +593,7 @@ However, I do that. Says it's an action. I'm figuring that out, but, yeah, that'
 
 There it is. Oh, you found it. Okay. I think so. Alright.
 
-And we're gonna give we're gonna give Sameer the the same stuff when when we pick up next time with Jason too. But in the meantime, Clark, do does Carson have any immediate reaction? Like, you've got three actions that you can spend at this point. What are you gonna be doing? Yeah.
+And we're gonna give we're gonna give Simear the the same stuff when when we pick up next time with Jason too. But in the meantime, Clark, do does Karsten have any immediate reaction? Like, you've got three actions that you can spend at this point. What are you gonna be doing? Yeah.
 
 I'm just gonna be prepping and ready to slice and dice. Okay. Put your shield up? Yep. Got my shield up.
 
@@ -550,6 +608,10 @@ You have two actions after that. Nope. Okay. So you just raise your shield. You'
 Yep. Alright. How does well, heal yourself. I I only have myself two points, so it's just kinda silly. Oh, you guys actually probably are at full at this point.
 
 I mean, this has been, like, three or four days. So Yeah. Okay. I'll also No. I think I'm worried if I Question.
+
+---
+
+### Closing and Table Discussion - Part 7
 
 Yeah. I don't know if you had the chance to modify the marshals aura with that 60 foot from my shiny relic or not. I did. But it's irrelevant. Okay.
 

@@ -2,38 +2,79 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "05"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 05 - Transcript
+# Crown of the Immortals - Session 05 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 04|Session 04]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 06|Session 06]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Just to get everybody caught up to what's happened in the past six months. So I'll get through this as quickly as quickly as I can. And I am also going to be, posting let's see. We'll put it in the game chat. Oh, thank god.
 
 We figured out how to shut that stupid song music off. Jason, you're still playing. I don't wanna stop. There's a gear. Click on the gear, and there will be an exit option.
 
-So, Kahir, during your inter during your interim, you embrace the next six months as a time of preparation, both for yourself and the community. Continue to strengthen your bond with your sister and angel, sharing concerns about the strange occurrences surrounding the temple. You also find yourself thinking more and more about protect the protection of the people of this town. During this time, Galt played a surprising role. Galt being your brother, lives out in the woods, doesn't really like didn't really like society, played a surprising role for both you and the community.
+So, Cahir, during your inter during your interim, you embrace the next six months as a time of preparation, both for yourself and the community. Continue to strengthen your bond with your sister and angel, sharing concerns about the strange occurrences surrounding the temple. You also find yourself thinking more and more about protect the protection of the people of this town. During this time, Galt played a surprising role. Galt being your brother, lives out in the woods, doesn't really like didn't really like society, played a surprising role for both you and the community.
 
 Gald had several encounters with the goblins in the woods. These encounters were not mere skirmishes. They were calculated ambushes meant to probe Gald's knowledge of the land, of the temple's surroundings. Though Gald managed to escape each time, the encounters left him rattled. After much thought, he swallowed his pride and reported the Goblet and Strange tactics to you, warning, warning that their numbers were growing and that something dark seemed to be driving them.
 
-Despite your rivalry, Gauld's information proved to be invaluable to the town's leadership. As Ahirs armed armed the or as you armed the town's militia with your expertly crafted weapons, You also found that you had a knack for engineering battlements and fortifying the town. You also kept an eye on your brother's reports, and, and people and people of the town are starting to look to you in a new way and defer to you. Carsten. Carsten, you spent these months in deep reflection, unraveling the mystery of the coronal prism and how it could be used to repair the time turner.
+Despite your rivalry, Gauld's information proved to be invaluable to the town's leadership. As Ahirs armed armed the or as you armed the town's militia with your expertly crafted weapons, You also found that you had a knack for engineering battlements and fortifying the town. You also kept an eye on your brother's reports, and, and people and people of the town are starting to look to you in a new way and defer to you. Karsten. Karsten, you spent these months in deep reflection, unraveling the mystery of the coronal prism and how it could be used to repair the time turner.
 
-You spent time studying studying ancient texts and investigating strange temporal phenomenon surrounding the temple, determined to uncover any leads that might point them towards towards more chrono prisms. You took the news of the goblins' activity seriously, working closely with the leadership. While Cahir's approach was to fortify the town, you took a more proactive approach in taking a unit of solar systems and seeking them out. Being empowered by the information you got from Gald, you tracked the majority of the goblins' activities to be in the direction of the burned wood. Thus, you have not been able to find thus far, you've not been able to find their location, but have a new but have had a few skirmishes with them as you have delved deeper into the area.
+You spent time studying studying ancient texts and investigating strange temporal phenomenon surrounding the temple, determined to uncover any leads that might point them towards towards more chrono prisms. You took the news of the goblins' activity seriously, working closely with the leadership. While Cahir's approach was to fortify the town, you took a more proactive approach in taking a unit of solar systems and seeking them out. Being empowered by the information you got from Gald, you tracked the majority of the goblins' activities to be in the direction of the burned wood.
+
+Thus, you have not been able to find thus far, you've not been able to find their location, but have a new but have had a few skirmishes with them as you have delved deeper into the area.
 
 Your growing role in the community cemented your reputation as military leader, protector, and champion of the Solaris sentinels. You know the come in the coming month you know the coming months are critical, not just for the town, but the entire continent of Solaris. Mhmm. No pressure. Right?
 
-Oh, he's been his character's been living under pressure this entire Still. Alwar Alwar, the events of the temple had left you filled with both purpose and uncertainty. Over the six months, you returned to your role as the community's cheerful morale booster, but found yourself drawn more and more into the mysteries of the time turner. The visions you experienced in the temple had awakened a deeper connection cadence and gave you the give you insight into the time altering magic surrounding the chrono prism. In addition to your role in the town, you regain training you began training your magical abilities in secret, experimenting with strain with the strange bardic spells and new abilities that you had begun to manifest.
+Oh, he's been his character's been living under pressure this entire Still. Alwor Alwor, the events of the temple had left you filled with both purpose and uncertainty. Over the six months, you returned to your role as the community's cheerful morale booster, but found yourself drawn more and more into the mysteries of the time turner. The visions you experienced in the temple had awakened a deeper connection Cadens and gave you the give you insight into the time altering magic surrounding the chrono prism. In addition to your role in the town, you regain training you began training your magical abilities in secret, experimenting with strain with the strange bardic spells and new abilities that you had begun to manifest.
 
 You knew that this newfound power these newfound powers were tied to the Lanaux or Song of Creation, and that in order to complete the completely repair the Great Time Turner, you not only needed to find the coronal prism, but you need to find the right refrain from the Lanouille to to complete the repair. The Lanouille and the Great Time Turner are connected somehow, but you're not sure exactly what the connection is, nor are you are you specifically nor do you specifically need to do nor nor what you specifically need to do to get it. But you you know the key is you know it is the key somehow. Sorry. That was a little bit over the place.
 
-And Sameer. Sameer, you used the six months to train and unlock new powers, honing your draconic and experimenting with your abilities. While you remained somewhat detached from the town, you contributed here and there helping Cahir at the forge and subtly adding some enhancements to the weapons, armor, and defenses using your draconic heritage. While you feel most comfortable by yourself having been apart from having been a part of two worlds but not quite a part of either, you you have thoughts of you have thoughts of Cahir and Angel as they both are not part of the orc world nor the human world but have but are able to thrive. In your seclusion, you start to feel the presence of your mother and start to hear whispers on the wind of a time of great need for your power.
+And Simear. Simear, you used the six months to train and unlock new powers, honing your draconic and experimenting with your abilities. While you remained somewhat detached from the town, you contributed here and there helping Cahir at the forge and subtly adding some enhancements to the weapons, armor, and defenses using your draconic heritage. While you feel most comfortable by yourself having been apart from having been a part of two worlds but not quite a part of either, you you have thoughts of you have thoughts of Cahir and Angel as they both are not part of the orc world nor the human world but have but are able to thrive.
+
+In your seclusion, you start to feel the presence of your mother and start to hear whispers on the wind of a time of great need for your power.
 
 How you were brought into this world to be a vision of what could be. Old hatreds died along with the flaming retribution. It could be a unifier or a or pea a unifier of people as long as you don't get in your own way. And I have each each of you have also experienced a vision. I'm going to be sending a private message to you with this vision.
 
 Alright. So as far as I I just have one more thing before we jump in, and it's just like next steps kinda where we're at. You know? The party now understands that the temporary fix using the star metal will not last. You must find the find the chrome chromo prisms, which is a type of, a type of type of gem, that you can use to permanently repair the time turner before the goblins can activate it.
 
-With with Galt's reports about the goblins increasing increasing presence and their obsession with the time turner, Time is running out. You have heard, you in your research to figure out more about the chronal prisons, you did hear that chronal prisons might chronal prisons, not chronal prisons, might be able to be found in the Twilight Spire and the Evershipped Caverns, which are places that existed in the old world, but may not necessarily still exist in the new one. Both places are known to be warped by temporal magic and might contain enough chronal prisms to complete the repairs. You must decide your next move knowing that each day brings goblins closer to their goal. So the question is, are you guys going to go searching for the chrono prism right away?
+With with Galt's reports about the goblins increasing increasing presence and their obsession with the time turner, Time is running out. You have heard, you in your research to figure out more about the chronal prisons, you did hear that chronal prisons might chronal prisons, not chronal prisons, might be able to be found in the Twilight Spire and the Evershipped Caverns, which are places that existed in the old world, but may not necessarily still exist in the new one. Both places are known to be warped by temporal magic and might contain enough chronal prisms to complete the repairs.
+
+You must decide your next move knowing that each day brings goblins closer to their goal. So the question is, are you guys going to go searching for the chrono prism right away?
 
 Are you going to be starting to pursue, try try to figure out where this refrain refrain from the Lanoue is or face the goblins that are are an encroaching threat on the town? Or do something else completely because you do have that option. So just for my information, I guess, so the goblins are trying to get into the town to activate the time turner? That is the that's the impression that you're getting from Gald, when he in the encounters that he had with them. They appear to be very focused on getting back to the, they appeared to be very focused on getting back to the temple.
 
@@ -45,7 +86,7 @@ So you don't know what will happen if it's activated and you don't know what the
 
 Right. Right. Cool. Cool. Cool.
 
-How so, the past six months, especially, here in Carston have spent kind of, helping the town build their militia, stabilize things, drive the goblins back. Galt's been helping with that. How successful have those endeavors been? Are things relatively stable, or is it still, like, on the brink any day the town might fall to the goblins? So from what you have from what you've seen, it's kind of a day by day.
+How so, the past six months, especially, here in Karsten have spent kind of, helping the town build their militia, stabilize things, drive the goblins back. Galt's been helping with that. How successful have those endeavors been? Are things relatively stable, or is it still, like, on the brink any day the town might fall to the goblins? So from what you have from what you've seen, it's kind of a day by day.
 
 You will have some success in the skirmishes and taking in and taking taking out the goblins and that kind of thing. And then after after about two or three weeks, there seems to be a surge of them. Okay. So there appear to be more that keep on coming in. Sure.
 
@@ -60,6 +101,10 @@ Yeah. You, go for it, Ramsey. Sorry. Oh, I don't know about you guys, but feel l
 Go after the thing that could seal this thing up for good. I don't have any real solid leads on the on the anode yet, but we have any idea. We think we know where we might find these, these gems, these, these these prisms. That's that's my vote. As much as I would like to, fight as many goblins as possible, I think oh oh, just a minute.
 
 Don't move. I'm gonna say his name wrong. Arwal? Arwal? Arwal.
+
+---
+
+### Session Play - Part 2
 
 Close. Right? It's time turner, would probably be the best way to go. Yeah. I concur.
 
@@ -167,6 +212,10 @@ Sure. Because Karsten still tries to keep relatively close to town. Yep. Well, s
 
 Yeah. With, that's Sorry. I wasn't trying. Looking at the the big old map, it's like, I don't know about this plane anymore, guys. Maybe maybe this isn't such a good idea.
 
+---
+
+### Session Play - Part 3
+
 That's, it's a long way. My legs are real short. Now what do we what do you guys think? You're the ones who've been kinda getting the town ready for these goblins. Do you think they can last?
 
 Chris, is there some time is there a a a role I can make to help have a more educated guess? Sure. There's always a role. Good. Me like you.
@@ -185,7 +234,7 @@ So, yeah, Clark. I would say that your warfare lore applies. So Perfect. Warfare
 
 That's true. Here we go, red team. Oh, oh, oh, over here. Nice. Take it.
 
-Alright. So, Carsten, based off of the battlements and kind of how how, you guys for the past six months past six months have been under siege, you are able to assess kind of the strength of the enemy for the most part. And if things stay as they are right now, you're confident that the pound can hold out for a while. However, you've seen things escalating and continuing to escalate, and that brings that brings you pause. So if things stay the same, you guys can leave.
+Alright. So, Karsten, based off of the battlements and kind of how how, you guys for the past six months past six months have been under siege, you are able to assess kind of the strength of the enemy for the most part. And if things stay as they are right now, you're confident that the pound can hold out for a while. However, you've seen things escalating and continuing to escalate, and that brings that brings you pause. So if things stay the same, you guys can leave.
 
 There won't be any problem. They'll be able to hold out for that time period. However, you do not if if things continue to escalate and there be, and more and more goblins appear to be coming, unless you guys are able to make a decisive blow to to break the morale of of these goblins, the the the town will be overrun. Okay. I'd let the group know that, that with our walls kind of looking at the map again and us talking about it.
 
@@ -263,9 +312,13 @@ Gold Gold looks at you approvingly and says it would be good to sharpen my blade
 
 I'm no good with weapons either. Alright. And I just stare at them. Let's see. Well, come back to appreciate their parts.
 
-Alright. He should know a little bit about them by now. Well, he does he does when he when he says it, you know, he he gives Auer and Sameer a very scrutinizing look, but he gives Carson a little bit of a wink because they've been out together already. So Mhmm. Mhmm.
+---
 
-He's aware of what Carson is able to do. He says, I am not Perfect. Prepared to leave just yet, though. When when when do you wanna when do you wanna do this? Where where basically possible.
+### Session Play - Part 4
+
+Alright. He should know a little bit about them by now. Well, he does he does when he when he says it, you know, he he gives Auer and Simear a very scrutinizing look, but he gives Karsten a little bit of a wink because they've been out together already. So Mhmm. Mhmm.
+
+He's aware of what Karsten is able to do. He says, I am not Perfect. Prepared to leave just yet, though. When when when do you wanna when do you wanna do this? Where where basically possible.
 
 Yeah. Oh, it's so Do you like a night ring? Best to move best to move out in in the the early morning if if at all possible. How about tomorrow morning? That's good.
 
@@ -321,11 +374,11 @@ I see it. I see it now. Oh, it's not so bad. K. Anybody else who wants to roll a
 
 Yes, please. This this all this is loud enough that it wakes everybody up. Oh. Perception. Oh, get off my thing.
 
-Jerk. Boom. I'll take that. Alright. So, Alwar, okay here, what you find what you figure out is, that you are, you are very certain that there was a loud noise that was that that came from the direction of the town.
+Jerk. Boom. I'll take that. Alright. So, Alwor, okay here, what you find what you figure out is, that you are, you are very certain that there was a loud noise that was that that came from the direction of the town.
 
-You are certain that it is from the town where this is at. Carsten, the loud noise, to you, it sounds like an explosion, but it was kind of a it's kind of a, a rumble. It's kind of a a a rumble, and you almost feel the vibrations in the ground. Alwer, you recognize that, you recognize that that was the sound of stones moving after something that was very large and it broke, like, crashed into him. It's almost like an avalanche style of Oh.
+You are certain that it is from the town where this is at. Karsten, the loud noise, to you, it sounds like an explosion, but it was kind of a it's kind of a, a rumble. It's kind of a a a rumble, and you almost feel the vibrations in the ground. Alwor, you recognize that, you recognize that that was the sound of stones moving after something that was very large and it broke, like, crashed into him. It's almost like an avalanche style of Oh.
 
-Of in in avalanche style of, of explosion. Uh-huh. And Sameer is too busy focusing on the knot in his back. No. Actually, I I got lost for a second.
+Of in in avalanche style of, of explosion. Uh-huh. And Simear is too busy focusing on the knot in his back. No. Actually, I I got lost for a second.
 
 Allison had a question for me, so I was like, alright. Well, I'm back now. Moments passed. Alright. Well, whatever that was, we should probably go check it out.
 
@@ -370,6 +423,10 @@ How do I do that? So if you go if you go on to your, if if you're using the, the
 When combat begins, you will have you you will get a, you'll get a free round, at the beginning of combat. Good surprise round. Is there wait. Before before I do that, because that almost seems like I don't think so. Of course.
 
 You don't think so. I don't think so at all. I think it sounds great. No. I'm I'm not gonna give you a surprise round, but I will give you a plus, a plus two tier initiative role.
+
+---
+
+### Session Play - Part 5
 
 Okay. That sounds good too. That sounds more appropriate because you've got there faster. You're better you're better for it, but you're able to, you know, jump into action a little bit better. That sounds great.
 
@@ -483,11 +540,15 @@ Not much. You do have a spear that you can chuck, though. Uh-huh. That is fair. 
 
 25. Again, I think that guy I need 20 feet. Okay. So I can't select him. Go ahead and target target that guy.
 
+---
+
+### Closing and Table Discussion - Part 6
+
 Am I automatically, like, raging all that stuff? You are not currently raging, but you should be automatically raging. Yeah. Reply. K.
 
 I don't know how to do the spear thing. Oh, you you need to you need to spend an action to switch out the spear from your great axe. Alright. So you can't move twice. Yeah.
 
-You wouldn't be able to. I'm gonna just go up here and stand in front of Elwar, wait for them to come to us. You could try and demoralize them. Mhmm. So if you go into your basic actions, like the green in in the macro bar, that green button that has two hands shaking, If you go in there, one of the options in there is demoralize.
+You wouldn't be able to. I'm gonna just go up here and stand in front of Alwor, wait for them to come to us. You could try and demoralize them. Mhmm. So if you go into your basic actions, like the green in in the macro bar, that green button that has two hands shaking, If you go in there, one of the options in there is demoralize.
 
 Here in your character sheet, it's on It's not in the character sheet. It's, on the on the bottom of your screen, you've got, some options that show up in your, in your macro bar down there. Yes. You should see, like, a green button with two hands shaking. No.
 
@@ -507,11 +568,11 @@ He's gonna pull out his alone, though. He's gonna do targets. He'll target the s
 
 Hit him. Yep. He pigs and goblins. Hey. I got him.
 
-Samir, you're up. Yeah. Sorry. I'm trying to run through stuff and and figure some things out, and I'm I feel like I'm failing miserably. So we have a couple of guys there.
+Simear, you're up. Yeah. Sorry. I'm trying to run through stuff and and figure some things out, and I'm I feel like I'm failing miserably. So we have a couple of guys there.
 
 I will I can move 30. How far? 25. Each slot is five feet. Right?
 
-Right. So can I get to Kahir and then take a step back? It looks like that would work for me. Does that get to him and take a step back. I don't know with yeah.
+Right. So can I get to Cahir and then take a step back? It looks like that would work for me. Does that get to him and take a step back. I don't know with yeah.
 
 Some of the point setting points. Are you setting points? You could, by clicking x or by pressing x. That'll let you set points. It looks like you can get to, right next to gold.
 
@@ -551,13 +612,13 @@ Is going to targets. K. Here, he's going to How far away are they? 45. Shoot.
 
 K. K. Here. From there. Dealing three points of damage, so another arrow comes and grazes, grazes your upper leg.
 
-And then he's going to, he's going to attempt to he's gonna attempt to demoralize, Gulb, but he's also too far away. Morlize is not a range is not a ranged person's game here. Another goblin runs up to the other room, targets Samir, and shoots two arrows. First one misses by two. Mhmm.
+And then he's going to, he's going to attempt to he's gonna attempt to demoralize, Gulb, but he's also too far away. Morlize is not a range is not a ranged person's game here. Another goblin runs up to the other room, targets Simear, and shoots two arrows. First one misses by two. Mhmm.
 
-Second one hits Samir for five damage. So, you also get a grazing a grazing blow from an arrow. Oh, no. He shot me straight in the shoulder. Oh, that's that's, like, a quarter of his hit point.
+Second one hits Simear for five damage. So, you also get a grazing a grazing blow from an arrow. Oh, no. He shot me straight in the shoulder. Oh, that's that's, like, a quarter of his hit point.
 
 Points. Yep. I guess maybe not a grazing blow. I saw it hit in the shoulder. Oh, no.
 
-Might have pierced my lung. Chris, what's your anticipation of this, length of battle time in this? I'm anticipating us stopping, oh, man. Let's let let's let's get to Carson having his turn. So we got two more goblins and then Carson, and then we'll call it for tonight and pick up pick up next time.
+Might have pierced my lung. Chris, what's your anticipation of this, length of battle time in this? I'm anticipating us stopping, oh, man. Let's let let's let's get to Karsten having his turn. So we got two more goblins and then Karsten, and then we'll call it for tonight and pick up pick up next time.
 
 Okay? Yep. I want everybody to have a turn at least. Yeah. Yeah.
 

@@ -1,5 +1,5 @@
 ## The Rings of Coram
-**Location:** Western frontier of Ironhold, near the ruins of Dagger’s Sheath  
+**Location:** Ironhold frontier, encountered on the route from [[Sentinel’s Rise]] toward [[Ironhold]]  
 **Type:** Ancient Dwarven Ritual Site
 
 ---
@@ -8,10 +8,10 @@ The Rings of Coram are a series of ancient stone circles, carved and consecrated
 
 ---
 ### 🏰 Role in The Cracked Granite
-- **Elemental Convergence:** During the events of The Cracked Granite, the Rings of Coram became a focal point for the giants’ resurgence. The site was used by giant warbands to perform powerful rituals, channeling elemental energy to convert captured trolls and dwarves into elemental thralls.
+- **Elemental Convergence:** During the events of The Cracked Granite, the Rings became a focal point for the giants’ resurgence. A cave giant used the site to transform weakened trolls into forest, frost, cavern, and other elementally empowered forms.
 - **Cave Giant Ritual Leader:** The party infiltrated the Rings and witnessed an unnamed cave giant overseeing the transformation process. This giant acted as the ritual leader and enforcer, commanding the warband and directing the elemental conversion of captives.
-- **Battle and Discovery:** The party confronted the cave giant and his forces, disrupting the ritual and rescuing captives. The encounter revealed the giants’ mastery of elemental magic and their strategy of creating thralls from other monstrous races.
-- **Lore and Clues:** The site contained runes and relics that hinted at the giants’ connection to the elemental planes and their mastery of ancient dwarven magic. Baelgrin Deepdelve later interpreted these clues to expose the true nature of the threat facing Ironhold.
+- **Battle and Discovery:** Rurik Embercloak, Hurgan Ironmark, and Demlor Ironmark confronted the cave giant and four trolls, disrupted the ritual, and recorded the aftermath as proof that giants had returned.
+- **Lore and Clues:** The working Rings demonstrated that the giants understood ancient dwarven elemental infrastructure better than modern Ironhold did. The recording became central evidence during the exposure of [[Varric Silvervein]].
 
 ---
 ### 🔥 Magical Properties

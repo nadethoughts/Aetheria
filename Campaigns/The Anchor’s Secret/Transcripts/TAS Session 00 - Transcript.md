@@ -1,28 +1,50 @@
 ---
 type: transcript
-campaign: "The Anchor’s Secret"
+campaign: "The Anchor's Secret"
 session: "00"
-tags: [type/transcript, campaign/anchor-secret]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/anchor-secret
 ---
 
-# TAS Session 00 - Transcript
+# The Anchor's Secret - Session 00 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-| Player   | Character |
-| -------- | --------- |
-| Ian      | Arthur    |
-| Derek    | Jezrek    |
-| Lil John | Ryan      |
-| Mistral  | Jason     |
-| Xander   | Ramsey    |
-| Skirk    | Dave      |
+> [!abstract] Campaign context
+> The Anchor's Secret follows the reclaimers of New Penmaris as they enter the lost Tidewatch Ward and investigate the maritime threats left in the wake of the Flaming Retribution.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ian | Arthur |
+| Derek | Jezrek |
+| Ryan | Lil John |
+| Jason | Mistral |
+| Ramsey | Xander |
+| Dave | Skirk |
+
+## Quick Navigation
+
+- **Next:** [[TAS Session 01 - Transcript|TAS Session 01 - Transcript]]
+- [[#Campaign Setup and Character Creation]]
+- [[#Character Creation - Part 2]]
+- [[#Closing and Table Discussion - Part 3]]
+
+---
 
 ## Transcript
 
-No planning. I actually use this pretty heavily. All right. So what artifact or relic did you recover from the runes of old Penmaris that still hums faintly with untamed magic, Derek? So before this place flooded for some reason and became, like, an island, how big was it? Was it still coastal or...? It was Florida. Okay, okay, okay, okay. So it was still coastal and all that stuff. I'm going to say it's, like, this, like, broken compass. What the heck is a Swedish compass? It might have some sort of, like, you know, maybe like a star chart on it or something like that.
+### Campaign Setup and Character Creation
 
-And that's sort of the magic that you can see is when you open it up, it, you know, glows with, like, a little star chart. Okay. All right, so you have a star chart compass that you recovered from the wreckage of old Penmaris. Mm-hmm, mm-hmm, mm-hmm. All right, sounds good. Thanks, Derek. Dave, go ahead and give me a roll. Thirteen. Thirteen. Dave, what friend, mentor, or ally did you lose during a mission to secure the harbor? And what promise did you make in their memory? Oh, that's 100%. So, after... So, after...
+No planning. I actually use this pretty heavily. All right. So what artifact or relic did you recover from the runes of Old Penmaris that still hums faintly with untamed magic, Derek? So before this place flooded for some reason and became, like, an island, how big was it? Was it still coastal or...? It was Florida. Okay, okay, okay, okay. So it was still coastal and all that stuff. I'm going to say it's, like, this, like, broken compass. What the heck is a Swedish compass? It might have some sort of, like, you know, maybe like a star chart on it or something like that.
+
+And that's sort of the magic that you can see is when you open it up, it, you know, glows with, like, a little star chart. Okay. All right, so you have a star chart compass that you recovered from the wreckage of Old Penmaris. Mm-hmm, mm-hmm, mm-hmm. All right, sounds good. Thanks, Derek. Dave, go ahead and give me a roll. Thirteen. Thirteen. Dave, what friend, mentor, or ally did you lose during a mission to secure the harbor? And what promise did you make in their memory? Oh, that's 100%. So, after... So, after...
 
 Derek's case, the Rebolts. He wanted to make a forward. So, after Old Penmaris was in the burning fire of whatever the hell it was called, the Flaming Retribution. Yes. Skirk the Kobold got a shitty job working the shitty docks in this district that ended up getting flooded and run over by monsters. Okay. And he didn't have a lot of friends, but he did have one, and it was his actual... It was his dockmaster, like the person in charge of his dock crew. Okay. And that's actually what sort of led Skirk into his first rage, is like he saw the guy die, and then Skirk just picked up the nearest thing he could find and started wailing on monsters.
 
@@ -30,7 +52,7 @@ And it was a boat anchor. Okay. And so he promised that he's never going... He w
 
 Yeah. What oath did I make? Hmm. I... I made the... I made the oath to... If you want some... If you want some assistance, like... Yeah. That's why you're... I definitely want some assistance here. Okay. So, what's your, uh... What's your paladin's general disposition towards the city? Um... Of New Penmaris? He sees it... He sees it as better than the... As the... Older... Older city. Other city. He thinks it's a new start from what... It's a fresh start. Fresh start. Okay. So, what sort of oath about... That... That sounds like an oath of renewal or an oath of supporting, um...
 
-The... An oath to support the new... Yeah, like... Uh... He, like, grew up in the previous city. The regrowth. Yeah, like, he grew up in the previous city and it was all... Shitty for him, so... Okay. He... He... He... He saw... He saw the rebuilding and saw an opportunity to... So, it's a rebirth kind of thing. Rebirth, yes. Okay. To make it better than it... Than... Than the other street... To make it through... Okay. I think that's a great oath right there. Like, I vowed to make new Penmaris. Penmaris better than...
+The... An oath to support the new... Yeah, like... Uh... He, like, grew up in the previous city. The regrowth. Yeah, like, he grew up in the previous city and it was all... Shitty for him, so... Okay. He... He... He... He saw... He saw the rebuilding and saw an opportunity to... So, it's a rebirth kind of thing. Rebirth, yes. Okay. To make it better than it... Than... Than the other street... To make it through... Okay. I think that's a great oath right there. Like, I vowed to make New Penmaris. Penmaris better than...
 
 Old Penmaris. Yeah. Yeah. Yeah, yeah. And that actually fits in really well with kind of what this adventure is specifically supposed to be about, so... Yeah. All right. So, there you go. That... Does that work for you? Yeah, that definitely works for you. Perfect. Yeah, basically, it took... It took me a minute, but yes. No, no, absolutely. That's... That's why... It's a great collaborative story. That's why we're doing this together, so that we can build it with each other. I also got a picture ready for... Shit, I can't read an AI picture.
 
@@ -53,6 +75,10 @@ Um. I don't want to do that. Um. Yeah. Maybe, um, maybe the idea was to, uh, kin
 One. I was like, I was like, come on, show me the 20. Two. Go ahead and reroll it. That one we already did. Yeah. Oh yeah. Two. Four. Four. Yeah. Four. Yeah. Yeah. I was like, I was like, come on, show me the 20. Two. Go ahead and reroll it. That one we already did. Yeah. Yeah. Two. Four. Four. Four. Four. All right. Get those bad rules all the way down. Yeah, exactly. Perfect. So Ryan, um, what group of workers or refugees did you protect when a half finished district collapsed during the building? Uh. And at this point you can feel free to make anything up.
 
 Well, I helped say the ship builders. Okay. Who are trying to repair and build small ships to get fishing back online after the great, what do we call this thing? The flaming retribution. Retribution. Yeah. What, what were, what did you protect them from? Were they under attack by, what, was it something natural disaster? Uh. Did, um, did some sea monsters do something or? Uh, metal, a magic metal shield that helped them not burn down from the flames that were still persistent. Okay. So they can go fishing. Okay. Bring food into the village.
+
+---
+
+### Character Creation - Part 2
 
 So after, after shock, like fire, fire raining. Fire, things are still kind of out, the outskirts of the. Okay. Yeah. Cool. Yeah. I like it. Shock way where the. Nice. Piece of it. So they want to go fishing. So they can bring home food. Awesome. I like it. Perfect. Okay. So that's the first part. Now we've got the, now we've got the connections piece. So I'm going to go ahead and start off with, uh, Ian and Dave. Mm-hmm. Um, one of you roll a d20. Back four. 20. Oh, man. Starting stronger. He's going to get a plus one to one of our stats, right?
 
@@ -86,10 +112,26 @@ Uh... Uh... Past year. Um... The worst of which... Being involved with that cons
 
 And hold it out. Um... But... In order to do that, I would need, you know, some amount of materials. And a monk seems like he's fast, right? Yep. Yeah. Can it help? Perfect. I also have a little bit of magic, too. Well, even better. Yeah. He is... He does have cloud heritage, which means he has... He has a cantrip and... He has access to a cantrip and will eventually get a first level spell, so... Okay. Um... So, he's a magical monk. Okay. Perfect, perfect. All right. So, there's some sort of... Some sort of, like, synergy where, like, you're building...
 
-Yeah, yeah, yeah. Yeah, yeah, yeah. He's providing... Yeah. He's providing magical and physical support to get you there. Just imagine with Mickey Mouse and Fantasia where he's, like, taking water. Yeah. Yep. No. All right. Cool. Well, um... I was going to have everybody answer one more question, but we have three minutes before 10. So, uh, we'll just call it at that. Um... I do have... A little bit of homework, but hopefully it's not all that bad. Um... If you guys can think about, like, two contacts, people not in this group, that you, um, that your character is connected to, whether it's a rival, a friend, um, so, you know, a, a shop worker that, a shop owner that you constantly go back in, that you constantly hang out at their place or whatever, um, just come up with something that, that kind of connects your, your character
+Yeah, yeah, yeah. Yeah, yeah, yeah. He's providing... Yeah. He's providing magical and physical support to get you there.
+
+Just imagine with Mickey Mouse and Fantasia where he's, like, taking water. Yeah. Yep. No. All right.
+
+Cool. Well, um... I was going to have everybody answer one more question, but we have three minutes before 10. So, uh, we'll just call it at that. Um...
+
+---
+
+### Closing and Table Discussion - Part 3
+
+I do have... A little bit of homework, but hopefully it's not all that bad. Um... If you guys can think about, like, two contacts, people not in this group, that you, um, that your character is connected to, whether it's a rival, a friend, um, so, you know, a, a shop worker that, a shop owner that you constantly go back in, that you constantly hang out at their place or whatever, um, just come up with something that, that kind of connects your, your character
 
 to the world. Do not feel like you have to have that completely fleshed out. You can come, you can come to me with a basic concept of, like, you know, say, you know, you want to be connected to an April O'Neil kind of person or whatever, you know, if you've got a pop culture reference for your contact, that's perfectly fine. Um, so, I want you to feel like you have to build out this entire backstory for them. Um, also, yeah, if you, as you're building out your, or as you're at, before the next session, if you have any ideas about additional backstory things that you would like for your character to have, um, please do, um, throw those out on Discord or let me know about them.
 
 Um, I, when, when I'm building, when I'm building these adventures in the, in the world, I actively try to incorporate people's backstories into the actual story itself. So, the more information I have, the more I can do that, and the more fun and engaging it will be for you to see your character actually make an impact on, in, in, on their stuff. So, um, if, if you, if you're into that, feel free to send that to me. If you don't send it to me, that's fine. We'll still have fun. We'll still play a game and it will be a blast.
 
 So, don't, don't feel like you have to do that. But if that's something that you think will be really fun, then just give me the info so I can do it. Yeah, I'm going to be, I'm going to be looking for more of my backstory. Oh yeah, absolutely. Thank you.
+
+---
+
+## Related Notes
+
+- [[TAS Session 00|Session 00 notes]]

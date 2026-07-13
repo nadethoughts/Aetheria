@@ -2,14 +2,52 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "15"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 15 - Transcript
+# Crown of the Immortals - Session 15 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 14|Session 14]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 17|Session 17]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Closing and Table Discussion - Part 9]]
+
+---
 
 ## Transcript
 
-Alright. So Carson's gonna take how how many Three. How much lay on hands are you doing? Two lay on hands and a recharge. I think unless I it looks like everyone else is pretty good.
+### Opening and Recap
+
+Alright. So Karsten's gonna take how how many Three. How much lay on hands are you doing? Two lay on hands and a recharge. I think unless I it looks like everyone else is pretty good.
 
 Unless I'm wrong. Very good. Well, that that's fine. I'm the only reason why I'm asking is I need to keep track of time here. So every time you recharge, that's ten minutes.
 
@@ -67,11 +105,11 @@ Yeah. I'll, I'll I'll take, like, a couple of slow steps towards it, like, looki
 
 Okay. So once approach with my hands, you know, kind of in a neutral, not threatening, you know, kinda kinda thing. Okay. Once it, once it realizes that it's been, it's been made Yep. From my side.
 
-It it, it jumps onto the boardwalk shield and hatchet thing in hand, and says, it is good that you found me. You must be you must be very skilled indeed. Oh, I am prince I like, like so? I am prince Troubadour. Who might you be?
+It it, it jumps onto the boardwalk shield and hatchet thing in hand, and says, it is good that you found me. You must be you must be very skilled indeed. Oh, I am prince I like, like so? I am Prince Troubadour. Who might you be?
 
 Sorry. You caught out of a second there. Prince? Prince Troubadour. Troubadour.
 
-Got it. Who might you be? Well, rather auspicious name. I'm Alwar. These are my friends.
+Got it. Who might you be? Well, rather auspicious name. I'm Alwor. These are my friends.
 
 And I'll kind of wave back if anyone wants to introduce themselves, but I won't do it for them. We are, well, hunting goblins. Oh. Well, you certainly came to the right place. There are plenty to be hunted.
 
@@ -85,7 +123,7 @@ I do. And I can find it. Champions. Knowledge somewhere in this oh, there it is.
 
 Woah. Woah. Woah. Sub person. Do your turn.
 
-I'm not sure if I really dug that. Okay. So, both Samir and Karsten, you know, Uvara is the, is, as he said, the god of the hunt. The he's often depicted as a tall, lean figure cloaked in shifting hues of dawn and dusk. His eyes are glowing with soft amber light that pierce through the darkness and, and deception.
+I'm not sure if I really dug that. Okay. So, both Simear and Karsten, you know, Uvara is the, is, as he said, the god of the hunt. The he's often depicted as a tall, lean figure cloaked in shifting hues of dawn and dusk. His eyes are glowing with soft amber light that pierce through the darkness and, and deception.
 
 And he's accompanied by a spectral hound and hawk made of and a hawk made of starlight. Is definitely about you know, kind of in encapsulates the hunt. Our what you know is that, not only that this deity is a deity that, doesn't really care about the meaning, doesn't care about the the end. It's more about the journey. It's about the hunt.
 
@@ -94,6 +132,10 @@ It's not about the quarry. And that's kind of, like, something that distinguishe
 What is the guy's name again? Uvarra. Let me one second, and I will get that in the chat. Alright. Give me one second, guys.
 
 Mhmm. What do we do with the frog guy? Well, if his people are at war with the goblins, we might have some allies. Yeah. No.
+
+---
+
+### Session Play - Part 2
 
 So that means there'd be more of them. That's what I'm hoping. And if, long term, that time cave stays, open and stable. If we ally with them, they can be good allies of our village. Mhmm.
 
@@ -171,7 +213,7 @@ Secret secret. You Got it. Might be out of secret. Secret. Because you're rollin
 
 If you do a recall knowledge check, it's automatically a secret role because technically, you're not supposed to know whether or not you succeeded or what your role was. Because if you roll poorly enough, then I can give you false information. Oh, you didn't. Like, if you could fail it, then I can I can insert bad information, and you wouldn't know? No.
 
-I'd be totally because it's secret. So because I'm stupid. Alright. So we'll start off with Carson. You know, that a wight is a powerful undead creature.
+I'd be totally because it's secret. So because I'm stupid. Alright. So we'll start off with Karsten. You know, that a wight is a powerful undead creature.
 
 It you know, that's that's pretty much what you know. Okay. Like, do I know what kind of creature though? You know what I mean? Like, wraith or, a lot, you know, pick, pick, pick.
 
@@ -185,7 +227,7 @@ That's zombie. Okay. Alright. I've also known the whites to be incorporeal, but 
 
 So, as far as I know, these ones aren't incorporeal. Sure. Yeah. Yeah. What's what's incorporeal?
 
-Like a ghost. Oh, okay. Samira, you know that plus whites are rumored to, whites are rumored to be, to have some sort of, like, curse thing that it does. Power flow undead that curses things is what Samir knows. Alright.
+Like a ghost. Oh, okay. Simear, you know that plus whites are rumored to, whites are rumored to be, to have some sort of, like, curse thing that it does. Power flow undead that curses things is what Simear knows. Alright.
 
 Our you know those things plus, you know that, a white is a, it's an intelligence, it's an intelligent, undead. It's not it's not mindless like a zombie. Mhmm. And, its curses, are, it's curses referred to as spikes. And as you are, and, curses are inflicted by, by a physical attack.
 
@@ -201,15 +243,19 @@ Troubadour. Prince Troubadour. You coming with us to help? Yes. He said accompan
 
 Awesome. He's for sure not planning on leaving you. He has a very despite his piecemeal armor, he has a very regal manner about him. And even though he's he looks a little bit goofy and feels a little bit goofy, he definitely he definitely is leaning into the into, like, the chivalrous knight, sort of persona. Okay.
 
+---
+
+### Session Play - Part 3
+
 I like it more and more. I think we can trust him. Right? Yeah. Okay.
 
-I'm I'm on board. Okay. So prince Troubadour has joined the party. Excellent. Maybe he'll give us life for us, and then he has to follow us around.
+I'm I'm on board. Okay. So Prince Troubadour has joined the party. Excellent. Maybe he'll give us life for us, and then he has to follow us around.
 
 Same as If we find a robot and an Amazonian woman, Chris, I'm calling shenanigans. Chris, like, didn't come out. Well, shoot. Gotta change my whole plan now. So just like writing, good GMs borrow, great GMs steal.
 
 Right. Right. Alright. So, he he leads you, he leads you down the down the board buck, moving moving you stealthily as his armor would allow. Oh, gosh.
 
-You, you guys continue down for about I think it's like about two or three hours. And the boardwalk itself isn't just like a single path. It branches out to different areas and has a number of different, a number of different spots where, it's you can tell that this part of the boardwalk has been more well used than the others and that kind of thing. And as you start rounding a corner, Prince Rubor raises up his hand, says, I believe that they're just around this bend. What?
+You, you guys continue down for about I think it's like about two or three hours. And the boardwalk itself isn't just like a single path. It branches out to different areas and has a number of different, a number of different spots where, it's you can tell that this part of the boardwalk has been more well used than the others and that kind of thing. And as you start rounding a corner, Prince Troubadour raises up his hand, says, I believe that they're just around this bend. What?
 
 Tom. He said, I believe that they're just around this bend. Mhmm. I got a bad idea. Why don't I try to hide?
 
@@ -227,7 +273,7 @@ All all that's important is I am naming her as my nemesis for the purposes of my
 
 Alright. Anyway That's good. Alright. Cool. So, yeah, I'm gonna ready a scroll and, do I want anything else on my other hand?
 
-Carson, you just found the potion of cold retaliation? Yep. I did. Oh, it's go time then. I don't think we got time to wait around.
+Karsten, you just found the potion of cold retaliation? Yep. I did. Oh, it's go time then. I don't think we got time to wait around.
 
 Me now. Alright. Cool. Sick. Chuck.
 
@@ -313,7 +359,7 @@ He's going to go he's just gonna keep moving. He may be undead, but he's not tha
 
 Ghoul is going to there, there, and he doesn't have any doesn't have any range options. Though he's he's gonna Put on his thumbs? No. He's gonna close. Really trying here.
 
-Alright. Really trying. Chris is not having any of it. Alright. Now it's prince Troubadour's turn.
+Alright. Really trying. Chris is not having any of it. Alright. Now it's Prince Troubadour's turn.
 
 Yeah. Oh, he got right up in his grill. Yep. Oh my gosh. He's going to target the ghoul.
 
@@ -332,6 +378,10 @@ A little dance. Make a little love. Kind of made up on the spot, about a, about 
 I do sing it, and it sounds kind of weird. I'll just get you and give you a funky look. Bam. Last for three rounds. Sick.
 
 Cool. Then I'm gonna use the scroll that I took out, and I am going to cast we found this in the dungeon. I'm gonna cast worms repast on this here ghoul in front of us, which it looks like it already left my inventory. Well, that's unfortunate. If you hit control space and start typing worms were passed, got a little bit of the spotlight fish spotlight.
+
+---
+
+### Session Play - Part 4
 
 Worms were passed. Found it. Perfect. That's neat. Spell item.
 
@@ -399,7 +449,7 @@ What's going on? He's back from the dead. He's undead. I guess so. Then.
 
 Result one does. I'm trying to I'm trying to delete the pog so we don't end up with the situation where everybody piles up on top of bad guys. Oh, no. You can get it. I lost it.
 
-Yeah. Gets trapped on it. Alright. So that's Carson's turn here. You're up.
+Yeah. Gets trapped on it. Alright. So that's Karsten's turn here. You're up.
 
 Help me understand the holding of the turn. Like holding the turn means you pull yours, you pull yourself out of initiative order and you don't do anything until you decide to insert yourself back in. So you can't move it at any time, like in the middle of summer, at the end of somebody's turn, you can say, I want to go. Yeah. It's only in between people's turns.
 
@@ -415,15 +465,15 @@ We only I can insert myself all the way to them. Yeah. You could get all the way
 
 You can move no. Not even with that with an athletic check. If you're you can move through allied spaces. No problem. Potentially six turns.
 
-Well, hopefully, there'll be fewer bad guys there. Right. I mean, you've got Samir coming back around and then five more turns. Yeah. Yeah.
+Well, hopefully, there'll be fewer bad guys there. Right. I mean, you've got Simear coming back around and then five more turns. Yeah. Yeah.
 
 No. I mean Five more turns. Yeah. Or five more bad guys. I mean, there's an there there definitely isn't, like, there's no harm in in waiting if you if you feel like that's the right the the move that you wanna do.
 
 And plus, you don't have to necessarily, like, insert yourself into the the thick of the people. Right? So I don't know where else you go besides forward. Right. I don't mean to be taking too much time, but, like, I go try to kill this frogger dude on the bottom.
 
-He didn't seem to want to fight. Well, so here's here's some here's some tactical things that might be helpful. If you are within 15 if you're within 15 feet of, Parson, then he has then he has the ability to use his retributive strike Yep. Which may or may not mean that he can do an attack, but he can give you damage resistance. So, like, basically, if you have some sort of ranged situation where you could basically move up and make sure that you're still within 15 feet of, of of Carson in, you know, fling a javelin or something, then you are not going to be in a situation where yeah.
+He didn't seem to want to fight. Well, so here's here's some here's some tactical things that might be helpful. If you are within 15 if you're within 15 feet of, Parson, then he has then he has the ability to use his retributive strike Yep. Which may or may not mean that he can do an attack, but he can give you damage resistance. So, like, basically, if you have some sort of ranged situation where you could basically move up and make sure that you're still within 15 feet of, of of Karsten in, you know, fling a javelin or something, then you are not going to be in a situation where yeah.
 
-You you you just won't be in a situation where, Carson will that that is right outside of his range. So one step back. There you go. So if you if you run out there, fling a javelin at somebody, then if they come and attack you, then he then he should be able to, at least give you damage resistance when they attack. So So I have to move and draw a spear, which do I have to put my axe down too so I won't even be able to do let me think here.
+You you you just won't be in a situation where, Karsten will that that is right outside of his range. So one step back. There you go. So if you if you run out there, fling a javelin at somebody, then if they come and attack you, then he then he should be able to, at least give you damage resistance when they attack. So So I have to move and draw a spear, which do I have to put my axe down too so I won't even be able to do let me think here.
 
 We've got a two handed weapon. It's an action to reaffirm your grip. You have quickdraw? I don't think that's a thing. Maybe it is.
 
@@ -439,7 +489,7 @@ How far is the range on a spear? Because I've never used them before. Say? It lo
 
 Well, that's stupid, Chris, because everyone's 25 feet away from me. Thank you. Can you throw it further? It's just a penalty. I forgot how it works here.
 
-Yeah. I'm no good unless I'm right next to anybody. I don't mind moving up there and just getting killed and see what Carstar does. Oh, you're silly. I'm being silly.
+Yeah. I'm no good unless I'm right next to anybody. I don't mind moving up there and just getting killed and see what Karsten does. Oh, you're silly. I'm being silly.
 
 No. I think, so we'll just we'll just go ahead and we'll just go ahead and say that if you wanna throw it, you can you can hit somebody. You'll just, the the math might already be in there. Like, the penalty might already be in there. So go ahead and pick somebody in throw.
 
@@ -450,6 +500,10 @@ Yep. And yeah. So and we'll damage. Amazing. They were.
 Hey. You you you hit like normal people now. Oh my goodness. You hit eight points at damage? Eight damage.
 
 Nice. Alright. It's okay. That's a lot like the word. No, that's how it is.
+
+---
+
+### Session Play - Part 5
 
 There you go. That's pure. I was going to say that's pretty normal. That might be the worst you've ever done. Yeah.
 
@@ -531,7 +585,7 @@ They're all up. Just critical hitting. Well, it helps when your opponent is immo
 
 Or it does. So, and he does six points of damage with this critical hit. Blow dart. Right in your leg. Vicious vicious blow dart.
 
-You're wrestling with the wrestling with the net and then you get a blow dart in the butt. I'm in a good place. Right in the kisser. Right right in the so what do I get for jumping out front, Carson? I told you that, but you were like, I don't care.
+You're wrestling with the wrestling with the net and then you get a blow dart in the butt. I'm in a good place. Right in the kisser. Right right in the so what do I get for jumping out front, Karsten? I told you that, but you were like, I don't care.
 
 I'm gonna go die. That'd be perfect. Right. Maybe. This guy is gonna run up and try and try and strike you with his sickle while you're down.
 
@@ -587,9 +641,13 @@ Alright. There you go. Not bad. Oh, not bad. Alright.
 
 We like failures. Ouch. Both take full. Okay. Alright.
 
+---
+
+### Session Play - Part 6
+
 And that is my turn. Alright. K. So she is actually going to go up here, up over here. Yeah.
 
-Right about there. Oh, wow. She does the same thing. Hello, friend. She's gonna run up to, Carson, and she's gonna attack.
+Right about there. Oh, wow. She does the same thing. Hello, friend. She's gonna run up to, Karsten, and she's gonna attack.
 
 Oh. She's gonna crit. Oh my gosh. Yep. Sure is.
 
@@ -607,7 +665,7 @@ But she only do 14 points of damage though? No. You could probably do 400. Well,
 
 Yeah. It's, not the damage that's gonna suck. Yeah. No lights out of these. No.
 
-Right. Alright. So you shield block, but also, the, prince Troubadour, like, has a flash of of light that erupts from him as you get attacked. Oh. And he activates his flash of grandeur, which for you, you gain it's a it's a similar effect to, your retributive strike.
+Right. Alright. So you shield block, but also, the, Prince Troubadour, like, has a flash of of light that erupts from him as you get attacked. Oh. And he activates his flash of grandeur, which for you, you gain it's a it's a similar effect to, your retributive strike.
 
 So you gain damage reduction, for the rest of the round equal to his level plus two. And you also, you also have a revealing light, which a wave of magical light washes over the area you choose. The appearance of light is such colorful heatless flames sparkling modes a creature affected by the revealing light is dazzled. So everybody within a 10 foot burst is dazzled by the, by the light, which in this case is just the white. But Suck.
 
@@ -677,7 +735,7 @@ Well, he did not miss. I Not my lot. Wow. I cannot use your flicker because I us
 
 No. He did not create me, thankfully. No. Alright. So we will do that.
 
-And, Carson, you have the ability to use your reaction to attribute of strike this guy. You wouldn't be able to actually attack him, but you could add, damage resistance to Alwar if you so desired. Oh, yeah. I will definitely do that. So, will I need to double check him?
+And, Karsten, you have the ability to use your reaction to attribute of strike this guy. You wouldn't be able to actually attack him, but you could add, damage resistance to Alwor if you so desired. Oh, yeah. I will definitely do that. So, will I need to double check him?
 
 Yeah. So basically, all that you need to do is find your retributive strike, and there's a spell effect on it that is effect champions resistance. And just pull that onto him before I before I apply damage. Oh, spell. No.
 
@@ -705,7 +763,7 @@ Excellent. Glad glad you've got fortitude. Alright. Yeah. I know where it came f
 
 Alright. Right? Is the white in the water still? Oh, yeah. Well, the the white got pushed out of the water.
 
-So, the the one that attacked Karsten, is actually on dry land. Oh, and the other one that attacked Alwars on dry land too? That one is actually wading in the water. I wanna hit the frog. Any frog I hit, I probably have to know it's the one right in front of me.
+So, the the one that attacked Karsten, is actually on dry land. Oh, and the other one that attacked Alwor's on dry land too? That one is actually wading in the water. I wanna hit the frog. Any frog I hit, I probably have to know it's the one right in front of me.
 
 What are you doing? Hit the big flipping I don't wanna get beaten. Those frogs have been whittling away on the poor barbarian all night long. Oh, man. The sucky part is I can only hit one of them, so I only have two actions.
 
@@ -726,6 +784,10 @@ Oh my gosh. Good. You should've killed her, jerk. Where were you? Gosh.
 Giving you a chance. Yeah. I know. Nothing. Ears.
 
 Hey. Hi. So she, she has an ability called final spite, which means she gets to make an attack before she dies. Oh, what pain? Oh, she's gonna go ahead and do that.
+
+---
+
+### Session Play - Part 7
 
 Yep. You're gonna final strike you right in the other guy where you got a blow dart right in your tongue, your bum. I think it might be more on my energy. Mhmm. Like in the front groin.
 
@@ -751,7 +813,7 @@ Can we just tie him up? They are undead creatures that want to kill you dead. I 
 
 Mhmm. Yep. Not necessarily. I mean But do undead creatures do? They're undead.
 
-It's not undead creatures. We're gonna turn these wild boars off to our side over here into undead wild boars and and that's really bad. Yeah. Oh, Samir, you're up. Oh, it's my dream.
+It's not undead creatures. We're gonna turn these wild boars off to our side over here into undead wild boars and and that's really bad. Yeah. Oh, Simear, you're up. Oh, it's my dream.
 
 Sorry. Well, you. We will we will target that individual. We will do a this. I need to I think I need to where are you?
 
@@ -777,11 +839,11 @@ He crit succeeds. Alright. It happens then, I'm sure. Yeah. Yeah.
 
 Yeah. He is unaffected by your gust of wind. It's unfortunate. Alright. That's all I got.
 
-K. And that was two actions plus the other one was an action. So Two runners, and one runs up to prince Troubadour. He says and he says, Greenleaf, don't. Don't do it.
+K. And that was two actions plus the other one was an action. So Two runners, and one runs up to Prince Troubadour. He says and he says, Greenleaf, don't. Don't do it.
 
 Greenleaf is not listening. Oh, Greenleaf. Wow. He smacked him. Max damage.
 
-Then Greenleaf is gonna swing again. This time he's going to back this guy. Run up here and hack Samir. Miss. Attack Samir again.
+Then Greenleaf is gonna swing again. This time he's going to back this guy. Run up here and hack Simear. Miss. Attack Simear again.
 
 This time he hits. I will hear you. K. Because I'll have to pull that onto your guy. Where did that go?
 
@@ -797,13 +859,13 @@ Right. Alright. So you have the encroaching presence. With mild backlash, this, 
 
 Yeah. And then the backlash condition. Hamzie, do you know what the, condition is for the frightened fleet frightened three to disappear? What do you mean? The condition for it to disappear?
 
-Samir is suffering from mild backlash from eerie flicker. Okay. Typically what happens, like, with the troll stuff, it's like until you eat something, you have to deal with this. Oh, okay. And this is one of those conditions that just Three three.
+Simear is suffering from mild backlash from eerie flicker. Okay. Typically what happens, like, with the troll stuff, it's like until you eat something, you have to deal with this. Oh, okay. And this is one of those conditions that just Three three.
 
 Yeah. It goes goes down by one per round? Yeah. It looks like it goes down per per round. Yep.
 
 Yeah. We'll just automatically fall off eventually. Yep. Okay. Cool.
 
-Sorry. I'm Still learning this game. Okay. So the, so the the Trupti warrior isn't able to attack you because, the, thing passes through you. Now, prince prince Troubadour is going to be attempting to lay his friend to rest.
+Sorry. I'm Still learning this game. Okay. So the, so the the Trupti warrior isn't able to attack you because, the, thing passes through you. Now, prince Prince Troubadour is going to be attempting to lay his friend to rest.
 
 Oh. He hits him for four damage. Swing again. Actually, wait, wait, wait, wait. What's he gonna do here?
 
@@ -811,9 +873,9 @@ He's not going to swing again. He's not gonna swing again. He's going to do he's
 
 Oh. And you have the spell effect lay on hands which gives you a plus two, which gives you a plus two AC now. So Excellent. Not only are you healed, but you have plus two AC. Secure.
 
-And then he's going to raise his shield. Now you're up, Alwar. Alright. Alwar. He's gonna be about the only sensible thing he can do in this position, I think.
+And then he's going to raise his shield. Now you're up, Alwor. Alright. Alwor. He's gonna be about the only sensible thing he can do in this position, I think.
 
-I will catch a spell. Oh, yeah. I was hoping you'd say that. I, after getting attacked by this thing, Elwar kind of, like, streaks back a little, like, and, kinda reflexively, mutters a few words under his breath, and this, like, purplish, ray shoots out from him and hits the undead in front of him. And I am casting in feeble on him, and he needs to make a fortitude saving throw.
+I will catch a spell. Oh, yeah. I was hoping you'd say that. I, after getting attacked by this thing, Alwor kind of, like, streaks back a little, like, and, kinda reflexively, mutters a few words under his breath, and this, like, purplish, ray shoots out from him and hits the undead in front of him. And I am casting in feeble on him, and he needs to make a fortitude saving throw.
 
 Oh, gosh. Anything but fortitude. Excellent. Oh, wow. He is in two for a minute.
 
@@ -837,7 +899,7 @@ Are you in here? I think it's five or more you said before. No. Well, it's five 
 
 So it's 10 or more, but you still pass it. Yep. Oh, good job. Thank you. Alright.
 
-E. Gonna jump back in here. Target Carsten. He's not he's not actually gonna move up. He's going to start singing Oh.
+E. Gonna jump back in here. Target Karsten. He's not he's not actually gonna move up. He's going to start singing Oh.
 
 A very haunting funeral dirge. I need everybody, I need everybody to make well, wrong button. Oh. I need everybody to make a will saving throw. Just give me one second here.
 
@@ -851,7 +913,7 @@ I did. I did. Okay. So you two are Nothing. Don't buy you as a hero point?
 
 Nope. Me. Yeah. It looks like someone did. Yep.
 
-I do. Alright. Talk to you later. Samir and Prince Troubadour. Sameer and Prince Troubadour are the ones that are affected at this point.
+I do. Alright. Talk to you later. Simear and Prince Troubadour. Simear and Prince Troubadour are the ones that are affected at this point.
 
 I'm gonna take it. K. Take it away. So anybody who succeeded is frightened one. Mhmm.
 
@@ -862,6 +924,10 @@ Well, yes. Superbible. All of the frightened. Yeah. And the funeral dirge effect
 Wait. Wait. Wait. That is incorrect. Nobody here has the funeral dirge.
 
 I haven't I don't know. I haven't looked or had any in I think Wednesday maybe was the last time I had any. Funeral dirge? Okay. So he he starts chanting funeral dirge and then, kinda moves up this direction.
+
+---
+
+### Session Play - Part 8
 
 And he's kinda hard to kill. Here. You're up. Mister Anderson, are you there? Sorry.
 
@@ -885,7 +951,7 @@ Now what? I have one more action. I'm gonna go up, hang out by these people. See
 
 See if anybody leans on me. Alright. Where are they running to? They're They're running away. They are now officially off the map.
 
-Samir, you're up. Where are they? A little frogs or something? Two of the frogs. Panzies.
+Simear, you're up. Where are they? A little frogs or something? Two of the frogs. Panzies.
 
 I'm the one frightened. That is uncouth. Uncooth. Alright. We're going to find a loose stick laying around in the locations here, and we're going to tell genetic projectile said stick at that chick.
 
@@ -917,7 +983,7 @@ Sorry. I had to stop your persistent fire damage. Alright. The frog is going to,
 
 You are no longer eerie flickering. Yikes. Be hit by zero. Yeah. Mhmm.
 
-Carson, you have the ability to retributive strike to the air. I do. Yep. I'm far away now. If you get attack, you're 15 feet he's 15 feet out.
+Karsten, you have the ability to retributive strike to the air. I do. Yep. I'm far away now. If you get attack, you're 15 feet he's 15 feet out.
 
 It's a 15 you've got a 15 foot, aura. Oh, okay. I really thought it was they had to be real closer. There you go. I gave it to you, buddy.
 
@@ -933,7 +999,7 @@ I figured it out. So you take no damage after it attacks you. Oh. Thanks. And it
 
 Mhmm. Oh, that's a much better hit. You're still taking no damage because the, because the champion's reaction basically gives you damage reduction for the entire round. And the last one misses. Mhmm.
 
-So You took zero damage. Yeah. You just saved you just saved Samir eight damage from from that reaction, which is Yeah. Pretty simple. For good.
+So You took zero damage. Yeah. You just saved you just saved Simear eight damage from from that reaction, which is Yeah. Pretty simple. For good.
 
 That's a lot. Yeah. That's me. Alright. Our Europe.
 
@@ -965,7 +1031,7 @@ Yeah. I'll do it again. Alright. What did you do? Nothing.
 
 He's using his kinases. He's using his kinases power. Okay. Nothing. And there we go.
 
-Oh, all done. Okay. Yeah. He's gonna he's gonna stay where he's at. It is the other undead creature's turn, and he's just gonna three strike three strikes Samir.
+Oh, all done. Okay. Yeah. He's gonna he's gonna stay where he's at. It is the other undead creature's turn, and he's just gonna three strike three strikes Simear.
 
 I'm not trying to kill you. Oh, no, buddy. I am. Oh, you're actively trying to kill yourself. What the heck is the point?
 
@@ -1022,6 +1088,10 @@ Good. That's fine. This guy's gonna try and bolt as well. Frogger, get him. Trou
 There you go. That's his name. Yeah. Lord, they must have, like, a crazy movement. No.
 
 The e is just moving three. Good. He's got regular movement, but he goes 75 if he uses all three actions to do it. She's gone. Right.
+
+---
+
+### Closing and Table Discussion - Part 9
 
 Go ahead and end that encounter, I am I would like to apologize. I wasn't thinking this was gonna be as big of a slog as it ended up being. But just goes to show that, environments matter, I guess. Make you better. Yeah.
 

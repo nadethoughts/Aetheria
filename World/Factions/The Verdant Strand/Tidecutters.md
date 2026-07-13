@@ -30,3 +30,9 @@ The Tidecutters are a ruthless pirate brotherhood that rose from the chaos follo
 - Their emblem: a jagged anchor entwined with a serpent, painted in crimson on sails and scrawled on walls.
 - Tidecutter crews prize audacity and loyalty; betrayal is punished by drowning or worse.
 - Superstitions run deep—many believe the Pearl is their destiny, a gift from the sea gods.
+
+## Revealed During The Anchor's Secret
+
+The Tidecutters entered Tidewatch before its fall and attempted to take [[The Pearl]] from beneath the [[Temple of Miraine]]. Their precise responsibility for the catastrophe remains disputed, but their expedition and the ward's collapse are closely connected.
+
+Mistral possesses pieces of a Tidecutter map leading through the temple into the Gloamways. The reclaimers temporarily parleyed with the pirates, then raced them to the Pearl chamber. The defeated Knight of Miraine left behind a magically reshaped pirate cutlass, suggesting that at least one earlier intruder became part of the temple's defenses.

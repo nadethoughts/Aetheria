@@ -2,12 +2,50 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "11"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 11 - Transcript
+# Crown of the Immortals - Session 11 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 10|Session 10]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 12|Session 12]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Closing and Table Discussion - Part 9]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 There it goes. I was gonna say incoming scary sound. Or not that it's scary. It just always gets me. Yeah.
 
@@ -145,6 +183,10 @@ It, you will if you go to your, if you go to your actions thing, you'll see a Ti
 
 And check the checkbox, and then swing your swing your great axe. That will cost you two actions to use to attack when you've got the Titan Swing. Let's hit it, baby. Oh, you suck. Ouch.
 
+---
+
+### Session Play - Part 2
+
 That sucks. I mean, you throw the hero point. I'm a reroll it to hero point. You do that. Big money.
 
 You suck. Oh, okay. Better. Results are not. Big damage.
@@ -179,7 +221,7 @@ So he so he pulls back with his rapier and lunges forward to to run you through,
 
 Getting lucky. Better lucky than good. Really lucky. Right. Alright.
 
-Sameer, you are up. You can only see that big black bubble that's in front of you. You're hearing fighting happening happening on the other end, but you are unsure as to what has happened. Right. Well, there's nothing for it but taking a stroll into.
+Simear, you are up. You can only see that big black bubble that's in front of you. You're hearing fighting happening happening on the other end, but you are unsure as to what has happened. Right. Well, there's nothing for it but taking a stroll into.
 
 Right? I have a rough idea of where, friends were. So I've got a 30 foot move, and that's about the best that I got. Right? Yeah.
 
@@ -195,7 +237,7 @@ I'm I'm yeah. I think I'm gonna go with that now that I'm in the middle of the d
 
 Play button. I play buttoned it. Bam. Oh my gosh. Yeah.
 
-You activate sign of the sun, and the dark and the darkness just completely disappears. Oh, wow. That was beautiful. Alright. So I wanted to get into that earlier, Carson.
+You activate sign of the sun, and the dark and the darkness just completely disappears. Oh, wow. That was beautiful. Alright. So I wanted to get into that earlier, Karsten.
 
 Correct. That's why I already got it on. No. No. You didn't.
 
@@ -265,11 +307,11 @@ Yep. No. That is not what they hear. That is what it said. That is not what they
 
 No. No. Alright. Boys of summer is another one that's really bad. She's going to Paul, run away.
 
-To a, darker corner. Darker corner. So she cast verifier. Basically, what this means is everybody who's in the area, which is Karsten, Samir, and Alwar, for the next five minutes, you are lined out with a colorful heatless fire, of any color of your choice. You can be whatever color you want.
+To a, darker corner. Darker corner. So she cast verifier. Basically, what this means is everybody who's in the area, which is Karsten, Simear, and Alwor, for the next five minutes, you are lined out with a colorful heatless fire, of any color of your choice. You can be whatever color you want.
 
 I think it's my choice, but I don't care. Visible, you can't be concealed while affected by fire fire, and you are and if you're invisible if you are invisible, you are considered concealed and rather than being undetected. So basically, just as far as like hiding for hiding purposes, you're one degree higher than what you would normally be, which in this specific example doesn't really do much. But it was her only template spell that wasn't that wasn't harm. She probably could've harmed again, but wanted to try something else.
 
-So there we go. She cast very fire and runs away. Carson, you're up. Hey. And she is no longer she's no longer blinded.
+So there we go. She cast very fire and runs away. Karsten, you're up. Hey. And she is no longer she's no longer blinded.
 
 She's dazzled. And double move and whack that guy. Get him. Oh, he is off guard. I guess he's already blind, so he's probably already off guard.
 
@@ -278,6 +320,10 @@ I don't know. Not sure how that works. Yeah. I don't know. It does the math, so,
 Winter dawn striking my foe. Oh. That's that is a crit. That's, yeah. That'll do.
 
 He's already not feeling good. Oh, he's feeling a whole lot less good. Yeah. It'll take, like, a match. Boom.
+
+---
+
+### Session Play - Part 3
 
 It's still That's still nice and tense. Three more buff. Wow. Scott, I think your perception of what good damage is is skewed by you being a giant instinct barbarian. No.
 
@@ -311,7 +357,7 @@ Go. Oh my god. There's nothing Nicholas. You slash into her heavily. Oh, she's a
 
 She's at the store. Oh, don't worry. She is. She's she's got two PCs ahead of her. So, Yeah.
 
-Jeez. I don't I don't like her chances. Speaking of, Sameer, you are up. She's terribly concerned. She's finished her.
+Jeez. I don't I don't like her chances. Speaking of, Simear, you are up. She's terribly concerned. She's finished her.
 
 You will need to move to get line of sight on her, though. She is Go right up the store. Oh, maybe you don't need line of sight. May maybe you've got line of sight on her. Maybe.
 
@@ -343,7 +389,7 @@ That's why. The Lord Knight's soft. She crit succeeded. What does that mean? Alr
 
 She gets another turn. She was determined. Man. She just called me I was safe. Sorry to lie.
 
-Oh, that's weird. I don't even think Carson can get over there. Can you? Uh-uh. Oh, I don't know if he's got it.
+Oh, that's weird. I don't even think Karsten can get over there. Can you? Uh-uh. Oh, I don't know if he's got it.
 
 Oh, yeah. He's he's 20. He can get over there and swing. So he wouldn't be able to do much else than that, but he can do that. Okay.
 
@@ -373,7 +419,7 @@ I was counting on my team Alright. Rolling restlessly. Boom. He's really good wi
 
 Don't roll like me, dude. That's not that I rolled it. Great. Alright. So here, you failed.
 
-Yep. And Alwar, you succeeded. I'm gonna go with oh my gosh. This is terrible. To here, you get you get hit with you get wracked with pain, but it's manageable.
+Yep. And Alwor, you succeeded. I'm gonna go with oh my gosh. This is terrible. To here, you get you get hit with you get wracked with pain, but it's manageable.
 
 You take four points of damage. I'll worry. You are also racked with pain, but this is something that you've dealt with before, and you know how to compartmentalize your mind away from your pain. So you take two points of damage. Okay.
 
@@ -420,6 +466,10 @@ That is hard to see. It's not doing anything, though. It's a secret invisible on
 It's seven twenty five feet away from it. 50 feet. Not doing anything? No. It's just staying invisible.
 
 That's on Mimic. That's right. Uh-oh. Wait then. Doesn't want to be found.
+
+---
+
+### Session Play - Part 4
 
 Playing hard to get. Just like to hear. Oh, he's not even there. Where'd he go? Not for sure we're gonna be addressing our lives.
 
@@ -543,6 +593,10 @@ Yep. Sweet. Alright. So what you know, you've you have heard Kofilar, in a few d
 
 But it's not the common Elven. It's like a it's like an old it's effectively like the old English version of it's old Elven. So it doesn't have a it doesn't have a straight translation, and I see what your you have. You do not have Elven as your as a language that you know. Uh-huh.
 
+---
+
+### Session Play - Part 5
+
 So it it's, it's in it's definitely an Elven tongue, thing. You have heard, of the, of the of a bard's tale of of Khoslaar, where a, enemy of, an enemy of the light resides in a in a tomb of darkness, in a in a, in a mountain where it's dug so deep that the, that the sun cannot reach it. And the, and and the Bart and the Bartic tale that you remember is specifically of, somebody who braves braves the, braves the dungeon, jumps into goes down in there to find treasures and and defeat the, defeat the dark lord of the of the, of Colthalar. But, his but is never seen or heard from again. But there's many, many attributions to that person's, to that person's valor as they walk through the, as as they, see the terrors unknown.
 
 So that is what you've been able to that that is what you know about Kofilar. So it seems to be some sort of dark stronghold that exists in a mountain, that, is written in or that is named in some ancient elvish script. Okay. Alright. More research necessary?
@@ -605,7 +659,7 @@ Okay. Kinda like the sphinx with the head being smaller than the rest of the bod
 
 Okay. Okay. Got it. They may have reburied. But I'm awful.
 
-Interesting. Sameer, I'm kinda with you now. I originally wasn't on the the, tomb raiding plan, but I'm curious now because I don't Can I, I'm gonna just go ahead and do a detect magic Okay? On on my sales and and everything around me. I don't you know, that makes sense, anyway.
+Interesting. Simear, I'm kinda with you now. I originally wasn't on the the, tomb raiding plan, but I'm curious now because I don't Can I, I'm gonna just go ahead and do a detect magic Okay? On on my sales and and everything around me. I don't you know, that makes sense, anyway.
 
 Oh, really cool effect. Yeah. I don't know I don't know what just happened, but I I did it. Magic. I don't know.
 
@@ -641,6 +695,10 @@ Oh, nice. Nice. Alright. So, basically, both of you guys, go over these. They th
 
 You're fairly confident that that has that that hasn't happened, that nothing has happened on it. Scott, or, yeah. Scott Cahir, actually is able to find on a few of the sarcophagus', like, on the top pieces. It's very clear that whoever was working on before was basically sanded them down pretty heavily. But, there are a couple places with your, critical success that you have.
 
+---
+
+### Session Play - Part 6
+
 There are a couple places that you were able to discern that, there were runes and etchings on the on these before, before they were defaced. And those etchings that you're looking at, they look like they are, they they look to be elven, and not like ancient elven like Kofilar is, but like the the elven the regular elven common tongue, but they are so weather weather born weather torn and and sanded down that it's hard to tell what they what they say, other than they look like their proper names. Like, looks like they added, it was it was somebody's name that was on there. So why do we wanna open them? Curiosity.
 
 Curiosity. Yeah. It seems like they are older tombs that were reused. Mhmm. And I'm curious what's in there and not in there.
@@ -661,7 +719,7 @@ Where's the fist? Show me a Oh, here's a fist. Found a fist. Athletics. Fantasti
 
 Great. Why? Because I'm not fighting something in our life doesn't depend on it. Okay. So here I'm choking a pressure.
 
-You lift off the you Kakeru, you and Sameer are able to lift off the top of the sarcophagus of the middle one, and set the, set the lid to the side. What you find on the inside is really nothing. There's, there there's a empty sarcophagus, there's a stone a stone pillow, what it looks like, and a indentation, in that stone pillow as if it were carved out for a specific head. But there's no head and no body inside that sarcophagus. What?
+You lift off the you Kakeru, you and Simear are able to lift off the top of the sarcophagus of the middle one, and set the, set the lid to the side. What you find on the inside is really nothing. There's, there there's a empty sarcophagus, there's a stone a stone pillow, what it looks like, and a indentation, in that stone pillow as if it were carved out for a specific head. But there's no head and no body inside that sarcophagus. What?
 
 Right. Well, I guess we can put that back on. Right. Is that one that was magic? I didn't see which ones were magic.
 
@@ -769,6 +827,10 @@ Oh, that was weak. Gosh. Wow. Well, that's not the loss that I'm getting on righ
 
 You should be raging, but you're not currently raging. I didn't even click critical. I'm sorry. Can I reroll that? Oh, okay.
 
+---
+
+### Session Play - Part 7
+
 Yeah. That's You also you also should be raging, so apply your rage effect. K. There you go. Much better.
 
 Now roll that damage. Hit critical though. Right? Yeah. Used to doing that.
@@ -821,7 +883,7 @@ Yeah. It was part of the encounter. I didn't just throw in a random mimic. I'm h
 
 That hurts. You used to be really good. Very good. Yeah. Other elf is gonna move in.
 
-I am complete I'm really last. Target Carston. You're really last? Yeah. You are.
+I am complete I'm really last. Target Karsten. You're really last? Yeah. You are.
 
 I'm last in the initiative order. Yeah. You are. So this is going to, so this this elf runs up to you with its double curved blade and does a flourish and attacks you, hitting you, but not creating you. Clark, do you wanna be used?
 
@@ -837,7 +899,7 @@ We're not that close yet. She misses, but she is going to attempt to create a di
 
 You're right. You're right. We moved attack to attack. That's absolutely correct. I forgot about the move.
 
-Thanks for keeping me honest. It's okay. Sameer, you are up. I am up. Yeah.
+Thanks for keeping me honest. It's okay. Simear, you are up. I am up. Yeah.
 
 You have basically, what you've seen so far is here, ran out, destroyed one of these things, and then was suddenly attacked by a, by a piece of furniture and Uh-huh. Completely decimated by it. Yeah. Yeah. Like, he's not feeling good.
 
@@ -897,13 +959,17 @@ Okay. Okay. Cool. Cool. Cool.
 
 Nope. I cannot. In fact, I did not think so. Alright. So both of the both of them get Okay.
 
+---
+
+### Session Play - Part 8
+
 Get hit with, the electric arc spark Nice. The the spark bounces between the two of them, and they get stiff really quickly, but then get back but then drop back into their regular combat activities. Oh, well. We tried. They felt it.
 
 They felt it. Alright. This will be interesting. You're gonna be dead. No.
 
 That's what I'm thinking. Don't think like that. Oh, Oh, nobody really nobody really ran up to help you. So Nope. It's it's got a right way.
 
-That's all. Just get away. Well, the two squishies went, Yeah. Carson's up soon. He can come up there and help.
+That's all. Just get away. Well, the two squishies went, Yeah. Karsten's up soon. He can come up there and help.
 
 Fair enough. Do it. In the meantime Uh-huh. There's only one target. Yeah.
 
@@ -927,7 +993,7 @@ Oh, that's maybe what I should've done instead. You would have been very nice in
 
 Alright. So you take seven points of electric, you take seven points of damage. Six of that is from electricity and the other one is just a sonic boom that hits your ears. And then she's going to cast, field. Oh.
 
-That was anticlimactic. I was hoping for better. I'd go with what we got. Okay. Carson, you're up.
+That was anticlimactic. I was hoping for better. I'd go with what we got. Okay. Karsten, you're up.
 
 I'm up. I'm gonna whack the girl right there by me. Okay. Boom. Chaka locka.
 
@@ -935,7 +1001,7 @@ Winter night. And there's a storm. Come on, baby. Wow. Come on.
 
 Mhmm. I'm like, yes. Did you roll the critical one? Yeah. I got a three.
 
-That was still killer. Which was enough. K. And then I'm I can't even oh, I can too. I'm gonna run to Carson.
+That was still killer. Which was enough. K. And then I'm I can't even oh, I can too. I'm gonna run to Karsten.
 
 Oh, to here. I'm gonna heal him for twelve. Wait. Maybe. I can there we go, red team.
 
@@ -951,7 +1017,7 @@ Just grab that. Oh, there I can grab. Okay. Yeah. It doesn't it doesn't immediat
 
 So that's what took me so long to figure out the other thing. Okay. Okay. I got it. Alright.
 
-Cool. Sweet. Well, you may survive another round. I may. Speaking of, Kahir, you are up.
+Cool. Sweet. Well, you may survive another round. I may. Speaking of, Cahir, you are up.
 
 So, Chris, I'm kinda wondering. Mhmm. I have this item that support potion of fire retaliation. Uh-huh. And since this thing is wood, you know, if I should put that on or do whatever before I hit him?
 
@@ -977,7 +1043,7 @@ So best cat. Because you are grabbed. So you can try and use your action to Crit
 
 No. Wow. Oh my gosh. Holy cow. Should've let him go.
 
-Do not try to hold down my fury. Wow. I'm trying to let this happen here. Just wanted to walk away. I wanted to give him a chance to hit Carson.
+Do not try to hold down my fury. Wow. I'm trying to let this happen here. Just wanted to walk away. I wanted to give him a chance to hit Karsten.
 
 Oh my gosh. Wow. Amazing. Oh. Oh, wow.
 
@@ -989,7 +1055,7 @@ That's amazing. Oh my gosh. That's crazy funny. Second rule That was supposed to
 
 Okay. It was. It was. Apparently, it was. It took half of it, it looked like.
 
-Sameer, you're up. Okay. There's no more trailers, is there? Yeah. They're still still monster.
+Simear, you're up. Okay. There's no more trailers, is there? Yeah. They're still still monster.
 
 We used to try them. Sorry. That was, very distracting there. That was a very distracting performance. Should get, like, six hero points for that?
 
@@ -1038,6 +1104,10 @@ Yeah. Yeah. Yeah. Take it. You know, legit, I don't know that it's really I thin
 The what? It's only four HP. Yeah. I I you know, well, I guess that's true. Immediately It's only four HP.
 
 Yeah. The the impact to you is significantly higher than anybody else in the group. By ratio. Yeah. Oh, yeah.
+
+---
+
+### Closing and Table Discussion - Part 9
 
 I don't like that. Taking these, s Button. What did that do? Spicy cinnamon. No.
 

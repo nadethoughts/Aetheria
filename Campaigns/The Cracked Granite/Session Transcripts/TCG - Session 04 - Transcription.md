@@ -2,26 +2,64 @@
 type: transcript
 campaign: "The Cracked Granite"
 session: "04"
-tags: [type/transcript, campaign/cracked-granite]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/cracked-granite
 ---
 
-# TCG - Session 04 - Transcript
+# The Cracked Granite - Session 04 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-### Game System: Pathfinder 2e
+> [!abstract] Campaign context
+> The Cracked Granite follows dwarven agents of Ironhold as the kingdom reopens its gates, explores the transformed surface, and confronts the political struggle between expansion and isolation.
 
-| Character | Player | Class (Subclass)               |
-| --------- | ------ | ------------------------------ |
-| Demlor    | Jason  | Kinetisist (Metal Gate)        |
-| Hurgan    | Scott  | Ranger (Flurry)                |
-| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+## Characters
+
+> [!note] Game system
+> Pathfinder 2e
+
+| Player | Character | Class | Subclass |
+| --- | --- | --- | --- |
+| Jason | Demlor | Kineticist | Metal Gate |
+| Scott | Hurgan | Ranger | Flurry |
+| Ramsey | Rurik | Gunslinger | Way of the Sniper |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 03 - Transcription|TCG - Session 03 - Transcription]]
+- **Next:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 05 - Transcription|TCG - Session 05 - Transcription]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Session Play - Part 11]]
+- [[#Session Play - Part 12]]
+- [[#Session Play - Part 13]]
+- [[#Session Play - Part 14]]
+- [[#Session Play - Part 15]]
+- [[#Session Play - Part 16]]
+- [[#Closing and Table Discussion - Part 17]]
+
+---
 
 ## Transcript
 
+### Opening and Recap
+
 00:00.000 --> 00:12.960 all right um when last we met you guys infiltrated the ogre war camp
 
-00:12.960 --> 00:26.260 and uh were able to steal some war plans uh rurik was able to speed steal some more plans from
+00:12.960 --> 00:26.260 and uh were able to steal some war plans uh Rurik was able to speed steal some more plans from
 
 00:26.260 --> 00:40.600 the uh from the uh command tent uh you were able to save a dwarf that was being molded into into an
 
@@ -143,9 +181,9 @@ tags: [type/transcript, campaign/cracked-granite]
 
 09:23.360 --> 09:27.120 pushing for you guys to do you can choose to do something else if you don't
 
-09:29.200 --> 09:38.000 but it's on the way to iron hold all right a little bit out of the way but it's but as far as like
+09:29.200 --> 09:38.000 but it's on the way to Ironhold all right a little bit out of the way but it's but as far as like
 
-09:38.000 --> 09:44.800 getting communication to iron hold it's the quickest method outside of using that outside of using that
+09:38.000 --> 09:44.800 getting communication to Ironhold it's the quickest method outside of using that outside of using that
 
 09:46.560 --> 09:52.160 that magic item that you guys have that's connected to the spy master that you don't trust right
 
@@ -221,6 +259,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 14:09.680 --> 14:13.520 yeah he was the he was the captain of the guard of dagger sheath
 
+---
+
+### Session Play - Part 2
+
 14:19.600 --> 14:23.360 okay i mean as far as i'm concerned i i can't see a reason why we wouldn't
 
 14:25.440 --> 14:32.080 go ahead with that yep yeah i tend to agree and we can't do that probably the entire time we'll
@@ -287,7 +329,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 16:43.440 --> 16:44.320 encouragement
 
-16:44.320 --> 16:50.160 um allows them to keep up with hergin as he starts booking through the uh
+16:44.320 --> 16:50.160 um allows them to keep up with Hurgan as he starts booking through the uh
 
 16:50.880 --> 16:54.720 through the mountains um combine that with dem lore's uh
 
@@ -327,11 +369,11 @@ tags: [type/transcript, campaign/cracked-granite]
 
 18:01.600 --> 18:02.880 and he
 
-18:02.880 --> 18:05.440 leans over to hergin
+18:02.880 --> 18:05.440 leans over to Hurgan
 
 18:05.440 --> 18:06.720 and says
 
-18:08.720 --> 18:10.240 that's gorvok's beasts
+18:08.720 --> 18:10.240 that's Gorvok's beasts
 
 18:11.840 --> 18:13.360 they hunt for sport
 
@@ -345,7 +387,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 18:17.600 --> 18:18.720 those are
 
-18:18.720 --> 18:20.160 gorvok's beasts
+18:18.720 --> 18:20.160 Gorvok's beasts
 
 18:21.520 --> 18:22.240 a hunter
 
@@ -671,6 +713,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 26:20.560 --> 26:21.280 oh okay
 
+---
+
+### Session Play - Part 3
+
 26:26.240 --> 26:26.320 um
 
 26:26.320 --> 26:27.040 um
@@ -887,7 +933,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 29:22.800 --> 29:28.720 all right to start us off we have
 
-29:28.720 --> 29:29.520 ruric
+29:28.720 --> 29:29.520 Rurik
 
 29:29.520 --> 29:32.720 excellent
 
@@ -1069,7 +1115,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 34:52.320 --> 34:52.800 um
 
-34:52.800 --> 35:02.160 oh and uh rurik you shot and you shot him right in the face and you see a portion of his snout or a portion of
+34:52.800 --> 35:02.160 oh and uh Rurik you shot and you shot him right in the face and you see a portion of his snout or a portion of
 
 35:02.800 --> 35:04.320 his face just kind of get
 
@@ -1130,6 +1176,10 @@ tags: [type/transcript, campaign/cracked-granite]
 36:18.560 --> 36:22.240 that while they're kind of mid-air i'm just going to
 
 36:23.440 --> 36:26.080 generate a nice pike
+
+---
+
+### Session Play - Part 4
 
 36:26.880 --> 36:29.600 hole right about where they're gonna land
 
@@ -1393,7 +1443,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 46:52.480 --> 46:53.360 and starts
 
-46:54.000 --> 46:56.160 starts mowing on ruric
+46:54.000 --> 46:56.160 starts mowing on Rurik
 
 46:57.440 --> 46:57.760 ow
 
@@ -1480,6 +1530,10 @@ tags: [type/transcript, campaign/cracked-granite]
 49:18.880 --> 49:19.320 Okay.
 
 49:24.040 --> 49:25.180 Oh, it was a 20
+
+---
+
+### Session Play - Part 5
 
 49:25.180 --> 49:27.080 and then rolled over.
 
@@ -1609,7 +1663,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 53:06.600 --> 53:07.720 Yeah, yeah, yeah.
 
-53:07.720 --> 53:29.520 So, as the frost breath weighs over you, Rurik takes 15 points of cold damage, and Ruriken
+53:07.720 --> 53:29.520 So, as the frost breath weighs over you, Rurik takes 15 points of cold damage, and Rurik
 
 53:29.520 --> 53:32.700 takes 30 points of cold damage.
 
@@ -2031,6 +2085,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:02:41.160 --> 01:02:41.980 that's all right
 
+---
+
+### Session Play - Part 6
+
 01:02:41.980 --> 01:02:42.580 they're not rolling
 
 01:02:42.580 --> 01:02:43.460 any better than we are
@@ -2085,7 +2143,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:03:07.580 --> 01:03:08.600 uh
 
-01:03:08.600 --> 01:03:09.000 hergan
+01:03:08.600 --> 01:03:09.000 Hurgan
 
 01:03:09.000 --> 01:03:12.040 uh
 
@@ -2191,7 +2249,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:04:20.520 --> 01:04:21.420 uh
 
-01:04:21.420 --> 01:04:22.440 so rurik is going to
+01:04:21.420 --> 01:04:22.440 so Rurik is going to
 
 01:04:22.440 --> 01:04:23.220 rocket jump
 
@@ -2663,6 +2721,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:09:47.140 --> 01:09:48.920 i'm not saying that
 
+---
+
+### Session Play - Part 7
+
 01:09:48.920 --> 01:09:50.160 shardstrike won't do it
 
 01:09:50.160 --> 01:09:50.760 because it
@@ -2679,7 +2741,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:09:55.140 --> 01:09:56.500 it's just kind of like
 
-01:09:56.500 --> 01:09:58.220 i'm seeing rurik
+01:09:56.500 --> 01:09:58.220 i'm seeing Rurik
 
 01:09:58.220 --> 01:10:00.080 run after the
 
@@ -3362,6 +3424,10 @@ tags: [type/transcript, campaign/cracked-granite]
 01:16:29.700 --> 01:16:30.060 window
 
 01:16:30.060 --> 01:16:30.540 or
+
+---
+
+### Session Play - Part 8
 
 01:16:30.540 --> 01:16:30.660 a
 
@@ -4221,7 +4287,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:22:04.500 --> 01:22:05.080 towards
 
-01:22:05.080 --> 01:22:05.760 demlar
+01:22:05.080 --> 01:22:05.760 Demlor
 
 01:22:05.760 --> 01:22:06.620 almost
 
@@ -4242,6 +4308,10 @@ tags: [type/transcript, campaign/cracked-granite]
 01:22:12.580 --> 01:22:14.140 healing
 
 01:22:14.140 --> 01:22:15.180 15
+
+---
+
+### Session Play - Part 9
 
 01:22:15.180 --> 01:22:16.120 damage
 
@@ -5021,6 +5091,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:29:15.940 --> 01:29:16.360 that one
 
+---
+
+### Session Play - Part 10
+
 01:29:16.360 --> 01:29:16.940 do cold
 
 01:29:16.940 --> 01:29:17.440 damage to
@@ -5369,7 +5443,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:33:00.420 --> 01:33:00.980 cool
 
-01:33:00.980 --> 01:33:01.920 rurik
+01:33:00.980 --> 01:33:01.920 Rurik
 
 01:33:01.920 --> 01:33:02.120 you're
 
@@ -5800,6 +5874,10 @@ tags: [type/transcript, campaign/cracked-granite]
 01:36:38.000 --> 01:36:39.720 um
 
 01:36:39.720 --> 01:36:40.040 it will
+
+---
+
+### Session Play - Part 11
 
 01:36:40.040 --> 01:36:40.400 take you
 
@@ -6567,6 +6645,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:43:32.860 --> 01:43:34.040 all right
 
+---
+
+### Session Play - Part 12
+
 01:43:34.040 --> 01:43:36.340 uh
 
 01:43:36.340 --> 01:43:38.060 yes
@@ -7323,6 +7405,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:52:14.840 --> 01:52:15.240 or
 
+---
+
+### Session Play - Part 13
+
 01:52:15.240 --> 01:52:15.700 whatever
 
 01:52:15.700 --> 01:52:16.880 um
@@ -7873,7 +7959,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:57:48.240 --> 01:57:49.200 battle medicine
 
-01:57:49.200 --> 01:57:50.540 hergan earlier
+01:57:49.200 --> 01:57:50.540 Hurgan earlier
 
 01:57:50.540 --> 01:57:51.280 yeah
 
@@ -7881,7 +7967,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:57:51.920 --> 01:57:53.040 battle medicine
 
-01:57:53.040 --> 01:57:54.080 demlor and
+01:57:53.040 --> 01:57:54.080 Demlor and
 
 01:57:54.080 --> 01:57:54.560 myself
 
@@ -7943,7 +8029,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:58:17.160 --> 01:58:18.520 this is
 
-01:58:18.520 --> 01:58:19.680 demlor
+01:58:18.520 --> 01:58:19.680 Demlor
 
 01:58:19.680 --> 01:58:20.540 i think i
 
@@ -8098,6 +8184,10 @@ tags: [type/transcript, campaign/cracked-granite]
 01:59:56.920 --> 01:59:57.360 to do for
 
 01:59:57.360 --> 01:59:57.640 now
+
+---
+
+### Session Play - Part 14
 
 01:59:57.640 --> 01:59:58.080 heal the
 
@@ -8823,6 +8913,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:06:53.780 --> 02:06:54.080 recall
 
+---
+
+### Session Play - Part 15
+
 02:06:54.080 --> 02:06:54.720 oh there's
 
 02:06:54.720 --> 02:06:55.000 recall
@@ -9259,7 +9353,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:10:26.920 --> 02:10:27.120 it was
 
-02:10:27.120 --> 02:10:27.560 rurik
+02:10:27.120 --> 02:10:27.560 Rurik
 
 02:10:27.560 --> 02:10:28.080 that saw
 
@@ -9267,13 +9361,13 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:10:28.220 --> 02:10:28.480 oh it
 
-02:10:28.480 --> 02:10:29.140 was rurik
+02:10:28.480 --> 02:10:29.140 was Rurik
 
-02:10:29.140 --> 02:10:31.140 rurik
+02:10:29.140 --> 02:10:31.140 Rurik
 
 02:10:31.140 --> 02:10:31.800 yeah okay
 
-02:10:31.800 --> 02:10:32.340 rurik
+02:10:31.800 --> 02:10:32.340 Rurik
 
 02:10:32.340 --> 02:10:33.600 question i
 
@@ -9608,6 +9702,10 @@ tags: [type/transcript, campaign/cracked-granite]
 02:12:32.500 --> 02:12:32.860 how i
 
 02:12:32.860 --> 02:12:33.220 did on
+
+---
+
+### Session Play - Part 16
 
 02:12:33.220 --> 02:12:33.900 the um
 
@@ -10397,6 +10495,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:18:22.060 --> 02:18:24.060 oh
 
+---
+
+### Closing and Table Discussion - Part 17
+
 02:18:24.060 --> 02:18:28.060 oh
 
 02:18:28.060 --> 02:18:30.060 oh
@@ -10520,3 +10622,9 @@ tags: [type/transcript, campaign/cracked-granite]
 02:22:34.860 --> 02:22:35.160 Yeah.
 
 02:22:35.160 --> 02:23:05.140 Thank you.
+
+---
+
+## Related Notes
+
+- [[Campaigns/The Cracked Granite/Session Notes/Session 04 Planning|Session 04 planning]]

@@ -2,24 +2,64 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "01"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 01 - Transcript
+# Crown of the Immortals - Session 01 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 00|Session 00]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 02|Session 02]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Closing and Table Discussion - Part 5]]
+
+---
 
 ## Transcript
 
+### Opening and Recap
+
 So it is the early spring. A year has passed since the flaming war tribulation. You guys have, been in a year of building and trying to find your way in the world. In some ways, this world seems very familiar as you have as you've grown up, but grown up in it. But, also, there are so many things that you don't know and so many alien situations that you found yourself in.
 
-It has gone from a very tame world to to more of a wild world. And you have been using the past year to reconcile the world that you knew and the world that you now. Kahir, you've been, you are you've been able to establish establish yourself as a as a fairly, solid blacksmith in the in the area. You have, been able to build weapons and armaments as well as, as well as traps and and different things, to help the community survive. And you are at your you are at your forge, which is near the center or which is near the market.
+It has gone from a very tame world to to more of a wild world. And you have been using the past year to reconcile the world that you knew and the world that you now. Cahir, you've been, you are you've been able to establish establish yourself as a as a fairly, solid blacksmith in the in the area. You have, been able to build weapons and armaments as well as, as well as traps and and different things, to help the community survive. And you are at your you are at your forge, which is near the center or which is near the market.
 
-Karsten, Karsten and Samir, you are on patrol right now. You've been you've been requisitioned by, the order, Karsten, to nap to walk around the the the community, on patrol looking for things that need to be things that need to be addressed and or looking for, insurgence of things that might need to be, well, taking care of it in in a more martial way. Samira, you are not necessarily part of the the city guard, but you have been, but you've been, you know, you've you've been tagging along with Carson every now and then. Not on a specific, like, watch duty or anything, but, you know, you've you basically have gotten to the point where you're more, where, you know, occasionally, if if Carson asks you to do it, you'll you'll go on a you'll go on a walk police on patrol. That's right, buddy.
+Karsten, Karsten and Simear, you are on patrol right now. You've been you've been requisitioned by, the order, Karsten, to nap to walk around the the the community, on patrol looking for things that need to be things that need to be addressed and or looking for, insurgence of things that might need to be, well, taking care of it in in a more martial way. Simear, you are not necessarily part of the the city guard, but you have been, but you've been, you know, you've you've been tagging along with Karsten every now and then.
+
+Not on a specific, like, watch duty or anything, but, you know, you've you basically have gotten to the point where you're more, where, you know, occasionally, if if Karsten asks you to do it, you'll you'll go on a you'll go on a walk police on patrol. That's right, buddy.
 
 So you two are, going that are going that route. Our as as the as the community dad and and, and, person of, person of joy in the Yeah. In the, community. You are in the, you're you're in the marketplace yourself, probably doing some sort of doing some sort of, performance of some kind, whether it's music or telling stories or or whatever it is that you do. Mhmm.
 
-You you're basically, you know, providing some flavor and some color to to the marketplace while it's open. Kahir, you you as you're as you're working on the iron, just hammering hammering out, a a flat, hammering out something on on the, on the for or in the forge, you feel a rumble in the ground, which takes which takes your attention, especially with the, with the destruction of the of the, of the flaming retribution. The, the the earthquakes, the fire, the brimstone, it all comes rushing back to you as you feel what is unmistakably an earthquake. You move you you move out of the, out of the smithy and move towards, run towards the sound as this at the same time as Karsten and Samir get get word of this and start running in that general area as well. Our the crowd that has surrounded you, you you basically you you shoo them off as as, you know, something something, strange is happening.
+You you're basically, you know, providing some flavor and some color to to the marketplace while it's open. Cahir, you you as you're as you're working on the iron, just hammering hammering out, a a flat, hammering out something on on the, on the for or in the forge, you feel a rumble in the ground, which takes which takes your attention, especially with the, with the destruction of the of the, of the flaming retribution. The, the the earthquakes, the fire, the brimstone, it all comes rushing back to you as you feel what is unmistakably an earthquake.
 
-You're trying to trying to get them to get out of the to get out of the area. You all converge in in the spot that Auer was at with a makeshift stage that he was on. And all of a sudden, as you as the four of you converge in this, really, it's more of a 30 foot, 30 foot area, the ground itself erupts with an explosion, and you fall through a hole. Oh, you are, you grab at different rocks and different things to try and to try and stay your fault, but you are but you are unsuccessful in being able to, in being able to escape it. However, with all of the with all the ways that you've grabbed at you know, with all the ledges and things that you grabbed at, you were able to break your fall enough that none of you take any damage from from the from the fall.
+You move you you move out of the, out of the smithy and move towards, run towards the sound as this at the same time as Karsten and Simear get get word of this and start running in that general area as well. Our the crowd that has surrounded you, you you basically you you shoo them off as as, you know, something something, strange is happening.
+
+You're trying to trying to get them to get out of the to get out of the area. You all converge in in the spot that Auer was at with a makeshift stage that he was on. And all of a sudden, as you as the four of you converge in this, really, it's more of a 30 foot, 30 foot area, the ground itself erupts with an explosion, and you fall through a hole. Oh, you are, you grab at different rocks and different things to try and to try and stay your fault, but you are but you are unsuccessful in being able to, in being able to escape it.
+
+However, with all of the with all the ways that you've grabbed at you know, with all the ledges and things that you grabbed at, you were able to break your fall enough that none of you take any damage from from the from the fall.
 
 And you land on a, on a smooth stone surface, surrounding you. You look around, taking everything in very quickly. You find yourself on a bridge with a with a lake of sand underneath it, to, at the end of the bridge, you see a temple. You see a temple, that looks like it wasn't necessarily meant to be an underground temple, but it's sitting in this cavern. Amongst the rubble, you see corpses and and broken bones and a number of goblins that are smoldering and, they are smoldering and and, you know, unconscious.
 
@@ -61,7 +101,7 @@ I'd like to reroll. Possible? Oh, yeah. You do have a hero point. That is possib
 
 Well, there you there we go. I'm last? No. You're not. No.
 
-I I should be last. What what did Samir rule? The cumulative eight, not a one. Eight? Yeah.
+I I should be last. What what did Simear rule? The cumulative eight, not a one. Eight? Yeah.
 
 Improved my, previous roll by rolling a four. You need to get better at roll. He said I really like character. His pictures of the characters are pretty wicked. Yeah.
 
@@ -77,15 +117,15 @@ Gizmo Gizmo had a bad day. Yeah. Bones that you that turned into a skeleton look
 
 Holy crap. Yes. Corpse. Wow. It's Woah.
 
-Shambling towards you looking like that. Alright. Okay. It's not like right? I'm sorry, Alwar.
+Shambling towards you looking like that. Alright. Okay. It's not like right? I'm sorry, Alwor.
 
 That might give you a bad day. Oh, yeah. Yeah. Yeah. Okay.
 
-So No. I don't see any guys have so you guys have dropped from a great distance. You just you're taking everything in, and all of a sudden, these all of a sudden, you find yourself under attack. Alwar, what do you do? Well, question.
+So No. I don't see any guys have so you guys have dropped from a great distance. You just you're taking everything in, and all of a sudden, these all of a sudden, you find yourself under attack. Alwor, what do you do? Well, question.
 
 What is the light condition down here like? It is there there are no there are no lights in here, but there's enough light coming from the coming from the whole The bing, the whole to give you the ability to see around. Okay. Alright. Cool.
 
-Cool. Cool. Excellent. Elwar kind of gets up, brushes himself off a little bit. Like, oh, that was a nasty what the hell is that?
+Cool. Cool. Excellent. Alwor kind of gets up, brushes himself off a little bit. Like, oh, that was a nasty what the hell is that?
 
 Yeah. What do I do? Well, yeah. I think that is going to be about the best thing that I can do. That seems fine.
 
@@ -95,7 +135,11 @@ You know you know each other you know each other by sight and by name, at the ve
 
 Okay. I mean, I'm good knowing everyone. I imagine I just think you're a little strange. That sounds about right. Alright.
 
-So I'm gonna move. And as I do, so I'm gonna look at everybody, and in turn, you know, kind of call them by name. Karsten, Sameer, Jahir. Is everyone alright? And, I'm going to pass shield.
+---
+
+### Session Play - Part 2
+
+So I'm gonna move. And as I do, so I'm gonna look at everybody, and in turn, you know, kind of call them by name. Karsten, Simear, Jahir. Is everyone alright? And, I'm going to pass shield.
 
 That seems appropriate. Probably a good idea. So we're gonna do that. And when you cast it, you will need to drag the spell effect shield onto your, token for it to take effect from the. How do you do this?
 
@@ -203,7 +247,11 @@ Yep. Starting out strong. Alright. Chris can't control the everybody knows Chris
 
 Level one. Game's fault. Yeah. And there there's a reason why I'm wanting to bum rush you to level five because, you know, when when you get to level five, you should be strong enough to be able to handle a lot of these a lot of these things without, I mean, bad rolls are gonna be bad rolls, but it'll be a little bit easier. Right.
 
-So the next step is the, the corpse. It's gonna move forward. So it is to move up to Carston. Also, Clark, it should be noted that you do have when you are engaged with, undead, you do have abilities that specifically target undead and specifically damage undead. So that's something to just Yeah.
+So the next step is the, the corpse. It's gonna move forward. So it is to move up to Karsten. Also, Clark, it should be noted that you do have when you are engaged with, undead, you do have abilities that specifically target undead and specifically damage undead. So that's something to just Yeah.
+
+---
+
+### Session Play - Part 3
 
 I had to lay on hands, but I didn't like the damage. So there's something else I'm missing? No. But let but dude, you're level one. Lay on hands is good damage.
 
@@ -225,7 +273,7 @@ Because the second time is at negative five, the third time is at negative 10, w
 
 It shambles up to Karsten, and then it will attack with its it reaches out to grab Karsten. It is unsuccessful. Yeah. Which is actually very good for cars. Zombies are scary.
 
-And then the other, the other goblin pulls out a short bow and aims at Samir and shoots. Sameer, you take a one of the arrows grazes your shoulder, taking you take two points of damage. Then I did it automatically. Okay. Yep.
+And then the other, the other goblin pulls out a short bow and aims at Simear and shoots. Simear, you take a one of the arrows grazes your shoulder, taking you take two points of damage. Then I did it automatically. Okay. Yep.
 
 And he's gonna move up and and he doesn't have anything better to do at the moment, so he's gonna take another shot. And he's gonna crit. So he he moves to a better position, fires, and you take and you and it goes from a arrow grazing your shoulder to one hitting you straight in the chest, dealing eight points of damage. Oh. But on the bright side That's not great.
 
@@ -243,11 +291,11 @@ Don't really I've got one more action that I can take. Yes? No. You the runic we
 
 That was two. Okay. And then we Yeah. You are at the end of your turn at the moment. Okay.
 
-That's good. But on the bright side, you are hiding behind a big, a big buff fork half Target. So chances are you're not gonna get shot again. There was no AC bonus to, Alwar's thing, was there? No AC.
+That's good. But on the bright side, you are hiding behind a big, a big buff fork half Target. So chances are you're not gonna get shot again. There was no AC bonus to, Alwor's thing, was there? No AC.
 
 Just attack and damage. Okay. Didn't see anything change there, so I just wanna make sure. Alright. Oh.
 
-Speaking of Brian. Or Alwar, you are out. Well, we're gonna do yeah. Let's do the thing. We are going to target the goblin in front of Cahir, and, I am going to demoralize him.
+Speaking of Brian. Or Alwor, you are out. Well, we're gonna do yeah. Let's do the thing. We are going to target the goblin in front of Cahir, and, I am going to demoralize him.
 
 So I'm going to shout at him, something effective, you know, hey. Leave my friends alone. I point at you here and say some of the effect of, like, he's gonna get you. And I will try to demoralize him. He has to make a will save.
 
@@ -261,7 +309,7 @@ So he is freighted to one now. Alright. I will pull that over. Excellent. So fri
 
 All of his attack roles, his AC, even throw, everything, which is pretty good. That's great. Except he's gonna go before to here. That's not good. Maybe you should have thought that went through a little more.
 
-That's okay. That's what we did. Next up, we are going to, turn to, our friend, Samir, and, say, hey. You're not you're not doing so well. Let me, let me help you out.
+That's okay. That's what we did. Next up, we are going to, turn to, our friend, Simear, and, say, hey. You're not you're not doing so well. Let me, let me help you out.
 
 And I'm going to cast soothe, which will heal for seven. Seven heals. And did you already apply that, Jason, or did I have the button? No. I did not.
 
@@ -319,6 +367,10 @@ Wrong one. Just a minute. Here we go. Okay. Three on a critical.
 
 If it fails, it takes a negative 2¢ penalty to AC for one round. So it definitely did that. And then it looks like outside it looks like there's no additional thing for that, but it does take double damage because of Critic. So alright. So, yeah, you you you have you, you mold the divine light to playfully in on in in your hands and kind of do a kameyamey a with with with one of the with one of with your sword hand, basically punching the the the zombie creature.
 
+---
+
+### Session Play - Part 4
+
 And it takes, it it takes a few steps back. The the necrotic skin begins to just peel and fade, in in its in its chest and now has a big cavity where there wasn't any before. Yeah. And, yeah. And you raise your shield.
 
 Good. Perfect. Alright. So the frightened the frightened goblin is going to, to, scare her, that's for sure. More local creatures, they have a whole lot of options.
@@ -329,7 +381,7 @@ And that is its turn. Mhmm. Khair, you are bulked up and ready to go. What are y
 
 Must attack with all of vengeance. Come on. You hit. I hit. Hey.
 
-And I would like to point out that you hit because you had a runic weapon. Thanks, Sameer, because you had courageous hands up. Thanks, Alwar, and because he was because he was well, I mean, he wasn't he wasn't frightened. Oh, and that's just a normal hit. Yeah.
+And I would like to point out that you hit because you had a runic weapon. Thanks, Simear, because you had courageous hands up. Thanks, Alwor, and because he was because he was well, I mean, he wasn't he wasn't frightened. Oh, and that's just a normal hit. Yeah.
 
 That's a normal hit. Alright. And you basically you swing your and just just for everybody's reference, he's got a large sized axe. So he doesn't he's got a he's got a great ax that is the size of his entire body that he's swinging around. And he he winds up, does a perfect does a perfect swing.
 
@@ -363,7 +415,7 @@ It is going to switch out its short bow for its dog slicer, which is one action.
 
 Dealing one point of damage. Shit. It's good to hear. It's gonna see what just happened, and it's going to move away. That is its turn.
 
-Sameer, you're up. Would it be I don't yeah. K. I was thinking about this? Like Yeah.
+Simear, you're up. Would it be I don't yeah. K. I was thinking about this? Like Yeah.
 
 How do I do this? Oh, yeah. Yeah. Excellent. Yes.
 
@@ -421,11 +473,15 @@ And then I'm gonna turn to Cahir, and I'm going to, cast items on him with, my r
 
 Give you a plus one for your, for, plus one status bonus on one attack or perception checks that you throw or skin checks. You will have access to that. Karsten, you have two very dead undead creatures in front of you. Oh, and I do want to also just want to point out that your, that your lay on hands with the zombie, actually did make an effect for the, with the talc connect projectiles. The what?
 
-For Samir's attack, your, yeah. Laying out of humans. Yeah. You're laying on hands. I I I believe, had had an effect on on his on his role to hit.
+For Simear's attack, your, yeah. Laying out of humans. Yeah. You're laying on hands. I I I believe, had had an effect on on his on his role to hit.
 
 So Oh, gotcha. Gotcha. Like, I'm I'm doing my best to point out when your stuff actually matters because it actually does. Okay. So those status effects are huge in this game.
 
-So, but, Carson, you are up. You have two dead zone you have two dead undead. It's two real dead things in front of you, and there is a, a goblin that is trying to trying to get trying to escape. What do you do? I mean, I've Hang on.
+So, but, Karsten, you are up. You have two dead zone you have two dead undead. It's two real dead things in front of you, and there is a, a goblin that is trying to trying to get trying to escape. What do you do? I mean, I've Hang on.
+
+---
+
+### Closing and Table Discussion - Part 5
 
 I will move 25 is it 25 feet? Yeah. You've got 25 feet. I move here, and on my way, I pick up that little tiny short knife from the other goblin that has a splat mark, and can I just whip it at the I I don't know what else to do? I don't have a range weapon.
 
@@ -437,7 +493,7 @@ And then I go to whack the guy. No. That's it. Get him. Alright.
 
 Night. Oh, oh, oh, I don't know what happened. I I don't know. I'm not small. I'm with my character.
 
-Says it's my turn, but it shouldn't be yet. Oh. Nope. I'm going. Alright, Carson.
+Says it's my turn, but it shouldn't be yet. Oh. Nope. I'm going. Alright, Karsten.
 
 Whack it. Oh, man. That's a crit. Oh. You're a lacquer.
 
@@ -453,4 +509,4 @@ Yeah. I don't Alright. So the combat has finished. You guys get a 160 XP for thi
 
 I don't have to do anything? Correct. Good. Excellent. So you again, you're just kinda taking taking, stock of of what's going on, At you know, as you finish off this combat, it's only been a few seconds since you since you landed, and you start hearing people calling down, from the from the ceiling.
 
-Cahir, Awol, Karsten, Samir, are you alright? Looking up, you see, a few heads poking poking, out, looking looking down the hole. Again, like, the area itself is, like, there's scorch marks all over the place, signs of explosions. There's more undead, that are that are dead, undead, and more goblins than than these. These were just the ones that survived the initial, the initial, event.
+Cahir, Awol, Karsten, Simear, are you alright? Looking up, you see, a few heads poking poking, out, looking looking down the hole. Again, like, the area itself is, like, there's scorch marks all over the place, signs of explosions. There's more undead, that are that are dead, undead, and more goblins than than these. These were just the ones that survived the initial, the initial, event.

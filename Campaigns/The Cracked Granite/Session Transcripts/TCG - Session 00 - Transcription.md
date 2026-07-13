@@ -2,38 +2,69 @@
 type: transcript
 campaign: "The Cracked Granite"
 session: "00"
-tags: [type/transcript, campaign/cracked-granite]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/cracked-granite
 ---
 
-# TCG - Session 00 - Transcript
+# The Cracked Granite - Session 00 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-### Game System: Pathfinder 2e
+> [!abstract] Campaign context
+> The Cracked Granite follows dwarven agents of Ironhold as the kingdom reopens its gates, explores the transformed surface, and confronts the political struggle between expansion and isolation.
 
-| Character | Player | Class (Subclass)               |
-| --------- | ------ | ------------------------------ |
-| Demlor    | Jason  | Kinetisist (Metal Gate)        |
-| Hurgan    | Scott  | Ranger (Flurry)                |
-| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+## Characters
+
+> [!note] Game system
+> Pathfinder 2e
+
+| Player | Character | Class | Subclass |
+| --- | --- | --- | --- |
+| Jason | Demlor | Kineticist | Metal Gate |
+| Scott | Hurgan | Ranger | Flurry |
+| Ramsey | Rurik | Gunslinger | Way of the Sniper |
+
+## Quick Navigation
+
+- **Next:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 01 - Transcription|TCG - Session 01 - Transcription]]
+- [[#Campaign Setup and Character Creation]]
+- [[#Character Creation - Part 2]]
+- [[#Character Creation - Part 3]]
+- [[#Character Creation - Part 4]]
+- [[#Character Creation - Part 5]]
+- [[#Character Creation - Part 6]]
+- [[#Character Creation - Part 7]]
+- [[#Character Creation - Part 8]]
+- [[#Closing and Table Discussion - Part 9]]
+
+---
 
 ## Transcript
+
+### Campaign Setup and Character Creation
 
 Try six Yeah. The game is paused because I have it paused. So And you're recording. And I'm recording, so I can keep track of what decisions you guys make and be able to plan accordingly. I do have an adventure, but I do also like to use my players' back stories and different things that they've come up with to kinda help them along.
 
 So, as you guys know, we are playing, team dwarf. So, we are this adventure itself, the craft granite is going to be taking place in the, Northern Mountain Range of do do I have it, but not readily available. But it's in the northern it's in the Northwestern Mountain Range of, Solaris. So kind of like where you guys were on the map, where you guys were on the map, Northwest. There's a big mountain range on the Western side.
 
-This is in the Northwestern Mountains. The name of the community, is Iron Hold. And I have before we start building characters, I do have a little, a little introduction, to read that may help influence your decisions and things. So, so I'll go ahead and get started with that, and then we can start talking characters. So, when the flaming retribution scores the surface of the world, the dwarves did not burn.
+This is in the Northwestern Mountains. The name of the community, is Ironhold. And I have before we start building characters, I do have a little, a little introduction, to read that may help influence your decisions and things. So, so I'll go ahead and get started with that, and then we can start talking characters. So, when the flaming retribution scores the surface of the world, the dwarves did not burn.
 
 They sealed their gates, reinforced their falls, and endured. For a year, Ironhold remained silent. Its people surviving by stone, steel, and stubborn and stubborn will. Now the gates have opened. Ironhold is a kingdom of clans.
 
-Each clan has its own traditions, its own strengths, miners, warriors, scholars, traders, mystics, and scouts. Some dwarves are born into these clans. Others walk alone clanless, but without per both, not without purpose. King Hargren Deepmantle believes in believes the time has come to reclaim the surface. He sent out colonies, small footholds in the wilds to reestablish dwarven presence in the world.
+Each clan has its own traditions, its own strengths, miners, warriors, scholars, traders, mystics, and scouts. Some dwarves are born into these clans. Others walk alone clanless, but without per both, not without purpose. King Hargrin Deepmantle believes in believes the time has come to reclaim the surface. He sent out colonies, small footholds in the wilds to reestablish dwarven presence in the world.
 
 Not all agree. Two factions now shape Ironhold's future. Isolationists believe their surface is still cur the surface is still cursed and that Ironhold must remain sealed and self sufficient. Expansionists believe that the world is ripe for reclamation, and the dwarves must rise again as builders and rulers. Tensions simmer, old grudges stir, and the fate of Ironhold may rest in the hands of those willing to walk beyond the granite walls.
 
 You are dwarves of renown, adventurers, soldiers, champions. You are not bound by politics, but you are trusted to act with strength, wisdom, and honor. Before you choose your path, ask yourself, what plan do you hail from, or are you a planless, and what what do you believe Ironforge should become? The stone endures, but even stone can crack. So the thought behind this adventure is there are these political under undercurrents in Ironhold itself.
 
-You are adventurers or soldiers or, you know, people that have made yourselves, made yourselves, known in the halls of Ironhold, as you've as you've done other things, hence the, hence the level three. In this, you the the adventure itself is going to be is going to be more of an exploration based adventure, with potential political undertones. So that's basically kind of what you're looking at as far as, like, you know, character creation, that kind of stuff. If you want, if you're building as you're building, you know, that those are those are the those are the tones of what the adventure is is gonna is going to be or at least my idea of what it's going to be. You may decide to turn my ideas on their head The first five minutes, that would start playing, but, you know, here we are.
+You are adventurers or soldiers or, you know, people that have made yourselves, made yourselves, known in the halls of Ironhold, as you've as you've done other things, hence the, hence the level three. In this, you the the adventure itself is going to be is going to be more of an exploration based adventure, with potential political undertones. So that's basically kind of what you're looking at as far as, like, you know, character creation, that kind of stuff. If you want, if you're building as you're building, you know, that those are those are the those are the tones of what the adventure is is gonna is going to be or at least my idea of what it's going to be.
+
+You may decide to turn my ideas on their head The first five minutes, that would start playing, but, you know, here we are.
 
 So with that, does anybody have any ideas as far as, like, what class that they would want to, play from a dwarven purse from from that perspective at least. I'm assuming that we're not gonna be isolationists or whatever that clan was. You could be. You know? And you don't have to choose the same as the other people.
 
@@ -83,6 +114,10 @@ I'll get it. An exemplar is a, that is a, that's what Clark wants to be. It's it
 
 Okay. I can't be that. Hard boiled. Against my religion. Who didn't know that?
 
+---
+
+### Character Creation - Part 2
+
 Can dwarves be monks? Dwarves can be monks. Dwarves make great monks. Just tough because the fighter is an expert in all the weapons already. True.
 
 True. And like like I said at the beginning, like, if you wanna if you want if both Jason and if Jason, both you and Scott wanna play fighters, play fighters. Don't feel like you have to pick something different. That's perfectly fine. What are you thinking, Ramsey?
@@ -107,7 +142,7 @@ But it doesn't necessarily mean that you are, like, teammates right this very mi
 
 Nobody really is quite ready to be a wizard. Right. God. Being a wizard is is its own unique, fun, little mini game. But, no, you should be ranger.
 
-Okay. Loving it. What is what is this kineticist? I'm I'm not The kinetisist is it's it's it's kind of this it it's weird is what it is. It's basically a it's a class where you are infused with certain elements.
+Okay. Loving it. What is what is this kineticist? I'm I'm not The Kineticist is it's it's it's kind of this it it's weird is what it is. It's basically a it's a class where you are infused with certain elements.
 
 There are six elements in Pathfinder. There's fire there's fire, earth, air, and water, but there's also metal and wood as well. And as a kinetics, you attune yourself to one of those elements or two of those elements because you can do two, and you use powers that are called impulses that, basically shape those elements. If you're at all familiar with, Avatar, the the last airbender, like that sort of stuff, like, that's kind of what Kinesis is. Okay.
 
@@ -162,6 +197,10 @@ If you think you'll use a pistol more, get a get a pistol. If you think you'll b
 Alright. Thank you. Yep. So once you've gotten your ancestry, now it's time to pick your heritage. So if you go to the check mark checkbox next to your heritage, that will bring up all of the dwarf heritages plus any plus any all of the, all of the, what are they called?
 
 Versatile heritages, which are the things like the dragon the dragon blooded, the Asammar, the half orc, and that kind of stuff. But the first things that you're presented are going to be specifically dwarf things. So you can pick any one of those. And if you're not sure which one to pick or you wanna know more information, that's the check mark. There's a little little notepad.
+
+---
+
+### Character Creation - Part 3
 
 If you click on that, it'll pop open the it'll pop open a description. Any references to any proper named characters may or may not be correct, but you can at least get the general gist of of what the of which dwarf ancestry or which dwarf heritage you want. And I'm just, I I I don't know, Jason. I don't know if this is the the right call or not, but since you're playing in Kineticis, there's this elemental heart dwarf. Seems like it might go well.
 
@@ -236,6 +275,10 @@ At the end of the day, sort of course, interesting. Gosh, you start choosing fea
 Here we go. So you are automatically trained in nature. You're automatically trained in survival, and you have a number of additional skills equal to four plus your intelligence modifier. So you can be trained in four plus your intelligence modifier skills, on top of nature and survival. So my intelligence is plus one, so I just get four?
 
 You get five. Okay. How close is that? Somebody's attacking somebody. You can go with an easy one, could you, Ramsey?
+
+---
+
+### Character Creation - Part 4
 
 I don't know what you're talking about, Chris. I just snuck a peek. I see what's going down here. I was between this and Gunslinger, to be fair, so it was either gonna be real simple or real complicated. I'm gonna have to get some summoner stuff.
 
@@ -345,6 +388,10 @@ So those sorts of things are what the acrobatics are versus the athletics, which
 
 Suggestions on the last one. I don't I picked all the ones. I'm like, I would, like, care about this one. Okay. In your demo lore?
 
+---
+
+### Character Creation - Part 5
+
 I'm I'm trying to avoid survival, believing that that's gonna be taken care of by Oregon? Well, something that could be handy. Thievery might be a good one. Your, if, you know, that that could be used for picking locks, disabling traps, you know, it doesn't mean that you're it doesn't mean that you that you're just straight up a thief with a thievery skill. It just means that you're, you know, you've you're you're nimble with your hands.
 
 Right? Yeah. Okay. Sounds good. Check me out, Chris.
@@ -441,6 +488,10 @@ Yeah. I'm not I'm not looking at those ones, I guess. Like, none of those are mi
 
 Right? No. This these are the, you know, these are the kinetisys metal or Not the ancestry feats. Oh, I'm sorry. I thought you were looking at kinetics stuff.
 
+---
+
+### Character Creation - Part 6
+
 My mistake. Not yet. I I was gonna do the two ancestry feats and That that makes sense. Oh, we did we did we did discover with those that if you, that the ancestry paragon, you need to go into the trade section and type in dwarf in there in order to be able to get only the dwarf feats. They don't filter it like they did in the original one.
 
 K. So that should make it a little bit easier on you. Scott, did you take wilderness born? In what? Wilderness born.
@@ -471,7 +522,7 @@ Well, it's like the, it's like the, the four, in three five, there was a and I t
 
 But, the flavor is more is more monk ish, which is probably why you're picking up that thief vibe because monks and thieves kind of have similar abilities. Okay. But it's not necessary that you be, you know, I I'm not trying to pigeonhole you into a monk, which is why I really haven't talked about it because it's, you know, you can be a you can play Knessis any kind of which way you want to. But like basically kind of the way that a lot of people think about like when Knessis are doing their thing and basically doing these elemental blasts and stuff. It's like they make they they perform certain hand gestures and kind of, like, do things that kind of create, create the the the the the the bending or the elemental mastery, if you will.
 
-Although that's just flavor. Right? So if you wanna if you wanna do that if you wanna do the character like, like Magneto, where he just kinda thinks and things happen, that's perfectly that's perfectly allowed in the in the general flavor of of the kinetisist. Okay. And if you wanna know kind of what your what your attacks and things will look like, I did go ahead and use your channel elements and put it on your character.
+Although that's just flavor. Right? So if you wanna if you wanna do that if you wanna do the character like, like Magneto, where he just kinda thinks and things happen, that's perfectly that's perfectly allowed in the in the general flavor of of the Kineticist. Okay. And if you wanna know kind of what your what your attacks and things will look like, I did go ahead and use your channel elements and put it on your character.
 
 So if you go over to your actions section there, you'll see an entry called Elemental Blast Metal. That's your that's your main attack. Chris, can I ask one quick question? Absolutely. What's that?
 
@@ -514,6 +565,10 @@ Inside the compendium browser, you'll want to deselect the shield and weapon on 
 And that is all of the permanent items that are level two that you have access to. Now if you're looking for a specific sort of permanent item, say a weapon or a shield or armor or equipment, or something like that, you can go through the inventory types and and pick that, and that will give you an idea of what's available at level two. However, Does it matter how much it costs? No. Our rooms for weapons and armor are taken care of, right, with the whatever whatever?
 
 Yeah. Yep. Automatic. Got it. Duck.
+
+---
+
+### Character Creation - Part 7
 
 Yeah. The automatic rune progression. Yeah. Mhmm. Mhmm.
 
@@ -594,6 +649,10 @@ One don't feel like you're making the wrong you have to make the right decision 
 I've made so many terrible decisions tonight. I don't know what to do. It's gonna be fine. Orin It's got all kinds of deals. You're gonna be just fine.
 
 Two two two two two two. Hands. Hands. How are you doing, Jason? I'm gonna play that.
+
+---
+
+### Character Creation - Part 8
 
 Not seeing much for the skill feed somewhere. Oh, this is great. They're they're not gonna be done. They're like, I mean, these aren't gonna be great things. So and they're not going to make your character more powerful.
 
@@ -704,6 +763,10 @@ You have zero strength. Yes. Do so, like, hammer would be bludgeoning. That's ob
 Not everything. I think that there are some finesse weapons that are agility, but those are like daggers and Dagger. Rapier. Yeah. Those things.
 
 So if you're looking to smash something k. Then that's, you know, then then you're looking at strength. So I have a slot charisma. Yeah. Everybody does.
+
+---
+
+### Closing and Table Discussion - Part 9
 
 Welcome to Orbs are not known for their charismatic tactics. Yeah. So, Scott, while we're while we're waiting for other folks to kinda get caught up. There we go. Get going here.
 

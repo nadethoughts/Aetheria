@@ -42,3 +42,13 @@ Aetheria holds far more than [[Solaris]] alone. Across its seas lie:
 - **Other Continents** – Whispers speak of frozen northern kingdoms, southern deserts of glass, and archipelagos where ancient gods walked.
 - **The Heavens and the Below** – Planes of existence beyond the mortal world, where the divine pantheons wage their eternal wars and mortals draw their magic.
 For now, [[Solaris]] is the **center stage** of the age to come. Yet Aetheria as a whole waits, alive with mysteries, for those daring enough to uncover them.
+
+## Fourth Age Campaign Revelations
+
+Events revealed across the active campaigns have established several major Fourth Age crises:
+
+- **The renewed Giant War:** [[Ironhold]] exposed an internal betrayal and discovered giant armies and elemental allies gathering around [[Far Grand]].
+- **The [[War for Balshar]]:** The dragon [[Razor]] is attempting to dominate the [[Balshar Mountains]], opposed by the [[Erie]], [[Cloud Seers]], and a growing coalition.
+- **The Tidewatch crisis:** Reclaimers in [[New Penmaris]] reached the [[Temple of Miraine]] and [[The Pearl]] beneath a ward filled with Coralite, Pearlbound dead, pirates, and storm cultists.
+- **The return of the Veilcant Guard:** Reincarnated La Pelu recovered memories, relics, and part of the [[Llano]] while [[Vorath the Betrayer]] sought control of [[The Great Time Turner]].
+- **The shadow beneath Balshar:** The [[Axe of Snaggletooth]], Alder's missing heirloom, the [[Undershadow]], and the [[Shadow Well]] now form a second danger beneath the mountain war.

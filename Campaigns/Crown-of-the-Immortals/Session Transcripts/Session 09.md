@@ -2,12 +2,47 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "09"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 09 - Transcript
+# Crown of the Immortals - Session 09 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 08|Session 08]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 10|Session 10]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 I'm gonna start this recording off. Ramsey, we miss you. Alright. Listen. So when last we met, you guys were continuing to move through the tunnels for the goblin players.
 
@@ -27,7 +62,7 @@ Yep. Okay. That looks kind of like a cross between That's great definition. It's
 
 It's a lot taller than a goblin. It's a it it's larger it's a larger scale, but it also doesn't look like it was even if it was scaled appropriately, that it would be the size of a goblin. It looks more along lines of of its proportions look more along the lines of the elf that you guys defeated. It's standing on a pedestal, and there are a number of mementos and or offerings that are at the feet of the pedestal here. And I will go ahead and pull you into the Nice.
 
-Map so that you can get over there. So, so and and the, the floor itself is the is cleanest that you've seen any of the floors here. There are some mats, laying across the floor as well. This for lack of a better term, especially, Carson, you would you you'd be able to identify this as it seems like this is some sort of, some sort of chapel sort of situation. It seems to be set up like a chapel.
+Map so that you can get over there. So, so and and the, the floor itself is the is cleanest that you've seen any of the floors here. There are some mats, laying across the floor as well. This for lack of a better term, especially, Karsten, you would you you'd be able to identify this as it seems like this is some sort of, some sort of chapel sort of situation. It seems to be set up like a chapel.
 
 Yeah. So anything you wanna do while you're here? I would like to I mean, I'm not close to that statue. I'd I'd like to just look at it to see if there's any other types of markings or information that would be helpful. K.
 
@@ -51,11 +86,11 @@ You you notice that there's some iconography on the, on the base of the altar. I
 
 You do also notice that there's a blood stained letter, that is basically kinda wedged to be a base and the foot of the statue. Like a letter letter? Like a letter letter. I will look at the letter letter. Alright.
 
-Or I will go and reach and grab it if it looks safe. Sameer is going to, not use a healing potion because he already did, and it was worthless. So, he would, however, like to post himself, if he may, over in this kind of area here. It just offer a bit of a lookout while we're doing some exploration. Yeah.
+Or I will go and reach and grab it if it looks safe. Simear is going to, not use a healing potion because he already did, and it was worthless. So, he would, however, like to post himself, if he may, over in this kind of area here. It just offer a bit of a lookout while we're doing some exploration. Yeah.
 
 Because we're in, like, a little alcove, right, or a cove. Like, you can't Right. We don't we don't see anything, like, you could get in and out. You're just kinda trapped here. Mhmm.
 
-K. No problem. Yeah. So, Samira, go ahead and roll a perception to see if you can, find many people there. So Clark or, the letter as you pull it out is stained with blood, but, you are able to, basically, you pull it out and, open it up, and it's mostly intact.
+K. No problem. Yeah. So, Simear, go ahead and roll a perception to see if you can, find many people there. So Clark or, the letter as you pull it out is stained with blood, but, you are able to, basically, you pull it out and, open it up, and it's mostly intact.
 
 There is, among among the writings in the letter, there is a paragraph that kind of jumps out at you. It says, the betrayer is diligent in his efforts from the ruins of Ulthar. His servant his servants, creatures of the dark, work relentlessly to restore him to power. His desire to change what is good evil and undermine the light of the blessed realm drives him. May Raythellion's light e reach even the dark places and Justicar's scales ever be balanced against this evil.
 
@@ -71,7 +106,7 @@ I think I see what's happening. Okay. No adjustments to be made. Splendid. Six.
 
 Okay. That's a six. Yeah. Straight on to your So you rolled an 11, for that. You are not see there there aren't any specific, I mean, you're you're keeping watch, but you don't really see anything that's specifically, like, coming out for that.
 
-That's right. For, the blood stained letter, it's currently in Carson's inventory. So if you wanna go back and reread it, there it is. But I can read the passage. The passage says the betrayer is diligent in his efforts from the ruins of Kofilar.
+That's right. For, the blood stained letter, it's currently in Karsten's inventory. So if you wanna go back and reread it, there it is. But I can read the passage. The passage says the betrayer is diligent in his efforts from the ruins of Kofilar.
 
 His servants, teachers of the dark, work relentlessly to restore him to power, His desire to change what is good to evil and undermine the light of the blessed realms of the blessed realm drives him. May Ray Filion's light reach even to the darkest places and Jesticar's scales ever be balanced against this evil. Okay. So do we have we ever seen this particular or have I seen this particular kind of deity or statue or this group? So yeah.
 
@@ -91,9 +126,13 @@ Just that. The the symbols themselves, the symbol the symbol themselves is basic
 
 I like it too. Yeah. Clarifying on the statue. So the statue doesn't fit the markings or the letter that we see? Yeah.
 
+---
+
+### Session Play - Part 2
+
 So Erebos is never really represented as a person. So it's kind of like, you know, it it's kind of like this it's kind of like this, you know, darkness that is surrounded by, you know, like, by a bunch of crows. So it's not like, there's a there's a personal representation. And, for all of, for all of Erebos' stuff, he is never once referred to as a betrayer. He's the he's the dark sovereign, or the sovereign of shadows, but he's never referred to as a betrayer.
 
-So so there's there's a little bit of a there's a little bit of a thing that doesn't really kinda match up. It just kinda seems kinda odd. Clark, can Carson make an occultism check? Perfect. Just waiting.
+So so there's there's a little bit of a there's a little bit of a thing that doesn't really kinda match up. It just kinda seems kinda odd. Clark, can Karsten make an occultism check? Perfect. Just waiting.
 
 Come on. Get good. If it's not high oh, I'm rerolling that. Let me let me I'm doing it. Is your hero point?
 
@@ -181,9 +220,13 @@ Role healing. There. I think my mouse is playing with me. Right. I don't see a d
 
 You got it? Well, no die happened because you just click on the well, maybe do you see an apply healing button underneath Karsten's on hands? Ah, yes. There you go. Okay.
 
+---
+
+### Session Play - Part 3
+
 So that's six. Okay. Good. Good. That puts me a little over halfway.
 
-Alright. Another ten minutes, and I'll test it. Oh, Carson is, refocusing. Sameer, I think I use one of my focus spells or something of that nature. I'll do the same focusing.
+Alright. Another ten minutes, and I'll test it. Oh, Karsten is, refocusing. Simear, I think I use one of my focus spells or something of that nature. I'll do the same focusing.
 
 And then I'll do one more on myself. Apply the healing, Jason. Oh, yes. Thank you. Look at that.
 
@@ -249,7 +292,7 @@ I think it's It's under attributes, and then you have to scroll that thing down 
 
 Look at that. Better than a five. I'm rolling hot tonight. Alright. Interesting.
 
-Okay. So, let's see here. Here in Carson, you notice that, there appears to be, some sort of raft coming through the stone. There appears to be some sort of hidden door. In order to be able to Oh, just a little bit.
+Okay. So, let's see here. Here in Karsten, you notice that, there appears to be, some sort of raft coming through the stone. There appears to be some sort of hidden door. In order to be able to Oh, just a little bit.
 
 Door. Maybe. In order to be able to get to the, in order to be able to get through the door, you are going to need this is just gonna be a straight up skill challenge, so there's not a, there's not a puzzle to solve on this specific one. You will need to make a, an investigation. Give me a second here.
 
@@ -305,9 +348,13 @@ Sorry. There it is. Oh, I got a good one. How do I switch this over right now? I
 
 I changed. Yeah. Your Your initiative religion. Right. It's because that was the last, role that you made.
 
+---
+
+### Session Play - Part 4
+
 You can hit to where it says perception or religion or crafting and just scroll and click on one different. Right. If you take your if you go to that little side menu that you have and you click on attributes and you've got initiative and you go to where perception is and you roll and you click that, that'll roll your perception initiative. But your crafting initiative and your perception initiative, I think, are the same. Okay.
 
-Not not just for everybody, but Sameer specifically. Well, my crafting is a plus six. My I guess my perception is a plus six. Yep. Okay.
+Not not just for everybody, but Simear specifically. Well, my crafting is a plus six. My I guess my perception is a plus six. Yep. Okay.
 
 Alright. And, Karsten, can you roll, you roll perception initiative as well? Looks like you got robotics. No slipping force. No.
 
@@ -319,11 +366,11 @@ I Oh, no worries. That's not a big deal at all. So you're at twenty one, and we 
 
 Yeah. So it's basically like there's a tunnel through the s. Okay. Who's first? I am.
 
-And then So Clark. Humanoid. Is Carson last? I can't oh, I how do I move that thing up top? Oh, like a little bit.
+And then So Clark. Humanoid. Is Karsten last? I can't oh, I how do I move that thing up top? Oh, like a little bit.
 
 Need to move it, like, one space over because everything's hitting it. Can't. I, I I have it I have it I have it in that position. I'll I'll switch it back to the center for next time, but you are first. So Okay.
 
-Carson Europe. I I so if you're moving that, then I am going to move I'm gonna get hammered. I'm gonna move 20 or I'm not gonna move anything. Why? Well, for the reason, I can move okay.
+Karsten Europe. I I so if you're moving that, then I am going to move I'm gonna get hammered. I'm gonna move 20 or I'm not gonna move anything. Why? Well, for the reason, I can move okay.
 
 There. 15. I I can only move 15. Should be able to move 20. Right?
 
@@ -349,13 +396,13 @@ I did. I got one. It was it was an eight or a seven and then moved on me. Gotcha
 
 Alright. I'm done. Alright. So you run up to the guy, run up to this specific guy, which which is a, kind of common goblin warrior. Run up to it and point at it.
 
-Next up is his turn. He's going to move back over here and wait. First things first. Not gonna move he he's going to pack Carson first with a sword for three points of damage. Boom.
+Next up is his turn. He's going to move back over here and wait. First things first. Not gonna move he he's going to pack Karsten first with a sword for three points of damage. Boom.
 
 Off my armor. It still gets me. I can just keep doing that. Just leave it alone. But and he's gonna run away, and he's going to enter into a goblin song.
 
 Ah, I could've killed him when I did. I can hear it. Alright. Which is going to fail Yes. Which is very sad.
 
-It's sad. And now, Sameer, you are up. Arced and get out of combat. Alright. I don't know what it's doing, but it's not even what I told you.
+It's sad. And now, Simear, you are up. Arced and get out of combat. Alright. I don't know what it's doing, but it's not even what I told you.
 
 Yeah. I clicked on my character sheet to get it to minimize, and it decided to do that. Oh, well, no worries. And go 35 feet or 30? 30.
 
@@ -373,15 +420,15 @@ That might be my highest damage on that spell. Oh. That's the And you do kill th
 
 The the one that was basically making a rant that was picky goblin song. You started melting out some pretty offensive lyrics and then got zotted to death. Mhmm. For speed. I'm looking good.
 
-Alright. The other guy took three damage? No. It's that guy's turn. He's going to move up, target Carson, and pull out his dog slicer back.
+Alright. The other guy took three damage? No. It's that guy's turn. He's going to move up, target Karsten, and pull out his dog slicer back.
 
 Oh. Miss. Yeah. Miss. Ouch.
 
 I splatted it. Spectacular. And it is time to refresh hero points so everybody gets a hero point. Yay. And then the other guy, he is going to take a look at the guy that zotted his buddies and Mhmm.
 
-Get him, pull out his, pull out his turbo. You I'm hitting for two points of damage to Samir. Oh. Then Samir. He's going to make a would you attempt to demoralize you with a rude gesture?
+Get him, pull out his, pull out his turbo. You I'm hitting for two points of damage to Simear. Oh. Then Simear. He's going to make a would you attempt to demoralize you with a rude gesture?
 
-That's me. He's gonna flash you. Samir. Thank you. And fail to make Samir demoralize.
+That's me. He's gonna flash you. Simear. Thank you. And fail to make Simear demoralize.
 
 Uh-oh. Good. So here, you're up. I really don't need to flank this guy. I think I can get up there with two moves.
 
@@ -411,11 +458,11 @@ Hit. Hit. Big damage again. What the heck? Oh, another one, Yeah.
 
 Anyway I'm like, dude. Try to kill him again. I wanna try him again. One damn it. Oh, jeez.
 
-Oh, god. That's Samir. Yeah. I can see that. That's just Now he's gonna critically hit you.
+Oh, god. That's Simear. Yeah. I can see that. That's just Now he's gonna critically hit you.
 
-I know what? Samir, you're up. Yep. Oh, Samir can kill him. Shoot.
+I know what? Simear, you're up. Yep. Oh, Simear can kill him. Shoot.
 
-Do it, Samir. I mean, I only took one damage from him, so I don't know how much life they have if they're traditional, but Got him. Alright. Let's do this. We'll do we'll do this.
+Do it, Simear. I mean, I only took one damage from him, so I don't know how much life they have if they're traditional, but Got him. Alright. Let's do this. We'll do we'll do this.
 
 Let's do this. Wait a minute. I'm rolling to it. I should be yes. Rolling to attack.
 
@@ -434,6 +481,10 @@ It just just takes, like, this flying leap in a nice, like, grand arc and just c
 Hey, crumples. Hey. We go up the level yet? Gotcha. Not yet.
 
 How do I grab the stuff? Oh, what stuff? Oh, party stash. Isn't there something right there? What is that elven elven skull thingy?
+
+---
+
+### Session Play - Part 5
 
 There is going to be time to cover that. Oh, that is not Luigi. Can we put most of the stuff in the parties? Is this the party stash? It is.
 
@@ -457,7 +508,7 @@ The only reason why Karsten is overloaded at this point is because he's carrying
 
 I am planning on let's let's hold off on leveling until, next session, and then we'll just get that all taken care of next session. Idea. I hit it, Chris. Sorry. You hit it?
 
-I hit it. Can I move the lethargy poison to Elwar? Yeah. Oh, that's a lot of bulk, though. What's four l mean?
+I hit it. Can I move the lethargy poison to Alwor? Yeah. Oh, that's a lot of bulk, though. What's four l mean?
 
 You guys can you guys can work that out in You can just keep it right where it's at. Right? Yeah. And we won't need it right this moment. Well, there's a lethargy poison for each of us.
 
@@ -523,7 +574,11 @@ Also, granted the that there was a, like, there's this mind worm that that was h
 
 Could be could be using a a specific blessing or specific phrasing, that that may work, that a specific phrase that may, that may break the incantation or the enchantment. If it's possible to move this, then, you know, some sort of, like, some sort of, like, terrifying water or holy water could as well could break the enchantment as well. And, you, yeah. So that that's what your cult if you is, like, there are a couple of ways that this might be able to be, broken. The Arcana, I'll I'll I'll still give you this because, you know, it's a it's something that you'd probably be able to put together, with, you know, with kind of cultivating this stuff.
 
-But, Sameer, you would also know or you would also kind of be able to put together that this is a mind control device, and the Goblins don't necessarily appear to be you know, they're they're kind of working differently than what you normally see goblins working as. They're working with elves, which is not a common thing. So you have some suspicion that there's something to do with this object that is causing the goblins to be acting the way that they are. So do I be mind may be in mind control? The domination statement from earlier.
+---
+
+### Closing and Table Discussion - Part 6
+
+But, Simear, you would also know or you would also kind of be able to put together that this is a mind control device, and the Goblins don't necessarily appear to be you know, they're they're kind of working differently than what you normally see goblins working as. They're working with elves, which is not a common thing. So you have some suspicion that there's something to do with this object that is causing the goblins to be acting the way that they are. So do I be mind may be in mind control? The domination statement from earlier.
 
 Do I know where to get holy water, or can I make holy water? Let me see here. Mhmm. There there doesn't appear to be any kind of spell that you're aware of that would create holy water, but there are, but holy water is definitely something that you can pick up. Like, holy water is something that you could pick up in a, at at any temple.
 
@@ -549,7 +604,7 @@ I thought there was a description in the chat. Chat. There is. You do have the l
 
 A Rethalians light reach even those dark places, and justicar scales are to be balanced against this evil was the last sentence. Right. So Alright. And Maybe a car salesman up what you're throwing down with the current current information. Like, I wouldn't know how to initiate.
 
-Was that part of the occult thing that you, age to hear? Carson did the occult, and Cahir did the religion. Okay. So alright. So part of what was was stated was that, there may be a certain phrase or Yeah.
+Was that part of the occult thing that you, age to hear? Karsten did the occult, and Cahir did the religion. Okay. So alright. So part of what was was stated was that, there may be a certain phrase or Yeah.
 
 Something of that nature that acts as a kill switch to the whole thing. Right. And so I'm suggesting that maybe part of the, the letter that we found on the statue Yep. That last sentence in there is a blessing that may counteract and and kill the enchantment on this horse skull, some unsuspecting victim. So, anyway So So Zach, being the religious zealot that you are, I thought, perhaps you would be the the prime candidate to read off this blessing to the skull and see if it shuts up.
 

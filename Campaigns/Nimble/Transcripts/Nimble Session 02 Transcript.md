@@ -2,30 +2,63 @@
 type: transcript
 campaign: "Nimble"
 session: "02"
-tags: [type/transcript, campaign/nimble]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/nimble
 ---
 
-# Nimble Session 02 Transcript
+# Nimble - Session 02 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> The Nimble campaign follows a mismatched posse from the livestock disappearances near Clackston and the Warren into the changing political dangers of the Balshar Mountains.
 
 ## Characters
 
-| Player | Character        | Class        | Ancestry   |
-| ------ | ---------------- | ------------ | ---------- |
-| Dave   | Umbrail          | Mage         | Birdfolk   |
-| Derek  | Alder            | Shadowmancer | Shroomling |
-| Ian    | Rubius Haggard   | Berserker    | Half-Giant |
-| Jason  | Whisper          | The Cheat    | Human      |
-| Ramsey | Rowan Hearthboro | Bun Bun      | Oathsworn  |
+| Player | Character | Class | Ancestry |
+| --- | --- | --- | --- |
+| Dave | Umbrail | Mage | Birdfolk |
+| Derek | Alder | Shadowmancer | Shroomling |
+| Ian | Rubius Haggard | Berserker | Half-Giant |
+| Jason | Whisper | The Cheat | Human |
+| Ramsey | Rowan Hearthboro | Oathsworn | Bun Bun |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Nimble/Transcripts/Nimble Session 01 Transcript|Nimble Session 01 Transcript]]
+- **Next:** [[Campaigns/Nimble/Transcripts/Nimble Session 03 Transcript|Nimble Session 03 Transcript]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Session Play - Part 11]]
+- [[#Session Play - Part 12]]
+- [[#Closing and Table Discussion - Part 13]]
+
+---
 
 ## Transcript
 
-All right. When we last met, all five of you had, for some reason or another, come to the town of that got intense real quick, have come to the town of, I got it right here, of Claxton, with the intention of helping the farmers, the farm guild, determine what's happening to their sheep. There have been a number of sheep and goats that have started to be missing at a greater rate than one would expect with any wolf or predator out and about. So, a posse has been created in order to be able to figure out what happened.
+### Opening and Recap
+
+All right. When we last met, all five of you had, for some reason or another, come to the town of that got intense real quick, have come to the town of, I got it right here, of Clackston, with the intention of helping the farmers, the farm guild, determine what's happening to their sheep. There have been a number of sheep and goats that have started to be missing at a greater rate than one would expect with any wolf or predator out and about. So, a posse has been created in order to be able to figure out what happened.
 
 You five answered the call. Before we get going, I do want to ask each of you a question, just to give a little bit more color to your background, your character. I'm going to be, I'm planning on having a question or two every session, just to get you kind of thinking about your character and background and stuff. But we'll start with something either very simple or very complex, just depending on how you want to answer it. So, I'll go ahead and start with Ramsey. So, the question, and this is a question for everybody, so everybody pay attention.
 
 Oh, so it's all, we all get the same question. It's all going to be the same question for this one. Um, I might have one side switch out, um, but what did, what was Rowan's reason to start adventuring? Oh, I know the answer to this. Uh, I kinda, sorta maybe do. Uh, so Rowan used to be a farmer, um, and, um, I'm not sure if there was, certainly not, like, you know, a big tragedy or anything, but, like, mmm, oh, you're not going to just snap. He is a good father. Probably, probably a bunch of small things, like what this town is experiencing now, just, you know, general hardships and whatever, and he kinda slowly, like, was there.
 
-He was always the one to kind of answer the call for his community, um, and eventually realized, like, I can, I can do more than this. Like, I can, I can help, you know, elsewhere. Um, and so he had, uh, maybe trained somebody up and left them behind and then went out through the wide world to, uh, go spread goodness and whatever, fluffiness. Three carrots. Uh-huh, uh-huh. All right. Dave. Yeah. What was Umbrell's, um, point of, um, what, what caused him to leave the area? The, uh, those are just mapped. Do you have a book?
+He was always the one to kind of answer the call for his community, um, and eventually realized, like, I can, I can do more than this. Like, I can, I can help, you know, elsewhere. Um, and so he had, uh, maybe trained somebody up and left them behind and then went out through the wide world to, uh, go spread goodness and whatever, fluffiness. Three carrots. Uh-huh, uh-huh. All right. Dave. Yeah. What was Umbrail's, um, point of, um, what, what caused him to leave the area? The, uh, those are just mapped. Do you have a book?
 
 Uh, yeah, a book. A hero, a book. What, what, what the races are in? Oh, the one that the races are in? See, this is why they should both be in the same damn book. Anyway, Dave, I'm sorry. Why did he leave the area? Um, personally, it was, because the areas, I mean, there are not many of his kind left to begin with, but the area was always kind of this sparse, sparsely populated, kind of low-key area. And he, it wasn't like he was bored or anything, but he's getting older, he's getting more on up in age, he's like, you know, I just kind of want to, before I shuffle off, before he shuffles off this coil, I wanted to see the world.
 
@@ -35,7 +68,9 @@ Okay. Okay. Jason. Why did Whisper answer the call? He was just looking for some
 
 I thought you were going to say you answered the call because you were a fun guy. No. No, no, no, no. And so it begins. No. That was very good. All right. So all five of you got together in this area. You did meet the head gaffer, Master Glenson, who presented a little bit more surly than you would have liked. However, he also was presenting for those of you who had a little bit more insight. You looked and you could tell that he was feeling the pain of not being able to actually head up this adventure himself as he was laid up with an injured leg.
 
-Uh, he gave you the information, the, the, um, majority of the time, the sheep and goats were disappearing in the southeastern side of the, um, of the town. So you went over there, you, it's, you checked around and were not, uh, and were able to find a trail, um, as well as, uh, being, being able to spot, um, a, uh, a mule in the distance, uh, that was being pulled by, or attempting to be pulled by some sort of little dragon, child-sized dragon creature. Um, you captured and interrogated the, um, kobold and it, uh, and it gave you directions to where its, uh, warren was, um, and made some mention of the big boss before it ran in the opposite direction of where it told you to go, um, because it had no intention of sticking around if you guys were going to storm the castle.
+Uh, he gave you the information, the, the, um, majority of the time, the sheep and goats were disappearing in the southeastern side of the, um, of the town. So you went over there, you, it's, you checked around and were not, uh, and were able to find a trail, um, as well as, uh, being, being able to spot, um, a, uh, a mule in the distance, uh, that was being pulled by, or attempting to be pulled by some sort of little dragon, child-sized dragon creature.
+
+Um, you captured and interrogated the, um, kobold and it, uh, and it gave you directions to where its, uh, warren was, um, and made some mention of the big boss before it ran in the opposite direction of where it told you to go, um, because it had no intention of sticking around if you guys were going to storm the castle.
 
 Kobolds are, kobolds are calories. I'm pretty sure he went in his pants, but I grabbed him. I don't know. Kobolds aren't known for having pants, so. But regardless, uh, you guys did follow the instructions and you found a crater, and at the bottom of the crater, on the eastern side, you found a entrance to a, what looked to be some sort of structure, which is right here. Ah, that's where I'm sorry. Right there. Um, so, uh, a few of you snuck up, um, and were able to get a little bit back to the matter of an idea about what was, what was going on.
 
@@ -45,9 +80,15 @@ There is an amorphous amount. Uh-huh. There is however many that you can counter
 
 Um. That seems fine. It's fine. Um, and, uh. Yeah, I was great. We took a light to night, too, Gary. We did night bros. Yeah, night bros. All right. Um. Specifically, it was something that I forget. I, I, I was able to read it. You were able to, you were able to read it. Yep. Um. And also, um, Umbraille, when you got closer, you were able to, you were able to discern it because it was written in the old tongue, which, being a mage, you've got, uh, you, you know, a lot of the spells and things that you've figured out over the course of time has...
 
-So, just, just as, just as a, as a point, like, just because you're a mage, you, you were able to, you're able to discern that as well. although if you do want to make a roll I'll let you make a roll so so this is where we are you are just outside of the you are just outside of the of the entrance which looks like this the entrance does have this this here's the little thing there so it's on there in case in case Derek's notes about the inscription as well it's probably not a big deal he's probably fine I will also say you know for your leash to actually make it out before we close it so you're outside there the inscription itself is slightly newer than the architecture so you you are able to determine that that is that that is a newer inscription than the actual like
+So, just, just as, just as a, as a point, like, just because you're a mage, you, you were able to, you're able to discern that as well.
+
+although if you do want to make a roll I'll let you make a roll so so this is where we are you are just outside of the you are just outside of the of the entrance which looks like this the entrance does have this this here's the little thing there so it's on there in case in case Derek's notes about the inscription as well it's probably not a big deal he's probably fine I will also say you know for your leash to actually make it out before we close it so you're outside there the inscription itself is slightly newer than the architecture so you you are able to determine that that is that that is a newer inscription than the actual like
 
 entrance itself slightly more defined and there we are so um out you know you're not true to me so of course was it before and it was a absurd which of these won't I need Oh, we're on this side. Yeah, I, I, I, I, I, it took me a second to try. I get it. Which of these won't I need? All right, so all the glass beads are cobbles. I won't need a 12, as is tradition. Now, just because they, just because they are there, does not necessarily mean that you have to fight. But, I'm just laying it out here. Also, I made new, I made new character things.
+
+---
+
+### Session Play - Part 2
 
 On these ones, we've got a colored side, and then a desaturated side. The desaturated side is, if you happen to drop, we'll flip it over, so you can tell whether or not you are, whether or not you're dying. Big. Big guy. He is a big guy. Okay, that's his super special power. Dave, you get to be cobbled again for a hot second. Oh, one of them. Get him. We had the mushroom by the door. I think that we also had Whisper was over by the door. You guys would probably be a little bit further back. Look at those big beady eyes.
 
@@ -83,6 +124,10 @@ The only way that you can reduce damage is using the defend action, which will r
 
 It will cost you one action. So, it's kind of like, it's not just an automatic thing that you get, like you do in D&D. And then the help action allows you to do something to help one of your, um, to, to grant an ally, um, a advantage on their role, um, as a reaction. So, like, say, you know, somebody's, say, you know, you're, you're over, you know, you're a couple squares away from somebody and, and, um, you know, somebody's attack, and another person's attacking him. You can say, oh, I'm going to use my action to pick up, pick up a rock and throw that guy to distract him or something.
 
+---
+
+### Session Play - Part 3
+
 So, that's combat. I have two questions. Yeah. First question is, how are diagonals calculated? One. Okay. Yeah. Thank you. Second question is, it says attack, uh, each attack after the first has disadvantage. Uh-huh. Does that stack so your, so your third attack has two disadvantages? That's a really, really good question, and the answer is yes. Okay. So, in this game, advantage and disadvantage stack. Yeah. So, you can have double, triple, quadruple advantage. Yeah, I knew that. I just wasn't sure if that, it didn't specify on that.
 
 Yeah. Okay. But it does do that. So, the third attack would have two disadvantage. Right. Okay. Right. Does the same thing apply for spells, if you were to cast more than one spell on a turn? Yes. Yeah. Okay. Same thing. Because it doesn't say that. Okay. At least not on my little reminder sheet. Yeah. No, I, I'm pretty sure that the, I'm pretty sure that the, uh, the, the spells follow the same rules as, as attack. Does it? Or attack spells follow the same rules. Okay. Is it, are those two inclusive of each other?
@@ -116,6 +161,10 @@ And as long as you're rolling the max number, it just continues to, the damage c
 It'll just be easier. But, um, yeah. Yeah. But according to, according to the rules, uh, if you, um, if you roll and whatever's the leftmost die, that's typically your leading die, or you can choose to have a special colored one. Um, but where I thought you were going with this, where I thought you were going with this, Dave, is this makes daggers really, really swingy. Oh, sure. Because, like, they're a D4, which means you're missing a quarter of the time. But you're critting a quarter of the time. But you're critting a quarter of the time, too.
 
 Which is. Five percent of the time, it crits every time. Yeah. Which is pretty insane. And so, basically, kind of the way the damage dice all work math out, and I'm geeking out here a little bit, so sorry guys. But the way the damage dice work out, the bigger die roll that you have, the more consistent damage you have, but the smaller the die, the smaller the die that you roll, the more explosive your damage has a tendency to get. So, like, D4s are really nice in this for that reason, but, you know, D12s are really nice because you're probably not going to crit, but you're probably not going to miss either.
+
+---
+
+### Session Play - Part 4
 
 Okay, so, it's pretty neat. Alright. Alright. So, that's that. That's me. Um, that's Rowan. Nope. Don't keep that. You keep that. That's for my reference. Two, three, four, five, six. Um. And this guy is actually in there. Okay, perfect. That's one of the big... He just backed up to the corner because there's a big, giant... Big, giant thing. Just popped in. All right. Uh, Rowan hops into action. Uh, and... One, two, three. You kind of definitely notice, like, an immediate change. As soon as, like, we're going into battle, and especially after, like, he hears a kobold actually dies, like, the ears perk up, you know, from being down.
 
@@ -151,6 +200,10 @@ So, grab a D10. Nope. It's the one that was right next to that. That's D10. Yep.
 
 Anyway. So, you did... So, you did... It was four plus four plus two plus three. So, you did 13 points damage. Four points. Four points. One, one ball. Let's go. Now, Ian, just so you know, you can only have a number of D4 set aside that are equal to your strength. So, right now, your strength is a plus two. So, you're at your max. Yeah. So, you can't do it again. Yeah. Very sorry. Do you have a number of D4 set aside that are equal to your strength? Upstairs. They're upstairs on my desk. Yeah. Sorry. So, that's just, you know, just so you know.
 
+---
+
+### Session Play - Part 5
+
 Yeah. Yeah. Now, your other ability, you can use as a reaction to reduce damage. But you spend a rage die to do it. So. Okay. Okay. So, that was a move, rage, and attack. Yep. There you go. All right. Jason. That's three actions. Get him. So, I'm going to use my daggers on the, yeah, the guy on this side. This side? This side. This side. Okay. Yeah, get him. All right. I'm going to need the core rule book. Thank you. So, Jason, just there are a couple things here. Yep. You're dual wielding. And that actually means something here.
 
 All right. So, I'm just going to pull this out. I think it's ranch unit handy, John. This is good. I'm glad I had equipment. Dual wielding. Heroes may wield two weapons at the same time. Thank you. Uh, while dual wielding, you may gain advantage on an attack with those weapons one, one round. Is that one per, once per round? Once per round, yeah. Once per round. Okay. So, um, okay. So, basically, you've got your dagger. You've, you can use this once a round. I mean, I'm assuming you're going to be attacking three times.
@@ -185,6 +238,10 @@ Seems great. All right. Nice. Uh, and I have one more action left. I have two mo
 
 We'll see if this works. It'll work. Sure. It'll work. He's for six points of damage. You get him. It's the work. I'm going to finish my movement. And go one, two. That's me. It's pretty good. Nice. It's pretty good. Yeah. All right, Dave. Uh, we're going to. We have fireball. We're just throwing rocks. These guys are throwing rocks. They all have slings and they all have daggers. So, just depending. Well, we're going to zap one of the ones that hasn't thrown a rocket. Maybe they're dumb kobolds and they only have one rock.
 
+---
+
+### Session Play - Part 6
+
 Aha. They haven't learned to reload. Yep. There it is. Fortunately, ground and it's made of rock. Don't let him know. Oh, we miss. Oh, no. You zap yourself. I zap myself, which deals the damage to me instead. So, thankfully, I only take two damage. Oh, that's good. That's nice. Yep. I mean, as far as things go. You've got to zap yourself. Is that two ones? Yes. Two ones. So, I go to eight. I am now. I have a lot of hit points, sir. It's fine. Don't worry. What do you hit points everybody else have? Don't worry about it.
 
 I have... Two? Yeah. Thirteen. See? I missed ten. I believe I have. You have a lot. Twenty. Oh, okay. Well, that's good. I believe I'm a mage. We got a couple of toughies. All right. All right. Second action. The important part of me missing is that I am now charged. Oh. So, what I miss, like, I try to shoot out the bolt of lightning and it kind of fizzles instead and it... Rather than launching towards the target, I get a little joke that I am now... I got sparkies coming off my feathers. Okay. So, we're gonna... One, two, three, four, five...
@@ -217,15 +274,19 @@ No. It is unrecognizable. Like mid-sentence. Yeah, yeah, yeah. What's that? I do
 
 Okay. There may be more kobold-type closet. Yeah, absolutely, absolutely. All right, and you do also, you do also, in the pouches of one of the kobolds, you find a viscous green liquid. Ah-ha, the perfect kind. One might even call it a caustic brew. Um, it is a, it's a potion. It's a superior potion. It does, it heals 3d6 hit points, but when you drink it, you are poisoned for three rounds. That's a good one. So. I would hand this almost to the mushroom. Yeah. Yeah. Hand it to the mushroom. All right. All right. That'll make shots.
 
+---
+
+### Session Play - Part 7
+
 Seems like a perfect, perfect, perfect, perfect time on a caustic brew. I agree. Yeah. Sure. I like it. Thanks. Tasty. All right. So, uh, the, so you're looking around, um, go ahead and roll me a perception. This, this one's fine. Or a, what is it? That is kobold. Is it perception? Yes. Kind of off in a corner. Um, Ramsey, a perception roll. I need it. Yeah. Well, you, you are able to find, yeah, you are able to find some things. 30, 20. All right. So there are a couple of things that you do find. Uh-huh. Um, first of all, um, as you explore the corridors and everything, you see that there's an exit over here.
 
 So that's, you, you find an exit. Okay. Um, not an exit, exit, but an entrance into more of a dungeon. Um, but you also, as you're looking around, you see some graffiti, um, that's all over the walls. Um, in, in that graffiti, you, uh, notice that, uh, that there's basically a bunch of, um, pictures of kobolds that are doing unmentionable things to non-kobolds. Um, they appear to be telling a story of conquest and, um, and destruction that will be led in by some great leader. Um, something that, that kind of strikes you as odd about what you've seen on there is, in general, some of the, the scale of some of the pictures of the kobolds seem to be off.
 
 Like, you've got, like, a bunch of little kobolds, and then you've got one that's, like, really big, and then you're over in a different thing, you see a bunch of little kobolds, and you see one that's really big. Um, but then again, these are kobold artists, so, you know, might mean nothing. They, they might just have a bad, they, they might just not understand scale very well. All right. Pun not intended, but, uh, I'm a little bit proud of myself for doing that. Um, so, but yeah, it does appear to be focusing on, like, like, a multi-pronged assault.
 
-Like, you know, first is steal the, steal the, the rations, and then a full-on, a full-on assault. So you are assuming that this is an intention towards Claxton, because that's the only town that's in the area. Yeah, I'll call it out, uh, and, uh, you know, don't look at that angle a little bit. Sorry. I don't want to say part. Something. Looks like they're planning to do more of a steel sheet. Probably also more of them. There's, uh, stairs? Something. Stairs over there. Yeah, it's, uh, stairs that lead to a corridor.
+Like, you know, first is steal the, steal the, the rations, and then a full-on, a full-on assault. So you are assuming that this is an intention towards Clackston, because that's the only town that's in the area. Yeah, I'll call it out, uh, and, uh, you know, don't look at that angle a little bit. Sorry. I don't want to say part. Something. Looks like they're planning to do more of a steel sheet. Probably also more of them. There's, uh, stairs? Something. Stairs over there. Yeah, it's, uh, stairs that lead to a corridor.
 
-Unless there's more of them. They probably heard that commotion. I bet they know we're here already. Yeah. You wouldn't call any of us keepers of the dawn, right? Not me. But there's a shiny one, so maybe. You channel the light. Uh, you, if you. I'm calling the dawn. Um, so, as far as, like, the architecture, the architecture is definitely not of, um, not, like, cobalt make. Um, if you do want to do an investigation to see if you can kind of make heads or tails out of this, you are welcome to do so. Do I recognize anything about the little piece of shirt?
+Unless there's more of them. They probably heard that commotion. I bet they know we're here already. Yeah. You wouldn't call any of us keepers of the dawn, right? Not me. But there's a shiny one, so maybe. You channel the light. Uh, you, if you. I'm calling the dawn. Um, so, as far as, like, the architecture, the architecture is definitely not of, um, not, like, Kobold make. Um, if you do want to do an investigation to see if you can kind of make heads or tails out of this, you are welcome to do so. Do I recognize anything about the little piece of shirt?
 
 Yeah, I killed, I killed the whole part. Oh, uh, yeah. I killed the whole part. He is a big record. Let's see if, I mean. An examination? I don't want to get you up there. Yeah. Examination is going to be needed. Uh, you're looking at, uh, that. I'd say, uh, give me a lore or an examination. Um, we're looking for the, the DC for your examination is going to be a DC 12. Okay. Uh, yours is going to be more of a DC 15. I'm just looking at the, looking at the building. Oh! I, I, I look at the building good. I got a 14.
 
@@ -248,6 +309,10 @@ I'll fly right above the mushroom's head. I knew it. I knew he hates me. Oh, fuc
 You're still going to be filling up the entire space, even if you're crawling. Like, you are, you are too large to be allowed in this space, but somehow you're here. So, um, so you guys move through. Yeah. Um, is anybody good at seeing things? I'm assuming that it's examination or perception. Yeah. Yeah. I'm going to be able to see those things. All right. Um. It works. Okay. So, as. Actually, probably more like this. Yeah. Oh. All right. All right. I will let, I will let Bird lead, because he's good at seeing things.
 
 All right. Seems about right. Um, as you enter the tunnel, you see more of that same style of graffiti. You see stone reliefs, uh, that are, um, stone reliefs and murals on the walls. Um. On. From which the graffiti is put on top of. Oh. Um, so. That's not a cure. That's not a cure. Uh. They depict, uh, imagery of, um, of the, of the sun and, um, along with, um, a military group that appears to be fighting shadowy figures. Uh. The corridor itself smells slightly sour, and you see patches of moss and animal bones strewn across the floor.
+
+---
+
+### Session Play - Part 8
 
 You come to a T, uh, in the tunnel. One goes east, and the other goes north. Um, to the north, um, to the north, you hear the bleeding of animals. To the east, you hear a single nut reverberating. Which direction do you go? Which direction do you go? I go east. All right. I will follow the light. The, the, the person that, yeah, the person that's got the thing does the thing. All right. I will follow the decisive person. Good. I did not give you a left or right, because I knew what you would do if I said left or right.
 
@@ -280,6 +345,10 @@ Um, also, with your natural 20 that you roll, um, I will allow you to give someb
 So, he's walking around with his little care pipe, and he's, and when the smoke, you know, gets pushed by the pressure. He's like, that's what he knows. Like, wait. All right. All right, so what do we got left? We got the... We've got the falling, the falling ceiling. So, there are bits of rubble that are falling down. And then there's also lifting the pillar. And that's finesse? Uh, the falling is examination or finesse. Which I think is... But, do you have a preference? Oh, I'm gonna, I'm gonna help with the pillar, I think.
 
 Okay. All right. I like that. And I rolled a ten. Uh, plus? Five. Oh, fifteen. Ah. The fifteen does meet the DC of fifteen. Nice. Ergo, you take no damage, and are able to kind of, with your, as somebody who's been in an urban environment, you know, you, you are able to kind of determine, like, the general structural integrity of things pretty well. Um, you've been in your fair share of slums. You know where, when things aren't, when things aren't on the up and up as far as, like, stability is concerned. So, you're able to kind of direct people around that.
+
+---
+
+### Session Play - Part 9
 
 You guys all make it over to the, uh, to the treasury in the back. You are, um, the, the, um, um, umbrail, uh, since you are flying, you probably swing by and take a look at the shiny. Oh, yeah. Oh, good. 100%. You, oh. We, we really actually just kind of forgot that there were other people. No. There you go. So, um, that is, um, so you get another piece in it, and it looks like, looks like it might go with the other one. Oh. So. Maybe. Somehow. Not yet, it doesn't. Yup. Not yet. Um, and now we are to the, the fallen pillar.
 
@@ -315,6 +384,10 @@ Counterpoint. Uh-huh. Having a giant's great for stealth if you're not a giant. 
 
 No. That's, that's a 20 though for you. For sure. Whisper. Whisper good. Yep. Two. Three. All right. Who is, Whisper's going first because he's got the reactions or are we picking somebody else? I have a great first action because I only have one action. All right. Who shall be first? Pass the, pass the nimble puck to Dave. Yeah. My great first action is to give Whisper, I'm going to cast Heart's Fire and encourage him and give him an extra action. Ooh. All right. So you get four actions. Okay. Cool. So you do that.
 
+---
+
+### Session Play - Part 10
+
 Rubius, you're up. How many actions you got? Two. All right. What are you going to do? I am going to charge and attack one of the minions. All right. What's up? CD or AB? CD. CD. All right. One, two, three, four, five, six. All right. How many actions you got? Two. All right. One, two, three, four, five, six. All right. One, two, three, four, five, six. All right. How many actions do you have? Two. Two. Perfect. All right. And make your attack. Yeah. I will attack D. All right. So that's D10 plus your strength. Six.
 
 Six. All right. So it's six plus two? Yeah. No. It's a, it's a, it's a four plus. Oh, it's a four. Okay. Cool. So you already did the math. All right. You killed one minion. All right. Now, Mr. Uh, Mr. Whisper, you have four actions to spend. Yeah, you did. Yeah. Yeah. What are you going to do with yourself? Um. All right. All right. So we're going to go. We're going to move. I'm going to go one, two, three, four, five, six here. All right. And we're going to attack B. Okay. All right. So with the daggers, I'm doing both D4s.
@@ -349,6 +422,10 @@ Um, for five points of damage. Yeah. That is what we call a combo. Yeah. I'm sor
 
 You also might need to know poison. Uh, yup. Alright, hang on. I have four left. Hang on. Uh, yeah. Uh, you- Oh, no. I have four left. Hang on. Uh, I got a hero last. I have four left. I know. I got it here a lot. Poisoned. Disadvantaged generals. All right. Six. All right. He's out of range. Six. He's not. Yeah, he's going to be shooting at Rowan, too. Oh, oh. What does Wombie's doing? Rowan to find out. Yep. For seven points of damage. Rowan down. Okay. So we'll resolve the rest of these, but then we'll go over death and dying and what that does.
 
+---
+
+### Session Play - Part 11
+
 So. Can you make an excellent stoop? Ah, yes. That's true. I've got two walkie feet. And you would be good in the stew, too. I don't know. Mushroom and rabbits, too? That sounds pretty good. All right. It sounds pretty good, if I'm being honest. Okay. So. The thing to note, the thing to note about death and dying here. Uh-huh. When you are dying, you are not unconscious. Uh-huh. You are not out of the fight. You still can take actions. Well, one action. Yep. You get one action every round. Yeah. Um, every time that you, um, every time that you take an attack action, you gain a wound.
 
 Uh-huh. Um, and you cannot, um, perform a, uh, you cannot perform a healing action on yourself. Um, you can cough a potion, but, like, if you've got, like, a medicine roll or something, uh, on that. What happens to my hit points? Does it just stop at zero, or am I negative whatever? You're, you stop at zero. Okay. Um, and basically, um, yeah, so, so basically, um, when, when your turn comes around, if you are, uh, so, okay, sorry. When you hit zero, you gain a wound. Yeah. Um, wounds do not get healed unless you've gone through, like, a full, a full safe rest.
@@ -377,9 +454,15 @@ The webbit was nice to him. All right. We're going to sling sea. All right. Mm-h
 
 uh so you missed with your last one but that was still a that was still a pretty solid turn um so you basically just kind of like you see your friend just drop you just whip out your sling and just start knocking down all these guys that were causing all that trouble and uh shroomling alder alder is going to move i'm going to one two three four five i guess then i will here you go a piece of paper action two uh sure uh go ahead and i'll administer a potion yeah it will taste funky and you'll feel bad but okay hey have seven hit points all right
 
-and be poisoned um and what that does is it just grants disadvantage to you for three rounds so uh and with my last action i might as well hurl a bolt of shadow so at this last minion because you know one down uh-huh uh-huh one down all right all right rowan you are up all right literally i still only have one action though or do i have all my actions now because i received you have one action because you spent two actions already so your actions refresh oh yeah yeah yeah yeah yeah okay so otherwise you would have a full three three actions so regardless of what happened this round you were going to end up with one action that is that is fully accurate um cool well i suppose what's everybody else having hit points eight of ten thirteen i was just going to say eight but then i realized that sounded way worse than it actually was
+and be poisoned um and what that does is it just grants disadvantage to you for three rounds so uh and with my last action i might as well hurl a bolt of shadow so at this last minion because you know one down uh-huh uh-huh one down all right all right rowan you are up all right literally i still only have one action though or do i have all my actions now because i received you have one action because you spent two actions already so your actions refresh oh yeah yeah yeah yeah yeah okay so otherwise you would have a full three three actions so regardless
 
-okay i was just going to keep track of the right way i think i'm confusing myself um okay i am soft and squishy i am i think i'm just going to move up one two three four five six move up take my stance next to my good buddy awesome get him get him all right um the uh cobalt clangor is going to continue to be clanging i'm going to stop that um these guys are both going to move up to rubeus yep yep and they're going to attack um so first one attacks rubeus blue sea uh for ten points of damage what does it look like these guys are doing like i can see them they are they're moving up but they're not but they're not in position yet got it all right
+of what happened this round you were going to end up with one action that is that is fully accurate um cool well i suppose what's everybody else having hit points eight of ten thirteen i was just going to say eight but then i realized that sounded way worse than it actually was
+
+---
+
+### Session Play - Part 12
+
+okay i was just going to keep track of the right way i think i'm confusing myself um okay i am soft and squishy i am i think i'm just going to move up one two three four five six move up take my stance next to my good buddy awesome get him get him all right um the uh Kobold clangor is going to continue to be clanging i'm going to stop that um these guys are both going to move up to rubeus yep yep and they're going to attack um so first one attacks rubeus blue sea uh for ten points of damage what does it look like these guys are doing like i can see them they are they're moving up but they're not but they're not in position yet got it all right
 
 uh for ten we're going to do the thing um because that's a lot that would put you out right that would that would get me close to down he'd be at two okay i mean he could also defend for like four only that way we'll get that one point yeah he's only got one armor uh so you've got one armor but you do also have the ability to spend your spend your rage die your rage die to um negate yeah so it'd be defend three and stuff yeah yeah yeah yeah yeah yeah yeah but also oatsworn built to take hits so if it's a good hit to take yeah
 
@@ -407,9 +490,15 @@ so i am i'm gonna take blue c with the daggers okay that seems good oh i can do 
 
 now then you would roll it again so you would be at twelve plus one but that's up to you i have no idea how many hit points this thing yes yep we don't know do we yeah you're currently doing what eight plus i think i took a little one plus your decks yeah yeah so up to you but it is an option yeah yeah so you're currently at eight five eight um and that would take one of my actions right no it's just no you just do it you should be doing that every time you have the opportunity yeah so you did so now you that just flipped to a four yep
 
+---
+
+### Closing and Table Discussion - Part 13
+
 yep so now you've got eight four eight twelve twelve now roll again it did explode two two okay so fourteen points of damage plus x plus x yeah so nineteen woo eviscerate you you you do quite yeah it's bad his head is floating yeah well as a precision guy you just you just poke him barely even looks like anything then there's streams of blood just kind of it's like a water gun yep all right so you got one more action uh six seven i'm gonna sling at the purple pink down there this guy yep okay oh yeah crit well you you had disadvantage so but you rolled two fours which means you crit with one of them so just uh re-roll the other one for for the extra damage we'll see what happens nope two okay
 
-so that's four plus two plus your dex so six nine nine and then it's less than three nope that's what your plus three is oh okay oh that's right you got me so you do nine points of damage to him yep for the rock okay uh you you hit him uh at like um well actually um well actually i hate it when people say that um actually this guy is medium armored which means what that means is what that means is you do not add your ability modifier to the damage so it's just six um now if you if the guy is heavily armored then you don't add your ability modifier and uh you half the damage um gross but but you know he's he's medium armored so you still did six points of damage to him which is still significant which is why the the rage dice are so important because those are actually dice
+so that's four plus two plus your dex so six nine nine and then it's less than three nope that's what your plus three is oh okay oh that's right you got me so you do nine points of damage to him yep for the rock okay uh you you hit him uh at like um well actually um well actually i hate it when people say that um actually this guy is medium armored which means what that means is what that means is you do not add your ability modifier to the damage so it's just six um now if you if the guy is heavily armored then
+
+you don't add your ability modifier and uh you half the damage um gross but but you know he's he's medium armored so you still did six points of damage to him which is still significant which is why the the rage dice are so important because those are actually dice
 
 they're not just nice addition yeah yeah yeah yeah and same thing with your old sworn stuff perfect all right uh i'm gonna summon for action one uh for action two i'm gonna command five six and he's gonna attack yeah 12 that's what we like to see but you can't crit it is a minion he does not crit still 12 damage it's still 12 yep um and it was on green a green a takes 12 green a gets consumed green a green a be dead feeds the fungus uh then one two three four five six seven eight yep that sounds like a shadow bolt to me yep
 
@@ -422,3 +511,9 @@ now he's like attacking the shadow all right all right all right all right all r
 yeah rubius i'm going i'm just going i'm just going to rage again oh sorry i'm going to grant rubius an extra action oh oh yeah yeah yeah yeah yeah i'll rage again move the fuck away from that guy oh yeah yeah i'm going to rage again caw caw okay let's see what we got three on three that's almost max damage on that all right now roll your uh roll your d10 smack he's gonna like shoot bang uh-huh um that's going to be 15 17 points of damage yeah i split him i did i just split him in half you hack him and you from from crown to groin you just get you get all the way through um all right
 
 now we will pick up um with the with the searching of the room and the aftermath the next time we meet but i do want you to know that the two pieces that he was coming together whoops they were not melted no that's good um they are pieces of there are more pieces of that crest um the type of metal that this is is orichalcum
+
+---
+
+## Related Notes
+
+- [[Campaigns/Nimble/Session 02|Session 02 notes]]

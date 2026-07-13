@@ -2,12 +2,49 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "04"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 04 - Transcript
+# Crown of the Immortals - Session 04 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 02|Session 02]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 05|Session 05]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Closing and Table Discussion - Part 8]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Clarification for you. Oh, dear. Sorry. I'm pissed off. I don't have any clarification other than that.
 
@@ -19,13 +56,13 @@ Yeah. How come no one else is moving but Ramsay? Oh, there you are. Okay. Everyo
 
 After we defeated her, I think we have a quest to figure out how to stop the sands of time from falling out of the hourglass. And after that, you saw a light, which we saw a light, but I'm still trying to understand what that really means. Sands of time. Whose temple is this? I definitely look over at Warwick as I feel like I'm tripping over my set of tools at the moment.
 
-Oh, my gosh. Warwick, you remember the temple? He's talking about you. Oh, Alwar. Warwick, I think it's from a movie.
+Oh, my gosh. Warwick, you remember the temple? He's talking about you. Oh, Alwor. Warwick, I think it's from a movie.
 
 Who's this? I'll get it. I'll get it. Yes. Yes.
 
-It was, Shanoa's temple, the the time goddess. Very fortuitous. Certainly, usually an omen of some kind. Which we think it moves from place to place and pops up when it's needed. Elle Elwar.
+It was, Shanoa's temple, the the time goddess. Very fortuitous. Certainly, usually an omen of some kind. Which we think it moves from place to place and pops up when it's needed. Elle Alwor.
 
-Right? Is it Elwar? Yeah. Okay. He looks slightly confused for a moment and then, like, oh A light bulb.
+Right? Is it Alwor? Yeah. Okay. He looks slightly confused for a moment and then, like, oh A light bulb.
 
 Oh. That's good. That's what this is? We need to tell, somebody. We need to tell somebody.
 
@@ -63,7 +100,9 @@ What's the barbarian thing? Works for me. We should stay together somehow, not g
 
 You guys can do your own stuff. I'm not trying to I'm I'm just saying don't disappear for five months because I gave you five months to, do the snow. Right? Don't be not a hermit. It sounds like, we're gonna take a rest, clean up, and then meet meet for dinner or late dinner.
 
-Alright. So, you guys are able to, make it back to your dwellings, and basically just kinda, you know, get get yourself all cleaned up, maybe take a little bit of a nap, and then are able to meet back at the sundial shadow, which is the, the one restaurant in the town, restaurant slash tavern. Something that you guys do notice, when you're coming back and coming back to the coming back to meet up for dinner is the, the town is abuzz with, all kinds of rumors about what what this means, what what could the, what could the Temple Of Shenanua is revealing itself mean for, for the town and for the world. And there are much there there's a lot of speculation both good and ill, about what this could mean. It might, there are some people that think that the, the fire retribution may have just been the precursor and now there's something even worse coming along, and there are other people who are, taking it as a good omen of something something good is just around the corner.
+Alright. So, you guys are able to, make it back to your dwellings, and basically just kinda, you know, get get yourself all cleaned up, maybe take a little bit of a nap, and then are able to meet back at the sundial shadow, which is the, the one restaurant in the town, restaurant slash tavern. Something that you guys do notice, when you're coming back and coming back to the coming back to meet up for dinner is the, the town is abuzz with, all kinds of rumors about what what this means, what what could the, what could the Temple Of Shenanua is revealing itself mean for, for the town and for the world.
+
+And there are much there there's a lot of speculation both good and ill, about what this could mean. It might, there are some people that think that the, the fire retribution may have just been the precursor and now there's something even worse coming along, and there are other people who are, taking it as a good omen of something something good is just around the corner.
 
 And maybe we can learn from the temple, and and its teachings and things. So you do make it to the shadow. When you walk in, it is what you would consider to be just a classical fantasy tavern. There are, it's got polished wood flooring, a number of different, number of different wood tables and chairs. There's a bar in the back.
 
@@ -91,6 +130,10 @@ Not necessarily. Yeah. It's been a bit of a rough go for me, so I don't put it o
 
 Why are you so, hesitant with your magic? Hasn't always been easy to control. Gotcha. That makes sense. Yeah.
 
+---
+
+### Session Play - Part 2
+
 Kinda being big and green, I guess I would be afraid that people I want people to see me as a hero and not as a gigantic scary gunny. So Right. I think as people are talking, you know, I I might if if I've got a code, I might hold it closer, and then I might be, like, at some point, getting frustrated by all the attention. Oh. But I want them to know that we're here.
 
 This is somehow too. So Mhmm. But in that, you know, like, we're we're just we're here with everybody else just trying to figure out what are the next steps for civilization. Right? Because they'll let poo poo.
@@ -105,7 +148,7 @@ And then for me because I, you know, I don't know Why did it choose us? It could
 
 Like, I I would almost hypothesize, that maybe it showed up because where else would it go? There's nobody else left on the continent theoretically. And we're it it seems to be in a state of disrepair and need of assistance. Love it. Cover story.
 
-Like, we're trying to figure out like, our task, I would say, next is to try and figure out what, if anything, there is that that we can do, just to I I guess even nothing else, just bring stability. Yeah. Do we also do as we're talking, I will ask, do we have anyone who's I don't know if it's the elders' right term or, like, who's sympathetic to us or we know who's on our side that has more base of knowledge of this god and things like that and the Lalapalu historian or something. I mean, like, Elwar is pretty ancient, but does he have any, like, buddy? That might know more information.
+Like, we're trying to figure out like, our task, I would say, next is to try and figure out what, if anything, there is that that we can do, just to I I guess even nothing else, just bring stability. Yeah. Do we also do as we're talking, I will ask, do we have anyone who's I don't know if it's the elders' right term or, like, who's sympathetic to us or we know who's on our side that has more base of knowledge of this god and things like that and the Lalapalu historian or something. I mean, like, Alwor is pretty ancient, but does he have any, like, buddy? That might know more information.
 
 Right. Yeah. Yeah. That's a good question. It makes sense.
 
@@ -167,13 +210,17 @@ He's basically the real god. Everybody else is a, is a creation of him. So the r
 
 But Clark's deity is Raytheon. Right? Mhmm. Mhmm. Mhmm.
 
-So there's a whole people that love Raytheon, but he's the one that we're shining from, and that's a bad thing. Well, so here okay. So here's the thing. Nobody knows that La Palu are are are bastions of Raythellion. They just know that they've got superpowers and they kill people.
+So there's a whole people that love Raytheon, but he's the one that we're shining from, and that's a bad thing. Well, so here okay. So here's the thing. Nobody knows that La Pelu are are are bastions of Raythellion. They just know that they've got superpowers and they kill people.
 
 But we know that. Right? Yeah. No. Well, if No.
 
 No. No. Okay. Yeah. Yeah.
 
 So we contextualize maybe what I was thinking. What I said Oh, I'm sorry. No. No. No.
+
+---
+
+### Session Play - Part 3
 
 You're fine. No. That's great. That's that's good to know. So so I think the most reasonable thing for us to interpret is that these powers somehow just came from Shenandoah, from the time temple and the time goddess.
 
@@ -229,7 +276,7 @@ So you head over to the, the the makeshift temple. You don't really have a full 
 
 The servant answers, says, hello. Can I help you? Yeah. We are here to see Jared, and we have a few questions for him. Oh, yes.
 
-I think he will. Master said you might stop by. Please, our Karsten, Zahir, Samir, come in, and he waves you into the house. You go into, the it's like I said, it's a glorified house, but the entrance hall is, basically where a majority of the worship services themselves take place. It looks kind of more like a, like a schoolhouse in, like, a, like, Little House on the Prairie style thing.
+I think he will. Master said you might stop by. Please, our Karsten, Zahir, Simear, come in, and he waves you into the house. You go into, the it's like I said, it's a glorified house, but the entrance hall is, basically where a majority of the worship services themselves take place. It looks kind of more like a, like a schoolhouse in, like, a, like, Little House on the Prairie style thing.
 
 You've got benches with you've got benches just kinda lined up. There's a, a main row. And then at the front, there's basically a a a pulpit, that Jared basically speaks from. But, you know, nothing too fancy at this point. It's, again, just been a year and there and there's been more important things to be spending time on than making than making a temple look fancy.
 
@@ -254,6 +301,10 @@ How do you we were trying to figure out how The hourglass is the purpose of the 
 You were in there for hours. Well, there was a a there were some traps Goblins? Dangers and a whole lot of goblins. Lots of kinda few undead people. Yeah.
 
 And At least one zombie. We thought that the amount of goblins was odd as well, but there were tons of goblins. Like, they were looking for something or yeah. I don't know. Yeah.
+
+---
+
+### Session Play - Part 4
 
 He couldn't tell if they were trying to loot the place or if if they had something else specific they were trying to get after. See. The goblins, I can't explain. However, you said they were undead as well? Correct.
 
@@ -289,7 +340,7 @@ Yeah. I can't remember. It was, like, a 20 foot tall. Oh, 20 foot tall. Oh, okay
 
 So you were hacking it off at the knees. Alright. So let's see. Who would have been who would have been buried in that temple that was 20 foot tall? It's a great question.
 
-Strange things happen in the Temple Of Shanaenua. Strange things happen. Something that Samir, just because you you just said that, like, the door that you walked through where the 20 foot zombie was inside Mhmm. Was like a seven foot tall door. Okay.
+Strange things happen in the Temple Of Shanaenua. Strange things happen. Something that Simear, just because you you just said that, like, the door that you walked through where the 20 foot zombie was inside Mhmm. Was like a seven foot tall door. Okay.
 
 The regular size door with a 20 foot tall zombie inside. Yeah. Which is part of his concern is that, like, there was this 20 foot somebody who lived in the temple. Like, that's very disconcerting. It's possible.
 
@@ -321,6 +372,10 @@ As far as where it is now, and there may be some in there, or it may have become
 
 So I am not sure exactly what how what methods need to be followed in order to be able to find, star metal, but I'm certain that there's somebody here that would be able to find it. Or maybe I might be able to find something about that in in some of my in some of my books I've been able to save. So maybe we Oh, go ahead. I was saying maybe we need to go back and look for some shards, maybe get a few more clues, and help kinda direct us. A lot of time.
 
+---
+
+### Session Play - Part 5
+
 I well, I I would definitely say that the, that the temple itself probably has a few more secrets to reveal. If you do a little bit more digging around the, trying to trying to find the, do some more digging around the, Time Turner itself, you might be able to find something that would be that that would give you a clue as to where, the glass itself was what the glass itself was made out of. I'm assuming it's some sort of crystal, but it might not be. I do know that it's that it's rumored that it is not that the glass is some sort of, mystical gem. But, if you happen to have somebody who knows who knows gems and or alloy, in, you know, amongst you, you might be able to get some more accurate, idea about what's what what is what is different.
 
 As as I said, I'm I'm no minor, but, I just know what rumor says. I think that sounds like a good leap for us to go check out. More goblins. Hopefully not. Although, to your point earlier, Jared, about bodies around the temple, Should we it will probably take more than the four of us can do quickly.
@@ -329,7 +384,7 @@ Should there be a community effort to get the goblin corpses out of there and di
 
 We need to remove those as soon as possible. I didn't need I didn't even think about that. Yes. We need them on. If assuming that we haven't assuming that they haven't come come back already.
 
-Carson, I would say, Carson. Yes. One moment. He walks back over to his desk. He writes down a message.
+Karsten, I would say, Karsten. Yes. One moment. He walks back over to his desk. He writes down a message.
 
 He walks up walks back over to you, hands it to you, and says, please give this to your superior. K. And he says, here I was here I was just enjoying our conversation, but it seems that time is of the essence at least for for the moment. Please do Oh, really? Please do take this take this to your commander, Karsten, and we need to be removing those bodies as soon as possible.
 
@@ -337,7 +392,7 @@ Great. We're gonna have to fight more goblins. Oh. Yeah. Yeah.
 
 Not more. Just the same ones again. Right. That's what I mean. Hey.
 
-I will head out immediately. Okay. You head back to your, your barracks. Happened across, one of the one of the superiors that is, that is on duty. He says, Carson, what are you doing here?
+I will head out immediately. Okay. You head back to your, your barracks. Happened across, one of the one of the superiors that is, that is on duty. He says, Karsten, what are you doing here?
 
 Thought you were going to talk to Jared. I we did or my It's over. Did. But he gave me a note to give to you, and I think it's of the most the utmost importance that you read it. I think we might have an issue with the Chattanooga temple, in turning living things into dead things and those dead things arising.
 
@@ -385,7 +440,11 @@ That's not bad. Why is it black? Oh, normal. That that one isn't very good. It's
 
 It is normal. You're right. Should let you go first, Jason. I no. It's it's it's all good.
 
-Okay. So, Samir, you are not able to figure out exactly what sort of material this is. It is very clear that it is not glass at all. What, what Jared said, about it being the about it being some sort of gem does definitely track. Like, it you can see, like, the crystalline, like, you can see the the the way that the glass itself was, like, formed.
+Okay. So, Simear, you are not able to figure out exactly what sort of material this is. It is very clear that it is not glass at all. What, what Jared said, about it being the about it being some sort of gem does definitely track. Like, it you can see, like, the crystalline, like, you can see the the the way that the glass itself was, like, formed.
+
+---
+
+### Session Play - Part 6
 
 It was almost like it was grown, as a crystal rather than something that was, rather than something that was, that was melted down and and molded. You know, it was basically grown into the position that it is. Almost as if as somebody who has spent some time in the Elven community, it's it's very similar to, like, in how an elf grows a house out of the tree. Singing to the tree to cause it to to grow in a certain way to make it into a habitation is a very similar sort of vibe that you get from this crystal. Okay.
 
@@ -421,7 +480,7 @@ They are. And I I was like I reminded Aaron. I'm like, hey, traffic's gonna slow
 
 Anyway, I was thankful. Yeah. Yeah. Right. Alright.
 
-I'm back. Sorry, guys. Oh, good. So and so, Kahir, what you found out, you this crystal is definitely something, definitely something that that you haven't really worked with before. But in your in your research for for your, smithing business, you have run across a, you've run across a specific, type of gem that appears to have the same properties as this one.
+I'm back. Sorry, guys. Oh, good. So and so, Cahir, what you found out, you this crystal is definitely something, definitely something that that you haven't really worked with before. But in your in your research for for your, smithing business, you have run across a, you've run across a specific, type of gem that appears to have the same properties as this one.
 
 It's called it's called a chronoprism. This this specific gem is actually, forged, out of the, of the essence of time itself. It's not able to be, harnessed for much as far as, like, being able to, being able to build, effective weaponry or armor, which is kinda why it's not really your thing. You know, you're more of a, you know, you're more of a battlesmith sort of person. And this seems to be a little bit more froofy and that kind of thing.
 
@@ -445,17 +504,17 @@ Yes. Correct. Yes. Okay. So it you you basically it kinda it kinda struck you as
 
 There's there's the there's this song called the piano. You don't really know much about it but, through the singing of that song, you're you're able to grow the crystal, and and basically create create the crystal. The crystal's main, the crystal's main purpose is it creates like, if you have a vessel that's made of this crystal, it basically contains or it pretty much makes whatever it is that's contained inside it, puts it in stasis effectively. Like, it just it's in it's in a time stasis, so it will never grow, never never shrink, never shrivel, never decay. It'll just stay in the, in the same state that it always is.
 
-But, yeah, all you all you know, Kahir, is that there's a song called Ayano that in singing it will grow this crystal. Oh. It's off of your, alloy alloy lore. Nice. So I'd obviously share that with everyone and ask, hello, do I know the song, Chris?
+But, yeah, all you all you know, Cahir, is that there's a song called Ayano that in singing it will grow this crystal. Oh. It's off of your, alloy alloy lore. Nice. So I'd obviously share that with everyone and ask, hello, do I know the song, Chris?
 
 You do not. Nobody knows the song. Oh, it's a rumored song. Dang it. Yeah.
 
-It is it is in fact you share that. Elwar's eyes kind of brighten. It it is in is in fact, part of the the reason, the quest, I guess, the the driving force, when when Cadence, the god of music gave me the vision that led me here, was to find, the the missing bits of the Anno. I've encountered pieces here and there, notes, phrases. That's that's what empowers the magic I do, but not complete sections, let alone the whole thing.
+It is it is in fact you share that. Alwor's eyes kind of brighten. It it is in is in fact, part of the the reason, the quest, I guess, the the driving force, when when Cadens, the god of music gave me the vision that led me here, was to find, the the missing bits of the Anno. I've encountered pieces here and there, notes, phrases. That's that's what empowers the magic I do, but not complete sections, let alone the whole thing.
 
 But certainly, that makes sense that it's capable for doing that. And now may be a good time, Chris. I don't have any crafting or any specific, traditional skills or lore that would be super helpful here. However, upon level two, I picked up Bardic lore, which essentially gives me all lore. Oh.
 
 So it's there. It acts as like a lower powered version of any lore skill. So if there's any applicable lore here, theoretically, bardic lore could help me out. And the way I kind of see that for my character is less like traditionally, it's a, hey, I've studied and learned these things. You know, I've picked up bits of knowledge through my travels and, you know, whatever.
 
-And certainly part of that, definitely works with with my guy in my character. But I also see sometimes some of it being like a direct, you know, like, almost like a a divine, like, word of knowledge kind of thing. You know, being connected either to, Cadence or now, Shenanua, take your pick. That's kinda how that way I thought along with the traditional, you know, I'm 300 years old and I have to travel the world and, you know. Blah blah.
+And certainly part of that, definitely works with with my guy in my character. But I also see sometimes some of it being like a direct, you know, like, almost like a a divine, like, word of knowledge kind of thing. You know, being connected either to, Cadens or now, Shenanua, take your pick. That's kinda how that way I thought along with the traditional, you know, I'm 300 years old and I have to travel the world and, you know. Blah blah.
 
 Yeah. That that sounds that sounds good to me. So why don't you go ahead and roll Bartiklor? My question is And you roll better than Jason. How?
 
@@ -469,13 +528,17 @@ That is amazing. And it is plus six. Yeah. Plus six. That's correct.
 
 Bam. Yeah. Solidly average. Okay. Oh, I lose somebody.
 
-Okay. So, with what with what Kahir has shared Okay. And what Sameer has shared, you and and what Jared has talked about as well. You are pretty certain that, and, you know, just kinda looking at all of the all the pieces here that are all together, you're pretty certain that there is a couple of a couple of different ways to attempt to fix this. Mhmm.
+Okay. So, with what with what Cahir has shared Okay. And what Simear has shared, you and and what Jared has talked about as well. You are pretty certain that, and, you know, just kinda looking at all of the all the pieces here that are all together, you're pretty certain that there is a couple of a couple of different ways to attempt to fix this. Mhmm.
 
 One is kind of like the, the method that Jared was referring to, which is more of like, what's the there's a Japanese pottery. There's a Japanese pottery style of fixing fixing pottery in which you basically take gold and you, melt it down and put it on on the edge of the pot of the pottery and then you put the two pieces together. Mhmm. And then that kind of fuses it together and so you have, you know, so you fix it, you put it together, but you but it's very clear that it was broken because it has, like, you know, metal sticking around. Yep.
 
 And so the star metal the star metal route would fix, would fix this. And it would fix it with, with kind of that spidery web sort of sort of situation. You're pretty confident that you see all of the pieces here. So there isn't there isn't anything that's missing. Okay.
 
 That's that's good. You also think that if you find, the right verse, the Janu, you could completely repair this of just growing it growing the the glass back together again. Alright. Yep. By singing to it and just it would it would cause the glass to, like, grow together and close.
+
+---
+
+### Session Play - Part 7
 
 Alright. That's gotta be here somewhere. The, the sand itself, if you do it the first method, you will have to find a way to, get the sand to kind of siphon siphon back in. From which you can there there are a number of different magical methods that you could use in order to be able to kind of, like, move it around. Even though the sand of time in and of itself is very significant and it's magical, it's it's it's at the end of the day, it's still sand.
 
@@ -495,7 +558,7 @@ And you should spend them. Spend them because you got Could hear it good. I did 
 
 Yeah. Yeah. Yeah. You also did good. Okay.
 
-But Samir and Alwar, you guys could use your hero points and reroll if you so desired. Yep. Not a bad idea. I think oh, I see what's happening. Pull up my character.
+But Simear and Alwor, you guys could use your hero points and reroll if you so desired. Yep. Not a bad idea. I think oh, I see what's happening. Pull up my character.
 
 I see. Was displaced, and I actually logged myself out of everything. Yeah. I'll do that. I think I will.
 
@@ -515,9 +578,9 @@ Okay. So let's see. Where are we at here? We got we got okay. So our you know, y
 
 You didn't really notice them before. The sand was kinda covering covering things up. But as you look around on on the floor, they're definitely, like, pockmarks and scorch marks on the floor. Our no. Our it was the person that I just talked to.
 
-Carsten. Yeah, Carsten, you see similar things, and you also see, like, on the actual glass itself, you do also see similar, like, scorch marks in in that in that kind of thing. So it it's appear it it appears that there there was some sort of, like, hailstorm, like really bad hailstorm that came through. It's basically effectively kinda what it looks like. Let's see here.
+Karsten. Yeah, Karsten, you see similar things, and you also see, like, on the actual glass itself, you do also see similar, like, scorch marks in in that in that kind of thing. So it it's appear it it appears that there there was some sort of, like, hailstorm, like really bad hailstorm that came through. It's basically effectively kinda what it looks like. Let's see here.
 
-Here, you are able to see that, like, basically the the actual hourglass itself, they where whereas, our and Karsten were thinking maybe hailstorm, you're definitely seeing it's seeing that it's more of a, more of a metal, that it it's more of a, you suspect that this was this was the result of the flaming retribution, I guess, is the best way to put it. Like, basically, stuff it like, things came in here and, it looks similar to kind of, like, the meteors and and fire that was falling, that you saw as you were leaving the the blessed realm. You see you see similar examples here. So even this this temple was even not able to escape the flaming retribution is what you can tell. Sameer.
+Here, you are able to see that, like, basically the the actual hourglass itself, they where whereas, our and Karsten were thinking maybe hailstorm, you're definitely seeing it's seeing that it's more of a, more of a metal, that it it's more of a, you suspect that this was this was the result of the flaming retribution, I guess, is the best way to put it. Like, basically, stuff it like, things came in here and, it looks similar to kind of, like, the meteors and and fire that was falling, that you saw as you were leaving the the blessed realm. You see you see similar examples here. So even this this temple was even not able to escape the flaming retribution is what you can tell. Simear.
 
 Inside what's that? I said Heidi ho. Heidi ho. Inside the actual hourglass itself, you see, you you see what is unmistakably a meteorite that has that has broken through the glass and is sitting, right in front of the, the entrance right here inside the, inside the, hourglass itself. The the meteorite appears to be made of a, a bright shiny silvery metal.
 
@@ -537,7 +600,7 @@ Oh. Oh, okay. So about four foot by it it's about a four foot diameter boulder. 
 
 Except that can be picked up pretty easy. Something that you can pick up maybe. No. No. Okay.
 
-Maybe Acrobatics. Stop. Check. With Carson. But the two of them can probably collectively okay.
+Maybe Acrobatics. Stop. Check. With Karsten. But the two of them can probably collectively okay.
 
 So, I'll point it out and say, hey. Look at this. And I'll I'll kinda what I can scale that way. Okay. Go ahead and roll in athletics.
 
@@ -571,6 +634,10 @@ Oh. I see. A lot of star metal. Yeah. We might need a lot of star metal.
 
 Because the only thing that you really need at this point, to be able to well, not the only thing that you need. But Mhmm. But but it it yes. Okay. So really quickly, looks like Scott's gonna take off in about nine minutes.
 
+---
+
+### Closing and Table Discussion - Part 8
+
 So I just wanna make sure that we're, that that we're in in a good spot. So, effectively, kind of what's gonna be happening over the next six months, is the, the the town itself is going to be kind of building building a scaffolding and and kind of like a way of getting up and down into the temple. They're also going to be paying a lot more close attention to their to their dad and where and where that's going. They are Jared has informed them to empower you guys to do whatever it is that you need to do in order to be able to find what you need to find in order to fix the problem. So those are those are kind of the the broad strokes of what's gonna be happening.
 
 And this is again over the course of, like, six months. During that time, you guys can spend your time doing what what you already told me that you were going to be doing or if you have any additional things that you would like like to do, you can do that as well. You have star metal. You have everything that you need in order to patch this up at the moment, with the aid of the rest of the, rest of the group. If that is your desire to do, and I'm kinda rushing things.
@@ -583,7 +650,9 @@ Mhmm. Yep. Yeah. Unless you want to make other things with the star metal and no
 
 You can do that. Nope. And then we gotta go find the song first. Right? Right?
 
-Also, just to if if you do go over to the map, you will notice that, there's a little bit more of the map that has been revealed over the over the course of the over the course of the six months that you guys are on. There there's, there there might be I might reveal a little bit more than this, but at the very least, like, at this point, the the town's scouts have gotten a little bit further out, and they've been able to they've been able to see more of the world around your town. Thus far, it's only been grass land that they found. There is, like, the edge of a forest in the South, that they have christened the burning the burned wood, primarily because the forest is a bunch of charred trees, And that's the direction that you guys generally came from. But as we have more, like, time leaps, I'm going to be revealing more and more of this map.
+Also, just to if if you do go over to the map, you will notice that, there's a little bit more of the map that has been revealed over the over the course of the over the course of the six months that you guys are on. There there's, there there might be I might reveal a little bit more than this, but at the very least, like, at this point, the the town's scouts have gotten a little bit further out, and they've been able to they've been able to see more of the world around your town. Thus far, it's only been grass land that they found.
+
+There is, like, the edge of a forest in the South, that they have christened the burning the burned wood, primarily because the forest is a bunch of charred trees, And that's the direction that you guys generally came from. But as we have more, like, time leaps, I'm going to be revealing more and more of this map.
 
 Or if you guys start traveling in a certain direction, then more of the map will be revealed in that specific direction. But that's basically kinda how I'm planning on revealing this is just, like, over time when we've got breaks, then, you know, the the scouts of the, of the of the village may get a little bit further out or maybe there are some survivors that come from somewhere else else and they talk about something and so it reveals a portion of the map elsewhere. But, as of right now, this is kinda where that is at the moment. Alright. Sounds great.
 

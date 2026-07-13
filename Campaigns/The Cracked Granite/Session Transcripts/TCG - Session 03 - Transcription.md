@@ -2,22 +2,60 @@
 type: transcript
 campaign: "The Cracked Granite"
 session: "03"
-tags: [type/transcript, campaign/cracked-granite]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/cracked-granite
 ---
 
-# TCG - Session 03 - Transcript
+# The Cracked Granite - Session 03 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-### Game System: Pathfinder 2e
+> [!abstract] Campaign context
+> The Cracked Granite follows dwarven agents of Ironhold as the kingdom reopens its gates, explores the transformed surface, and confronts the political struggle between expansion and isolation.
 
-| Character | Player | Class (Subclass)               |
-| --------- | ------ | ------------------------------ |
-| Demlor    | Jason  | Kinetisist (Metal Gate)        |
-| Hurgan    | Scott  | Ranger (Flurry)                |
-| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+## Characters
+
+> [!note] Game system
+> Pathfinder 2e
+
+| Player | Character | Class | Subclass |
+| --- | --- | --- | --- |
+| Jason | Demlor | Kineticist | Metal Gate |
+| Scott | Hurgan | Ranger | Flurry |
+| Ramsey | Rurik | Gunslinger | Way of the Sniper |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 02 - Transcription|TCG - Session 02 - Transcription]]
+- **Next:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 04 - Transcription|TCG - Session 04 - Transcription]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Session Play - Part 11]]
+- [[#Session Play - Part 12]]
+- [[#Session Play - Part 13]]
+- [[#Session Play - Part 14]]
+- [[#Session Play - Part 15]]
+- [[#Session Play - Part 16]]
+- [[#Closing and Table Discussion - Part 17]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 00:00.000 --> 00:25.800 So, when last we met, you had investigated the ruins of Dagger Sheath, which is a southern
 
@@ -423,6 +461,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 10:46.720 --> 10:48.400 there's enough
 
+---
+
+### Session Play - Part 2
+
 10:49.020 --> 10:51.080 like you guys rolled pretty well
 
 10:51.080 --> 10:51.880 on your stealth
@@ -783,6 +825,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 19:41.360 --> 19:42.500 um
 
+---
+
+### Session Play - Part 3
+
 19:42.500 --> 19:42.700 so uh this is the tent you just complete the ladder and take care you'll get on 95ps and stuff like that you takedom like here are you never seen one like that in real life um sometimes you never see it as an unlisted try it before but even if you've seen it in real life it's really fantastic great big deal to see a в
 
 19:42.700 --> 19:51.760 here uh up here on the call the northwest corner here um there's a bunch of roots and stuff
@@ -809,7 +855,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 21:05.120 --> 21:06.700 yeah
 
-21:06.720 --> 21:16.020 yeah i'd say again kind of looking at looking at demler's um or jason's like demler's uh skill
+21:06.720 --> 21:16.020 yeah i'd say again kind of looking at looking at Demlor's um or jason's like Demlor's uh skill
 
 21:16.020 --> 21:23.720 feats around um climbing and that kind of thing like he could easily kind of set something up for
 
@@ -825,7 +871,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 22:03.260 --> 22:06.700 so as long as they're following as long as they're following the right path they're going to be able to
 
-22:06.720 --> 22:14.360 do it as long as rurik and himmler are following your lead like they've got the follow your lead
+22:06.720 --> 22:14.360 do it as long as Rurik and himmler are following your lead like they've got the follow your lead
 
 22:14.360 --> 22:19.920 thing going on it increases your um
 
@@ -889,7 +935,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 25:27.260 --> 25:35.420 course that you and your you and your compatriots are you're confident that you guys will be able
 
-25:35.420 --> 25:51.040 to get you'll be able to um figure figure it out um now heron and uh rurik um i want each of you
+25:35.420 --> 25:51.040 to get you'll be able to um figure figure it out um now heron and uh Rurik um i want each of you
 
 25:51.040 --> 26:02.540 to roll an athletics and uh yeah for for climbing so go ahead and roll a climb for me as well
 
@@ -951,7 +997,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 27:42.860 --> 27:44.620 You said you wanted a what role
 
-27:44.620 --> 27:45.500 from Hergen?
+27:44.620 --> 27:45.500 from Hurgan?
 
 27:46.600 --> 27:47.120 Stealth?
 
@@ -1124,6 +1170,10 @@ tags: [type/transcript, campaign/cracked-granite]
 30:04.440 --> 30:05.780 says,
 
 30:06.780 --> 30:10.360 time for breather.
+
+---
+
+### Session Play - Part 4
 
 30:14.180 --> 30:15.300 Let us
 
@@ -1455,7 +1505,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 34:37.960 --> 34:40.160 Regardless, while you're making that decision, Scott,
 
-34:41.880 --> 34:45.340 as Demilore,
+34:41.880 --> 34:45.340 as Demlor,
 
 34:45.460 --> 34:48.080 you're thinking about the deep magics.
 
@@ -1561,17 +1611,17 @@ tags: [type/transcript, campaign/cracked-granite]
 
 36:51.660 --> 37:01.540 and the dwarf is starting to show signs of like elemental attunement um
 
-37:01.540 --> 37:12.940 from which you, Hurgen, you would kind of recognize this a little bit um
+37:01.540 --> 37:12.940 from which you, Hurgan, you would kind of recognize this a little bit um
 
 37:12.940 --> 37:16.540 but um
 
-37:22.540 --> 37:29.640 uh as you've seen something similar from Demlur only this is more of a fire based
+37:22.540 --> 37:29.640 uh as you've seen something similar from Demlor only this is more of a fire based
 
 37:29.640 --> 37:31.460 um attunement where
 
 37:31.460 --> 37:31.520 um
 
-37:31.540 --> 37:36.220 Demlur is more metal based but it looks very very similar
+37:31.540 --> 37:36.220 Demlor is more metal based but it looks very very similar
 
 37:36.220 --> 37:44.000 um then further on you see at the center of the at the center of the
 
@@ -1640,6 +1690,10 @@ tags: [type/transcript, campaign/cracked-granite]
 40:38.880 --> 40:41.500 so yeah
 
 40:41.500 --> 40:43.460 right yeah
+
+---
+
+### Session Play - Part 5
 
 40:43.460 --> 40:47.940 all right
 
@@ -2374,6 +2428,10 @@ tags: [type/transcript, campaign/cracked-granite]
 48:03.860 --> 48:04.860 a type
 
 48:04.860 --> 48:05.860 of giant
+
+---
+
+### Session Play - Part 6
 
 48:05.860 --> 48:06.860 they are
 
@@ -3128,6 +3186,10 @@ tags: [type/transcript, campaign/cracked-granite]
 54:49.860 --> 54:50.860 which
 
 54:50.860 --> 54:51.860 would drop
+
+---
+
+### Session Play - Part 7
 
 54:51.860 --> 54:52.860 you
 
@@ -3957,6 +4019,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:02:45.600 --> 01:02:48.460 cool cool cool cool
 
+---
+
+### Session Play - Part 8
+
 01:02:48.460 --> 01:02:50.000 good to know
 
 01:02:50.000 --> 01:02:52.240 alright sick
@@ -4511,6 +4577,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:11:01.860 --> 01:11:06.860 is there any reason to try to fight these guys?
 
+---
+
+### Session Play - Part 9
+
 01:11:06.860 --> 01:11:09.860 so here's here's
 
 01:11:09.860 --> 01:11:10.860 a consideration
@@ -4935,6 +5005,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:20:48.560 --> 01:20:48.860 Well.
 
+---
+
+### Session Play - Part 10
+
 01:20:49.800 --> 01:20:52.020 It's a five plus eight, which was a 13.
 
 01:20:52.820 --> 01:20:53.080 Yeah.
@@ -5057,7 +5131,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:22:06.460 --> 01:22:07.940 And I would also like.
 
-01:22:08.620 --> 01:22:10.820 Demlar to roll a flat agility.
+01:22:08.620 --> 01:22:10.820 Demlor to roll a flat agility.
 
 01:22:11.920 --> 01:22:12.360 Just.
 
@@ -5337,7 +5411,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:27:15.660 --> 01:27:16.520 We're gonna leave it alone.
 
-01:27:16.560 --> 01:27:20.000 And she does nine points of damage to Demlar.
+01:27:16.560 --> 01:27:20.000 And she does nine points of damage to Demlor.
 
 01:27:20.000 --> 01:27:20.120 There.
 
@@ -5514,6 +5588,10 @@ tags: [type/transcript, campaign/cracked-granite]
 01:29:50.580 --> 01:29:51.580 uh,
 
 01:29:51.580 --> 01:29:52.580 uh,
+
+---
+
+### Session Play - Part 11
 
 01:29:52.580 --> 01:29:53.580 uh,
 
@@ -5907,6 +5985,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:41:33.340 --> 01:41:41.820 okay um you okay so you hunt or i could do something else
 
+---
+
+### Session Play - Part 12
+
 01:41:43.020 --> 01:41:46.860 well i mean it just depends on what your intentions are here are you uh
 
 01:41:47.740 --> 01:41:53.420 are you wanting to run away or are you wanting to continue to fight or
@@ -5933,7 +6015,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:43:02.220 --> 01:43:11.880 all right so with that it's the uh the the dwarf
 
-01:43:12.260 --> 01:43:16.220 looks at demlora and says help me please
+01:43:12.260 --> 01:43:16.220 looks at Demlor and says help me please
 
 01:43:19.580 --> 01:43:30.700 uh-oh it's a trap start of the new start of the next round um at the end of that round like the
 
@@ -5961,7 +6043,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:44:24.380 --> 01:44:26.420 um
 
-01:44:26.420 --> 01:44:30.400 rurik you're up what are you gonna do
+01:44:26.420 --> 01:44:30.400 Rurik you're up what are you gonna do
 
 01:44:30.400 --> 01:44:32.420 um
 
@@ -6363,6 +6445,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:52:03.620 --> 01:52:04.520 um
 
+---
+
+### Session Play - Part 13
+
 01:52:04.520 --> 01:52:07.620 that is specifically weak
 
 01:52:07.620 --> 01:52:07.840 to
@@ -6747,7 +6833,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:55:53.280 --> 01:55:54.780 uh
 
-01:55:54.780 --> 01:55:55.560 hergen
+01:55:54.780 --> 01:55:55.560 Hurgan
 
 01:55:55.560 --> 01:55:57.420 what are you up to
 
@@ -6783,7 +6869,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 01:56:59.720 --> 01:57:07.400 i might have known that you i might have known that the uh that that the great heroes
 
-01:57:07.400 --> 01:57:12.600 demlor ergen and rurik were behind this rescue
+01:57:07.400 --> 01:57:12.600 Demlor ergen and Rurik were behind this rescue
 
 01:57:12.600 --> 01:57:18.280 yeah
 
@@ -6932,6 +7018,10 @@ tags: [type/transcript, campaign/cracked-granite]
 02:00:52.040 --> 02:00:53.180 in what direction?
 
 02:00:54.640 --> 02:00:56.080 Um, well, they seem to be
+
+---
+
+### Session Play - Part 14
 
 02:00:56.080 --> 02:00:57.540 distracted at the moment.
 
@@ -7203,19 +7293,19 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:05:45.340 --> 02:05:45.800 All right.
 
-02:05:45.940 --> 02:05:48.860 So, Hergen, you get over here.
+02:05:45.940 --> 02:05:48.860 So, Hurgan, you get over here.
 
 02:05:50.280 --> 02:05:50.840 Um.
 
 02:05:53.100 --> 02:05:53.660 And
 
-02:05:53.660 --> 02:05:57.020 Demler, uh,
+02:05:53.660 --> 02:05:57.020 Demlor, uh,
 
 02:05:57.040 --> 02:05:58.460 what is your plan?
 
 02:06:02.540 --> 02:06:04.320 I was going to.
 
-02:06:06.920 --> 02:06:09.160 He is Hergen labeled Scott.
+02:06:06.920 --> 02:06:09.160 He is Hurgan labeled Scott.
 
 02:06:09.540 --> 02:06:20.820 Look, uh, I'm, I'm in range for a magnetic pinions.
 
@@ -7423,6 +7513,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:09:27.620 --> 02:09:30.300 okay well
 
+---
+
+### Session Play - Part 15
+
 02:09:30.300 --> 02:09:32.540 anything that is going to be an
 
 02:09:32.540 --> 02:09:34.620 offensive thing will need to
@@ -7465,9 +7559,9 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:10:13.200 --> 02:10:16.460 alright so
 
-02:10:16.460 --> 02:10:17.640 Hergen I already
+02:10:16.460 --> 02:10:17.640 Hurgan I already
 
-02:10:17.640 --> 02:10:20.960 Hergen I took your
+02:10:17.640 --> 02:10:20.960 Hurgan I took your
 
 02:10:20.960 --> 02:10:23.060 sneak score and just made
 
@@ -7911,6 +8005,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:19:06.420 --> 02:19:08.220 the cliff.
 
+---
+
+### Session Play - Part 16
+
 02:19:08.940 --> 02:19:10.680 Yep, we've got rope. I've got rope.
 
 02:19:12.000 --> 02:19:13.000 I've got, um...
@@ -8265,13 +8363,13 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:25:42.160 --> 02:25:43.800 Probably. Which is
 
-02:25:43.800 --> 02:25:44.900 probably Hercan.
+02:25:43.800 --> 02:25:44.900 probably Hurgan.
 
 02:25:50.340 --> 02:25:53.120 All right.
 
 02:25:54.460 --> 02:25:55.620 All right, so
 
-02:25:55.620 --> 02:25:57.840 Hercan covers
+02:25:55.620 --> 02:25:57.840 Hurgan covers
 
 02:25:57.840 --> 02:25:59.860 up the tracks as best he can.
 
@@ -8335,7 +8433,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:27:19.220 --> 02:27:20.600 Yeah.
 
-02:27:21.520 --> 02:27:22.620 Iron Hold, right?
+02:27:21.520 --> 02:27:22.620 Ironhold, right?
 
 02:27:23.560 --> 02:27:24.420 Yeah, we need to.
 
@@ -8421,6 +8519,10 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:29:05.940 --> 02:29:08.120 And then just kind of hike it from there.
 
+---
+
+### Closing and Table Discussion - Part 17
+
 02:29:09.140 --> 02:29:09.380 Okay.
 
 02:29:10.160 --> 02:29:12.760 So, I'm going to need two more rolls.
@@ -8439,7 +8541,7 @@ tags: [type/transcript, campaign/cracked-granite]
 
 02:29:23.840 --> 02:29:30.980 to figure out if you guys can figure out how to make it back there.
 
-02:29:31.100 --> 02:29:35.400 So, that seems like a Hergen roll.
+02:29:31.100 --> 02:29:35.400 So, that seems like a Hurgan roll.
 
 02:29:39.920 --> 02:29:40.520 Yay.
 

@@ -2,12 +2,47 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "18"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 18 - Transcript
+# Crown of the Immortals - Session 18 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 17|Session 17]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 19|Session 19]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 You. You can roll from one. Yeah. So if you if you just go to your crafting, and you're not looking at recall knowledge repair craft or any of that, just click on the crafting, header, that should roll it. That's that's very different.
 
@@ -93,11 +128,11 @@ Gotcha. And we can't fit, and our our submarine can't fit? You can fit. There's 
 
 Or did it looks suspicious. That's what he's saying. Yeah. Yeah. Yeah.
 
-Yeah. Which is why I mentioned it. I don't think I have, Samir, do you have any Detect Magic? I do have Detect Magic. Oh, you do?
+Yeah. Which is why I mentioned it. I don't think I have, Simear, do you have any Detect Magic? I do have Detect Magic. Oh, you do?
 
 Sick. I thought I did. Not. But I had that. Maybe.
 
-Or maybe Samir does. I do. Yep. I can I can Well, then you do it? I thought I had it too, but maybe I really don't.
+Or maybe Simear does. I do. Yep. I can I can Well, then you do it? I thought I had it too, but maybe I really don't.
 
 Testing detect imagine x. Just to see what we're working with out there is Hold me. Magical. Alright. So now pull this.
 
@@ -137,7 +172,11 @@ Okay. Okay. So I'm gonna need a, performance check from, from, our for his instr
 
 Should actually be a two. Alright. That that that's pretty good. Okay. Excellent.
 
-So going so, Carson, you will get, let's see here. Because you are in a submarine, you are clumsy too. However, due to Alwar's instruction, you gain a plus two to your, to your driving check. And, yeah, I'm I'm assuming that you are you are still inspired as well. So, you get a plus one from that.
+---
+
+### Session Play - Part 2
+
+So going so, Karsten, you will get, let's see here. Because you are in a submarine, you are clumsy too. However, due to Alwor's instruction, you gain a plus two to your, to your driving check. And, yeah, I'm I'm assuming that you are you are still inspired as well. So, you get a plus one from that.
 
 So in total, you'll get a plus three to your driving the submarine check. I think it went down. What? My acrobatics was at seven, and now it's at five. Because you're clumsy too.
 
@@ -183,7 +222,7 @@ Yep. I'm under firmware. Like like, just let out, like, a sustained pitch. Yep. 
 
 This is definitely a, the the acoustics in this in this dome are point are on point. Yeah. Yeah. Awesome. Right right after that right after that note that you that you, cast out, you are taken up in a vision.
 
-Whoo. And this is the part that I'm gonna need your help with. I'm going to be describing your vision, but I'm going to be giving you the opportunity I'm gonna be giving you the opportunity to read out the quote that I gave you in, in the chat. Oh, I know. So for you, Alwar, you find yourself, in a similar chamber to this one.
+Whoo. And this is the part that I'm gonna need your help with. I'm going to be describing your vision, but I'm going to be giving you the opportunity I'm gonna be giving you the opportunity to read out the quote that I gave you in, in the chat. Oh, I know. So for you, Alwor, you find yourself, in a similar chamber to this one.
 
 The air is thick with salt and metal as you as you, clad in robes, etched with shimmering etched with a shimmering script, stand at the base of the temple's such central pillar. Your voice hummed at the final notes of the lino, a harmony so perfect it made the air vibrate. As, you drive your blade into the stone dais, obsidian weapon wrapped in orichalcum wire or an orichalcum wire and humming with stored resonance. You murmur, here's your quote. Excellent.
 
@@ -209,11 +248,11 @@ Kings must burn away before light can rise again. As you say that, the circlet s
 
 This is a vision. It it's this is a vision that you're having as well. Again, this is something like, you know, you don't recognize like, you recognize that place, but you recognize it from it's kind of like a deja vu sort of thing. It's like, I know this this is my memory, but I have no memory of this memory kind of thing. Mhmm.
 
-Carson. Yes. Leaving the leaving the, leaving the submarine, you oh, just really quick. I'm sorry. Scott, what is what is Cahir's immediate response to what just happened to him?
+Karsten. Yes. Leaving the leaving the, leaving the submarine, you oh, just really quick. I'm sorry. Scott, what is what is Cahir's immediate response to what just happened to him?
 
-What's his reaction? Yeah. I think he'd be stuttered a little bit and kind of just, like, wondering what that meant, maybe. Yeah. So, yeah, you so, Carson, you're getting out and you're like, you're basically you're kinda seeing what happened with our you know, he's kinda looking at he's kinda looking at his hands, contemplating things.
+What's his reaction? Yeah. I think he'd be stuttered a little bit and kind of just, like, wondering what that meant, maybe. Yeah. So, yeah, you so, Karsten, you're getting out and you're like, you're basically you're kinda seeing what happened with our you know, he's kinda looking at he's kinda looking at his hands, contemplating things.
 
-And here, basically, just kinda breezes and looks confused a little bit what right when he right when he gets off of the, right when he gets off the submarine. And if I'm describing, you know, what what you guys are doing incorrectly, please do let me know because we can like, really, it's your character's response. You can you can respond any way you want. But, but, Carson, you you step onto the, arbol as well, and you find yourself standing, in a a dais. Not a dais so much as a balcony.
+And here, basically, just kinda breezes and looks confused a little bit what right when he right when he gets off of the, right when he gets off the submarine. And if I'm describing, you know, what what you guys are doing incorrectly, please do let me know because we can like, really, it's your character's response. You can you can respond any way you want. But, but, Karsten, you you step onto the, arbol as well, and you find yourself standing, in a a dais. Not a dais so much as a balcony.
 
 I don't even know what a dais is. Oh, good. You're on a balcony. That's Thank you. I've never even heard of that term.
 
@@ -221,9 +260,13 @@ I I will not use I will not use the word dais to confuse you. The balcony. I lea
 
 You turn a step into the temple itself. And as you do, lightning splits across the sky beyond the cracked ceiling of the hall. Your gauntlets etched with runes that once bent the desert wind to your will lay across the lap of a statue, shaped shaped in your image. Good. Your, your quote, please.
 
-I broke armies with this, but we break nothing today. You press your hands into the statue's chest, whispering a single line of the Lenot that bound the artifact to in into stasis. The wind fell still, unnaturally still. And, Sameer, are you, are you the gateway driver? Up to this point, I guess I am.
+I broke armies with this, but we break nothing today. You press your hands into the statue's chest, whispering a single line of the Lenot that bound the artifact to in into stasis. The wind fell still, unnaturally still. And, Simear, are you, are you the gateway driver? Up to this point, I guess I am.
 
 I am I'm I'm just I didn't end the detect magic thing, so I don't know how long that lasts or if it would still be going, but I would be, like, I'd be looking. I'm watching with that lens. Yeah. You you definitely do see magic happening, in this place. It's almost like, it like, as as you see each of your friends step into this this place, you see a flash of some sort of magic.
+
+---
+
+### Session Play - Part 3
 
 Although it doesn't seem to be something that you like, it's not a common it's not like, oh, that's magic. It's like, woah. What's that? You know? Okay.
 
@@ -235,7 +278,7 @@ Mhmm. Does that make sense? Yeah. No. That makes that makes perfect sense.
 
 So so, like, an immediate or a visible reaction would be kind of, like, would you be stunned, or would you be, like, being really excited? Or I think I would be, like, really kinda stunned excited because I'm not understanding what everything means, but it seems cool. Does that make sense? But I am stunned. That for sure.
 
-Okay. And then what is this? Yeah. So you like, again, Sameer, kind of what you're seeing is you're you're you have, you know, a couple of different reactions, but they they none of nobody seems to be, like, in pain. There's a little bit of confusion.
+Okay. And then what is this? Yeah. So you like, again, Simear, kind of what you're seeing is you're you're you have, you know, a couple of different reactions, but they they none of nobody seems to be, like, in pain. There's a little bit of confusion.
 
 There's a little bit of, like, what's going on? And, you know, you see Karsten and you and he's he's got a he's got a confused flash. He's got a confused smile on his face. Like, you know, well, this could be cool, but I don't know what it is kinda thing. Yeah.
 
@@ -247,7 +290,7 @@ Yeah. Sure. We'll, we'll, like, start playing a little a little ditty. Alright. 
 
 Sorry. Oh, no. I wasn't gonna get there. Yeah. The acoustics in here are amazing.
 
-But other than just having the best the best natural amplifier that you could possibly ever want, nothing of note specifically happens. K. And Okay. Samir does not notice any additional magic. Okay.
+But other than just having the best the best natural amplifier that you could possibly ever want, nothing of note specifically happens. K. And Okay. Simear does not notice any additional magic. Okay.
 
 Right? K. Yeah. I mean, like, pop out and assuming we are looking to explore a little bit more. Okay.
 
@@ -313,7 +356,7 @@ I've forgotten. You had a you had a Oratelkam crown. Okay. So that makes sense. 
 
 Mhmm. Yeah. Definitely. Quotes and things. Yep.
 
-Yeah. Had a black obsidian glass mirror. Pretty freaking sweet looking. Anyway, names and faces seen in it disappeared, forgotten, and then set it down in water, and away it goes. Kirsten, what was your object again?
+Yeah. Had a black obsidian glass mirror. Pretty freaking sweet looking. Anyway, names and faces seen in it disappeared, forgotten, and then set it down in water, and away it goes. Karsten, what was your object again?
 
 Gauntlets. But I have no idea what they do. You had an impression from the, from your vision, that they had something to do with controlling the wind. Oh, I can control fire, and now I can control the wind. Well, I mean, the gauntlets can I can't?
 
@@ -321,13 +364,17 @@ Okay. I would explain that to or reiterate that to here. Can we tell how long th
 
 Okay. It's, there's very, very little, water, water damage to it. It looks like it it looks like it was a desert temple at some point, but, again, you know, it just kind of, like, appears to be magically preserved. How big is the space that we're standing in? The space that you're standing in right now is the it's solid 60 foot diameter, circle with a domed top.
 
+---
+
+### Session Play - Part 4
+
 There is a, there is a oh, come on. There is a there's a exit to the on the opposite side of the room, where your sub basically kinda popped up, there's a stairway that goes up to this this room. Then at the far edge of the room, there is a, a ornately decorated door, that is closed. I'm not. Okay.
 
 Okay. Did anyone see anything that looks familiar here? No. Yeah. Okay.
 
 Me either. Is there, like, paintings on the walls? Like, are those There there are. Or matching No. Is there is what I meant to say?
 
-There there are definitely murals around, mostly, related to the god Cadence, so specifically around music, around, composition, and and those sorts of things. This is a temple of the god of music, so, it would be unfitting for there not to be, things on there. But there's nothing that specifically references you if that's what you're looking for. Right. Right.
+There there are definitely murals around, mostly, related to the god Cadens, so specifically around music, around, composition, and and those sorts of things. This is a temple of the god of music, so, it would be unfitting for there not to be, things on there. But there's nothing that specifically references you if that's what you're looking for. Right. Right.
 
 Correct. We all had an initial vision when we stepped on the marble, but we come out of them kind of shortly. Right? Right. Right.
 
@@ -395,7 +442,7 @@ Well I I kind of, like, shakily handed the piece of paper back to him. My hand, 
 
 At that, he he he does he does stop you, and he says Okay. No. No. No. No.
 
-I am not I am not Cadence. K. Okay. I I'm his, what's the word? Assistant.
+I am not I am not Cadens. K. Okay. I I'm his, what's the word? Assistant.
 
 Harold okay. Is a representation of his will. He who knows his his inner, his his inner thoughts, the the way he communicates directly to the to the world, but I am not him. Okay. Alright.
 
@@ -416,6 +463,10 @@ You know, all of those things in a very polite way. He asking all those things i
 He says, while I am while while I am his herald, I'm definitely I definitely do not have his his mind, but I do, he does speak to me. I speak for him. I have waited a long time for you to return as there needed to be someone standing guard over this, over this piece of the lanol. And as, my, benefactor was to keep guard of it guard on it, it I was honor bound to stay. As As far as your questions around your, your items, they are in the room beyond, as well as the, the the bars of the of the that you used those items to seal.
 
 Oh. In order to get there, however, I recognize you as who you are. You must prove that you are who you are to the, to the great magics that seal the Leno, or it will Mhmm. For it will not open for anybody except for you. That's encouraging.
+
+---
+
+### Session Play - Part 5
 
 Okay. The way that you can, way that you can use or the way that you can prove your your identity is to, speak a truth explaining why you must reclaim the Leno. Oh. And or the it's it's Yano, isn't it? It's not Lenon.
 
@@ -439,7 +490,7 @@ I don't know what to do with the wind. Where, is it we must prove ourselves? At 
 
 That's FYI. Anybody anybody with anybody with some gumption can have made it this far. No. I think your overestimating those crazy sharks. Yeah.
 
-That's funny. I I I I think that you might be over complicating what what's being asked. Almost certainly. So alright. Alwar will will walk up to the door, and I'm kind of, like, as I'm going, I'm he's humming to himself, the the song, that that Argyle showed him just a little bit ago.
+That's funny. I I I I think that you might be over complicating what what's being asked. Almost certainly. So alright. Alwor will will walk up to the door, and I'm kind of, like, as I'm going, I'm he's humming to himself, the the song, that that Argail showed him just a little bit ago.
 
 And I kind of I kind of reach the door, and, I kind of mimic putting my hand up to it as if, you know, I was still holding a blade, And kind of like if I kinda slowly draw back, till say, I I don't know if the world is ready, but I know that it needs it. We we need the song to repair the time turner. I don't know what it means for the world to be ready, but I believe that I am. And with that, a glowing sigil that looks like a sword appears on the door. Right.
 
@@ -447,7 +498,7 @@ Kinda look back a little excited. Alright. Who's next? I have no idea how you go
 
 Excuse me. And with that, a, what looks to be a sigil of a or a, what looks to be a picture of a mirror, appears at as a glyph on the door as well. I guess I will walk up to the door and say, I broke armies with this. We break nothing today. The I pressed my hand or maybe not.
 
-I just So, you you're you're you are almost there. Just to like, basically, you that's that's definitely mostly what what we're looking for, but you need to explain your need with those with those words. Mhmm. So, like, as Sameer said, you know, the the, you know, the light or what was it? The That was what they lost.
+I just So, you you're you're you are almost there. Just to like, basically, you that's that's definitely mostly what what we're looking for, but you need to explain your need with those with those words. Mhmm. So, like, as Simear said, you know, the the, you know, the light or what was it? The That was what they lost.
 
 And though it's been forgotten, it needs to be restored. Right. And The original phrase was who they were, what they lost, and what me what must be forgotten. So kinda taking the inverse of those statements. Exactly.
 
@@ -503,6 +554,10 @@ And yeah. Well, you walk up to the pillar, hour, and, again, you're not rejected
 
 Wait. Wrong wrong, wrong mythos here. You reach into the basin, your hand hits the water, and you feel a slight resistance. But you push a little bit harder, and you're able to break the surface with very little effort. As you do, the water clears.
 
+---
+
+### Closing and Table Discussion - Part 6
+
 And at the bottom of it, you see an obsidian mirror with the finest orichalcum, frame that you could ever that you've ever seen. You grab it, I'm assuming. Yes. Pull it out. There.
 
 Yep. So you grab it and you pull it out. And with that, you feel, you feel the the magic in the room. It lessens slightly as you reclaim your mirror. Can you, reach into that pillar there?
@@ -511,17 +566,17 @@ Sure. Gonna try. I'll kinda do the same thing, not reach in, but, like, grab as 
 
 You yes. Yes. As your as your hand as your hand approaches the pillar, the the it just starts to crumble away until there's a hilt, that is right in front of you. You grab the hilt and pull out a obsidian bladed sword with or with an wrapped in oraclekhum wire. Excellent.
 
-And, again, Sameer, the magic in the room lessens from that. I would be tempted to say that as we collect these artifacts, the, the smack that you just took seems to be maybe not so, potent. Yeah. Yeah. Yeah.
+And, again, Simear, the magic in the room lessens from that. I would be tempted to say that as we collect these artifacts, the, the smack that you just took seems to be maybe not so, potent. Yeah. Yeah. Yeah.
 
 That that yep. It's a guess. It's a guess. I wouldn't go jogging for it again just yet, though. Oh, yeah.
 
 Alright. Scott Clark? Yes. Alright. I'm assuming you guys are gonna do similar things.
 
-Yes. Okay. So we'll just go ahead and start with Kahir. You walk up to the, to the brass to the brass, column and, place your hands over the top of it, like, as if you had as you placed the crown down on it. And, the, and the crown, basically, it melted into the into the brass pillar, and now it unmelts into a crown, and you are able to pick it up off of the off of the pillar.
+Yes. Okay. So we'll just go ahead and start with Cahir. You walk up to the, to the brass to the brass, column and, place your hands over the top of it, like, as if you had as you placed the crown down on it. And, the, and the crown, basically, it melted into the into the brass pillar, and now it unmelts into a crown, and you are able to pick it up off of the off of the pillar.
 
-And, Carson, as you step up to the statue of a sitting man who, in your vision, was you, but now you look at it, it doesn't look like you at all. It is a man of some kind, but, we're certain that it was a statue of you. But it doesn't look to be like it doesn't look to be a statue of you in this, in in this room. But the gauntlets are there. And as you pick them up, a gust of wind fills the, fills the room, and the, and the, you know, the scroll drops to the ground.
+And, Karsten, as you step up to the statue of a sitting man who, in your vision, was you, but now you look at it, it doesn't look like you at all. It is a man of some kind, but, we're certain that it was a statue of you. But it doesn't look to be like it doesn't look to be a statue of you in this, in in this room. But the gauntlets are there. And as you pick them up, a gust of wind fills the, fills the room, and the, and the, you know, the scroll drops to the ground.
 
-And, Sameer, the magic is gone other than the magic and the artifacts that you just picked up. Uh-huh. Right. Right. Mhmm.
+And, Simear, the magic is gone other than the magic and the artifacts that you just picked up. Uh-huh. Right. Right. Mhmm.
 
 And with that, it is just about time to call it a night. Oh. So, we will go ahead and call it here Alright. And pick up in pick up in the, Suken Temple in two weeks' time. Woo.
 

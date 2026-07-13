@@ -2,12 +2,52 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "00"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 00 - Transcript
+# Crown of the Immortals - Session 00 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 01|Session 01]]
+- [[#Campaign Setup and Character Creation]]
+- [[#Character Creation - Part 2]]
+- [[#Character Creation - Part 3]]
+- [[#Character Creation - Part 4]]
+- [[#Character Creation - Part 5]]
+- [[#Character Creation - Part 6]]
+- [[#Character Creation - Part 7]]
+- [[#Character Creation - Part 8]]
+- [[#Character Creation - Part 9]]
+- [[#Character Creation - Part 10]]
+- [[#Character Creation - Part 11]]
+- [[#Closing and Table Discussion - Part 12]]
+
+---
 
 ## Transcript
+
+### Campaign Setup and Character Creation
 
 So and there are some additional things that I'll be going over here before we actually get into character creation. Nothing too serious here. I just wanna kinda give you guys a little bit of a background about what you're building your character into. Like, you know, some just overall setting stuff, to be able to build be able to build your character, and then we'll get into character creation. And who knows?
 
@@ -19,11 +59,11 @@ So before we get before we get going, I'm going to, I have a write up. I'm gonna
 
 Alright. You were once a proud citizen of the blessed you you were once a proud citizen of the blessed realms realm. Never thinking of your king's power would ever waver or would ever wane. But eventually, a shadow grew in your heart. You started to doubt the divine right that you thought the blessed realm had.
 
-But did your but did your best to ignore that again. Then one day, a man by the name of Jared came into your town. He was a priest from the capital of Loom, of Lumopolis. He spoke of an a impending duty. He spoke about how we needed to leave the blessed realm to travel north or we would be caught up in destruction.
+But did your but did your best to ignore that again. Then one day, a man by the name of Jared came into your town. He was a priest from the capital of Loom, of Luminopolis. He spoke of an a impending duty. He spoke about how we needed to leave the blessed realm to travel north or we would be caught up in destruction.
 
 Whether his words spoke to this unsettled feeling you already had about the king's intentions or you got caught up in his past passionate speech. You decided to leave your life in the blessed realm and travel north to build a community away from the devastation. Jared led the community north. As you were leaving the blessed realm, the flaming retribution occurred. Fire and flaming rocks falling from the sky, earthquakes shattering villages and cities, and boiling geysers erupting everywhere.
 
-It appeared that the very land of Etheria had rejected the blessed realm. The very landscape itself changed in what seemed to be overnight. A year later, the community has settled in a newly created River Fork in the plains. They have worked diligently to build the community over the past year and deal with the dangers of the new work the dangers that the new world brought. They have finally settled into a less volatile place and are now wondering what happens what happened to the rest of the world.
+It appeared that the very land of Aetheria had rejected the blessed realm. The very landscape itself changed in what seemed to be overnight. A year later, the community has settled in a newly created River Fork in the plains. They have worked diligently to build the community over the past year and deal with the dangers of the new work the dangers that the new world brought. They have finally settled into a less volatile place and are now wondering what happens what happened to the rest of the world.
 
 And I am noticing a great number of, misspellings, but, you know, we'll deal with that. Oh, well. I have a computer, so it does the spelling for me, then I just don't listen to it. No. So that's basically kind of where where the setting of where your character is.
 
@@ -41,7 +81,9 @@ Each attribute is each class has a primary attribute, which is your biggest and 
 
 Your background will give you, will give you two plus two plus one ability modifiers on top of that. Then your, class will give you a plus one ability modifier, and then your, and then you get additional ability boost. The reason why I'm saying that is the common wisdom is find your primary ability modifier and max it out. So you can get a plus four on your primary ability modifier, building your character this way. But it's by no means a requirement.
 
-If you wanna have a more well rounded character where you have, you know, where you have a bunch of twelves, couple of couple of fourteens and 16, you can totally do that. But there's no there's no reason why you couldn't have an 18 and still be able to have a more well rounded character. Like, I think my, my character in Ramsey's game, has a plus four a plus four in strength, a plus one in Dex, a plus one in Con, a plus three in int, and a plus zero and a a plus zero in both wisdom and charisma. So you can get a pretty good spread even if you are maxing out one of your one of your attributes. The difference between this and D and D, as you guys may have noticed in the, in the beginner box for those of you who play D and D, is that, we do not have ability score.
+If you wanna have a more well rounded character where you have, you know, where you have a bunch of twelves, couple of couple of fourteens and 16, you can totally do that. But there's no there's no reason why you couldn't have an 18 and still be able to have a more well rounded character. Like, I think my, my character in Ramsey's game, has a plus four a plus four in strength, a plus one in Dex, a plus one in Con, a plus three in int, and a plus zero and a a plus zero in both wisdom and charisma. So you can get a pretty good spread even if you are maxing out one of your one of your attributes.
+
+The difference between this and D and D, as you guys may have noticed in the, in the beginner box for those of you who play D and D, is that, we do not have ability score.
 
 We don't have ability scores. We only have ability modifiers, and that's a recent change in Path line. There was a remaster that came out about a year ago and, or was announced about a year ago, came out about six months ago, that basically got rid of, ability scores, so you don't have this weird thing where you've got a 10 in ability score and a plus zero modifier, an 18 in ability score, and a plus four modifier. You just have the modifiers you have to worry about. Okay.
 
@@ -72,6 +114,10 @@ Some of those things. I thought you said you narrowed it down. Well, I did narro
 They're off the list. Kineticist is still on that list too, but I'm not being much lower down. I'm almost certainly gonna just make a Bard. Okay. That's kind of where I've where I've been mostly.
 
 So I think we're just gonna stick with it. That will work. Okay. So in order for us to start character creation, we can do this very easily in, in Foundry. I've given everybody here the the ability to create actors.
+
+---
+
+### Character Creation - Part 2
 
 So you should be able to create your own character right along with us. So, what you need to do, first thing is first, is go to the upper the upper right hand corner where the chat is, and go find the person in in that chat and click on that, and that'll open up your app actors tab. Where it says Clarkypoo, Pathfinder? Where are you going? If you are if you are logged in to pathfinder, I I'm sorry.
 
@@ -169,6 +215,10 @@ Yeah. No problem. Woah. Nephilim. Oh, great.
 
 They have Nephilim. Yeah. So in the, in the, in in pathfinder, a Nephilim is a person who has either angelic or or demonic blood. So instead of having an ASMR or a, or a tiefling, they all just fall in the same category as Nephilim. So it's just a a planar a partial planar person.
 
+---
+
+### Character Creation - Part 3
+
 Partial planar person? Alright. I'm at background. Could be a butcher. Okay.
 
 So background is gonna be a little bit of a little bit of a schlog here. Just so you know, there are billion backgrounds. So that's why I'm saying it's a little bit of a schlog. So if you move into background and you click on that, you will see a billion different backgrounds. And it'll be really hard for you to find exactly what you're looking for unless you have something in mind and you wanna search for.
@@ -261,6 +311,10 @@ You've got four boosts that you can Alright. You've got four boosts right there.
 
 But Hey. If I'm going to be a paladin, do I need to have wisdom? No. Getting a lot of background voice. Yeah.
 
+---
+
+### Character Creation - Part 4
+
 Does the paladin need wisdom at all or Prisma? No. Or maybe not. Just wait a second. I think it more depends what skills you want.
 
 Alright. There's too much going on. What'd you say? It depends what skills you want. You want wisdom skills?
@@ -348,6 +402,10 @@ It is. That seems to have fixed it, whatever you did. Okay. Cool. Yeah.
 That sounds a lot better. Okay. I'm a little behind you guys, but I'll catch up. Don't you worry. No worries.
 
 I'm stuck on allocating my attributes because, you know. So Jason, you have no intelligence, you said? You decided not to do intelligence? Well, I guess I need to plop some things in a few spots. So, I assume Yeah.
+
+---
+
+### Character Creation - Part 5
 
 That and Razi does remind me, like, in this game, like, if you've got you don't necessarily need to build your character around other people not having ability scores and that kind of stuff. But I have found that if you have two characters that have very similar, very similar attribute things attribute things. And they both are trained in, and they're both trained in similar skills. The if one person has a has a better attribute than the other one, then it just kinda, like, more often than not, you're not using your skill that you've actually trained in. So, that doesn't have to be the case here, but, it is it is something that I've noticed in playing in playing myself.
 
@@ -439,6 +497,10 @@ Very good. As long as you're out, it's great out of combat and in combat, it can
 
 Alright. Am I done? I am looking. Okay. So you get a you get a champion feat as well at first level.
 
+---
+
+### Character Creation - Part 6
+
 So if you go over your feat section so it's the it's the little bubble that looks like a, looks like a, looks like a running trophy or a running medal. That's your feet section. Those are those are it? Right. So what you need to do now, is anything that you have that is marked as an empty slot in there, you need to click on the, click on the magnifying glass next to it and find something that find something that you want to have as your as your feet.
 
 So you might have an accessory one, you might have a class one, you might have a skill one. Come on. Alright. I go to champion or oh, that's campaign. That's not what you said.
@@ -511,7 +573,7 @@ Okay. What's the problem now? What's the problem? This is too many feet. Problem
 
 Companies. So I'm I'm looking at ancestry feet. Okay. And I'm trying to figure out what the flip do I wanna do. Ah, okay.
 
-So since you're a half elf, you have few more options available to you. Uh-huh. So let's see. You are Sameer? Supposedly, for now.
+So since you're a half elf, you have few more options available to you. Uh-huh. So let's see. You are Simear? Supposedly, for now.
 
 Okay. Ancestry things. Okay. So, yeah. So because you're because you are a half elf, you actually have access to the ancestry feats of humans, elves, and the half elf race.
 
@@ -540,6 +602,10 @@ Right. I don't know what I am. Yeah. You're not gonna be able to buy a full plat
 Yeah. That's well, I mean, honestly, honestly, man, you couldn't you you probably can't go wrong with any of the ones that you the any of the ones that you're interested in. So if you wanted to do, like, the elemental, the elemental raft one seems like that might be a a good one for you. Or the dragon Yeah. I thought that might be a fun one.
 
 Yeah. Or dragon spit. So it looks to me like the dragon spit is, what I don't know is if is that just modifying how the spell works, or is that actually adding another spell to your repertoire? I believe that it's adding that cantrip. So And I don't know where it will drift.
+
+---
+
+### Character Creation - Part 7
 
 One of the following cantrips, you can cast the spells in the arcane spell at will. And when you cast it, it's this spells energy emerges from your mouth. Yeah. It's just a cantrip that you get, but you, but it's it's a it's a cantrip that comes out like a breath weapon. So, you know, you don't get the you don't get the the template, but, you know, you just spit out the cantrip rather than, rather than doing any finagling.
 
@@ -623,6 +689,10 @@ Your vision is swimming. If your vision is your only precise sense all creatures
 
 Right. So for those of you who are who are, approaching being done with your characters, you are also, I I would like you to try and add in some character artwork. So looking for, looking for something online or or whatever that represents your character. If you click on your your main character sheet, if you click on that little, like, hooded eyed character person, it should open up a, an avatar, section. And you do have the ability to add to add pictures, to, to your character sheet here.
 
+---
+
+### Character Creation - Part 8
+
 So you could basically go find a go find a character portrait that you like, put it in the avatar section, and then also you can, go over to the token section and, basically just add a layer or add your, you know, put your character avatar in there and you can also add a frame to it, that's unique to your own character. So if you're, if you're still trying to figure stuff out, then don't worry about it. But if you're if you think you're done, then that would be a good thing to good thing to work on then. You You said right click on the hooded thing? Or name?
 
 No. Left click on it, and it should open up a dialogue where you can add a, add a picture. I need it in a minute. Don't move. I can right click, and it says, like, view character artwork and view token artwork.
@@ -699,7 +769,7 @@ I got a weapon. He's got a weapon. Attack We have an another attacker. It's our 
 
 Your offense is the barbarian plus the champion. Not Thistlegrift. No. No. There's no offense here.
 
-Barnes Is that do not Okay. Barnes do not offense. So Alwar is, is Ramsey? Yeah. Emerson?
+Barnes Is that do not Okay. Barnes do not offense. So Alwor is, is Ramsey? Yeah. Emerson?
 
 That's me. Who's that? That's here. And you are you're attacking with a weapon. I have an ax.
 
@@ -707,7 +777,7 @@ Yeah. He has an ax. What's Karsten Kellamal Kendricks? Yeah. He's attacking.
 
 Yep. He has a temple sword. Sword. Okay. Alright.
 
-And then, what's Alwar doing? Spouse, mostly. I have bardic inspiration. Actually, we reverse that. Mostly bardic inspiration.
+And then, what's Alwor doing? Spouse, mostly. I have bardic inspiration. Actually, we reverse that. Mostly bardic inspiration.
 
 I can use my spells. Oh, okay. I can't. Yeah. Jason, what are you doing with your sorcerer?
 
@@ -725,13 +795,17 @@ Oh. Yeah. I don't know that. Otherwise, that'd be a really lead spell. Oh, right
 
 Well, that's why I was like, great. It makes me better at stabbing things. Awesome. I don't know if I'm gonna stab anything. But then I I'm choosing this runic weapon, because I think it could be helpful if I can cast it on, Sir, Emerson or Oh.
 
-Carson to help boost their their attacking. Yeah. Sure. So, I guess I don't know. My my problem is always that I want to be a very broad character.
+Karsten to help boost their their attacking. Yeah. Sure. So, I guess I don't know. My my problem is always that I want to be a very broad character.
 
 Mhmm. And I have a lot of proficiencies, but that doesn't bring a lot of depth Yeah. Most most of the time. So I'm I I struggle with that a little bit. Okay.
 
 So, yeah, I don't I don't know. I don't know where to Okay. So what what is the, what is the struggle that you're trying to that you're trying to overcome? So what I don't wanna be, I don't wanna just, you know, like, come in and make everything, offensive spells. I don't I don't think that's necessarily gonna be an effective application of the character.
 
 So I I'd like to like to have some other ways to affect combat. Yeah. I guess, I don't see a whole lot of like, everything I'm seeing that's, like, shielding stuff seems to be shielding me. Which is good because we don't want you to die. So Yeah.
+
+---
+
+### Character Creation - Part 9
 
 But it doesn't help me when I'm shielding other like, I wanna be able to shield other people, so I'm having a hard time finding a way of doing that well. And there's a number of these spells that just seem like they're, like, showy. Just they I I don't see a practical application formula. Just using magic to use magic for fun. Okay.
 
@@ -814,6 +888,10 @@ I know there's, like, tiers of them. I remember you saying there were, like, thr
 It it is very similar. I would say that there's a little bit of a nuance y thing with this that, like, the lesser gods are aspects of the greater god, but it's kind of Sure. It's kinda wonky. So Yeah. Yeah.
 
 It's they've got their own personality. They're their own person, but they're but they're also like aspects of a representation of of the creator God. You know, it's just kind of like Sure. Like I said, little bit of wonkiness, but I don't even Yeah. Yeah.
+
+---
+
+### Character Creation - Part 10
 
 Yeah. Yeah. Yeah. I know how it works in my head, but I don't know how to explain it. So Sure.
 
@@ -908,6 +986,10 @@ Keeps on Sad thing. Because then that means that all these, you know, opportunit
 I think crafting has gotten a lot better in in in the remaster. So, it's the it actually makes it a little bit more viable. So, should be good for that. Outside of that, we just have the inventory, that you need to do. So, Oh, here.
 
 The inventory. You add coins, add 15 gold. I can add 15 gold. Yep. Maybe.
+
+---
+
+### Character Creation - Part 11
 
 I don't know how to add gold, I guess. There is a plus button next to the, in the upper right hand corner in the coin section. Gotcha. 15 gold. Done.
 
@@ -1010,6 +1092,10 @@ Bowser. Not buying a ton of those, are you? No. Not not at this point. I mean, y
 So it's kinda for you, all the stuff that you wanna buy are kind of more, are more expensive at the moment. It's kind of like where where the martial characters were spending all their time trying to pick up equipment. You were spending all your time picking up spells. So, Right. Alright.
 
 So I got a healing potion. Looks like that's good. Yep. Seems good. I don't know.
+
+---
+
+### Closing and Table Discussion - Part 12
 
 Maybe someday I'll craft that. Maybe not. Well, you can if you get if you get the, alky the alchemical crafting feat, you will be able to craft healing potions. Oh, yeah. Alright.
 

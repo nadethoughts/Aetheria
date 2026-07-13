@@ -2,12 +2,51 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "14"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 14 - Transcript
+# Crown of the Immortals - Session 14 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 13|Session 13]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 15|Session 15]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Closing and Table Discussion - Part 10]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Would hope that always freaks me out. I would kinda communicate to the group, like, something's off with these particular goblins to the fact that, you know, they they made those comments that we heard. I'm kind of now curious to what they meant, like, in its totality if you kinda if we could figure out how to capture them and not just slaughter them right out the gate. Unless it's a trick, and then I'll be mad. But I'm I'm more leaning toward kind of figuring out what you're talking about, which it could be.
 
@@ -55,7 +94,7 @@ It messed you up. Oh, it did? Why did oh, that's interesting. Okay. Never mind.
 
 I I was just looking at my thing, and it said, you're perfectly fine. I'm like, good. I'm perfectly fine. But I'm like, I thought I almost died. Well, you didn't almost died.
 
-But Well, I mean, I get that part. But to me, getting scrunched by a freaking giant, scorpion thing, to me, it's almost dying. Why are you healing Samir? Oh. Oh, sorry.
+But Well, I mean, I get that part. But to me, getting scrunched by a freaking giant, scorpion thing, to me, it's almost dying. Why are you healing Simear? Oh. Oh, sorry.
 
 That was, like, not supposed to be that was a mistake. That's why he was confused. He was looking at somebody that was perfectly fine. That is why. Alright.
 
@@ -89,7 +128,7 @@ Yeah. I think I can track. I know I can't. Yeah. I can't.
 
 Was going up. It was not this guy. Yeah. I'm pretty sure that it was Yeah. It was me.
 
-I'm pretty sure it was Sameer. Yeah. You are the expert tracker after all. Thanks. This everything on this is just screwed up.
+I'm pretty sure it was Simear. Yeah. You are the expert tracker after all. Thanks. This everything on this is just screwed up.
 
 I don't know what the deal is, but I don't I don't know if it's my Internet or what, but, like, all of the pictures, everything. Oh, are we supposed to be at the map or are we at the to be, like, the intro to the dark woods or whatever? The forbidden forest. You're you're in you're supposed to be where you are. I'm not I'm not dropping you on the map unless you guys are gonna be fighting something, and then and then I can come down now.
 
@@ -129,6 +168,10 @@ That is the goblin. Okay. And he's flanked by two bugbears, which are Yeah. Abou
 
 Is he bigger than a normal goblin? He is about the size of a normal goblin. He just it seems to be pretty, well, I'll see. I guess I guess the best way to put it is he's war torn, weathered. He looks he looks like he's seen things.
 
+---
+
+### Session Play - Part 2
+
 Mhmm. But, he but he's standing there, and when he sees you, he he's standing there with his arms crossed. When he sees you, he pulls out one hand and says, woah. Does he have that look on his face? Yeah.
 
 From the picture? I mean, the fact that he said, woah, is is better than go kill you. Yeah. I mean, his his his face isn't this this is his this is his battle face. That's a sword face.
@@ -149,9 +192,9 @@ Yeah. Yeah. No. I'm not looking for that. Yeah.
 
 I mean, Clark, you are the only one in this group that has actually gone out and fought the goblins for the past six months. Like, you you were part of the raiding parties and fighting. Totally forgot about that. That makes sense. I was like, why do they know me so well?
 
-Yeah. Of course. They know you because you are you are one of the people that was part of the raiding parties. Sameer and Yeah. Kahir were both fortifying the fortifying the town.
+Yeah. Of course. They know you because you are you are one of the people that was part of the raiding parties. Simear and Yeah. Cahir were both fortifying the fortifying the town.
 
-And, That's right. And Alwar was, kinda helping out with, like, town council business and that kind of stuff. So Yeah. Okay. Can you real quick remind me?
+And, That's right. And Alwor was, kinda helping out with, like, town council business and that kind of stuff. So Yeah. Okay. Can you real quick remind me?
 
 I don't where I don't even know where we're going. Okay. I'm looking for that one bad guy. You went when when you went through the Goblin Tunnels, you discovered that there were two exits out of the tunnels. Yep.
 
@@ -193,7 +236,7 @@ Mhmm. As they're talking, I'm gonna start just softly strumming away at the loop
 
 No subcategories of perception. Perception is not scary. Look at that. No. That's really good.
 
-Jason? Is that Jason? Sameer. You are, Jason. Nice job, buddy.
+Jason? Is that Jason? Simear. You are, Jason. Nice job, buddy.
 
 What is the I wanna know what my question mark was. That's fine. I'm I'm making it probably closer than you. You have your super role, Jason, that you might wanna consider. To redo it.
 
@@ -201,7 +244,7 @@ Alright. Our as as he's as he's talking with, with, Karsten, you do notice that,
 
 Like, you're not you you don't see any other any other goblins, and this camp looks like it is it's it would support more than just two bugbears and a and a really scruffy goblin. Okay. So just additional information. Sure. Yeah.
 
-Yeah. So he responds to Carson with, you know, we don't have any qualm with you or your village. We just wish to be left alone. What is Carson's response? And who are the goblins that came to our settlement and wreaked havoc?
+Yeah. So he responds to Karsten with, you know, we don't have any qualm with you or your village. We just wish to be left alone. What is Karsten's response? And who are the goblins that came to our settlement and wreaked havoc?
 
 He he kind of he he kind of smiles as if he has like an inside joke, as if there's some sort of inside joke. And he says, that would be me and my compatriots. It's not a sinister smile. It's just a, you know, like I said, just like kind of like a smirk of like, you know, I just just a smirk of like an like he knows something that that you don't quite grasp, that kind of thing. But we will not attack we will not attack unprovoked again.
 
@@ -221,7 +264,7 @@ So yes. Very good. Yep. Very, very good. I'm sitting here just not appreciating 
 
 With only three of them, I'm about ready to pull my great x out, wrap it around his neck until he wants to talk. I see. And, normally, I would agree with you. But I just there's something funky going on. Mhmm.
 
-Negotiations are failing. They they are not failing. You're just dealing with That's what Carson's thinking. Well, fair enough. Yeah.
+Negotiations are failing. They they are not failing. You're just dealing with That's what Karsten's thinking. Well, fair enough. Yeah.
 
 But wait a minute. You you're not just dealing with a, a hostile witness is what's happening. Yeah. He's like, leave us alone. You're asking for more information.
 
@@ -235,11 +278,15 @@ I I'd say just go ahead and click on just the just diplomacy, like the the heade
 
 I mean, I'm Firebrand, so don't I get like a a bonus of some sort? That will affect the, that will affect the the target number. Wow. Freaking. Go ahead.
 
+---
+
+### Session Play - Part 3
+
 Oh, yeah. Oh, nice. Okay. I'm taking it. So yeah.
 
 So you go back and forth with him and he kind of like Azure Azure, you know, trying to get get things a little bit, little bit more congenial. You know, you start laying on the charm and and that kind of thing. And given that you are given that you have the reputation that you do with the goblins, you know, you're able to you're able to kinda get him to be a little bit more amenable. The general gist of what you get, and I'm just gonna give you a few things and then we can basically dig in deeper if, you know, if to to whatever what else you wanna know. But the general gist of what you get is that him and the goblins that were attacking you guys were under the control of a different goblin tribe.
 
-And then, and that goblin tribe was named is the Firewalker tribe. Oh. They it's, this is effectively like they were, in in in they they were effectively like war slaves. And they yeah. And they had a and there was some sort of magical control that the Firewalker tribe had on them, and that broke about a day and a half ago.
+And then, and that goblin tribe was named is the Fire Walker tribe. Oh. They it's, this is effectively like they were, in in in they they were effectively like war slaves. And they yeah. And they had a and there was some sort of magical control that the Fire Walker tribe had on them, and that broke about a day and a half ago.
 
 And since then, him and the rest of the goblins that were under the control of this magical thing, have basically gone back to the base camp in the burning woods because they don't really have anywhere else to go. And they themselves are, actually part of a number of different goblin tribes. So this is kind of like A hodgepodge of goblins? Right. But we still don't know how many.
 
@@ -263,11 +310,11 @@ And but where the fire walkers are, they can be found, you you know that weird t
 
 Let's see. Do you know the name of their leader or one of their leaders? Well, that's the odd thing about the firewalkers. They do not have a goblin leader. They have a group of ugly long shank women that tell them what to do.
 
-Argsgant? Yes. They Do you happen to know any of their names? Yes. That is I think they called one of them Velcro.
+Argsgant? Yes. They Do you happen to know any of their names? Yes. That is I think they called one of them Velkra.
 
-Velcro. Thank you. Velcro? Yeah. I'll throw it up on the, on the chat.
+Velkra. Thank you. Velkra? Yeah. I'll throw it up on the, on the chat.
 
-Oh, with a v. Velcro. Yeah. Do I have your do I have your word that we will have peace with your people? We do not wish any we do not wish any trouble.
+Oh, with a v. Velkra. Yeah. Do I have your do I have your word that we will have peace with your people? We do not wish any we do not wish any trouble.
 
 If anything, I would seek to make an alliance. We can protect the South. You can protect the North. Kinda look over at Karsten, look back, and a shrug. I think for anything formal, we would need to speak with our leader.
 
@@ -297,7 +344,7 @@ So Oh, wow. Alright. Whatevs. He I think we should, we should go back, talk with
 
 You know? We we want some sort of, I would think, documentation. You know? So it's like nothing else but a truce. Also, he's he he at this point, he realizes I haven't I haven't, I don't believe that I've properly introduced myself.
 
-No. I mean, it's We have we have failed the same courtesy. And you recognize one of us clearly and I motion over to Carston. Yes. He is famous amongst our people as a worthy foe.
+No. I mean, it's We have we have failed the same courtesy. And you recognize one of us clearly and I motion over to Karsten. Yes. He is famous amongst our people as a worthy foe.
 
 I am known as Grimfang. And these on either side of me are, are Gromlak and Vrekar. We are the elite of of the of the forces here. Mhmm. And I'm of the, I'm the of the tribe of the Yellow Tooth.
 
@@ -305,7 +352,7 @@ They are not I don't know where they're from. But The bugbears, you're not sure 
 
 I mean Yes. Visual cues would probably be there, but Right. Right. Right. No.
 
-He he basically gestures to the bug to the bugbears, to Gromlock and Vrakar. And he, he says, now now Firebrand we know, but who are the rest of you? Gonna smile a little bit that. I am Alwar. Well met.
+He he basically gestures to the bug to the bugbears, to Gromlock and Vrakar. And he, he says, now now Firebrand we know, but who are the rest of you? Gonna smile a little bit that. I am Alwor. Well met.
 
 Looks at, looks at the other two of you with, inquisitive eyes. I would say I'm Cahir. I don't know if they have seen my brother. That's my thought. Oh, they they have seen your brother.
 
@@ -321,6 +368,10 @@ Well, one who wants to talk before sticking me with their Yeah. I'm still baffle
 
 And I kinda point towards the village of the Yellowfang tribe. Oh, no. We have those from the Yellowfang tribe. We have those from, from the, the Icewind tribe. We have and he rattles off like two or three other tribes.
 
+---
+
+### Session Play - Part 4
+
 He says we were all taken by the, by raids from the fire walkers. They, they seem to have the warring, the the the warring tribes of the goblins is something that just part of who we are. But the Firewalkers decided to take it a step further from warring over territory to taking peoples and subjugating them. That is not the goblin way. So these are But not all your people, and yet you take charge of them, look after protect them.
 
 That is noble. Yes. Well, to be to be honest, we don't really have tribes to go back to. So if we do not band together, then it will be destroyed. But it's out of necessity that we that that we band together.
@@ -333,7 +384,7 @@ I will look forward to that. But because yes. If you have time now, I'm I'm all 
 
 You can tell your, you can tell your superiors, that we do have skilled labor, or we do have skills and and things that we can offer as part of the alliance. But we do wish to be, we do wish to be separate, as I imagine your people would wish as well given how we were introduced. Same here, smirks. But we are willing to work towards bridging that gap that was created in our introduction. Well, let us speak to our people, and then let's start that repair process, and we'll kinda move forward.
 
-And after we figure out this I mean, I would agree with Elwar. We I would love to come back and have a conversation about all of the other things. We will look forward to your arrival, and, we will, or we will look forward to your return. And if there's anybody else that comes, we will be cautious, but, endeavor to make sure that we're not causing any more rifts between our peoples. If you do have somebody that does come, he basically pulls out like a what looks to be like a tattered, a tattered piece of fabric.
+And after we figure out this I mean, I would agree with Alwor. We I would love to come back and have a conversation about all of the other things. We will look forward to your arrival, and, we will, or we will look forward to your return. And if there's anybody else that comes, we will be cautious, but, endeavor to make sure that we're not causing any more rifts between our peoples. If you do have somebody that does come, he basically pulls out like a what looks to be like a tattered, a tattered piece of fabric.
 
 Have them bring this. This will let us know that they are a friend. Yeah. When you look at the, when when you look at the piece of fabric, you see basically it's like a, it's it's basically a regular, a regular piece of, like, off white fabric that has a yellow jagged design on it that looks almost as if it were a mouth. Oh, makes sense.
 
@@ -373,9 +424,13 @@ So they'll give you the proper instructions on how to get to the cave quickest a
 
 Like, that doesn't make any sense. I mean, it makes sense, but it don't make sense. So I don't know if anyone else has any other comments I, I am concerned. I think Grim Fing is basically on the up and up, but for all Mach and Vreker, I can see those two working for a coup d'etat. Yeah.
 
-I totally can agree. I hope not, though. Because I've I've been a fan of that Velcro. And I guess, we we're making our way back to the city council to report probably the right thing to do. Yep.
+I totally can agree. I hope not, though. Because I've I've been a fan of that Velkra. And I guess, we we're making our way back to the city council to report probably the right thing to do. Yep.
 
 Yep. I'm sure sure. Subway Jared? Yep. Subway Jared Yep.
+
+---
+
+### Session Play - Part 5
 
 Is in jail. Right. Here we go. Alright. Well, if that's if that's what you guys what if if you guys are are good, we can go ahead and move on to you making it back to the town.
 
@@ -397,9 +452,9 @@ But I believe, Grimfang, his name was, was being truthful. A pretty ragtag group
 
 And they Thallor Thallor looks to, you know, just kind of he he he looks like he's going to be insubordinate about this whole situation. But as he starts to open his mouth, Angel reaches across the the table, touches his arm, and says, Balor, I believe that what we had hoped and prayed for has actually arrived, although it might not be in the form that you would have liked. We've been looking for allies. We've been looking for survivors for from the flaming retribution. We have them.
 
-If we just choose to put aside our prejudice, we can see, we we can ally with these goblins and maybe learn something that would be useful for our community. And Beller looks at her and kinda, it looks like he still doesn't believe it, but you know, he keeps his mouth shut. And he's like, fine. But if this goes sideways, it's not my fault. The other request that we have had to show is Velcro.
+If we just choose to put aside our prejudice, we can see, we we can ally with these goblins and maybe learn something that would be useful for our community. And Beller looks at her and kinda, it looks like he still doesn't believe it, but you know, he keeps his mouth shut. And he's like, fine. But if this goes sideways, it's not my fault. The other request that we have had to show is Velkra.
 
-Right? Or is that the weird witch hag? The weird witch hag is Velcro. Oh. The, it's the name of the goblin Yeah.
+Right? Or is that the weird witch hag? The weird witch hag is Velkra. Oh. The, it's the name of the goblin Yeah.
 
 Right here in that way. Is Grim, Grimfang, and I'll put it in there. Grimfang. To to show the sign of the alliance while we head to look for the fire walkers is this red egg, and I would like three of the order to head to the South to find him to give him our word of peace. Okay.
 
@@ -435,7 +490,7 @@ Exactly. And I didn't think to remind you when you were actually there, so we'll
 
 Okay. Continue. Thanks. Sorry. So the two items that you that you were, that you were that you were struggling to find a interpretation for, one was some blood stained goblin runes, that were scrolled on the wall.
 
-And Alwar, I believe, basically copied them down. Mhmm. And let's see if this works. Alright. Think Alright.
+And Alwor, I believe, basically copied them down. Mhmm. And let's see if this works. Alright. Think Alright.
 
 Are you seeing the prayers. Bloodstained goblin runes? Oh, yes. Mhmm. The Okay.
 
@@ -454,6 +509,10 @@ There are, there are enemies of there are enemies, that are evil frogmen, I thin
 A walk in the a walk in the park. We're not at a state park here. Right? Let's not simply walk in a mortar. Right.
 
 And it's Alright. So plants, got it, zombies, undead, frogmen, and goblins, and hags. Oh my. And hags. Yep.
+
+---
+
+### Session Play - Part 6
 
 All kinds of things. Yeah. Yeah. It's like Australia. Everything wants to kill you.
 
@@ -513,7 +572,9 @@ You've got the boats that you can jump on and and, kinda take off with, but you 
 
 The shoreline isn't like too far away, but it is far enough away that you wanna have a a decent wall for that. It does look like there is a a mooring place on the on the edge of the on the edge of the, on the far edge of the, bank. So, you don't see tracks per se, but you do see, like a flattened out area where it's like, you know, a boat would have been launched into it. Outside of that, the vegetation here is pretty, is pretty robust. I mean it's kind of like more of like a jungle vegetation, the plants are huge, they appear to be thriving here even though, the water itself is scorching hot.
 
-You would think that they would that these plants would just kind of wilter, will wilt, but they appear to be, they appear to be thriving in these conditions, which is kind of interesting. Also looking about, like you do see it's the this forest is also very, or this jungle swamp thing is very much alive. So in the distance, like you see movement, there are animals, you know, about, in the far distance you see, you actually do see, some shuffling, some shuffling humanoid creatures that you would take as like, you know, zombies and that kind of thing. Not anywhere near you or anything, but like basically it's just kind of like just part of the overall atmosphere of the place, you know, you see zombies in the distance, you see giant animals, hanging around, and that kind of a thing. Okay.
+You would think that they would that these plants would just kind of wilter, will wilt, but they appear to be, they appear to be thriving in these conditions, which is kind of interesting. Also looking about, like you do see it's the this forest is also very, or this jungle swamp thing is very much alive. So in the distance, like you see movement, there are animals, you know, about, in the far distance you see, you actually do see, some shuffling, some shuffling humanoid creatures that you would take as like, you know, zombies and that kind of thing.
+
+Not anywhere near you or anything, but like basically it's just kind of like just part of the overall atmosphere of the place, you know, you see zombies in the distance, you see giant animals, hanging around, and that kind of a thing. Okay.
 
 Well, sure. Boardwalk, I guess. Like people first? Sure. Yeah.
 
@@ -525,9 +586,9 @@ Right. And I'm going to remember an ability that I forgot about when we were in 
 
 Just all the time. I just permanently talk to the animals. Well, maybe they can tell us some stuff. Alright. Hopefully.
 
-Alright. What's your what's your marching order here? No. Sounds like me and Samir upfront. Yep.
+Alright. What's your what's your marching order here? No. Sounds like me and Simear upfront. Yep.
 
-Sounds good. I will agree with you. Okay. So how were can you give me a perception rule? And Samir, can you give me a perception rule?
+Sounds good. I will agree with you. Okay. So how were can you give me a perception rule? And Simear, can you give me a perception rule?
 
 Oh, show. Oop. Hot roll. The question mark. Yay.
 
@@ -535,7 +596,11 @@ Oh, so do I. Sorry, guys. Oh, you alright? I had the flu like two weeks ago and 
 
 So, alright. So you both, okay. So as you start walking down the boardwalk, we will We will both go blind. You will not go blind, in fact. That is the exact opposite of the thing that you will do.
 
-You both suddenly have a moment of prescience. You both kind of see different things at the same time. Sameer, you see the water starts to the the the water, there's becomes like a square and just in and you step out of the way just in time for a large gelatinous cube Oh, boy. To, pop out of the water and it it and attempt to attack you. But you evade, you evade it at the last moment.
+---
+
+### Session Play - Part 7
+
+You both suddenly have a moment of prescience. You both kind of see different things at the same time. Simear, you see the water starts to the the the water, there's becomes like a square and just in and you step out of the way just in time for a large gelatinous cube Oh, boy. To, pop out of the water and it it and attempt to attack you. But you evade, you evade it at the last moment.
 
 At that same time, Ower, you see two, dragon like creatures Coming at you from the opposite direction, trying to, trying to basically if effectively it looks like these things are are working together. So it's kind of like a pincer move, like these dragons creatures are, swimming up the water and and basically kinda leaping out of the water to attack, about the same time that this cube basically jumps in front of where you guys are going and is starting to and sits on top of the boardwalk, and the boardwalk itself starts to disintegrate under its under its body. With that, all like in Do not want. Do not want. That is where Shamir goes.
 
@@ -545,7 +610,7 @@ Still still do not want. Alright. So let's roll some initiative, shall we? Yeah.
 
 Oh, that's where I got that from. Okay. Sick. Very hot. You're not blast.
 
-Oh, and actually, we both Thankfully, the large ooze is last. Both our and Samir will use your perception rules instead of Sure. What you did rule. It's somewhat reasonable. The only thing I would say to that is I get plus two two initiative that wouldn't be on the perception rule for perception.
+Oh, and actually, we both Thankfully, the large ooze is last. Both our and Simear will use your perception rules instead of Sure. What you did rule. It's somewhat reasonable. The only thing I would say to that is I get plus two two initiative that wouldn't be on the perception rule for perception.
 
 You still did better. Okay. Sick. Sick. Sick.
 
@@ -651,6 +716,10 @@ Yeah. June. So it's not gonna take any damage then, I'm assuming. Right? Right.
 
 Yeah. Alright. Like a critical success is literally the only way that it's, that it's not gonna take damage. Although, you may feel like your turn has been wasted. However, this does tell you guys all something about the gelatinous cube.
 
+---
+
+### Session Play - Part 8
+
 I I don't know if you guys can see the actual role itself, but Nope. Okay. But to give a 31, the older big numbers. Yeah. Right.
 
 Yeah. It says yeah. Right. Five plus 12, so that means 19. Right?
@@ -697,7 +766,7 @@ Accident. Accident. Wow. It's what we call pure talent. Yeah.
 
 And he only crits these things on a 20. So yeah. Oh my gosh. Alright. The the the River Drake that was that was creeping up on on our, just got completely decimated.
 
-Oh, I have to take the little guys. Jeez. Carson, you're up. I am. I don't really know where you want me to go, I guess.
+Oh, I have to take the little guys. Jeez. Karsten, you're up. I am. I don't really know where you want me to go, I guess.
 
 Where do you want to go? I don't really know. Like, what's his face is? He's good over there. Guess I'm gonna go there.
 
@@ -731,7 +800,7 @@ And he gets pushed back five feet. Are you moving me five feet? Not you. The the
 
 Yeah. Yeah. Yeah. Yeah. Heavily that it pushes it back.
 
-That's right. Alright. Now it's the user's turn. That's so cute. Sameer, I need you to make your reflex save.
+That's right. Alright. Now it's the user's turn. That's so cute. Simear, I need you to make your reflex save.
 
 Uh-huh. You should be able to. Right? No. I shouldn't be able to do that.
 
@@ -793,9 +862,13 @@ He doesn't need resistance. I, like, scooted my feet across the carpet and, like
 
 Well, that's something. The only took the damage. Nice. Alright. Cool.
 
+---
+
+### Session Play - Part 9
+
 Good good turd. Yeah. That's me. Alright. We got a for Drake.
 
-That would be nice to remember. Okay. This River Drake is going to move up to Carson. Pardon? No.
+That would be nice to remember. Okay. This River Drake is going to move up to Karsten. Pardon? No.
 
 I'm not here anymore. And he's going to draconic frenzy. Oh. Which means, He's a barbarian. Kind of.
 
@@ -803,9 +876,9 @@ I mean, it's it's pretty it's it's he's going to bite you, and then he's going t
 
 That's two actions. Yeah. Yeah. But he does he does he does in fact bite you. So deals 18 points of damage as he takes a chunk out of your armor.
 
-Ouch. And no secondary effects. Phew. It's good. Samir, you're up.
+Ouch. And no secondary effects. Phew. It's good. Simear, you're up.
 
-Look at that. I don't know. The ice Samir, you could choose to try and tumble through if you wanted. Through what? Yeah.
+Look at that. I don't know. The ice Simear, you could choose to try and tumble through if you wanted. Through what? Yeah.
 
 Get onto the other side? I don't know what that laugh was all about, though. Didn't sound like a great idea. Yeah. Just rolling through the city You know, I don't know what his acrobatics is.
 
@@ -845,7 +918,7 @@ So damage damage. Excellent. 16 plus three. He's barely hurt. Hurt?
 
 Good. Yes. The, the the the large ooze is is is a pretty tough cookie. Darniggle bad. See better days though.
 
-He ain't feeling good. Yes. That's true. Alright. And, Kahir, you're up.
+He ain't feeling good. Yes. That's true. Alright. And, Cahir, you're up.
 
 Now you have your choice. Right. Okay. First thing's gonna go. Oh, go ahead, Jason.
 
@@ -865,7 +938,7 @@ Came up to the cube to attack it, Yeah. Because we're He's pushed back five feet
 
 The damage? No. The only rerolls are on the d 20 is not on the damage. Yeah. Unless you have some special ability that does that.
 
-I don't think so. I mean, I have that reroll thing, but I think it's only on that d 20. Yeah. It does push it back five feet, but it can't push it back five feet because Samir is there. So I'm not sure how that works.
+I don't think so. I mean, I have that reroll thing, but I think it's only on that d 20. Yeah. It does push it back five feet, but it can't push it back five feet because Simear is there. So I'm not sure how that works.
 
 I'll probably just Did he get his, flanking bonus? He did. Good. Yep. Yep.
 
@@ -877,11 +950,11 @@ And piercing. Took half damage. So it's good that you're critical because you do
 
 Give me one second here. I'm gonna undo this. I guess I guess he is. Oh, and still seeing better days. Yeah.
 
-Mhmm. Yeah. He's it is still up and he's still up and running, but, it's definitely, not, like a lot of the a lot of the mucus and stuff is starting to kind of fall away from the cube. It's starting to lose its shape. And Carsten, you're up.
+Mhmm. Yeah. He's it is still up and he's still up and running, but, it's definitely, not, like a lot of the a lot of the mucus and stuff is starting to kind of fall away from the cube. It's starting to lose its shape. And Karsten, you're up.
 
 I'm up. Get him. Get him. Well, I know. I think you've seen better days.
 
-Carsten has as well. Yeah. I didn't say. I think he's had about 42 points of damage there. Oh, is he?
+Karsten has as well. Yeah. I didn't say. I think he's had about 42 points of damage there. Oh, is he?
 
 No. This ooze is. Oh, I'm not on the ooze. No. You're not.
 
@@ -935,7 +1008,7 @@ This thing this thing is a giant is a giant blob. It doesn't have where you can 
 
 Alright. I'll do some damage. Pew. Alright. Cool.
 
-That's, that's me. K. Sameer, you're up. Let's let's do this one. This will be fun.
+That's, that's me. K. Simear, you're up. Let's let's do this one. This will be fun.
 
 Yeah. It didn't there. There. This is 19 on the reflex. Alright.
 
@@ -946,6 +1019,10 @@ No. A lot of stuff. It's just the electric, but, you know It nullified the damag
 Yeah. The way that resistance works in this game is it's you automatically it in in some systems it like halves damage if you've got resistance. In this system, it actually has a rank associated with that resistance, and it just always just knocks that amount of amount of hit points off every time. So if since you rolled a six in electric and it has resistance to electric and you did four damage with the sonic and the electric, you can ascertain exactly how much electric resistance it's got. I figured it had a plus five to the electric.
 
 Right. So I don't know how I got a six. Well, I guess I don't know what the six is, but I don't know where that one is from. Yeah. You did six electricity damage.
+
+---
+
+### Closing and Table Discussion - Part 10
 
 I think it's I think that it's, like, the the magic is a plus one for for your electricity. So you rolled a five and it's plus one electricity, and then you rolled a three on Sonic. So that looks like what happened. Alright. So that was two actions.
 
@@ -1037,7 +1114,7 @@ But staves just kinda refresh. And I think that I do have the proper, I think I 
 
 Yeah. I mean, you would think that that would be the way that it actually works, but that's not the way it works by default. Really? Okay. Yep.
 
-Yeah. That is, that is all you, Samir. I do not use any of those spells. Oh, yeah? Uh-huh.
+Yeah. That is, that is all you, Simear. I do not use any of those spells. Oh, yeah? Uh-huh.
 
 Yep. They're all arcane, but not occult. Yeah. Most of these seem, air bubble just seems really useful. Okay.
 

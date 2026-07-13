@@ -1,23 +1,56 @@
 ---
 type: transcript
-campaign: "The Anchor’s Secret"
+campaign: "The Anchor's Secret"
 session: "05"
-tags: [type/transcript, campaign/anchor-secret]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/anchor-secret
 ---
 
-# TAS Session 05 - Transcript
+# The Anchor's Secret - Session 05 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-| Player   | Character |
-| -------- | --------- |
-| Derek    | Jezrek    |
-| Lil John | Ryan      |
-| Mistral  | Jason     |
-| Xander   | Ramsey    |
-| Skirk    | Dave      |
+> [!abstract] Campaign context
+> The Anchor's Secret follows the reclaimers of New Penmaris as they enter the lost Tidewatch Ward and investigate the maritime threats left in the wake of the Flaming Retribution.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ian | Arthur |
+| Derek | Jezrek |
+| Ryan | Lil John |
+| Jason | Mistral |
+| Ramsey | Xander |
+| Dave | Skirk |
+
+## Quick Navigation
+
+- **Previous:** [[TAS Session 04 - Transcript|TAS Session 04 - Transcript]]
+- **Next:** [[TAS Session 06 - Transcript|TAS Session 06 - Transcript]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Session Play - Part 11]]
+- [[#Closing and Table Discussion - Part 12]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 A little bit of a bright time. Do you remember what the other half map is? Is it still on the pirate ship? I mean, I imagine this captain guy has it. He's getting off the moon, actually. Or it's on the ship. You wanted to burn that down anyways. It's true. So just some things that, uh, Lotypey probably has it on, though. So you guys are really, you guys are focused on the map, rightly so, because he's very focused on the map, but you don't even know what this map is going on. Yeah, I don't know. Nope. Not an idea. So nobody's really got a clue about what this thing is.
 
@@ -29,11 +62,11 @@ So this is a different wave of pirates from that wave of pirates, you would susp
 
 There's been talk about a pearl there, the, the, he did not correct you when you said that you, that you were going into the temple. Well, I noticed. He in fact reinforced it. He did in fact reinforce it. So those are the things that, you know, you might have an opportunity here, depending on how you play your cards, to be able to gain additional information about like what it is that these guys are seeking. Um, and you still have an opportunity to be, uh, to be able to, um, in, uh, it, to be able to work out a deal with them.
 
-Yeah. It's just your first bid. Yeah. Yeah. Yeah. Fake. So those are all things that you guys should be able to. I, as a player, know things and know how to communicate them. Jezric. With his negative one. Oh, yeah. Oh, yeah. He did not communicate well. Well, Derek, here, here's, here's an opportunity though. Cause there are addition. There are other players or there are other characters, um, in here that have better charisma scores or might have a better opportunity of being able to help things along. Yeah. So you as a player and maybe they don't know how to approach it.
+Yeah. It's just your first bid. Yeah. Yeah. Yeah. Fake. So those are all things that you guys should be able to. I, as a player, know things and know how to communicate them. Jezrek. With his negative one. Oh, yeah. Oh, yeah. He did not communicate well. Well, Derek, here, here's, here's an opportunity though. Cause there are addition. There are other players or there are other characters, um, in here that have better charisma scores or might have a better opportunity of being able to help things along. Yeah. So you as a player and maybe they don't know how to approach it.
 
 Yeah. You as a player can feel free to kind of coach people through. Yeah. I, I, I, I, I, I had these at Chris, bro. Yeah. So like, just because he wants to get the map, if we could convince him that it would be beneficial to take us along instead of just like, oh, we'll meet you at the end and you'll betray us then. Like, it's a lot easier to be part of the group and get what we want than, you know, just, you know, try to, if we could be invited to come and help with the challenges, that's a whole lot easier than following them secretly and, you know, having to worry about all that other stuff.
 
-That's true. And, and also, even if you don't have a really good charisma, it doesn't mean that you can't do something that would help tell that story for the person who's like, Hey, we might be useful to you. So like, um, for example, little John, like your background is a maker background. You are somebody who builds things and who, and who can do that sort of stuff. So like, if, if like, say, Arthur is making a play for, um, being like, we would be useful. Why don't you take this along and let's put the treasure 50 50 or something like that.
+That's true. And, and also, even if you don't have a really good charisma, it doesn't mean that you can't do something that would help tell that story for the person who's like, Hey, we might be useful to you. So like, um, for example, Lil John, like your background is a maker background. You are somebody who builds things and who, and who can do that sort of stuff. So like, if, if like, say, Arthur is making a play for, um, being like, we would be useful. Why don't you take this along and let's put the treasure 50 50 or something like that.
 
 Yeah. Um, then you might be able to be like, yeah, and this is how I can be helpful. And basically, yeah, like, yeah, that's where I was trying to go. Like showing, showing, showing our strengths, uh, what we can do. Yeah. Yeah. What we can do to help them. Yeah. Okay. That's, that's why, that's, that's, that's why I wanted to show our strengths to show them how strong we are. We can help them get. Okay. Yeah, no, absolutely. That is definitely something that you can do. Um, so how would Arthur approach that? Hmm. What's, what'd be hard to destroy?
 
@@ -45,25 +78,29 @@ Oh, everybody should see. Um, no, but, also, um, also, Ian, your character, your
 
 So, like, we had, like, we had a, we had a hunt, and we, and how useful I was. Okay. That, that, that, we had, we had a score when we were younger, and I, how useful I was to help him and you out. Okay. So, we've got the how, but you're not actually making any proposals at this point. You're just, like, reminiscing with him, going, you remember how awesome I was back in the day? Yes. So, actually, turn that into a, we would like to team up. Yeah, we'd like to. Sort of, sort of, sort of thing. So. Yeah, that's, that's, we would like to team up.
 
-You remember how useful we were, how useful I was back in the day. Okay. Can you explain why he's so passive, why he's so, so antisocial? Ah. Because. You, you, you, you, you've got to cover up for his mistake. Because he, because he's mad at, mad at Moraine. For something, I believe. And he's. He's a big old man. He's a big old man. Okay, don't, so, what I'm hearing here, correct me if I'm wrong, you're saying, don't listen to bitter old man, we want to, we want to, we want to, we want to join up and, and not join the pirates, but we want to work with you.
+You remember how useful we were, how useful I was back in the day. Okay. Can you explain why he's so passive, why he's so, so antisocial? Ah. Because. You, you, you, you, you've got to cover up for his mistake. Because he, because he's mad at, mad at Miraine. For something, I believe. And he's. He's a big old man. He's a big old man. Okay, don't, so, what I'm hearing here, correct me if I'm wrong, you're saying, don't listen to bitter old man, we want to, we want to, we want to, we want to join up and, and not join the pirates, but we want to work with you.
 
 Yes. In order to be able to get, in order to be able to get a, a cut of the treasure. Cut of the treasure. Um. And, and. And remember how cool I. Yeah. Okay. Roll a 20. Let's do it. Yes. Yes. Yes. That's definitely. That works. We'll take it. Okay. So, what's, what am I doing? Roll your 20. Roll your 20, and then we'll add your persuasion to it. Add my persuasion to it. Okay. Plus two. Persuasion. Done one more. Yeah. It's the one that has the hands shaking. Okay. Wait. My persuasion. Oh. My persuasion is. Ah. That's your save.
 
 That's my save. Okay. Yeah. Okay. Here we go. Wait. I'm putting you in timeout. Ah. He gets a luck. He failed a roll. Oh, you're right. Oh. I sure do. It was a mission critical, or it was a strategic roll. Oh. Deal. I'll trade you three luck, and you give me one. I got 16. You got 16. All right. Is that with your, adding your... Yeah, that's adding my plus two. All right. Cool, cool, cool. Cool. So, Arthur, you look at Kaelryx. You, well, you look at the captain, but you're also kind of like side-eyeing Kaelryx. And you are explaining that, you know, you explain, like, Xander is just a little bit moody at the moment.
 
+---
+
+### Session Play - Part 2
+
 Yeah. He doesn't mean anything by it. And you're also, like, I'm a... I'm basically... And I, you know, in that person. Basically, also, basically, I'm also explaining that story to him, how strong I was doing, how useful and strong I was doing that, doing that, doing that story. Um, and you are able to convince, um, the pirate captain, um, that, uh, you are able, um, you're, you're able to, um, be helpful in this situation. Um, and he's like, well, we'll, we'll take you. What about these others? Hmm, I, I understand he's, he's a maker.
 
 Yeah. He's a maker and he, and he, he made, he made a, a spring thing that got over a demon barrier or something. Yeah. That. The, uh, the, uh, the tide, the, the tide, the metal, the metal, uh, barrier that saved the tide from certain death and that kind of stuff. Yeah. Yeah. Okay. So you speak about his exploits, um, which, you know, the captain is, is willing to, is willing to accept. Um, this, you know, what are you, and then he, he's, he's, he looks over, he looks over at this guy with his face. Flaming crossbow, mechanized flaming crossbow and says, I can see the value of him.
 
-I love me. We need some motherfuckers. Obviously we need the, we need the map. So the keeper of the map will have to come along and we can, we can deal with one more grumpy old man. Where is it we're going? Going on. You already know we're headed to the temple. Temple of, uh, Moraine. Moraine. Can I just pull up my shield? Whoop. Whoop. All right. He's just nice and character to talk. He is a priest. Yeah. This guy is a priest of Moraine. He is a priest of Moraine. So, oops. So he can't help us navigate that. Well, we've probably been in that temple before.
+I love me. We need some motherfuckers. Obviously we need the, we need the map. So the keeper of the map will have to come along and we can, we can deal with one more grumpy old man. Where is it we're going? Going on. You already know we're headed to the temple. Temple of, uh, Miraine. Miraine. Can I just pull up my shield? Whoop. Whoop. All right. He's just nice and character to talk. He is a priest. Yeah. This guy is a priest of Miraine. He is a priest of Miraine. So, oops. So he can't help us navigate that. Well, we've probably been in that temple before.
 
 Probably he didn't like. Right. Well. Well, that is true. All the truth. With that. Have you ever been in a frenemy relationship with your god before? Sometimes. Um, no. Um, okay. So. So after, after, after a fair bit of tense negotiations, you are able to come to terms. Um, you are all going to, uh, you start off with 50%, end up landing at 20% of the overall proceeds as time goes on. Um, as you guys negotiate. Um, and, uh, now you, um, are, uh, the, the pirates have, um, accepted you as part of, not part of their crew, but as accepted, yeah, temp employees.
 
 Uh, oh, weary pirates. Oh, yeah. What? Yeah. Yeah. Okay. Um, and so after you guys have that discussion, um, the, uh, Captain Thalric, um, looks at Mistral again and says, all right. I think it's about time we compared notes. And he pulls a scroll tube out of his coat. We don't have a map. Sorry. I already hired them. Gotcha. So excited. All right. Uh, yeah, let's sit down and see what. Okay. So you guys take the two pieces of the map you put together. You actually have that other small piece that you picked up in the pirate, uh, pirate booty.
 
-So you got that attached to your map and then you got this other one. And basically what you see is there is a line that goes directly to the temple of Moraine. Inside, uh, the temple of Moraine, there is a sub-basement where there's some sort of what, what is referred to as, it was referred to as the gloomways. It's, it's, it's kind of like some sort of, um, underground surface area. Um, and you follow, and the map has kind of like a, a, well, it's got a map. It's got the directions for how to get to an antechamber that's inside, um, that's inside that cave, um, underneath the, um, underneath the temple.
+So you got that attached to your map and then you got this other one. And basically what you see is there is a line that goes directly to the temple of Miraine. Inside, uh, the temple of Miraine, there is a sub-basement where there's some sort of what, what is referred to as, it was referred to as the gloomways. It's, it's, it's kind of like some sort of, um, underground surface area. Um, and you follow, and the map has kind of like a, a, well, it's got a map. It's got the directions for how to get to an antechamber that's inside, um, that's inside that cave, um, underneath the, um, underneath the temple.
 
-So, and there is something that is marked there as, uh, it, it, it is referred to as, it has a different name, but I'm just going to call it, uh, I'm going to call it by its, um, street name, I guess, uh, it's, it's called the Pearl of Moraine. Um, and as you're kind of walking through it, and it's like, you know, we, obviously, he, he basically kind of runs through, like, we need to be in here by, um, by dusk, uh, when the, uh, when the tide is at its highest, right? At dusk is the highest, is the high tide. Oh, it would be.
+So, and there is something that is marked there as, uh, it, it, it is referred to as, it has a different name, but I'm just going to call it, uh, I'm going to call it by its, um, street name, I guess, uh, it's, it's called the Pearl of Miraine. Um, and as you're kind of walking through it, and it's like, you know, we, obviously, he, he basically kind of runs through, like, we need to be in here by, um, by dusk, uh, when the, uh, when the tide is at its highest, right? At dusk is the highest, is the high tide. Oh, it would be.
 
 It would be. It would be. It would be. At dusk, when the tide is at its lowest, I, we'll, we'll go with low. Sure, sure. Um, I can make up any sort of rules. Yeah, yeah. It's my world. Um, uh, we need to be in there to be able to enter the gloamways. Uh, once there, we can make it, we, we can make it through the passages to get to the chamber of the pearl. Um, um, this is a artifact of great power. Um, it's said to, uh, and he basically kind of gives you a little bit of a, little bit of an idea about, about the background of it.
 
@@ -83,13 +120,17 @@ Well, you know, weird zombie coral. Yeah. They don't have any weird coral things
 
 Uh, good to, like, after you investigate the, uh, the actual, uh, maps. The, the part of the map that you had, Jason, was, um, not the, was not the Glomway, but the actual, like, location of the entrance and how to actually make it into the Glomways. Um, so, um, so, they, uh, so, you know, you're able to get them into the tunnels and they're able to get you guys all the way to the Pearl. Um, so, um, is basically how that, how that worked up. Um. Anything else that you want to cover that you care about, um, in, in, over the course of the next few hours?
 
+---
+
+### Session Play - Part 3
+
 Hmm. No, I'm good. I'm good. I don't need to do anything. You sure? Uh, I'm pretty sure. Can I see the book? No, it sounds like you're not sure. No, I'm pretty sure. No, no, no. I was thinking about squirrel people, but. Probably got a pretty valuable use of. I'm going to say, so, from the sound of it, are we, like, taking a, not necessarily a rest, but, like, we have some hours to kill? Yeah, so, basically, what's going to happen here is you guys are going to be making camp, um, on the, uh, on the shore here. Okay.
 
 Um, the pirates are going to go back to their ship, um, and then they will return in the morning for you guys to start moving towards. Okay, so it's just us hanging out at this point. Right. Okay. Um, so, if, if you have anything that you want to talk to the pirates about, you totally can do that. There's space for that, but otherwise, you're, you're basically just setting up camp where you're at. Okay. Like, a couple days away, right? Like, we've still. Right. Time to travel here. So, we'll be traveling with the pirates for a good, for a good minute, yeah.
 
 Ah, all right. Um, so, it seems how it's just us. Pirates are gone. Uh, I'm going to get out my artist kit or my artist tools and some chalk and see if, between the group, between all of us, if I can't sketch out what the details of that other half of the map. Just in case something happens to where we get kind of separated, at least we have. Okay. I'm thinking of more than that. I'm thinking we separate. We've already, we know where the entrance is. Yeah. We know what we're looking for. Yeah. So, you guys are just going to, you're feeling like you just want to race.
 
-Be faster than them. Jezric, you don't have any, like, bombs, do you? Oh, you guys. Wrong character. Hang on. What is gold value of bomb? Because if they're going back to their boat, hide a bomb in one of their belts, I have to just, oh my gosh. Probably not. I imagine the, I imagine the price is too much. I mean, I could definitely make some. Explosives kit. Just lying around. No, no, no, no, no, no, no, no. I was thinking making one of my orbs of creation into a bomb, but I, the gold cost might be too much. The original version is in him, Guyver, but then he just won right away.
+Be faster than them. Jezrek, you don't have any, like, bombs, do you? Oh, you guys. Wrong character. Hang on. What is gold value of bomb? Because if they're going back to their boat, hide a bomb in one of their belts, I have to just, oh my gosh. Probably not. I imagine the, I imagine the price is too much. I mean, I could definitely make some. Explosives kit. Just lying around. No, no, no, no, no, no, no, no. I was thinking making one of my orbs of creation into a bomb, but I, the gold cost might be too much. The original version is in him, Guyver, but then he just won right away.
 
 Oh. So, he was totally super-fitted by Chuck Norris. I, I actually think it's going to be, well, there's one, I don't think there's really anything like a bomb in this world currently. No Molotov cocktails, or? I mean, there's definitely Molotov cocktails. We could definitely do something like that. We have the alcohol, because, you know, we stole it from the bar. Yeah. It's going to do it else. Yeah. But no, I don't think there's anything. No. I'm going to double check to make sure. There's holy water. I mean, if I was fifth level.
 
@@ -113,11 +154,15 @@ And if we can't run, we're going to serve them that way. Well, that's ridiculous
 
 Do you think they'll let you destroy the pearl if you travel with them? If that thing is cursed, then what caused this? We're also going to want to take it somewhere else, and that's real bad. Yep. All right. Let's go. I have a good feeling we will have to destroy the art of sight. Maybe? Or I don't think I could cure it or anything from the curse. Maybe? I don't know. I can eat it. Or we could feed it to our cobalt friend. He would eat it. Hey, can I make it? Okay, question. Yes. Answer. How about you've ever heard of this pearl before?
 
-Because I have... The Pearl of Moraine. Do you roll me a history check? Oh. Yeah. Yeah, I do have... I actually have a religion. Uh... For... You specifically, it would need to be a history check. Okay, history. And what is my... For Xander, it could be religion or history. Okay. Yeah. Yeah. I'm going to have to say things. Yeah. Yeah, good. I'm going to be trying to smell in it. I may have been there when it was created. Good. I mean... Maybe not. I was here when the old magic was made. What? Uh... Um... What's that?
+Because I have... The Pearl of Miraine. Do you roll me a history check? Oh. Yeah. Yeah, I do have... I actually have a religion. Uh... For... You specifically, it would need to be a history check. Okay, history. And what is my... For Xander, it could be religion or history. Okay. Yeah. Yeah. I'm going to have to say things. Yeah. Yeah, good. I'm going to be trying to smell in it. I may have been there when it was created. Good. I mean... Maybe not. I was here when the old magic was made. What? Uh... Um... What's that?
 
-Zero. Ah! Zero. You have never heard of this pearl ever in your... You're not even sure that the pearl exists. Let's see. Uh... 21! Get to... All right. Well... Why you guys are doing good roles? You... You didn't know. Uh-huh. Uh-huh. You are familiar with this pearl. Yep. Pearl Moraine. Yep, yep. Um... Was actually... Um... Something that you... In fact, do remember. Oh. It's at... It is from your previous life. Yeah. Yeah, yeah. Um... It was something that you almost forgotten. Yeah. Um... It was... Suppressed. Um...
+---
 
-Not... Not... Consciously. But it was just kind of like something that was... Yep. In the back of your mind. In a way, your previous life is... Kind of... It almost... Like you remember... Your death... And being in your... And being in the... In Moraine's world. But you don't really remember... It's... It's almost like your previous life was like shadows. But this kind of comes to the surface. Um... There was a pearl that Moraine had gifted a city with that was a pearl from her... A pearl from her own necklace. Um...
+### Session Play - Part 4
+
+Zero. Ah! Zero. You have never heard of this pearl ever in your... You're not even sure that the pearl exists. Let's see. Uh... 21! Get to... All right. Well... Why you guys are doing good roles? You... You didn't know. Uh-huh. Uh-huh. You are familiar with this pearl. Yep. Pearl Miraine. Yep, yep. Um... Was actually... Um... Something that you... In fact, do remember. Oh. It's at... It is from your previous life. Yeah. Yeah, yeah. Um... It was something that you almost forgotten. Yeah. Um... It was... Suppressed. Um...
+
+Not... Not... Consciously. But it was just kind of like something that was... Yep. In the back of your mind. In a way, your previous life is... Kind of... It almost... Like you remember... Your death... And being in your... And being in the... In Miraine's world. But you don't really remember... It's... It's almost like your previous life was like shadows. But this kind of comes to the surface. Um... There was a pearl that Miraine had gifted a city with that was a pearl from her... A pearl from her own necklace. Um...
 
 About the size of a human head. It's a pearl. Um... It's a... It has certain special abilities. Uh... The... The specific... Um... Specifically, what it does is it calms the waves and storms. It controls the weather and brings good... Um... Good winds... To... The area that... The area that it is a part of. This pearl was gifted... To the city and the city... Put it at its very foundations. And that... And the foundations of the city... Being powered by this pearl... Gave the city endless prosperity. Um... And always gave them...
 
@@ -151,6 +196,10 @@ Yeah, plus four. So that's a 21 survival. That's pretty good. Um, deception. Uh,
 
 You kind of dance around a little bit as if you were fencing. Yeah. Um, kind of like, you know, princess bride. Yeah. They're going to set up the foot, trying to set up the footprints. Yeah. And then, uh, guys book it. Yeah. All right. Yeah. While we were still in view of the ship, um, try to be a little stealthy. Okay. So they don't can't, you know, spy us from the ship. Right. Once it's dark. Yeah. That's going to be almost a problem. But yeah, yeah, yeah. That's fair. Um, for the record for everybody, I need only half as much sleep as normal.
 
+---
+
+### Session Play - Part 5
+
 Due to being divine or whatever. No, I'm just saying that we can still get some rest, maybe. Uh, for the record, I need twice as much sleep because I'm older than everyone. I mean, that's not how that works, but also technically I think I'm older. I was definitely bored before you. That doesn't matter. It's about experience. But both, uh, you know, both the elf, uh, elves also have, uh, four hour meditation. So they'll probably about, about that either. So, yeah. Well, I'm small enough to fit in a backpack. Somebody can carry me.
 
 I don't care. I don't care. Nope. That's not how resting works. I was looking. D&D restoration can get rid of exhaustion. Ah, it's not here. Yeah. Yeah. That's fine. Exhaustion will be bad, but we can deal with it. Yeah. Yeah. All right. Okay. So you guys travel through the night. Um, so let's go ahead and, hang on. This is the first time you've actually traveled in the night. Nope. How could it possibly happen? I wouldn't worry about it. It would be great. All right. Take that one. I have, now I have second thoughts.
@@ -177,11 +226,15 @@ It's like a little solid. It's kind of nice. And when, and when that happens, th
 
 Um, and they are, and they're also kind of making a beeline towards you. and that is where I'm going to call initiative. Yeah, out, out, out, out, out, out. Okay, that's what, yeah. so for those of you who don't remember initiative, what you are, what you're doing is you're rolling a d20 and then in the, on the bottom, on the front page of your character sheet, at the bottom, in the combat section, there's an initiative number and you add that to your d20. Yeah. One and one? Yeah! Yeah! Dice Jail! Uh, work 17 for me.
 
-Shame! I got, uh, yep, 26. Mr. Old got 26. And his new dice are working out well. I don't know. Yeah, I like one. Lil Jon got 17. Oh, it's a cool piece of stuff, or it's like the dual screen. Yeah. 17. Arthur, what'd you get? I, I got a, no, no, uh, I, I got a 14. 14. Okay, now. Uh, what we got, Jesric? 19. Oh, that was everybody. That's me. And, aha. Did we get a Amber Alert? Oh. Yes. Yep. That would be, I blame Dave. And, three. I'm looking for a go. I'm going to, head on backwards, do that. Car, shirt. Mud, mud color.
+Shame! I got, uh, yep, 26. Mr. Old got 26. And his new dice are working out well. I don't know. Yeah, I like one. Lil John got 17. Oh, it's a cool piece of stuff, or it's like the dual screen. Yeah. 17. Arthur, what'd you get? I, I got a, no, no, uh, I, I got a 14. 14. Okay, now. Uh, what we got, Jezrek? 19. Oh, that was everybody. That's me. And, aha. Did we get a Amber Alert? Oh. Yes. Yep. That would be, I blame Dave. And, three. I'm looking for a go. I'm going to, head on backwards, do that. Car, shirt. Mud, mud color.
 
-You could make it a four. Ah, yes, yes. Can I get luck for failing initiative? I'm pretty sure I failed initiative. Roll vendor, fine, here you go. With advantage. With advantage. That's great. All right. With advantage. All right, so we, so we are at the top of the round. The, the, the steam, the steam creatures are moving at you at ludicrous speed. Miseral, however, is more ludicrous. So, that's true. You, have, the first, uh, the first round of combat, sir. All right. Uh, what am I supposed to do with all this water?
+You could make it a four. Ah, yes, yes. Can I get luck for failing initiative? I'm pretty sure I failed initiative. Roll vendor, fine, here you go. With advantage. With advantage. That's great. All right. With advantage. All right, so we, so we are at the top of the round. The, the, the steam, the steam creatures are moving at you at ludicrous speed. Mistral, however, is more ludicrous. So, that's true. You, have, the first, uh, the first round of combat, sir. All right. Uh, what am I supposed to do with all this water?
 
-I don't think I'm like, right? My opinion, you use a brain strap. Or you know, you can actually hit these guys. Because they look, don't look fully solid. They don't look fully solid, so. Ah, little John, just remember, I made your weapon, uh, magical, so add an additional one. The big one in the middle, is that considered, that's the, the first guy that, John, yeah, that's the, that's the big monstrous, like, elemental. These are all elementals. This is what, what you're dealing with here. Yep. If that matters. More magical, when a mental error pierce through the, thaw guy, how, uh, movie?
+I don't think I'm like, right? My opinion, you use a brain strap. Or you know, you can actually hit these guys. Because they look, don't look fully solid. They don't look fully solid, so. Ah, Lil John, just remember, I made your weapon, uh, magical, so add an additional one. The big one in the middle, is that considered, that's the, the first guy that, John, yeah, that's the, that's the big monstrous, like, elemental. These are all elementals. This is what, what you're dealing with here. Yep. If that matters. More magical, when a mental error pierce through the, thaw guy, how, uh, movie?
+
+---
+
+### Session Play - Part 6
 
 I know, normally if you pass somebody, like, they can react, right? If you leave a threatened square. Yeah. So you can go, like, like, you could go all the way out here and around and probably be fine. Assuming these things don't have reach, this guy might, but, yeah, so. I'm trying to figure out like how hard do I have to be away from him in order to, like, if I wanted to, so this guy. So in general, kind of what you're looking at here is everybody has a reach of one or five feet. So it's any square that is around them.
 
@@ -215,6 +268,10 @@ There you go. So it's like, if you got something that you're itching to do, you 
 
 Oh, no, he's not going to do that. He's going to do a, um, he's going to breathe in. Oh dear. And then exhale in a 15 foot cone. That's pretty bad. To cover you three. For what? I'm going to need some deck saves from you. Did you say it was? Unfortunately, no. You are in the clear. You are out of the range of the, um, Ryan, you're out of the range of the breath. Weapon. But, eight. But if it fails, I have a reaction. Also eight. All right. Your DC is 11. All right. Oh, wait, wait. And it's, it is not a deck save. It's a con save.
 
+---
+
+### Session Play - Part 7
+
 I'm sorry. Oh, that's going to be more. Is that better? It's better, but it's not, it's 10 for me. But still, I'm going to still use the reaction. Doesn't matter either way. Doesn't matter either way for me. Okay. Um, 12. 12. Okay. So you succeeded. Once per day, when I fail a save, I can gain a lock point and re-roll. I'll do that. Oh. Have a lock point. Not re-roll. Yeah. I succeed. Okay. And Ramsey. Yep. Have a look. Yep. Yep. Yep. Because I am small. Okay. Small. Um, everybody who failed. Yep. Takes five fire damage.
 
 Okay. And suffers one level of exhaustion. Oh, geez. Exhaustion. That's really bad. On success, you take half that, so it'd be two. Yeah. Um, and you have zero exhaust, or you don't gain any exhaustion. I heal exhaustion. Perfect. Um, for those of you, for those of you who are concerned about getting more exhaustion, you can only get one level of exhaustion from this. Okay. So even if you get breathed on again, you don't get more exhaustion. Good. Good. Good. So. Okay. All right. That would, yeah, this would be, yeah, real, real, real bad.
@@ -225,7 +282,7 @@ Not attack rolls or to daves, but ability, if it's like, if you're like roll his
 
 He's going to stay where he's at. He's going to target neutral with a steam blast. So he's going to attack. Steam vents? You got to hurt yourself to do steam vents. I don't know. Take it, take one day. That is a 22 to hit, from which, I would be very surprised if you had an AC of 20, 50, do, uh, it's 16. It's 16. Okay. Uh, so he hits, and he does, I can cheat. Um, he does four points of bludgeoning damage, plus two points of fire damage. So six points of damage total. He's immune to, he's immune to fire. I figured.
 
-Why didn't I take that into account with my plans? He says, six total? Yeah, six total. All right, next up is Lil Jon. All right, so I want to do, I'm not quite sure how to do all this, but basically I want him to use my killer instinct, so I can figure out what the problem is with this guy. I also want to utilize my ability, I think it's called scurry, scurry, which I can move around, without being the opportunity attack thing you're talking about. Okay, so then the next question is, basically I can move five, so I'm sort of moving, and my range on these things are, it's five, right?
+Why didn't I take that into account with my plans? He says, six total? Yeah, six total. All right, next up is Lil John. All right, so I want to do, I'm not quite sure how to do all this, but basically I want him to use my killer instinct, so I can figure out what the problem is with this guy. I also want to utilize my ability, I think it's called scurry, scurry, which I can move around, without being the opportunity attack thing you're talking about. Okay, so then the next question is, basically I can move five, so I'm sort of moving, and my range on these things are, it's five, right?
 
 Yeah, so the first thing you wanted to do is a bonus action, which you can just use and do the bonus action, get the information that's there. All right. And what's the ability to read as, do you have to do a check or anything on that, or do you just get information? I believe he just gets information. Unless it's concealed by a non-attentment spell. That's a good idea of you that you can see, you immediately learn the creature's immunities, resistances, and vulnerabilities. Okay. We're good. So, the big guy? The big guy.
 
@@ -247,6 +304,10 @@ That's what I see. Nope. I don't know what this one is. That looks like a one. T
 
 19. All right. Right. And I know that number. I know that he's only got so many remaining, right? She, oh, you know his hit points as well? Wouldn't I, wouldn't, didn't that come out of the, scene behind you there? It's possible. I don't believe so, but, from what I, immunities, resistances, and vulnerabilities, or, learn a third, that has none. Okay, so no, I don't know what's actual health, but I do know that he, what I can hit him with. Yeah. Yeah. Okay. I, yeah, but I can, I can, still good. Yeah. Um, good, I, that's it.
 
+---
+
+### Session Play - Part 8
+
 So, questions, because, what I still do bonus damage with, if I do channel the, the, the, radiant? Yeah, can I still do radiant damage? Yep. Yep. With, with the, it's normal. We'll just do normal damage? Yeah. Okay. I don't, I mean, extra damage, but we'll do normal damage. Correct. Right. Right. And, question, right in bold. Yeah. And, was that, that's a good one? Yep, but it's also radiant. Right, okay, that's also radiant. Yep, yep, yep. Thus, thus making sure of it, what's not thunder. Uh-huh. I wish. my little, thunder, anchor, swinging, cobalt would've come in handy here.
 
 Yes, he would've. It would've been nice, yeah. That's all right. Um, the, just, so people are aware, the steam mythot that, mistral hit, is, injured. Yep. Um, which is, yeah, uh, which, which is more than, um, which is more than, uh, barely injured, which is what the big steam monster is. Got it. So, mistral hit that guy, knocked him down to, knocked him down pretty, pretty quickly. Yep. The big steam monster has been hit by two guys with medium hits and he's barely injured. Yep. So, take that and mocked. Okay. Be big.
@@ -261,7 +322,7 @@ Damage and that kind of stuff. But this is really a focus on fire, silver situat
 
 Yeah. Yeah. Yeah. I'll play. I can't wait. So, yeah. So, so, yeah. so in this game, also templates are a thing. So spreading out like what you did, where you moved as far away as possible, that's a really good tactical. So that you're not plumped together. So that it's easy to drop like these templates on you. So, okay. my, my idea was to, to aggro the big guy on me. Mystic could go up to it and start smacking it. You totally can do that. Um, it, like, I mean, really, it's kind of like whatever you guys want to do.
 
-Yep. Strategic wise. Like if you want somebody to try and keep the attention of the big guy and then have everybody else worry about the ads. Yes. That's what I'm, that's what, that's, that's what I want to do. As, as far as little John is concerned though, he's already mystic marked the big guy. So he, his best move 100% of the time at this point is going to be to attack the big guy. Cause you can't move your mystic mark really hard. So if you want to be doing all that extra damage, you have to be attacking. Oh, it'll be worth it.
+Yep. Strategic wise. Like if you want somebody to try and keep the attention of the big guy and then have everybody else worry about the ads. Yes. That's what I'm, that's what, that's, that's what I want to do. As, as far as Lil John is concerned though, he's already mystic marked the big guy. So he, his best move 100% of the time at this point is going to be to attack the big guy. Cause you can't move your mystic mark really hard. So if you want to be doing all that extra damage, you have to be attacking. Oh, it'll be worth it.
 
 Double proficiency bonus. That's real good. Yep. Basically an extra plus two. Yeah. Okay. Yeah. Okay. Then I'm, will I get a tackle opportunity if I moved to take that, the little guy behind the big guy? If you moved here? No. If you moved to this guy? Yes. You would definitely take him and tackle opportunity from that guy. Okay. So. Like at this point, if you want to move you, you have the option of moving around this guy, but you can't move out away from it. Okay. I'll, I'll, I'll, I'll go behind him to get, to get to.
 
@@ -279,7 +340,11 @@ Yeah. Well, that will hit. Okay. I cast shield on him. No, that'd be OP. That wo
 
 This guy is a big, bad dick. Yeah, he is. What you got? Um, uh, blow. Fair. Blow. Okay. One. One. All right. Well, your speed is halved for the rest of the encounter. Luck point. He gets a luck point. You do get a luck point. He gets a luck point. So, congratulations. He wants a beat. He's half, but you're bad. He accepts your conservation price. Oh, right. Right. There you go. Bonus. It's all working out as planned. And I cannot take another hit from that guy. Yeah, he's, uh, he's rough, but you are pretty much the best guy to, to, uh, to be taking that.
 
-Cause nobody else. Cause well, you could take that hit. Plus you've got the best AC out of everybody. Yeah. Um, plus you can heal yourself. Yeah, I can heal myself. And which I am going to be doing. Probably. Yeah. Touches. What was actually next round? Um, okay. So now we have, um, the, this guy. Yeah. I can't work. But, and he's gonna shoot a, uh, shoot a steam blast at you, little John. Uh, does an 11 hit your army class or AC in the, I hope on that. On the bottom. AC base 14. All right. So he and he misses. So you've dodged out of the way as this spray of steam comes at you.
+---
+
+### Session Play - Part 9
+
+Cause nobody else. Cause well, you could take that hit. Plus you've got the best AC out of everybody. Yeah. Um, plus you can heal yourself. Yeah, I can heal myself. And which I am going to be doing. Probably. Yeah. Touches. What was actually next round? Um, okay. So now we have, um, the, this guy. Yeah. I can't work. But, and he's gonna shoot a, uh, shoot a steam blast at you, Lil John. Uh, does an 11 hit your army class or AC in the, I hope on that. On the bottom. AC base 14. All right. So he and he misses. So you've dodged out of the way as this spray of steam comes at you.
 
 All right. And now it's the, the last, the last one. He's going to be, he's right at mistral. He's going to claw you. Wow. Uh, he's going to hit you. For. Um, I rolled an 18. So. I think he's got plus 18 on the back. I need two to hit. Oh, well. So that's going to do four points of slashing and two points of fire damage. So six points of damage. Tom. Can you see the book real quick, Tom? Yes. Yes. It would be worth doing that. Next up, Xander. Xander. All right. Xander. How are you going to save this situation? You've changed.
 
@@ -295,7 +360,7 @@ What's the DC again? 15. 15. So you have one critical success and four failures.
 
 Yep, yep, yep, yep, yep. Seize Bash. Loud again. That was so good. That's your channel divinity? Yeah. That comes back on a short rest? Yes, correct. Short rest? Correct. Oh, yeah. That's it. It's doggie good. This guy is dead. Oh, sweet. All right. The big bad... Big bad guy. I don't know. DC 15? Yep. Okay, he passes. Yep. I suspected. So 9 for him. Yep. All right, cool. So, my action. For my bonus action. Okay. I'm going to cast Spiritual Weapon. Pushyard. Then I'm going to create a... What does my Spiritual Weapon look like?
 
-I think I did some before. It's probably a Trident. Trident makes sense. Trident serve for ruling seven seas. And that is what Moraine does. Which one of these little guys passed? Which one looks at least damaged, if I know that? They all look equally damaged. Oh, okay. The guy that did pass was the guy that... Yep. Is dead. Was already dead. Was already hurt. All right. We're going to put my Spiritual Weapon right here. Okay. Oof. And it's going to attack this guy. Okay. With advantage of its flanking. Oh, yeah. Oh, yeah.
+I think I did some before. It's probably a Trident. Trident makes sense. Trident serve for ruling seven seas. And that is what Miraine does. Which one of these little guys passed? Which one looks at least damaged, if I know that? They all look equally damaged. Oh, okay. The guy that did pass was the guy that... Yep. Is dead. Was already dead. Was already hurt. All right. We're going to put my Spiritual Weapon right here. Okay. Oof. And it's going to attack this guy. Okay. With advantage of its flanking. Oh, yeah. Oh, yeah.
 
 It is flanking. Oh. No. No. I don't think your Spiritual Weapon can obtain flanking. But maybe... Oh, yeah. He might use it as not a person. But that is... I mean, that's a him. That's a him thing. I would say no. But that's fair. But that's a DM. I am unsure, to be honest. I don't know how that works. Yeah. I don't know how that works. I don't know. Yeah. I'll... No, I think you're right, because it can't be targeted. Yeah. Right. Yes. So, it doesn't lead us off. It's not threat. Yes. Yeah, yeah, yeah, yeah, yeah.
 
@@ -313,13 +378,17 @@ The Thunder Blow... Thunder... Yep. That thing. Those guys. Yep. Yep. On the lit
 
 Oh, because that's like rolling a... Yeah, yeah, yeah. I don't remember. So you did 12 points of damage with that. Plus the 4 there. Which is... 16 points of damage. Plus whatever damage you do on top of that. Which I think... Plus 4. Plus 4? Yeah. So... 20 points of damage? Am I mapping correctly? I think so. Many damages. How do you want to have killed this thing? Yeah. Uh... It's got 9 hit points. So you just over damage the hell of it. Um... Yeah. I swing hit him and he just... Because, uh... With it being the Thunder...
 
+---
+
+### Session Play - Part 10
+
 The Thunder rep. It's like... He just kind of sucks my hand in and just starts vibrating and it just explodes from the inside out. Awesome. All right. So that was Buck Buck number 1. Now you're going to move back up here, right? Yep. Okay. And you spin a Technique Point and do your Flurry of Blows. Yeah. Excuse me. Yeah. 4. 4 plus 6. Which is a 10. That's not going to hit. No. Um... But you can. Um... 12 hits, right? 12 hits. Yeah. Tool Lock will get you there. 12 hits, right? Yeah. Okay. Hmm. Yep. All right. So roll that D6 and D4 again.
 
 And... Okay. So that's 6 plus 6, 7, plus 4. 11. It's 11. Again, this guy has 9 hit points left. So you kill him. And then I still have... You still have one more attack. And I'm assuming a similar thing. It just kind of... The sonic sound just forces the form to dissipate and it just evaporates into the air. By the time your turn comes... I know. Right? You don't have to worry about any of these small guys. You just focus on the baseboard. 16. That's going to hit. Oh, yeah. 16 plus... Oh, yeah. It's... 22, which is going to hit a 12.
 
 And it's also... I think of that stabbing him. Right? Hmm? Because he's right kind of. Right? He's facing me. Yeah, but that doesn't... It's not really facing. I got a 9. Yes. But if you do move a little bit, it won't flank. Yeah. He does obtain the flanking. Which is just advantage on his hit. But he already... But he already hit, so... Yeah. Okay, so... 9. Okay. Well, again, this guy is vulnerable to thunder. So that at least is a 10. So that's 10, 14, 18 points damage. You do too. Okay. Ah. That's... That's... That's real nice.
 
-That's real nice. Yeah. All right. Um... Basically, he came in and does... Swap. Swap. He... Basically, he did what monks do. They just run around the battlefield and hit everything. That's just kind of what they do. Um... All right. Uh... So the... Invit... The, uh... The big steam monster is injured at this point. So he's taken a fair amount of damage, but he is not, um... Yet bloodied. And bloodied, it's, like, half the hit once. All right. Jesric. Uh... Well... First is much like the second. Uh-huh. So I'm gonna hit this big guy.
+That's real nice. Yeah. All right. Um... Basically, he came in and does... Swap. Swap. He... Basically, he did what monks do. They just run around the battlefield and hit everything. That's just kind of what they do. Um... All right. Uh... So the... Invit... The, uh... The big steam monster is injured at this point. So he's taken a fair amount of damage, but he is not, um... Yet bloodied. And bloodied, it's, like, half the hit once. All right. Jezrek. Uh... Well... First is much like the second. Uh-huh. So I'm gonna hit this big guy.
 
 Yeah, yeah, yeah. Right in the face. With this exploding crossbow bolt, I will hit it with a natural 20. Okay. Oh, great. Look. I will... Roll these 2d6s. Oh, when you got your fire damage. Yeah, yeah. I will roll two ones on those d6s. So that is gonna be two plus... So that's gonna be seven points of damage. And then I will do the most important thing. Uh-huh. I will move and start yelling at it. Calling it the degrading names that I know elementals hate. Okay. Okay. All right. You... I'll say its... Its mother was a light breeze, and its father...
 
@@ -333,7 +402,7 @@ Okay, so you do not hit a DC 15 con save. Um, you are unable to speed cast spell
 
 Until you're able to make that save. Um... Oh. Uh, there's also a suffering. Uh, incapacitated and suffocating for the... Oh, suffocating. Okay. As it coughs uncontrollably. Yep. Okay. Suffocating. Suffocating. When the word died, yeah. Huh. It doesn't specify duration here. It just says for the duration. So, I'm going to... It's the same end of the turn as the... The spells thing? Yeah. I would assume. Yeah. End of the next turn. Yeah. So, basically, you effectively lose a, um... You lose a turn unless somebody's able to do something to...
 
-Heal your incapacitation before... Before your next turn comes in. Okay. So, this isn't a save to get free of. It's just you lose your next turn and then you're back in the fight. So, you don't have to worry about it. And that's just for, uh, actions, right? I can do a reaction on my turn? You can do reactions. And reactions you don't do during your turn. They're... Oh. Stuff that you can do outside of it. Okay. So. Um. All right. Little John. All right. So, I'm going to do that same, uh... Bracer of Archery. And...
+Heal your incapacitation before... Before your next turn comes in. Okay. So, this isn't a save to get free of. It's just you lose your next turn and then you're back in the fight. So, you don't have to worry about it. And that's just for, uh, actions, right? I can do a reaction on my turn? You can do reactions. And reactions you don't do during your turn. They're... Oh. Stuff that you can do outside of it. Okay. So. Um. All right. Lil John. All right. So, I'm going to do that same, uh... Bracer of Archery. And...
 
 He's already marked. Yep. So, that is the what, the what, the what, uh... So, what, what way? The base you dice? Uh, yeah. So, you're going to roll your d20 to hit. So, just roll that. And then we're adding, uh, your to hit on that, which is... 6 plus 2 because you're doubling your proficiency bonus, so it's plus 8. So, it's an 18 to hit, which hits his D... Hits his AC of 14, so you hit him. Now you need to roll, uh, d8 damage plus 2d4. So, that's... Two of those. Yeah. The two pyramids and the... And that. That looking dude.
 
@@ -347,6 +416,10 @@ My charisma to hit as well. Yep. Okay. Yeah. So, if you're not able to hit this 
 
 Plus five. Is what it looks like. We got six. I got... You rolled a one? I rolled a one. Okay. And... Wait. And do I add my... Do I add my charisma on it? No. The charisma only helps on your attack with the... Oh, God. ...sacred weapon. Okay. So, you do six points of damage... ...to this guy. Unfortunately, it's not enough to finish him. There. But he is near death. Yeah, okay. Thank you. So, he is at death's door. Oh, my God. But it's his turn. So, he's going to... What's he going to do? What's he going to do? What's he going to do?
 
+---
+
+### Session Play - Part 11
+
 What's he going to do? He's got options. I think he's going to claw you. Or he's going to attempt to claw you. Which would be hard to do. He's going to miss his claw. But he's going to decide to try and run away. Which you have an attack of opportunity that you can choose to use. Yeah, I will. I will. So, roll. And as long as you're... As long as what you get ends up being above a 14, you will have killed this thing. There's no way that you wouldn't have killed it. That's going to... That's going... I'm using my hammer, and that's going to be another 15.
 
 Yeah, I'll hit it. I'll do. So, you do minimum 4 points damage, which is enough to kill it. So, good job. Get out of here, Steam Mist Fog. And... Xander, you're up. All right. Well... That's it. We're going to move our little trident. It's going to float on over here. And it's going to try to stabby-stab. Quick! Ooh, he's trying. He's going to fail. I don't know about these dice, Chris. Sorry. I do get a lock, though. Yes, yes. I get a lock. I'm trying to supply you with as much luck as possible. More time today. All right.
@@ -355,7 +428,7 @@ And then, we really need this thing. This thing, I don't like it. It hurts. It h
 
 Oh, that's better. Oh, that is an 18 total. All right. That will hit. Excellent. All right. And this does 46 radiant. Uh, 8, 10, 11 radiant. Okay. And the next attack roll made against it is at advantage. Which will be very helpful. I hope so. To not misceral, because misceral is currently suffocating. Takes a breath. However, at the end of your turn, you're able to catch your breath. So, it's kind of like, you know, when, well, I experienced this, probably nobody else, ever, nobody else did that. But when you're a kid, and you're jumping on the trampoline, and you land on your head, and you just can't, you can't breathe.
 
-That's, that's what you're doing. Yeah. Yeah, yeah. Just terrible. Most traumatic experience of my young adult, of my, of my young life, not young adult life. Um, and, Jezric, you're up. Well, there's only one thing to do. Yep. That's to hit it. That's correct. I'm going to attempt to hit this thing again. Okay. Oh. You rolled a 20. I also rolled a 1. Well, it's a good thing that you had advantage. Now, try not to blow Snake Eyes. Yeah. It's not Snake Eyes. Better. Uh, that is going to be, uh, 12. 12 points of piercing damage.
+That's, that's what you're doing. Yeah. Yeah, yeah. Just terrible. Most traumatic experience of my young adult, of my, of my young life, not young adult life. Um, and, Jezrek, you're up. Well, there's only one thing to do. Yep. That's to hit it. That's correct. I'm going to attempt to hit this thing again. Okay. Oh. You rolled a 20. I also rolled a 1. Well, it's a good thing that you had advantage. Now, try not to blow Snake Eyes. Yeah. It's not Snake Eyes. Better. Uh, that is going to be, uh, 12. 12 points of piercing damage.
 
 Not bad. That is pretty solid. That is solid. Alright. Um. I can close the ladder. So, as you guys start piling on this damage, like, the, the steam itself starts, starts cooling this, this creature. While it is still solid, just kind of starts losing its shape. Um, it is near death. Excellent. So, keep, keep, keep doing your thing. But it's, it's turn. Um, and it is going to, it's going to do a slam on, uh, it's going to do a slam on Arthur. Uh, it's going to get one of these, but, uh, and it's going to hit Arthur.
 
@@ -363,7 +436,7 @@ I'm going to die. You're taking, you're taking, uh, 22 points of damage. Yep. Ye
 
 Um, seven plus seven, 14, 14. Yes. I hear no stinking. Good job. You, uh, you bouncing around here. And then it's going to, uh, and then I'm going to ask for a con save for Grums Inn. Erzander. It's going to attempt. It's caught on. It's going to try and suck the life out of you. And he don't like it. He don't like it. Negative. You got three luck points. Oh, wait. No. Not anymore. Well, you're about to get one. I got one. You got one. Here you go. All right. Well, I don't want to get five or more, so I'm fascinated.
 
-Wait, did I get a luck point? Uh, for fate, for dropping dead? No. Or for dropping unconscious? No. He technically did fail his dexterity saving throw because he was unconscious. I'm just kidding. I'm just kidding. I mean, I, I like the idea of leaning in favor of the players, but that seems a bit of a stretch here. Um, all right. Um, so, Xander is currently out of flight. Lil Jon. Get him. Get him dead. So we're still doing this thing with 20, yeah? Oh, yeah. I, I don't actually think it's, it's possible for you to, to do it.
+Wait, did I get a luck point? Uh, for fate, for dropping dead? No. Or for dropping unconscious? No. He technically did fail his dexterity saving throw because he was unconscious. I'm just kidding. I'm just kidding. I mean, I, I like the idea of leaning in favor of the players, but that seems a bit of a stretch here. Um, all right. Um, so, Xander is currently out of flight. Lil John. Get him. Get him dead. So we're still doing this thing with 20, yeah? Oh, yeah. I, I don't actually think it's, it's possible for you to, to do it.
 
 Because of your double proficiency bonus? Plus eight, so he has to roll, uh. Well, but it's double proficiency. Well, that's. Not his first attack. That's with the, five. Oh, yeah. Okay. So you roll the five, plus eight, 13. Oh, no. Jinxed. Which is a miss. You have six. Plus, do you have a luck point? Do you have a luck point? I have a luck point. Jinxed. Got him. Derek. Got him. All right. So you, your, uh, your arrow, um, sails through the air and it just. Sorry. Misses. Misses the feature. Um, you, you had a bead on it, but it suddenly moved at the last moment.
 
@@ -373,11 +446,15 @@ If you roll a one, you get two niggas. Yeah. Okay. So that's the, those are the 
 
 So 13 points. 13 points damage. Okay. And then. Are you going to flurry of blows? Your technique points do refresh on a short rest. So. Oh, well then, yeah, let's do it. I couldn't imagine why we would need a short rest. Yeah. Yeah, we're going to do flurry of blows then. Okay. Oh, no. That's a miss. That'll be a miss. One more. Oh, yeah. Get a second. That'll get. 13 will hit. Yep. Or 13 plus. Yeah. Plus your death will get. Make it into a definite hit there. Oh, no. I think one, one. So, six, seven, 11 points. 11 points.
 
-Okay. You're so close. Oh, jeez. You guys are so close. Oh, Jezric. Jezric, it's up to you. All right. Well. We shoot him. That'll hit. Yeah. That'll. Hey, I think I've done. This is the most damage I've done. And I've crit twice. That's going to be 11. 11 points. Okay. Of the piercing damage. How do you want to have killed him? Yeah. Right. So, Jezric, with his small stature and this tiny thing, he finally, he just gets, he is at one hit point. He is staggering after being hit by the breath and then the steam bolt and the giant slam.
+Okay. You're so close. Oh, jeez. You guys are so close. Oh, Jezrek. Jezrek, it's up to you. All right. Well. We shoot him. That'll hit. Yeah. That'll. Hey, I think I've done. This is the most damage I've done. And I've crit twice. That's going to be 11. 11 points. Okay. Of the piercing damage. How do you want to have killed him? Yeah. Right. So, Jezrek, with his small stature and this tiny thing, he finally, he just gets, he is at one hit point. He is staggering after being hit by the breath and then the steam bolt and the giant slam.
 
 So, he's, he is not looking good. But, uh, as he literally staggers, like, into this thing, he looks up. He's like, ah, you bastard! Puts his, his, his, uh, whole, like, the end of the bow, of the crossbow, into the, the, the mist and fires straight up and it just, there, just right off the top. And it falls apart in, like, a steam cloud into the ground. Nice. All right. So, it dissipates in the, in a cloud. Um, and just, and as that happens, you see the entire area where there was, where you had this mist and this cloud that was surrounding you, that just slowly just starts to fade away.
 
 Um, you do see that it doesn't completely disappear, does disappear further on. Hmm. But, so, it's very clear that there might be more of these things here. But, this cloud, this area, you have, you have purged the demon from within. Okay. Um, everybody take 1000 XP. Ooh. Which, for those of you keeping track at home, that's enough to level. Ooh. Uh, I, I, I did that the last time. Uh, 39. 900, yep. I did level last time, so I'm at, my HP should be, two, 1900, nine. Uh, you should be at 3900. Yeah. 39. Yeah. No, I, like, I, I was, when, when it comes to, like, leveling games, it's more of a punishment for you not to be able to get XP for times that you're not here.
+
+---
+
+### Closing and Table Discussion - Part 12
 
 But, if we're using something that's more of an XP-based game, then if you miss, you're not getting XP for it. How much is it? I'm on level four now. Yep. Everybody's level four. As I catch my breath, I'm gonna walk over and stabilize our friend Arthur here. Might be a good idea. For the DC-10 medicine check. Yep. Nailed it. So, if we're leveling up, does that take our XP down to... No, your XP stays where it is, um, the way that, yeah. That's true. That's 3,900 is where you're at. Okay. Um, so, everybody should be at level four.
 

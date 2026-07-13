@@ -2,12 +2,47 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "10"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 10 - Transcript
+# Crown of the Immortals - Session 10 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 09|Session 09]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 11|Session 11]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 We go. Mhmm. So, yes, we have the, the statue of Vorath the betrayer that popped up. In legend, he was a elven man. So that's upon looking at the statue, you guys were like, well, I good.
 
@@ -97,9 +132,9 @@ Not yet. We got one out of the system for the rest of the night. That is insane.
 
 I see. Yeah. Crafting check. The heck. Did I already roll Chris or not?
 
-Nope. It doesn't look like it. Doesn't look like Carson has rolled either. I didn't roll. Yep.
+Nope. It doesn't look like it. Doesn't look like Karsten has rolled either. I didn't roll. Yep.
 
-Carson. Oh, you just rolled a perception check. You didn't roll initiative on the tracker. Oh, I'm sorry. I thought I rolled the initiative.
+Karsten. Oh, you just rolled a perception check. You didn't roll initiative on the tracker. Oh, I'm sorry. I thought I rolled the initiative.
 
 Let me roll out of my character sheet. Oh, there it is. Sorry. Well, actually, Clark, I can Oh. Yeah.
 
@@ -107,9 +142,13 @@ If you guys roll perception, I can actually force that to be your, your initiati
 
 Excuse me. I don't see anyone yet. Where is everyone? We're up ahead. Okay.
 
-Yep. Alright. So let's go ahead and get started. Sameer, you are up first. He's 75 feet away.
+Yep. Alright. So let's go ahead and get started. Simear, you are up first. He's 75 feet away.
 
 That puppy's cooking. It doesn't look like my I lost my character sheet. Doesn't look like I have an like, I still have a encumbrance bonus, it looks like. I can only move 20 feet. I don't understand.
+
+---
+
+### Session Play - Part 2
 
 Is this, I think it's her armor. No. I because I got rid of that extra stuff to move. That means I would have not got rid of it. Yeah.
 
@@ -183,7 +222,7 @@ Okay. There's that. 21 to hit or 22 hits. You do 21 points of damage, which does
 
 Does indeed splat. Splaaloosh. How do the, how does the rat dog do? Just picture, like, me, like, going, like, super speed with anger. Like, I need out of here.
 
-Die, you dog. Alright, Carson. You are up. You filthy rat. Yeah.
+Die, you dog. Alright, Karsten. You are up. You filthy rat. Yeah.
 
 I'm not even gonna I'm not gonna make it. I mean, I might make it there maybe. No. You're not. Well, I mean, got one more.
 
@@ -203,7 +242,7 @@ Okay. Alright. I'm gonna sit there and put on my thumbs. Make some damage. Alrig
 
 Albert, you're Sick. Cool. Cool. Cool. Cool.
 
-Cool. Cool. Oh, and, Samir, do you have an action that you wanna insert yourself in at this point? Or Uh-huh. If I do anything, I'm I'm just gonna run, as far and fast, I guess, as I can.
+Cool. Cool. Oh, and, Simear, do you have an action that you wanna insert yourself in at this point? Or Uh-huh. If I do anything, I'm I'm just gonna run, as far and fast, I guess, as I can.
 
 So let's come on, dude. Here, that's 30 feet. I would then go it's not your turn. Oh, maybe it is my turn. I switched you back.
 
@@ -242,6 +281,10 @@ Yeah. It's been that way for a while. It's okay. Yeah. Not a critical thing.
 Mhmm. That did it. Okay. That works too. I see what's going on.
 
 Clark couldn't see himself in the mirror. That was the name. That's right. No one can see my portrait. Oh, okay.
+
+---
+
+### Session Play - Part 3
 
 So we've got goblins. Kind of messed up. Mhmm. For the turn orders. I think I do.
 
@@ -363,6 +406,10 @@ And that's basically effectively what you've got from your line of sight current
 
 Light it up. You're on fire. Well, actually, you know what? I'm gonna I'm gonna do something different here. I'm going to open up the room entirely, but, you aren't going but I'm hiding the baddies just to kind of symbolize that, you know, they Mhmm.
 
+---
+
+### Session Play - Part 4
+
 That you you see the movement in the shadows. There are definitely multiple bad guys in there, but you aren't able to quickly discern in this moment, like, exactly where they are. Sure. Okay. Cool.
 
 Cool. Cool. We will remove ourselves from initiative then. Okay. Where is out of initiative?
@@ -379,7 +426,7 @@ And then he will follow it up with a second rapier attack. Very swash. Very buck
 
 Mhmm. Alright. So at that point He's trying to hit us at least. No. He's just trying to hit me.
 
-No. He's attacking Carson. Oh. Not attacking everybody. He can't even attack everyone.
+No. He's attacking Karsten. Oh. Not attacking everybody. He can't even attack everyone.
 
 He can. If he's rolling like that, I'm not sure. Alright. That is his turn. Albert, do you want to step in at this point or do you want to wait for the second?
 
@@ -435,13 +482,13 @@ Barely. Barely missed by one. Right? Woof. He was Alright.
 
 That's him. I love that. Is it my turn yet? Yep. I doubt they'll have a second turn.
 
-Sameer, you're up. Yeah. That's her. Why you say that? We got four people to act on Yeah.
+Simear, you're up. Yeah. That's her. Why you say that? We got four people to act on Yeah.
 
 Yeah. Two and a court or one and a quarter person. So I will depends on the roles, Chris. Depends on the roles. Steps you here.
 
 I will, I'm gonna I'm gonna target this guy. Let's not stop it. I target that guy. I think that's how I do it. And then I go ahead and do that.
 
-Oh. Yeah. So that'd be for I I targeted, Carson, but I don't know that it I still think you have to pull that in on yourself, Carson. Oh, the wrong weapons? I think that's my turn.
+Oh. Yeah. So that'd be for I I targeted, Karsten, but I don't know that it I still think you have to pull that in on yourself, Karsten. Oh, the wrong weapons? I think that's my turn.
 
 Wait. What is this thing? Unlimited duration? No. Okay.
 
@@ -496,6 +543,10 @@ Okay. So yeah. So a three action blazing bolt, you're making all three at your m
 I yeah. I'd say so. No. It says multiple creatures. One Right.
 
 Targets one or multiple creatures. Could I target both of them independently? Or is this a You could. Line of effect where I would hit one and if there was another guy behind it, it would do damage to them as well? No.
+
+---
+
+### Session Play - Part 5
 
 If these are three separate rays, so you could basically say I want one ray to go to that guy, two rays to go to that guy. Okay. And then if I did that, then the attack because I'm splitting the attack, then I would have a penalty for the second one or whatever Right. Or no? No.
 
@@ -569,7 +620,7 @@ Underhanded poison for underhanded people. Alright. So to the left, there is a o
 
 And I know that that's happened really, really well. And I chuckle. Well, I've got a light door. And I start laughing because I think that's funny. Yeah.
 
-Let's go to the door that Carson's in front of. Sure. Or sorry. K here. Okay.
+Let's go to the door that Karsten's in front of. Sure. Or sorry. K here. Okay.
 
 So you got that door. It is closed, but, it is closed but does not appear to be locked. Yeah. See what's in there. You can feel free to check for traps if you so desire.
 
@@ -605,7 +656,7 @@ Are we are we waiting for something? Am I missing it? Yes, Clark. Oh, okay. Just
 
 Things are happening. Things are happening. Why do we open the door? Stairs. Should've went the other way.
 
-When you open the door, you are surrounded by a bubble of darkness Oh. With the exception of Sameer, who happens to be outside of that specific zone. Mhmm. How is that possible with our super light? Oh, super darkness.
+When you open the door, you are surrounded by a bubble of darkness Oh. With the exception of Simear, who happens to be outside of that specific zone. Mhmm. How is that possible with our super light? Oh, super darkness.
 
 Magic. No. But no. It makes sense to me. Cahir, you Are dying.
 
@@ -642,6 +693,10 @@ Old one? Yeah. It'll show expired. Well, then, what do I do with the rest of my 
 Well, you are in magical darkness. So Yeah. Yeah. I can't see, but, like, are they undetected? Are they hidden?
 
 I'm just trying to get a sense of my options here. Yeah. Give me a second here to Yeah. Yeah. Pull up in the guy.
+
+---
+
+### Closing and Table Discussion - Part 6
 
 I don't think they're very good no matter what. But darkness, you create a shadow a shroud of darkness that prevents the light from penetrating or emanating within the area. Light does not enter the area, and any non magical light sources, such as torches or lanterns, do not emanate any light while inside this area, even if even if their light radius would extend beyond the darkness. This also suppresses magical light of your darkness spell rank or lower. Light can pass through so creatures in the area can't see from outs can't see outside.
 

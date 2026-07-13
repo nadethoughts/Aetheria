@@ -2,12 +2,48 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "06"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 06 - Transcript
+# Crown of the Immortals - Session 06 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 05|Session 05]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 07|Session 07]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Closing and Table Discussion - Part 7]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 That note, let's kill some people. Alright. Alright. So when last we met, you guys were six months had passed since the since the temple had appeared. You were trying to figure out what was going on with, you you've been chasing down, the goblins.
 
@@ -53,9 +89,9 @@ You want some knuckles of fireballs? I discovered exactly how effective a neckla
 
 Yeah. Now we have some goblins that are that are gonna be taking a turn. So, one in the far back, moves. So the game's going to just run up and get over here, and he's gonna pull out his short bow. Yes.
 
-And he's gonna shoot at the big shiny guy. Need to do Oh. Trying to use my guy just a little bit. He he's trying to use something. He shoots at Carson.
+And he's gonna shoot at the big shiny guy. Need to do Oh. Trying to use my guy just a little bit. He he's trying to use something. He shoots at Karsten.
 
-And Carson, the the the arrow glances off your shield as you are in Yeah. As you're in full defense. Pretty good roll. Time I do something. Now we have a solar sentinel star.
+And Karsten, the the the arrow glances off your shield as you are in Yeah. As you're in full defense. Pretty good roll. Time I do something. Now we have a solar sentinel star.
 
 Yeah. Solar sentinels. I don't even know what they look like. Oh, I didn't see them in there. See them.
 
@@ -131,6 +167,10 @@ But and I'm done. Alright. Now you crushed a whole bunch of people. Who's next? 
 
 He's going to knock three arrows and try and kill three goblins. Yeah. I think is what he's going to try to do. See what actually happens. But so first one, the crit failure.
 
+---
+
+### Session Play - Part 2
+
 This is not a good start. It is not a good start. Second one, he does hit. Yay. Nine points of damage and giving one of the ranged goblins.
 
 Yeah. He then targets the one right next to him, right next to it. Come on. Misses. Particularly.
@@ -145,9 +185,9 @@ I I don't think he's going home. Yeah. We're doing pretty good. We're waiting fo
 
 Okay. This one scurries up, pulls out his dog slicer, which is basically a giant knife, but it's effectively a sword for these guys. Takes a swing at Knife. At Cahir, does penetrate through does penetrate through your hide armor and does seven points of damage. What?
 
-So you got plenty of hit points left ish. Good. And this one is going to target the dwarf and shoots. It's gonna hit the dwarf for five points of damage. Penetrates through there and penetrates through the Next up, Sameer.
+So you got plenty of hit points left ish. Good. And this one is going to target the dwarf and shoots. It's gonna hit the dwarf for five points of damage. Penetrates through there and penetrates through the Next up, Simear.
 
-Oh, oh, it's my turn. Mhmm. So Sameer does a a very flourishing, maneuver with his bow staff and sets it on the on the ground very firmly to then peel over and start vomiting. Trying to remove the sickened condition? Yeah.
+Oh, oh, it's my turn. Mhmm. So Simear does a a very flourishing, maneuver with his bow staff and sets it on the on the ground very firmly to then peel over and start vomiting. Trying to remove the sickened condition? Yeah.
 
 How do I do that? How do I gotta roll? Roll a fortitude save. Fortitude. Fortitude.
 
@@ -183,9 +223,9 @@ That was on Cahir. Cahir. Alright. Yep. That's why he's rolling two d 12.
 
 I see. For damage. I will go ahead and, I'll I'll do that spell. Nope. That did not do what I wanted to.
 
-Here we go. We'll do runic weapon. I think I've got Carson targeted. Do anything else I need to do? Nope.
+Here we go. We'll do runic weapon. I think I've got Karsten targeted. Do anything else I need to do? Nope.
 
-Carson just needs to pull the spell effect runic weapon onto his character sheet. Her character. Perfect. Or onto his character, and he should be good. Perfect.
+Karsten just needs to pull the spell effect runic weapon onto his character sheet. Her character. Perfect. Or onto his character, and he should be good. Perfect.
 
 You officially only have one level one rank one spell slot remaining. Mhmm. And we're gonna burn through these puppies. And you haven't even entered the dungeon yet. Oh, yeah.
 
@@ -199,7 +239,7 @@ Right. Okay. That's my turn. Yeah. Clark, did you pull on the runic weapon onto 
 
 Did you say? Jason cast runic weapon on you. There's a spell effect runic weapon in the chat pulled onto your character. Yeah. It will give you a additional, that'll give you an additional, damage die when you swing.
 
-Awesome. Yep. Alright. And speaking of Carson, you are up. What are you gonna do?
+Awesome. Yep. Alright. And speaking of Karsten, you are up. What are you gonna do?
 
 So for fun, as soon as you cast that spell, I'll scream, I got the power. Get him. Okay. If I can remember. There we go.
 
@@ -257,6 +297,10 @@ Alright. At this point at this point, at the beginning or at the end of the roun
 
 Where where are they coming from, Chris? The South or the North? The South. Yeah. Yeah.
 
+---
+
+### Session Play - Part 3
+
 Yeah. Temple. So this is where the cave in was in the South? Wait. Oh, they Like, like, straight in front of us?
 
 Hole. They broke a hole in that cave, and they're swarming then they're swarming the the temple. K. And then you would close the hole. That's what I'd scream.
@@ -293,7 +337,7 @@ Front. Yeah. He's gonna shoot that guy, taking him, and he's gonna shoot the oth
 
 Between the electric arc Yep. And his and his really bad shot, he, he was able to finish him off. Excellent. Now you you are definitely seeing that there are more, goblins heading in your direction. Gald Gald takes the, he's got one final, one final action.
 
-He's gotta run forward, get down on one knee, and just get ready to get ready to continue to be firing into the into Goblin Mass. Uh-huh. And, both of the solar sentinels will, you know, also take you know, will their that's not their turn yet, so they're not gonna do nothing. Sameer, what are you doing? I am taking a good look at the temple and wondering about the merit of falling back in there to a more defensible position.
+He's gotta run forward, get down on one knee, and just get ready to get ready to continue to be firing into the into Goblin Mass. Uh-huh. And, both of the solar sentinels will, you know, also take you know, will their that's not their turn yet, so they're not gonna do nothing. Simear, what are you doing? I am taking a good look at the temple and wondering about the merit of falling back in there to a more defensible position.
 
 All the yeah. So, Okay. We've been in here before, so we kinda have an idea of the lay of the land. Right. So, yeah, I I guess that would So you run back to the temple?
 
@@ -347,7 +391,7 @@ And, much as, Gold has done, I take a knee with, staff in the opposing hand. Cam
 
 Should be. So I You do still have you do still have an action that you could spend, and you do have a shield spell that you could cast. Actually, you can I wanna cast that? If you got nothing better to do, always cast shield if you can. That's a man.
 
-Do it. Oh. Alright. Alright. Carson, you are up.
+Do it. Oh. Alright. Alright. Karsten, you are up.
 
 Woo hoo. So I just drag that onto my character. I'm good. Yep. I'm gonna, I handed off that potion.
 
@@ -366,6 +410,10 @@ Did you heal that person? No. I gave him a potion. Gave him a potion. They can u
 Leisure. Right. That person is going to cough the potion given. Yay. So kind.
 
 I want them to live. I know. She is going to move backwards to the choke point on the bridge, set her shield set her tower shield up, pull and have her hammer ready, and and yell, come on. Come on. Yeah.
+
+---
+
+### Session Play - Part 4
 
 That's right. And the other, the other, sentinel will do the same thing. He will pull out his shield because he was running around, you handing a weapon. But he'll pull out his shield, and he'll likewise set up in a defensive position. And Gold is behind with with, with race cover.
 
@@ -495,13 +543,17 @@ Boom. Eight damage. Wow. This guy We're surrounded. Is going to attack Karsten i
 
 Oh. He's going to miss on his first attack. That's right. He is gonna hit on the second attack. Do you need four points of damage to Karsten?
 
-Oh. And, Sameer, you're up. Oh, Sameer, you're up. Do a little little magic little magic. This guy and this guy.
+Oh. And, Simear, you're up. Oh, Simear, you're up. Do a little little magic little magic. This guy and this guy.
 
 How do I how do I select two bad guys to attack? Hold on. Just Don't right click the second one. Oh, there you go. Perhaps he's the better person to answer that question.
 
 I have a completely different process on my end. Oh, okay. Fair enough. Alright. So we will do Shift kill.
 
 Yes. Shift kill. That's today. Yes. We'll do, a lovely little electric arc.
+
+---
+
+### Session Play - Part 5
 
 Okay. Yeah. Step on those two little dudes. K. So e we have one success.
 
@@ -595,7 +647,7 @@ Oh, we're good. We're we're gonna crush it. Yeah. Just give me one second. I I h
 
 I don't think they're gonna beat your initiative, but you never know. Alright. Alright. Alright. You're They they did not.
 
-Alright. Alwar is going to move up to the front line. And as he does, he's going to whisper a little prayer, to Cadence. Protect me. And I'm going to cast a new spell.
+Alright. Alwor is going to move up to the front line. And as he does, he's going to whisper a little prayer, to Cadens. Protect me. And I'm going to cast a new spell.
 
 I am going to cast Joe mama. Dizzying colors. I cast dizzying colors in, why why can't I do that? Place 15 foot cone. I would like to how do I manipulate this thing?
 
@@ -623,7 +675,7 @@ But it makes it much harder for them to hit, I believe. So stunned will remove o
 
 So So I don't need to try to kill them right away. I should try to kill the ones to the right of me? Yeah. Probably. Yeah.
 
-Especially, the one to your bottom right here, because this one goes right after you do. That other one goes after Samir. So there's a little bit more time. But, yeah, if you fill those two, that would be great. How do you know when they go?
+Especially, the one to your bottom right here, because this one goes right after you do. That other one goes after Simear. So there's a little bit more time. But, yeah, if you fill those two, that would be great. How do you know when they go?
 
 Just click on them? If you hover over, like, at the top where the initiative tracker is, if you hover over above the initiative tracker, it'll light them up on the map. Oh, that's smart. Yep. Because when, you know, they're helping to choose targets is that can be helpful.
 
@@ -649,11 +701,15 @@ I know. I'm just trying to fix a thing, but I I don't know. I don't know. Alrigh
 
 I missed him between there, but then I hit him on my third one. Yep. You got him? Yeah. Alright.
 
+---
+
+### Session Play - Part 6
+
 Next up is gold. He's going to to target this guy. That's the only guy that he can get to. I was hoping. Sniper shield.
 
 Yeah. Did you get him? Oh, yeah. Nice. Alright.
 
-Sameer, you're up. Oh, it's my turn. Get my character sheet out of the way here. Does that shield, spell require me to cast that, like, every round? Didn't I didn't see a duration on it.
+Simear, you're up. Oh, it's my turn. Get my character sheet out of the way here. Does that shield, spell require me to cast that, like, every round? Didn't I didn't see a duration on it.
 
 Yeah. It's a duration of one round. Yep. K. That's what I was wanting to know.
 
@@ -703,7 +759,7 @@ Oh, it's enough, though. I would have missed anyway, but Yeah. Oh, and again? Oh
 
 Four points of damage. He's gonna swing. He's gonna do a wild swing that's totally gonna miss. Criticalness. He misses so bad.
 
-Charge off. Carson, you're starting to feel pretty good. One's gonna charge off with its dog's last turn and see if it can get some gnome. Alright. He sure does.
+Charge off. Karsten, you're starting to feel pretty good. One's gonna charge off with its dog's last turn and see if it can get some gnome. Alright. He sure does.
 
 He he gets some gnome again. Oh my gosh. However, Clark, for this one, you do have a reaction. That is true too. I do.
 
@@ -743,7 +799,7 @@ Now if you have your character selected, then it'll pull up the the information 
 
 And then it just says boo. Do you do that? Yeah. You failed to demoralize. What?
 
-There's a weak sauce. What drives to you? Sameer? Wouldn't hurt my feelings if I could heal people, you know? I really wouldn't.
+There's a weak sauce. What drives to you? Simear? Wouldn't hurt my feelings if I could heal people, you know? I really wouldn't.
 
 Wow. So we were moving around trying to snag some people, What am I doing wrong? How can I not, like, move my guy? Because you're standing on top of a dead body. He's not Use your arrow keys.
 
@@ -761,7 +817,7 @@ Nice. Success. Big money. Big money. Oh, that's what you're doing.
 
 Little 40 dude's been around for a while. He's pretty lucky little turd. You're right. Right. Yeah.
 
-Alright. So they both take damage, but neither of them appear to be in immediate danger. Oh, they're in danger. That's Carson's turn. They're in danger.
+Alright. So they both take damage, but neither of them appear to be in immediate danger. Oh, they're in danger. That's Karsten's turn. They're in danger.
 
 Stick your sword right through them both and lift them up. Point to them. I'm a brat. It's a pretty violent way to go. I like it.
 
@@ -804,6 +860,10 @@ You potion, buddy. Peter is really slow. Sorry. It's okay. So one action, two ac
 That's a miss. I'm gonna do the I do my hero point. Alright. That is it. Because that kills him.
 
 Yes. Oh, Tom. I need to leave at ten, Chris. Okay. Well, as you guys enter into as you guys enter into the tunnel, you start to you start to get the sense that, there are some forces that are being marshaled, but you don't have a, but you don't have a good understanding of just exactly how many goblins there are.
+
+---
+
+### Closing and Table Discussion - Part 7
 
 But you do know that once you actually make it into the tunnel, it's a little bit easier to deal with because they don't have any like they have they're dealing with the same choke point issues that you are. The tunnel itself is very dark, and, more and it's cut of rough stone. And I am going to I'm gonna have that light thing. Don't I radiate light? You have to turn it on.
 

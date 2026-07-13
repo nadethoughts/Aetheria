@@ -2,22 +2,50 @@
 type: transcript
 campaign: "The Cracked Granite"
 session: "05"
-tags: [type/transcript, campaign/cracked-granite]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/cracked-granite
 ---
 
-# TCG - Session 05 - Transcript
+# The Cracked Granite - Session 05 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-### Game System: Pathfinder 2e
+> [!abstract] Campaign context
+> The Cracked Granite follows dwarven agents of Ironhold as the kingdom reopens its gates, explores the transformed surface, and confronts the political struggle between expansion and isolation.
 
-| Character | Player | Class (Subclass)               |
-| --------- | ------ | ------------------------------ |
-| Demlor    | Jason  | Kinetisist (Metal Gate)        |
-| Hurgan    | Scott  | Ranger (Flurry)                |
-| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+## Characters
+
+> [!note] Game system
+> Pathfinder 2e
+
+| Player | Character | Class | Subclass |
+| --- | --- | --- | --- |
+| Jason | Demlor | Kineticist | Metal Gate |
+| Scott | Hurgan | Ranger | Flurry |
+| Ramsey | Rurik | Gunslinger | Way of the Sniper |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 04 - Transcription|TCG - Session 04 - Transcription]]
+- **Next:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 06 - Transcription|TCG - Session 06 - Transcription]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Closing and Table Discussion - Part 7]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Alright, so when last we met, the group of three dwarves were fleeing the war camp of ogres, with 21 refugees, you all were ambushed by a group of wolves and a werewolf ogre, an ogre werewolf, and were able to protect yourself and protect the group of dwarves from the threat by defeating them. You had continued on your way towards the guard tower that you were shooting for for the nearest dwarven guard tower, which was a two-day force march. You guys got to about three-quarters of the way through, and you were moving through a clearing that had a large broken tree, and you had been eluding a drake, a red drake that was hunting you.
 
@@ -43,13 +71,17 @@ This is two shot, one kill. Or maybe two shot, zero kill. Damage did not roll we
 
 He is very much not happy with you. The other advantage of staying hidden, I guess. You don't get retaliated if you're hidden. Or at least not as hard. Not as effectively. Yeah, yeah, yeah. Okay. Let's see here. He's going to jump down. Mm-hmm. Um, were you successfully hidden? Uh, I mean, I was, but then I shot him again. So, no. They're not. Or actually, I don't know if I was or not, but I certainly am not now because I shot him again. Okay. So he's going to move down and he's going to target the guy that just blasted him.
 
-Mm-hmm. With his great axe. Mm-hmm. It's all right. I am all nimbly bimbly, maybe. He's a big feller. He is. This will hurt many hurts. Mm-hmm. Um, and he is going to actually target both, um, Hurrigan and, um, and, uh, Rurik with a mighty swipe. Or just a regular swipe, but, you know. Pretty mighty. So he basically does a cleave. Uh, through. Uh, and he rolls a 20. Excellent. Which. Misses both of you. Excellent. So he's very sad about that. I mean, he has a lot of blood in his eye. And then he's going to, well, I think that's all he can do because he's, uh, he moved and then he took a two action swipe.
+Mm-hmm. With his great axe. Mm-hmm. It's all right. I am all nimbly bimbly, maybe. He's a big feller. He is. This will hurt many hurts. Mm-hmm. Um, and he is going to actually target both, um, Hurgan and, um, and, uh, Rurik with a mighty swipe. Or just a regular swipe, but, you know. Pretty mighty. So he basically does a cleave. Uh, through. Uh, and he rolls a 20. Excellent. Which. Misses both of you. Excellent. So he's very sad about that. I mean, he has a lot of blood in his eye. And then he's going to, well, I think that's all he can do because he's, uh, he moved and then he took a two action swipe.
 
 So, that's, that's, that's his turn. Yeah. Okay. Just got shot in the eye. Mm-hmm. Mm-hmm. All right. You can hang it all. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. Mm-hmm. A giant spider comes across the, uh, comes, comes across the, um, trunk of the tree, and it targets her again, and turns around, and from its thorax, it spews, It's going to use some sort of sticky concoction. Yeah. It's going to webbing you. Oh. Sure is. All right. And what that does, because it does hit you, Um, it inflicts a web trap, uh, which means it immobilizes you.
 
 Um, a creature hit by the ogre spider's web attack is immobilized and stuck to the nearest surface until it escapes with a DC-22 check. So, you cannot move until you've succeeded in a DC-22 check. Okay. Okay. Okay. And... It is also going to... Um, it's going to... It's going to... No, I don't think it really can do much, much else. Um... I think it's going to stay where it is. So, it will only take two actions. And here again, you are up in your immobilized self. How do I get out of this? Uh, you will need to make a DC-22, um...
 
 A DC-22 escape check. So, I'm just going to go throw it, go ahead and throw that out in the chat. Uh, you should see the escape DC-22. If you click on that, it'll, uh, it should automatically make your rule. And that will be one of your actions. It just says escapes. Is that the one you want me to do? Yep. Okay. It should provide you some way of being able to... Uh... I clicked roll. And I get this canceled as you must target before you attack. Oh, well, just target the spider. I guess. I... Try it one more time. There we go.
+
+---
+
+### Session Play - Part 2
 
 Twenty-four. Twenty-four. Okay. So, you did... You did... You did get out of the immobilized. Um, so you were able to get... Get yourself out of the webbing. Now you have two more actions that you can spend. Okay. I can't hunt prey. If I go on the other side of this guy, does that help at all, or should I just go up to him? Um, well, it doesn't help you... It doesn't help you specifically in this situation, but it would position you to be in a better situation if somebody should want to flank the guy and attack him.
 
@@ -81,7 +113,11 @@ Oh. I'll go ahead and do that. Maybe I'll do electricity. Ooh, that sounds like 
 
 Oh. The consistency of it's the thing that's frustrating. Yeah. Yeah. Yeah. I wouldn't, I wouldn't mind it if I didn't, you know, roll above a five, if I, you know, occasionally rolled above a 15. Right. Right. Right. It seemed balanced. Mm-hmm. Anyway. All right. So that's my turn. So, um, back to Ramsey. All right. All righty. Well, uh, I had one in the chamber, so we're, he's not looking good. We're just gonna, we're gonna try to put him down. This rabid animal needs to be euthanized. Yeah. Oh, nice. Oh, that should do it.
 
-Beautiful. Nice. Nice. It hurts. It hurts. It hurts. It hurts. Let's see here. Yep. All right. How do you want to have killed? That will do it. So, um. Splendid. I think we'll, we'll continue with the eye theme. Um. Since spiders, the cyclops had too few eyes. Spiders have way too many eyes. Um. Uh. So this is a shotgun blast. I, I've kind of figured some of the metal pointy bits that Demolore stuck in them earlier may have taken out an eye or two. Uh. But we'll kind of finish the job with a shotgun blast. Um. Take out three meaning eyes and what was left of the brain behind them.
+Beautiful. Nice. Nice. It hurts. It hurts. It hurts. It hurts. Let's see here. Yep. All right. How do you want to have killed? That will do it. So, um. Splendid. I think we'll, we'll continue with the eye theme. Um. Since spiders, the cyclops had too few eyes. Spiders have way too many eyes. Um. Uh. So this is a shotgun blast. I, I've kind of figured some of the metal pointy bits that Demlor stuck in them earlier may have taken out an eye or two. Uh. But we'll kind of finish the job with a shotgun blast. Um. Take out three meaning eyes and what was left of the brain behind them.
+
+---
+
+### Session Play - Part 3
 
 And. Right. Yeah. Yeah. Yeah. All right. Everybody with bullets. Sounds good. Well, on the bright side, nobody actually took any damage in this severe encounter. Which is, which is great. Because, uh, I've already used battle medicine on everyone. So. Yeah. It would have to be a stop to, uh, to heal. Yeah. But. So, um, you guys, you guys, uh, take a look at the, um. Um, the. Remains, um, and I actually, like, I'm gonna, I'm gonna, I'm just gonna drop all the treasure from last time and this time into the chat. So. Mm.
 
@@ -111,11 +147,15 @@ The tower that you guys have made it to is the tower called Hammergate Hold. Go 
 
 The captain of the tower approaches you and says, Hello. Well, he probably doesn't say hello. That seems very informal, depending... Considering the way that you guys were... The way that you guys brought some... Brought some refugees back. He walks up to you and says, I am Captain Thrain Emberhelm. Captain of the watchtower. Captain of Hammergate Hold. What has happened that these dwarves are in such bad shape? Okay. Dude, you would not believe the stuff we've been through. What did happen? One-eyed orcs. Lots of orcs.
 
-Can't remember all the spaces, but they took over the... The wood camp. Demmler kind of gives a little bit of a... With Demmler clearing his throat, you have gotten Captain... Captain Emberhelm's attention. Full attention. Yeah. He kind of goes back and forth between Rurik and Hergen as they're giving pieces and bits of information, and he's just like kind of trying to process what they're saying, but not really able to kind of comprehend what's happening. And then Demmler, you clear your throat, and he narrows in on you and says, what do you have to say?
+Can't remember all the spaces, but they took over the... The wood camp. Demlor kind of gives a little bit of a... With Demlor clearing his throat, you have gotten Captain... Captain Emberhelm's attention. Full attention. Yeah. He kind of goes back and forth between Rurik and Hurgan as they're giving pieces and bits of information, and he's just like kind of trying to process what they're saying, but not really able to kind of comprehend what's happening. And then Demlor, you clear your throat, and he narrows in on you and says, what do you have to say?
 
-I think we were still being hunted by a drake. We might have one of those yet on our tail. Yeah. I don't know what you've got for fortifications here and how long you can hold out, but there's a lot of wicked that's been running behind us. Get yourselves ready. He looks you up and down. And... He says... Are you Demmler? I give a... courteous bow and smile. The Slayer of Orcs? Yeah, the title's probably not deserved. Oh, come now. The orcs would say otherwise, if they could. He chuckles. He says, very well. Very well.
+I think we were still being hunted by a drake. We might have one of those yet on our tail. Yeah. I don't know what you've got for fortifications here and how long you can hold out, but there's a lot of wicked that's been running behind us. Get yourselves ready. He looks you up and down. And... He says... Are you Demlor? I give a... courteous bow and smile. The Slayer of Orcs? Yeah, the title's probably not deserved. Oh, come now. The orcs would say otherwise, if they could. He chuckles. He says, very well. Very well.
 
 And he basically calls a few of his lieutenants, points up to the top of the tower, and says, keep an eye out for a drake, or anything else that may be coming in the same direction as these. And then he calls a few other people, a few other dwarves over, and says, send word to the other frontier watches that something's afoot. And I will need to have a more coherent conversation with these heroes before I can give further instruction, but at least put them on alert. Something is... something's up. And the other dwarves go into a separate room.
+
+---
+
+### Session Play - Part 4
 
 As they close the door, you kind of see a... what looks to be like a... not a seeing stone, but like a sending stone that's on a pedestal that they are using to communicate with other watchtowers in the region. Yeah. And then he looks at... Then he looks at you three and says, come to my office. Let's have a chat. And he walks to a separate room that is on... that's on the exterior wall of the watchtower. And he expects you to follow. As we're heading along, Demers, just remember, we don't know who's on what side. And we need to get to the, you know, king as quickly as possible, so...
 
@@ -151,6 +191,10 @@ Keep that one a little close as well as our suspicions of, uh, the, the more tra
 
 So we should know pretty soon whether or not there are any, uh, whether or not these, these ogres are, are hot on your trail or, um, if they've lost interest. And, uh, we have sent out, um, alerts to the remaining watchtowers on, in the frontier to make sure that they keep an eye out for, um, ogre attacks. We've also requested reinforcements from some of the interior watchtowers, um, to be able to, um, fend off any, uh, any onslaughts that we have. We are, we are, we are just a watchtower. We aren't a full mill. We aren't a full military.
 
+---
+
+### Session Play - Part 5
+
 So, uh, we'll need any help that we can get to, um, to be able to stave off this ogre, um, this ogre infiltration. Um, is there anything else that, um, that you three can, any additional information that you three can? You can provide to me in order for us to be better prepared for what lies in wait or, or for what lies ahead. Best we can say is be prepared for anything. That's yeah. It's been wild. What's what we've seen. Stuff out of myth and story. Duh. Um, the, the ogres did, um, have some kind of shaman, maybe, I don't know, some kind of magic user.
 
 Um, I don't know what they were doing, uh, but they were somehow like mind controlling some dwarves. Uh, so maybe look out for that too. That doesn't sound like that. That's, that's terrifying. They're different though. They stood out. They stood out. They stood out. Yeah. Yeah. They were like fiery dwarves. Ogres don't have that kind of magic. Well, that's what we thought. We're someone who does. The, um, Captain Emberhelm basically just puts his, puts his head, puts his hand on his head. Closes his eyes. Takes a few minutes and says, well, just yesterday I was telling the boys that's things were too quiet around here.
@@ -173,21 +217,33 @@ Um, they would have, um, had you delayed any longer, um, we would have ended up,
 
 Um, called the sentinels rise. Sentinels rise has not returned any information to us from, since our original, uh, since our original statement to them, we sent them message, letting them know, um, we received an odd message in return, um, saying that they were under orders, um, they were under orders to stay, um, to stay where they were and not provide support. Um, and, uh, that was the last we heard from them. Um, uh, they are to the north, uh, they're to the northeast of here. Um, um, I'm concerned that my fellow captain, um, Captain Ironbrow is, uh, compromised and the watchtower is fallen.
 
-Um, they don't usually, um, they don't usually, uh, we, we have a certain amount of, um, expectation from each of the watchtowers to keep in constant, um, constant, uh, communication. Um, if one fails to send a, um, since fails to send a communication, um, we, at the very least, send a scout to assess whether or not the watchtower itself has, um, fallen to, um, an enemy or not, but as you can, um, as you can imagine where we are right now, we can't really afford to, to send anyone. Um, I know that you are on your way to Ironhold, um, but would you be willing to head by way of that watchtower, it's only a few hours out of your way, um, to make sure that nothing bad has happened, uh, to them and be able to send word back using the sending stone in the tower itself.
+Um, they don't usually, um, they don't usually, uh, we, we have a certain amount of, um, expectation from each of the watchtowers to keep in constant, um, constant, uh, communication. Um, if one fails to send a, um, since fails to send a communication, um, we, at the very least, send a scout to assess whether or not the watchtower itself has, um, fallen to, um, an enemy or not, but as you can, um, as you can imagine where we are right now, we can't really afford to, to send anyone.
+
+Um, I know that you are on your way to Ironhold, um, but would you be willing to head by way of that watchtower, it's only a few hours out of your way, um, to make sure that nothing bad has happened, uh, to them and be able to send word back using the sending stone in the tower itself.
 
 Time is of the essence, but you, ours, I think we can spare. What do you, what do you think? I think so. Can you give us a quick lesson on how to use your sending stone? Of course. Um, he will run you through the actual process of using the sending stone, um, it's actually pretty simple, uh, there's a command word that you have to use in order to be able to activate it, and then you just simply say the watchtower, uh, the, the name of the watchtower that you're wishing to communicate with, and then it will open up the, the channel.
 
-Um, yeah. Um, something that, uh, just, just as a, just as a side note for, um, for you guys, like, you do find it odd that, um, well, and this is actually probably, um, pointed out by Captain Emberhelm as well, um, um, it's odd that a, that a specific watchtower would be under orders to, um, to stay where they are. That, that's not, that's not a common order that happens to watchtowers, but it is something that is overly, it is something that is, um, made to be a, it, it is something that can be done, it's non-standard, um, so it's not, it's, it's not, like, unusual in that nobody ever does it, but at the same time, it's also not a standard, uh, a standard standing order, um, for the watchtower to, um, basically be, um, on hold or in, the best term that I can come off with is, like, a turtle pattern where it's just,
+Um, yeah. Um, something that, uh, just, just as a, just as a side note for, um, for you guys, like, you do find it odd that, um, well, and this is actually probably, um, pointed out by Captain Emberhelm as well, um, um, it's odd that a, that a specific watchtower would be under orders to, um, to stay where they are.
+
+That, that's not, that's not a common order that happens to watchtowers, but it is something that is overly, it is something that is, um, made to be a, it, it is something that can be done, it's non-standard, um, so it's not, it's, it's not, like, unusual in that nobody ever does it, but at the same time, it's also not a standard, uh, a standard standing order, um, for the watchtower to, um, basically be, um, on hold or in, the best term that I can come off with is, like, a turtle pattern where it's just,
 
 like, stay where you are, don't, you know, don't, um, don't assist other watchtowers, you know, hold, hold up, you know, board, board up, and, and don't, and don't let anything in, um, sort of thing, um, that is a order that is possible to be delivered, but it's not a common one, so that may, that may also be something that kind of piques your interest from a investigation perspective. Certainly does. All right, well. You should be good to go, yeah? Yep. All right, so, uh, he gives you, yep, so he gives you, he gives you instructions on, um, where to go to the watchtower.
 
-It, it, it does require you to double back a little, um, double back a little bit, like you'll, not double back as in, like, going back right now, but you'll have to go up, go to the watchtower, and then double back a little bit in order to be able to get back on the trail to get to iron hold. Um, so you guys proceed towards that, towards that watchtower. Um, as you go, um, you make it through a, um, you make it through the countryside. There's, there's, um, you do notice that this, um, specifically like Kerrigan, you would notice that this is a little bit more, um, quiet, um, than you would expect for the nature that's around you, um, the actual, uh, the actual, uh, forest and, and mountain usually has a little bit more wildlife than what you're currently experiencing as you're, as you're
+---
+
+### Session Play - Part 6
+
+It, it, it does require you to double back a little, um, double back a little bit, like you'll, not double back as in, like, going back right now, but you'll have to go up, go to the watchtower, and then double back a little bit in order to be able to get back on the trail to get to Ironhold. Um, so you guys proceed towards that, towards that watchtower. Um, as you go, um, you make it through a, um, you make it through the countryside.
+
+There's, there's, um, you do notice that this, um, specifically like Kerrigan, you would notice that this is a little bit more, um, quiet, um, than you would expect for the nature that's around you, um, the actual, uh, the actual, uh, forest and, and mountain usually has a little bit more wildlife than what you're currently experiencing as you're, as you're
 
 walking in, so it's, it's a quiet, almost too quiet sort of situation, a little bit, yeah, a little bit unsettling for you. Um, on your way, you happen across a interesting ancient relic, um, in the, in the forest. Um, it looks like it's, um, a collection of stone rings, um, just kind of strikes you as, um, structures odd, um, this actual relic itself is, um, are the, the rings of, um, the rings of Coram. They are a dwarven relic that you guys have heard of. Um, it's not a, it's kind of like one of the monuments in the United States, right?
 
 For, you know, like the Washington Monument or, or the, uh, or, um, Mount, uh, what's it called? Yeah. Mount Rushmore, you know, that kind of thing. So it's something that, you know, by, um, by reputation, if you haven't seen it in person. Um, but this is on the way to the, uh, to the actual, um, tower itself. Um, as you approach it, uh, you see that there seems to be, um, some recent movements, um, around it, it's not like as overgrown as usual, um, there definitely appears, like there definitely appears to be, um, or as usual, quote unquote, it's not as overgrown as you would expect it to be.
 
-Um, the, the, there are definitely appears to be some, some traction, some, some grass that's been beaten down, it definitely appears like there's, there's been some movement around here, um, more so than just like somebody walking through and just being like, oh, this is really cool, you know? Um, but outside of that, nothing really out of the ordinary about this, about this monument, um, other than just being a really cool thing. Uh, it's basically a collection of rings, as you can see in the pictures, like there's a collection of rings that are kind of built into the ground, um, with some runes along the rings, like magic runes, and on the four corners of the, um, of the cardinal directions of the outside of the rings, there are what look to be like these stone gates.
+Um, the, the, there are definitely appears to be some, some traction, some, some grass that's been beaten down, it definitely appears like there's, there's been some movement around here, um, more so than just like somebody walking through and just being like, oh, this is really cool, you know? Um, but outside of that, nothing really out of the ordinary about this, about this monument, um, other than just being a really cool thing.
+
+Uh, it's basically a collection of rings, as you can see in the pictures, like there's a collection of rings that are kind of built into the ground, um, with some runes along the rings, like magic runes, and on the four corners of the, um, of the cardinal directions of the outside of the rings, there are what look to be like these stone gates.
 
 Um, and you can see an example of one of those, um, over here, to the right-hand side. Pretty cool thing. Oh. You know. Yep. You don't really have much time to spend ogling this, however, so you really do need to move forward, but it's definitely something that seems interesting. Um. You make it to the dwarven, uh, to the dwarven watch house, uh, watchtower. Um. For Captain Ironbrow, um, the watchtower of... ...the sentinels rise. Yes. Um. And you, um, see that the watchtower itself has definitely seen battle. Um. The, there are, um, there are a couple of, there are a couple of survivors, um, how do you think, however, this is definitely something that the dwarves have, have fought very hard against something.
 
@@ -207,9 +263,13 @@ Yeah, no, so, so that, that's kind of what you're able to figure out, um, from, 
 
 Um, what you're seeing is more of, like, a clawed foot sort of situation. Um, Rurik, uh, what you're able to discover is you find the, what's of the, um, of the captain's quarters, um, of Captain Iron. Um, um, um, Iron Brow's quarters, quarters. And, uh, you specifically look for the orders that they received, um, and you find something from the, um, by order of the Grand Regent, um, of Silvervain. Um, they, they are, uh, of the clan, um, they are ordered to, um, stay, uh, to not perform scouting duties and to, um, have a, um, an internal lockdown until, um, until they are released.
 
-Um, so that is, that is the main surprising order that you see. Um, and if you remember, um, cause I know it's been a minute since we, since you were looking at, like, dwarf names, but. Yeah, all Varric silver veins, the next one in line for the throne. Yeah, that one, exactly. Yeah, I was just working, I took notes of all the people in that room that I specifically noted that he was shifty. Yeah. He's proving himself to be even more shifty. Um, all right. And, uh, Hergan, as part of your, uh, as part of your investigations, um, the clawed footprints that, um, Rurik sends out, uh, points out to you, um, you recognize, um, kind of what, what those should be.
+Um, so that is, that is the main surprising order that you see. Um, and if you remember, um, cause I know it's been a minute since we, since you were looking at, like, dwarf names, but. Yeah, all Varric silver veins, the next one in line for the throne. Yeah, that one, exactly. Yeah, I was just working, I took notes of all the people in that room that I specifically noted that he was shifty. Yeah. He's proving himself to be even more shifty. Um, all right. And, uh, Hurgan, as part of your, uh, as part of your investigations, um, the clawed footprints that, um, Rurik sends out, uh, points out to you, um, you recognize, um, kind of what, what those should be.
 
 But they're kind of odd, um, they're not what would normally be of that, of that, um, um, of that monster type. But, um, you're definitely picking up that there are multiple different, there are multiple trolls that are being, um, that, that appear to be the main onslaught on this. And a footprint of something that is not an ogre, nor a troll, it's not something that you're at all familiar with, but it is, but that definitely, um, but you see some, like, you know, brown, gray hairs, um, of some sort of, like, matty coat that surround those specific footprints.
+
+---
+
+### Closing and Table Discussion - Part 7
 
 Um, and they are, um, and they are, again, kind of, like, larger, um, larger footprints than, than the troll footprints that you're, that you're seeing as well. So, um, you're basically looking at, like, this watchtower was assaulted by trolls of some kind, um, and something else that's big and hairy. All right. All right. Um, you guys are able to, like I said, you are able to find the sending stone, you are able to send a message back to, um, Captain, uh, Emberhelm. Um, and, uh, he sends a message back to you, um, that, you know, um, thanks you for figuring out what's, what happened.
 

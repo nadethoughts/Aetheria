@@ -2,12 +2,52 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "08"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 08 - Transcript
+# Crown of the Immortals - Session 08 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 07|Session 07]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 09|Session 09]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Closing and Table Discussion - Part 11]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Automatic counter. Okay. Next. So you guys attacked the, there it is. Number one.
 
@@ -21,9 +61,9 @@ And I'm gonna go ahead and pull y'all in. Yes. So Hello? We're all healed. Right
 
 Currently. Stop it. Whoever's messing with my sister is gonna die like I just did a few minutes ago. At least Alright. So At least stated.
 
-So very quickly, I'm gonna go through everybody and get a reaction to the situation, and then we'll and then we'll proceed forward at that point. So, we'll go ahead and start with Sameer. What is your reaction to this situation? It's not real. Oh.
+So very quickly, I'm gonna go through everybody and get a reaction to the situation, and then we'll and then we'll proceed forward at that point. So, we'll go ahead and start with Simear. What is your reaction to this situation? It's not real. Oh.
 
-Okay. Carsten, what is your reaction to this situation? Why the freak is she over there? Like, kind of in disbelief, like, what's going on or what's really going on? Okay.
+Okay. Karsten, what is your reaction to this situation? Why the freak is she over there? Like, kind of in disbelief, like, what's going on or what's really going on? Okay.
 
 Our Oh, good question. We are okay. The edge of Cali Cave. Yeah. We we know this person.
 
@@ -47,7 +87,7 @@ Okay. I I I clicked it in my little thing here. It didn't do anything. Do you se
 
 Okay. No. So Oh, there it is. Yeah. So this is kind of like a radar.
 
-It goes out 30 feet. And let's see where that that puts us. It's the 30 foot animation on Samir. Okay. So you do detect magic, but you detect magic on your compatriots and yourself.
+It goes out 30 feet. And let's see where that that puts us. It's the 30 foot animation on Simear. Okay. So you do detect magic, but you detect magic on your compatriots and yourself.
 
 Your detect magic doesn't really reach out all the way to where the rock is. That's a long way. Now, our, you said you were moving you're moving ahead. So Uh-huh. Uh-huh.
 
@@ -73,7 +113,7 @@ I'd like to know what Again but, again, it adds more to the urgency of the siste
 
 I'm just trying to figure out what long jump means. Okay. No. And and if this is what you guys would do, if you're going to systematically move forward, then that's fine. It's just that, like, I'm this is a more urgent situation.
 
-It's not just a it's not just a, it's not just a, oh, well, that's interesting sort of thing. So, she starts straining against the straining against the chains, trying to get trying to get to trying to get to you guys. Sameer, you don't see any immediate evidence of any tracks. So I'm trying to use the survival to look at the goblin and figure out, like, quickly what killed it. Why did it die?
+It's not just a it's not just a, it's not just a, oh, well, that's interesting sort of thing. So, she starts straining against the straining against the chains, trying to get trying to get to trying to get to you guys. Simear, you don't see any immediate evidence of any tracks. So I'm trying to use the survival to look at the goblin and figure out, like, quickly what killed it. Why did it die?
 
 Unclear. Okay. As I see Cahir moving towards the water as well, I'm gonna take out my rope and toss it and give it to him. Alright. Let me see.
 
@@ -97,7 +137,7 @@ Alright. Let's do it. So alright. So in the chat, there's an athletics, there's 
 
 Oh. Yeah. That'll do. Over we go. Alright.
 
-So basically, Kahiri, you jump you jump to this rock here, and then that's a 25 foot jump. So you just jump right onto the rock that Woah. Is Awesome. And as and as you ran by, I heard our was passing you a rope. So you probably grabbed the rope, jumped jumped, and are over there with the rope.
+So basically, Cahir, you jump you jump to this rock here, and then that's a 25 foot jump. So you just jump right onto the rock that Woah. Is Awesome. And as and as you ran by, I heard our was passing you a rope. So you probably grabbed the rope, jumped jumped, and are over there with the rope.
 
 I only want I look at I look at Karsten and Sabir with the other end of the rope, and I'm like, I don't know what he's about to do, but I think everybody needs help. And I'm walk over there to help him. For poem or whatever. Yeah. You'll you'll be helpful for that.
 
@@ -108,6 +148,10 @@ Alright. What so what's what's what's the plan here? Is it possible to have to g
 Then I go on the other side and need to throw her to her? Like, I guess I need to break the chains. Yeah. Right. So I have this axe.
 
 So you start yeah. So you go, I might pull them out of sheer strength because I'm amazing. Okay. So you start hacking at the chains. Yep.
+
+---
+
+### Session Play - Part 2
 
 Let's hack them open. I don't think I carry my blowtor normally. Yeah. That'd burn. As you take a, as you take a, as you take a hack at the chains, you feel a, a sucker wrap its wrap its, tentacle y arm around your foot and yank.
 
@@ -253,6 +297,10 @@ I know. You got me. Well, no. I mean, I obviously wouldn't have tried to kill my
 
 Right. Right. And I don't I see another thing, but I don't think I can do anything with it because I'm not gonna get in the water. So And she well, that thing didn't like, that thing appeared on its turn. So, like, I thought you were done, and there are two black eye turns before the next person's I mean, if I freed my sister, I probably would have tried to jump off the rock with her, but I'm assuming the crazy thing wouldn't have let me do that.
 
+---
+
+### Session Play - Part 3
+
 You could have grabbed her and jumped off the rock to the to the previous rock. That that could that would totally count. I would have probably gone is there a shore, like, 10 feet from where this rock is? Yeah. I probably would have gone back on the land.
 
 But is it better for me to stay on the rock? Or I don't I don't think it is better one way or another. So I would wanna splashy distance. So, you know. So you could totally have jumped to shore with your sister, and then your sister turned into the big the big ugly thing and did its thing.
@@ -271,7 +319,7 @@ I don't think she's that strong. I think I just got critically hit pretty tough.
 
 It will In yeah. So I'm afraid of It will gang up Anka here and bite him Alright, buddy. I don't know how to help you. For five points of damage. Then, I think that's all it can and it's gonna move away.
 
-And next up is Sameer. Alright. But before we go too much further, we did also forget, Sameer's beginning of combat thing for the Wells Fargo Edge. Yep. Oh, I have yeah.
+And next up is Simear. Alright. But before we go too much further, we did also forget, Simear's beginning of combat thing for the Wells Fargo Edge. Yep. Oh, I have yeah.
 
 What do I do with that? I don't know what I'm talking about. Do I is there something I need to do with that? Yes. Also, beginning of combat, you'll make a DC six flat check.
 
@@ -315,7 +363,7 @@ Mhmm. I will throw up a shield. Do you need to drag that onto my character or no
 
 K. Alright. Perfect. Alright. Alright.
 
-Two more come out. One comes out of the water and targets Alwer. I'm gonna roll. He's gonna attack with a tentacle. Yeah.
+Two more come out. One comes out of the water and targets Alwor. I'm gonna roll. He's gonna attack with a tentacle. Yeah.
 
 Nice. And I would also, I would also like to point out to certain champions in the group that your special ability that you need to remember just triggered. Just triggered. Yep. Yep.
 
@@ -357,7 +405,7 @@ It it does. It does. But this is not real it's it's kind of a grappling situatio
 
 So when so this base, the this creature basically just kind of wraps itself around you, but because it's so small, it's not actually inhibiting your movement. It's just attached to you. Little suckers. Get it off. Get it off.
 
-Latch on. So wherever you go, it goes. In Carson, Europe. We have to go in front of me. It's like a plan.
+Latch on. So wherever you go, it goes. In Karsten, Europe. We have to go in front of me. It's like a plan.
 
 Let's see this thingy. Go down, here and here and whack a mole. And it worked. And it's always that hit. I was like, enter critical one.
 
@@ -373,11 +421,15 @@ You see underneath your roll, there's a damage. And right next to it is critical
 
 But we Tell us, Elmer, you hit that one with 13 points of damage and it didn't die. I didn't hit anything for 13 damage. Oh. I certainly did. I hit it for three.
 
-Okay. Carson, you still have two actions. I don't even know what to do. You you do have this I'm currently eating that water. You you do have this kinetics stability that allows you to summon flame and throw it.
+Okay. Karsten, you still have two actions. I don't even know what to do. You you do have this I'm currently eating that water. You you do have this kinetics stability that allows you to summon flame and throw it.
 
 Oh. That's Can I throw it all the way across the water or just hit that guy right here? Andrew guy. Oh, why don't you look at your, look at your character sheet. I'm going to do the same.
 
 So you're gonna need to channel elements in order to be able to do that, so that'll cost you one action. But once you've channeled elements, you can do a a kinetics of the blast. Elemental blast. One action. Where's 10 for emanation?
+
+---
+
+### Session Play - Part 4
 
 Blah blah blah blah blah. Well, I I'm just gonna click some buttons just to figure out so 60 feet for the fire. Okay. Well, if it's within 60 feet, then you can throw it at the you can throw it at the other one or at anything really in the room, I think. Assuming here, let me measure where you are.
 
@@ -485,7 +537,7 @@ Well yeah. And you do have to make a, go ahead and you you do need to make a, a 
 
 You can't use it multiple times, but there is an ever increasing chance of, back backlash. Yeah. Which is some negative thing depending on what it is. Yep. Did I hit the right button?
 
-You did. And you are good. You you You did. You weren't overcome by the things. The the little squid creature then moves up to the island that Alwar is at and and attacks.
+You did. And you are good. You you You did. You weren't overcome by the things. The the little squid creature then moves up to the island that Alwor is at and and attacks.
 
 Mhmm. He's going to he's gonna spear you. I I dodge. I do not dodge. I dodge with my face.
 
@@ -511,13 +563,17 @@ Why does it keep doing this? Deviant abilities. I'm sorry. Refreshing my Is the 
 
 So, it is going to attempt to bite you bite you too. Excellent. So you are Maybe it'll work that time. Excuse me. Not this time either.
 
-So it's going to gnaw on you for six additional points of damage. Sure. Rules. K. While he's looking that up, Samir, you are up.
+So it's going to gnaw on you for six additional points of damage. Sure. Rules. K. While he's looking that up, Simear, you are up.
 
 Do I have to somehow specially designate that I am using my, whatever, mage spell, or can I just use the first rank spell and that's that? You can just use the first rank spell and it counts as it. Yep. Okay. May as well.
 
 Yep. I better. Blast the living snow out of that thing. Fuck. Okay.
 
 So thunder strike on that little guy. Alright. I need to show this one creature basic reflex. Alright. He's going to attempt to get out of the way.
+
+---
+
+### Session Play - Part 5
 
 He's going to succeed. I'll go ahead and roll damage. Yeah. He does. Woof.
 
@@ -541,7 +597,7 @@ In many ways. Yeah. Great. Very very emotionally wounded to hear and psychologic
 
 Yeah. Alright. I'm gonna You can get your hip bone so bloody high. Oh my gosh. Why am I such a pansy?
 
-Yeah. And you were the only way to answer that? That rope, that I assume Karsha still has the other end of had pulled myself to shore. So those those rocket boots were a one and done. One and done?
+Yeah. And you were the only way to answer that? That rope, that I assume Karsten still has the other end of had pulled myself to shore. So those those rocket boots were a one and done. One and done?
 
 Yeah. Yeah. They weren't suitable. I was worried it was worth it. It was.
 
@@ -563,7 +619,7 @@ Something I gotta refresh my computer. Oh, those triangular teeth might be good 
 
 Oh, increase your reach by five feet. Oh, that's real good for either of you melee peoples. Yeah. I don't know. That choker arm mutagen, it's a consumable, but for basically the fight, it gives you five foot of reach, which is real good.
 
-Kahir, I think you should take it. What kind of scroll is this, Chris? It is a spell scroll. Yes. Yes.
+Cahir, I think you should take it. What kind of scroll is this, Chris? It is a spell scroll. Yes. Yes.
 
 Yes. Sorry. Which, what about who is it? Arcane, Primal, Occult? Oh, it is a cult.
 
@@ -577,7 +633,7 @@ Well, I don't wanna take them all. But You seem to need them more than anybody e
 
 So Alright. I'll take the big one and one of the small ones. Oh, okay. My bulk's getting to be big. There we go.
 
-Granger. Oh. So are Kahir, are you going to just be rock hopping back to the group, or are you planning on going around the lake? Depends if they're coming to me or not. I never found a party stash because I'm a moron.
+Granger. Oh. So are Cahir, are you going to just be rock hopping back to the group, or are you planning on going around the lake? Depends if they're coming to me or not. I never found a party stash because I'm a moron.
 
 Okay. So if you go to the the actors section, so the little little person in the in the chat in the chat, up top. There's a little person thing. Right. You click on that, you'll see a section called party.
 
@@ -627,6 +683,10 @@ Mhmm. They are rumored to be very, they are rumored to be very, territorial. And
 
 The it's basically the the general, like, concept of, it's it's the general concept of of, you know, the European witches kind of thing where you have a cover and the cover and you have they generally have covenants and covenants make them each more powerful and that kind of a thing. Correct. So Yeah. It may not be the last one of those we find down here. It'll probably be different, but similar.
 
+---
+
+### Session Play - Part 6
+
 David, I always mask their identity though? In general. Yes. Yeah. In in like, our you you would know, like, an example, Ramsey, you would know, and this is something that you can internalize for our work.
 
 Like the, the Hansel and Gretel witch is a hag. And by this definition, the sea hag, which is what you were currently facing, was modeled after Ursula in, in The Little Mermaid. So, like, they're they generally, all of them have the ability to change shape, transform into something that is more appetizing, or not appetizing, but more welcoming to outsiders, so that they can lure their victims in. K. Okay.
@@ -635,11 +695,11 @@ With a fishing pole. They're usually pretty powerful spellcasters. They do like 
 
 Alright. One for Outwater. I think That's everybody. Isn't it? Yeah.
 
-K. So how many times did you lay on hands, Mark? Not enough. One for me, two for Alwar, and, I I don't know how many for None for me. None for you.
+K. So how many times did you lay on hands, Mark? Not enough. One for me, two for Alwor, and, I I don't know how many for None for me. None for you.
 
 And then I think four or five for Okay. So that sounds to me like an hour and an hour and a half has passed. Oh. While you guys were getting healed back up. Oh.
 
-Okay. So as Carson's, as Carson is going around and, you know, healing everybody, is there anything specifically that anybody else is wanting to do other than just focus on making sure that you have all your fingers and toes, to focus on? I'll be going to refocus and get my focus point back that I spent. Fair enough. But beyond that, I don't have a whole lot else to do.
+Okay. So as Karsten's, as Karsten is going around and, you know, healing everybody, is there anything specifically that anybody else is wanting to do other than just focus on making sure that you have all your fingers and toes, to focus on? I'll be going to refocus and get my focus point back that I spent. Fair enough. But beyond that, I don't have a whole lot else to do.
 
 I don't either. And, and oddly enough, so, Arstan, since you opened since you opened the fire gate, you basically have this fiery aura around you. Oh. And you continue to have it for as long as you want. It's an unlimited duration.
 
@@ -675,9 +735,9 @@ It looks pretty. Check it out, guys. Sorry. I found this cool rock. Alright.
 
 I'm back. Alright. Sorry. So there's pretty water. I need people I need people to roll protection tests right now.
 
-Yeah. Yeah. Yeah. So And your character. Is Jason and Carson.
+Yeah. Yeah. Yeah. So And your character. Is Jason and Karsten.
 
-Okay. Carson rolled his. Samir, we're waiting on yours. Perception? Yes.
+Okay. Karsten rolled his. Simear, we're waiting on yours. Perception? Yes.
 
 Perception is not a skill. Oh. Perception is an attribute. Yeah. So tell me there's no active encounter.
 
@@ -719,7 +779,7 @@ Do you do you charge at it? Do you run away? Do you do something else? What what
 
 I don't wanna go in there, but if they're coming to us, then I'm just gonna get ready for a brawl. Does that make sense? You said it's it's running from something? No. It's running to something.
 
-It's like you know, if you were if you were on guard duty and you heard a loud noise and you're you're running towards that noise Right. That's that's effectively what you're what you're seeing happen. Yeah. I'd say with, with, with Carson, kinda being in a defensive position, I'll just do a similar thing. I'll pull up my my instrument and, start getting ready.
+It's like you know, if you were if you were on guard duty and you heard a loud noise and you're you're running towards that noise Right. That's that's effectively what you're what you're seeing happen. Yeah. I'd say with, with, with Karsten, kinda being in a defensive position, I'll just do a similar thing. I'll pull up my my instrument and, start getting ready.
 
 But besides that, I'll stand firm. Alright. So let's go ahead and down the tunnel. I think we could go a little further. Can we go a little bit further in there?
 
@@ -731,7 +791,7 @@ Alright. Target. Go ahead and roll some of that beautiful bean footage. Alright.
 
 Oh, you guys moved all the way up there, Okay. Yeah. Follow follow suit. Not really what I was going for, but You can do you, man. Yeah.
 
-If they're gonna encounter there, I'd wanna be able to at least have line of sight. Oh, fair enough. That's what me doing me would be. Right. Carson Alwer.
+If they're gonna encounter there, I'd wanna be able to at least have line of sight. Oh, fair enough. That's what me doing me would be. Right. Karsten Alwor.
 
 Sorry. I am that. Oh, cool. Initiatives. Yes.
 
@@ -739,7 +799,7 @@ Yes. Alright. Sick. We will destabilize that time stream. Sick.
 
 So yep. '26. Alright. Since I passed. You passed.
 
-Passed initiative. Alright. Carson? Can I hold my action? You still need to roll initiative.
+Passed initiative. Alright. Karsten? Can I hold my action? You still need to roll initiative.
 
 Oh, that's close. You know? You can hold your action all you want, but you still need to roll initiative. What's he holding? You.
 
@@ -748,6 +808,10 @@ Oh, hey. Finally. I've been getting shiny initiative roles. Alright. That was pr
 This is gonna make mine that was really awesome. Look pretty bad. Alright. So I will. Yep.
 
 Cool. Cool. Cool. Cool. But we will, do the normal thing.
+
+---
+
+### Session Play - Part 7
 
 We'll start strong and the loot, do the lingering composition. Not as good this time. 14. So this is a, standard difficulty DC by level, which DC by level. I don't actually level by DC.
 
@@ -791,7 +855,7 @@ Oh, mother. That's a big dog too. The dog is bigger than the goblin. Yeah. It is
 
 Woof. Alright. Yeah. The speaking of the goblin dog, it is its turn. But when it sees you when it sees you guys, it just, like, kinda holds up real quick and looks to its handler as if for instructions.
 
-Okay. Sameer, you're up. I never pulled this effect. I need to Okay. It's holding its turn.
+Okay. Simear, you're up. I never pulled this effect. I need to Okay. It's holding its turn.
 
 DC20 for the splinting of the spell stuff. Right? Oh, yeah. Yeah. Yeah.
 
@@ -817,9 +881,9 @@ Evocation water, water cascades from actually, let me just copy and see if I can
 
 Which is, which is really fitting for me. I like it. It's probably not to get wet. Right? Thankfully we don't have torches though, so this is good.
 
-However, it is messing with Carson's little fiery flaming self. Yeah. That's fine. I look pretty hideous. I think I look pretty good.
+However, it is messing with Karsten's little fiery flaming self. Yeah. That's fine. I look pretty hideous. I think I look pretty good.
 
-Alright, Carson. Oh, no. Wait. Sameer, so you did a so it's still your turn. You have done anything.
+Alright, Karsten. Oh, no. Wait. Simear, so you did a so it's still your turn. You have done anything.
 
 Right. Yep. Yep. Right. I'm gonna do flurry of claws.
 
@@ -895,6 +959,10 @@ We did it. Yay. Alright. Interesting. Alright.
 
 Stash. Oh. Yeah. So the goblin doesn't really have much on it besides just, you know, the regular regular goblin, the regular goblin, armament. So short bow, short bow, dog slicer, leather armor.
 
+---
+
+### Session Play - Part 8
+
 Looking where you where you are right now, you see, an alcove. The the tunnel goes to the south. You do see the entrance of a before you get too far down there, Scott, you do see a couple of entrances. There's one to a, what looks to just be like, kind of like a sleeping area. A couple of bed rolls and things rolled up around there.
 
 And then a larger opening. That opening appears to have some lights flickering in inside it. There definitely appears to be something in there. And I would like everybody to roll well, specifically, I would like to hear and Karsten. Karsten, why are you dead?
@@ -903,7 +971,7 @@ I'm not I'm standing on someone dead, though. Oh, you're standing on a deck or s
 
 I I didn't kill you. My guy. You were my guy. Use the arrow use the arrow keys, on the keyboard. I don't get you there.
 
-Easier. Okay. But, I need Cahir and Karsten specifically to roll perception. Samir and Alwar, you guys aren't don't really see much. You see, like, kind of like the opening to, a cave that's that's there, but, nothing more than that.
+Easier. Okay. But, I need Cahir and Karsten specifically to roll perception. Simear and Alwor, you guys aren't don't really see much. You see, like, kind of like the opening to, a cave that's that's there, but, nothing more than that.
 
 Yeah. 45 points? Woah. 45. Yeah.
 
@@ -911,11 +979,11 @@ What sorry. What am I looking at? Perception? Yes. Yes.
 
 Perception. Yeah. New perception. Why won't it let me do perception? You are probably clicking on the wrong perception.
 
-There are two of them. Yeah. In attributes, if you go down to the oh. I'm not seeing nothing. Carson.
+There are two of them. Yeah. In attributes, if you go down to the oh. I'm not seeing nothing. Karsten.
 
 My gosh. So you walk into that room and, no. He's just whistling a tune and Alright. So DC. Yeah.
 
-So, Kahir, you definitely know that the, that the larger room to the south, there's you you hear voices and scuffling and definitely preparations are are taking place. You're you're pretty certain that they know that you are here and, they are preparing for an onslaught. Uh-oh. So we can't catch up by surprise? We are.
+So, Cahir, you definitely know that the, that the larger room to the south, there's you you hear voices and scuffling and definitely preparations are are taking place. You're you're pretty certain that they know that you are here and, they are preparing for an onslaught. Uh-oh. So we can't catch up by surprise? We are.
 
 You almost got caught by surprise, but So we don't back down from a fight. Right. Do we move? Do I hang on one second. Mhmm.
 
@@ -935,7 +1003,7 @@ Yeah. Yeah. Call them Russian before they're ready. Okay. Ready?
 
 So you're running running gun? I think I'm gonna try to flank them. I think that's probably a good idea. Okay. So bum rushing it is.
 
-Bum rushing is dead. My shield's raised. That's that's probably a good idea. There you go. Let's why don't you go first, Carson, then?
+Bum rushing is dead. My shield's raised. That's that's probably a good idea. There you go. Let's why don't you go first, Karsten, then?
 
 I, pick up, the short bow from the dead goblin and some arrows. Might try something different. Oh my gosh. Alright, guys. We're gonna go ahead and pause right now because is a little bit too Am I too far?
 
@@ -955,7 +1023,7 @@ Raging Cajun. Here we go. Oh. Alright. Sick.
 
 Alright. And, so here you should already be raging. Go ahead and drop that in there. Effect rage. There we go.
 
-Okay. So, Alwar, you are up. Alright. Sick. And before Oh, hopefully.
+Okay. So, Alwor, you are up. Alright. Sick. And before Oh, hopefully.
 
 We get too far, I do want to actually reveal the battle map so you seems like a being a good idea. I see a medium humanoid, AKA possible hag. Oh. In the middle of the Uh-oh. That is, not the direction I thought we were going in.
 
@@ -971,7 +1039,7 @@ Enough time advance that you don't need to worry about it. Although you although
 
 That makes sense then. Yep. So it won't refresh until Yep. Yep. Until I get you focus.
 
-Kahir, you're you are currently not courageous anthem and neither is Sameer. Yep. Grab your anthem. Plus one attack damage. I didn't hit it.
+Cahir, you're you are currently not courageous anthem and neither is Simear. Yep. Grab your anthem. Plus one attack damage. I didn't hit it.
 
 Alright. And I'm gonna try to shoot my short bow at this goblin in there. I think. Because I have 60 foot range now with a short bow. No ammunition is assigned to the bow.
 
@@ -1011,7 +1079,7 @@ We are going to, cast guidance on Cahir. Alright. So Cahir once and oh, well, he
 
 Alright. Bonus. Bonus. Yep. That's me.
 
-Alright. Cool. Kirsten, you're up. Hey. I'll, don't tell me.
+Alright. Cool. Karsten, you're up. Hey. I'll, don't tell me.
 
 I want you to tell me. Oh, I'll tell you. How far can I move? Is it 25, I think? Yep.
 
@@ -1023,7 +1091,7 @@ I can't drag. My mouse is goofy. That's one. Let me see. Your your land speed is
 
 Yeah. So so you can have 20. Fifteen twenty. Okay. Perfect.
 
-Oh, what is the land speed velocity even on the lead in Carson? Oh, crap. I don't I don't wanna go too far because I wanna get nailed. You have armor. They're just little people.
+Oh, what is the land speed velocity even on the lead in Karsten? Oh, crap. I don't I don't wanna go too far because I wanna get nailed. You have armor. They're just little people.
 
 Well, except you can you can you can always fireball. I mean, you can always throw some fire because you have that slowly. The rest of us will rest of us will be up there with you soon. And by the rest of us, I mean, Kihir. I go way I go almost out.
 
@@ -1044,6 +1112,10 @@ Should have all my success with this. And he does hit. What? Alright. That was 2
 He stabs you with his dog slicer, causing one point of damage. My eyes get a little bewildered or befuddled as I'm like, what? How the heck? I'm annoyed. My wedding's alright.
 
 The goblins in the back. Oh, my gosh. The goblins in the back takes a, takes a leaf out of your book and decides to throw a fireball at you. Oh. And miss.
+
+---
+
+### Session Play - Part 9
 
 I'll take it. And then what's he gonna do? That did not go the way I was planning. He was planning something very different. It was gonna be it was gonna be glorious.
 
@@ -1087,9 +1159,9 @@ You went alright, Garston, didn't you? Or did you not? He went, you went, I thin
 
 So we'll just put him at five. Hold that good. I tried to target and I hit the wrong button. Alright. So the, there's gonna be a few arrows or three to be precise, that are coming your way, Karsten, but only one of them hits dealing five points of damage.
 
-And there's going to be another, another hail of arrows that comes out of the bubble of darkness that is targeting Samir. And first one misses, second one hits dealing three points of damage, And the third one hit critically hits dealing 14 points of damage. Oh. Oh. Oh.
+And there's going to be another, another hail of arrows that comes out of the bubble of darkness that is targeting Simear. And first one misses, second one hits dealing three points of damage, And the third one hit critically hits dealing 14 points of damage. Oh. Oh. Oh.
 
-Samir is badly injured. Oh. Alright. Cahir, you're up. So does this light this darkness thing is not affecting them because they have dark vision?
+Simear is badly injured. Oh. Alright. Cahir, you're up. So does this light this darkness thing is not affecting them because they have dark vision?
 
 This is not affecting them because this is a part of the let's see here. Well, one, they do have dark vision. Okay. The darkness spell only conceals people that are in it. It doesn't prevent them from being able to see outside of it.
 
@@ -1109,7 +1181,7 @@ So you do need to roll you do need to roll a flat check. So roll d 20 yourself. 
 
 Alright. I gotta refresh this again. So Alright. For a second. Okay.
 
-Kahir, you're up. I'm in the last time. Hello? Oh, hello. Cut.
+Cahir, you're up. I'm in the last time. Hello? Oh, hello. Cut.
 
 We've been trying to contact you about your car insurance. Warranty? Right. Not on. Internet's doing crazy things.
 
@@ -1159,13 +1231,13 @@ Absolutely. Bam. Six damages. Cool. And then for my final action, I move a shot.
 
 Yeah. I think it's the best thing to do. I am going to move again, and I'm not gonna move very far, but we're gonna yeah. Okay. We're gonna scurry up behind this rock here.
 
-Okay. And try to get between Sameer and the bad guys because he got rocked pretty hard. He did. Alright. That's good.
+Okay. And try to get between Simear and the bad guys because he got rocked pretty hard. He did. Alright. That's good.
 
 Yeah. I mean, he's a pansy. So Karsten, you're up. Alright. I'm gonna He just needs to toughen up a bit.
 
 Oh, it did work this time. Yeah. Yeah. Get there. Whack them.
 
-Yeah. I don't know if you guys are seeing all these auras on your side, but, like, I have, like, aura upon aura upon aura upon aura. Like, Carson's run around with two auras. There are little blessing auras. There are a couple of other auras.
+Yeah. I don't know if you guys are seeing all these auras on your side, but, like, I have, like, aura upon aura upon aura upon aura. Like, Karsten's run around with two auras. There are little blessing auras. There are a couple of other auras.
 
 I just got, like, five circles I'm staring at right now. Voice. Alright. You hit. One, two, three, four.
 
@@ -1176,6 +1248,10 @@ Get them. Let me get them. Oh. Oh, my gosh. Oh, it's pretty good.
 That's not so good. Wait. Wait. He's already damaged. He was.
 
 This is the one that's this is the one that's belting out a bunch of random weird chants. I am done. Yep. Whack, whack. Alright.
+
+---
+
+### Session Play - Part 10
 
 Oh, hello. And no. No. He's he's gonna go here, I think. He's gonna cast a spell.
 
@@ -1203,7 +1279,7 @@ Here, you take two points of fire damage. I thought he rolled so bad. Oh, wow. H
 
 Yeah. He did. He rolled terrible. That's how I roll. And that is his turn.
 
-So Samir, you're up. Yep. It seems like it would be an appropriate thing to, you know, maybe drink that little healing potion. How doth one do such a thing? You go to your inventory.
+So Simear, you're up. Yep. It seems like it would be an appropriate thing to, you know, maybe drink that little healing potion. How doth one do such a thing? You go to your inventory.
 
 Yeah. And where the healing potion is, you click on the healing potion. Click. And then you click on the use button in the chat. And it I figured it would.
 
@@ -1247,7 +1323,7 @@ I know. Not yet. Okay. Thank you for the reminder. Yep.
 
 And he used all of his actions to move, switch out his weapon, and attack. So he only got his one attack. Next up is Cahir. How are things looking for you, Scott? Oh, looks like you're in.
 
-Hello? Question is should I Dealer. The guy with, like, Carson and I or Come on. Dealer. Your call.
+Hello? Question is should I Dealer. The guy with, like, Karsten and I or Come on. Dealer. Your call.
 
 Yeah. Oh, who's that? Everybody everybody who's there is a problem. They're white. Right?
 
@@ -1269,7 +1345,7 @@ No. No. No. Oh my gosh. Still Alright.
 
 That's my actions. K. You still you you still did 16 points of damage with her. So damage to to the elf. So that's That's the worst possible.
 
-I could not. Alright. Alwar, you're up. There's this big there's this big, Spiritual force. Force mace Yeah.
+I could not. Alright. Alwor, you're up. There's this big there's this big, Spiritual force. Force mace Yeah.
 
 Right behind you that came and swung at you and had you not flickered out of existence. Oh, what I did. Good. Moment, you would have kittens you would have gotten slammed. Uh-huh.
 
@@ -1323,7 +1399,7 @@ Here. I'm all done. One dead mage. Poor and poor mage. He's doing so good.
 
 Oh, that's what he gets for getting flanked by a champion, a barbarian. Man, that's true. Mages do not belong between champions and barbarian. No. That's not where you all be.
 
-Place for them to be. Yeah. All right. Samir Europe. So what's the story with this nace thing?
+Place for them to be. Yeah. All right. Simear Europe. So what's the story with this nace thing?
 
 It's a spiritual weapon. You can't turn it away from it. Okay. Yeah. It'll probably try to hit me again, but that's okay.
 
@@ -1338,6 +1414,10 @@ Yep. Yeah. And I'm gonna run with that. Attack. Attack.
 Oh. Oh, it's pretty good. That's a crit. That's real good. That is nice.
 
 We like those. Nice. Alright. Rolling damage. A critical damage?
+
+---
+
+### Closing and Table Discussion - Part 11
 
 Bam. Oh, I didn't do that right, did I? No. You you want the critical? I don't know that there's I don't know that there's a critical on the spells.
 
@@ -1363,7 +1443,7 @@ So he succeeds for both of you. On a success, the target takes a negative one st
 
 So you guys both have, negatives for will saves for the next round. And he doesn't really have anything they can do with that. Should've should've thought about that before I decided to go go ahead and do that. But he's gonna back on out and he's going to continue his courageous anthem. So Yeah.
 
-Yeah. Yeah. Then the priestess, she is going to, she's going to maintain the darkness and maintain the spiritual weapon. So the spiritual weapon is going to When she maintains it, it's going to continue its attack on Alwar. Hang on.
+Yeah. Yeah. Then the priestess, she is going to, she's going to maintain the darkness and maintain the spiritual weapon. So the spiritual weapon is going to When she maintains it, it's going to continue its attack on Alwor. Hang on.
 
 Hang on. Hang on. Before she rolls. I am going to oh, no. I can't.
 

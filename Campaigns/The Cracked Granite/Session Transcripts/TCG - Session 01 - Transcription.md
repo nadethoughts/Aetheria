@@ -2,22 +2,54 @@
 type: transcript
 campaign: "The Cracked Granite"
 session: "01"
-tags: [type/transcript, campaign/cracked-granite]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/cracked-granite
 ---
 
-# TCG - Session 01 - Transcript
+# The Cracked Granite - Session 01 Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-### Game System: Pathfinder 2e
+> [!abstract] Campaign context
+> The Cracked Granite follows dwarven agents of Ironhold as the kingdom reopens its gates, explores the transformed surface, and confronts the political struggle between expansion and isolation.
 
-| Character | Player | Class (Subclass)               |
-| --------- | ------ | ------------------------------ |
-| Demlor    | Jason  | Kinetisist (Metal Gate)        |
-| Hurgan    | Scott  | Ranger (Flurry)                |
-| Rurik     | Ramsey | Gunslinger (Way of the Sniper) |
+## Characters
+
+> [!note] Game system
+> Pathfinder 2e
+
+| Player | Character | Class | Subclass |
+| --- | --- | --- | --- |
+| Jason | Demlor | Kineticist | Metal Gate |
+| Scott | Hurgan | Ranger | Flurry |
+| Ramsey | Rurik | Gunslinger | Way of the Sniper |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 00 - Transcription|TCG - Session 00 - Transcription]]
+- **Next:** [[Campaigns/The Cracked Granite/Session Transcripts/TCG - Session 02 - Transcription|TCG - Session 02 - Transcription]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Session Play - Part 10]]
+- [[#Closing and Table Discussion - Part 11]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 So, yeah, what what surface creature did you track and defeat after it breached the lower halls? This could be a solo thing that you did, or you could have done it as part of a group. But it was you that were the that were rec that was recognized as the hero of the day. Sure. Sure.
 
@@ -49,7 +81,7 @@ I would say it would be the key because we're all from the same place. Right? Sa
 
 It was the lost key of, what's a cool name? Where are we at? Where's the map? Kinda like that key that, like, lets them into the mountain in the Hobbit, like the lost key of whatever our dwelling is. Does that make sense?
 
-Of iron hold? Iron hold or maybe even Jason and I's clan. Maybe, like Mhmm. Mhmm. Something like that.
+Of Ironhold? Ironhold or maybe even Jason and I's clan. Maybe, like Mhmm. Mhmm. Something like that.
 
 Good one. Yeah. That's brilliant. Okay. What clan are we?
 
@@ -63,7 +95,7 @@ No. All right. So dim, Laura, your question is what expedition did you lead into
 
 I like, what expedition? Yeah. Upon the discovery of, and up to that point, unknown entrance into the underdark, We let yeah. We took in a lovely little, route down in there for exploration and, reconnaissance. Alright.
 
-That led us led us into a little foyer with some orcish type of fellows. And so yeah. I mean, I was just finding out what was down in there, and and it's, it, you know, it would have been a backdoor that we didn't know about. Awesome. So the dwarves found a backdoor to the Underdark, and Demlur led an expedition down there to discover what neighbors you guys had.
+That led us led us into a little foyer with some orcish type of fellows. And so yeah. I mean, I was just finding out what was down in there, and and it's, it, you know, it would have been a backdoor that we didn't know about. Awesome. So the dwarves found a backdoor to the Underdark, and Demlor led an expedition down there to discover what neighbors you guys had.
 
 Awesome. Alright. So now moving on to the political questions. Rurik. What part of the dwarven culture do you think must change and what must never change?
 
@@ -87,9 +119,9 @@ They were priests, essentially, or one of them was, and was, excommunicated for 
 
 You faithless. Right. Right. Gotta find out. You were correct.
 
-Alright. Next up, we got, Scott playing Hergan. I might just start saying Right. I don't know who I am. Used to what their name is.
+Alright. Next up, we got, Scott playing Hurgan. I might just start saying Right. I don't know who I am. Used to what their name is.
 
-Right. Hergan Anderson. You're up. Yeah. Yeah.
+Right. Hurgan Anderson. You're up. Yeah. Yeah.
 
 Yeah. Okay. What law or custom do you quietly disagree with and why haven't you spoken out? Where are we getting these questions? Chris's big bag of random questions.
 
@@ -101,7 +133,9 @@ No. He just he just came in came up with it. So, you it's your it's your opportu
 
 As a matter of fact, I would recommend it. And then, you know, come up with a reason why it's why he hasn't spoken out about it. What plan are we did we grow up under again? Can you just describe that real quick to me? Yeah.
 
-So yeah. So the iron, the iron mark clan are primarily the, are primarily made out of the scouts, rangers, and border wardens. They are a clan that is very utilitarian, and, are often used in in external, in external conflicts. They're the people that are, kind of working the back lines of or working who make it make it into enemy lines and and are and are, more of like, you know, your assassin your assassin style ninja type people, as well as like the explorers who go out and find new places for the dwarven community to colonize and and spread dwarven, spread the dwarven, the dwarven culture. They are different from the black shards, which are the informant spies and covert operatives in that they're, more externally focused, and, the Black Shard are more of an internally focused clan.
+So yeah. So the iron, the iron mark clan are primarily the, are primarily made out of the scouts, rangers, and border wardens. They are a clan that is very utilitarian, and, are often used in in external, in external conflicts. They're the people that are, kind of working the back lines of or working who make it make it into enemy lines and and are and are, more of like, you know, your assassin your assassin style ninja type people, as well as like the explorers who go out and find new places for the dwarven community to colonize and and spread dwarven, spread the dwarven, the dwarven culture.
+
+They are different from the black shards, which are the informant spies and covert operatives in that they're, more externally focused, and, the Black Shard are more of an internally focused clan.
 
 However, you know, obviously, they have spies in other countries and things to it's more of a CIA thing, whereas the iron marker closer to, like, a mil more of a military style thing. Would would rangers are rangers typically married, or can they be married and have kids and stuff? They absolutely I I don't know. Can they? Yeah.
 
@@ -111,7 +145,7 @@ And so I haven't spoken out, or maybe I have to flip that around. Which one did 
 
 Yeah. So it's kinda like one of those things where you're I quietly disagree that, you know, someone can't make their own path. So like that law that you have to do your own or you have to follow in your father's footsteps. And I was either thinking that I didn't wanna follow my father's footsteps or I I'm probably protecting my firstborn son because I know the life outside is harder. Yeah.
 
-No. That's that's perfectly legit. Yeah. I like it. And Jason Demler, why does Demler believe in the clan that the clanless deserve a voice in Ironhold's future?
+No. That's that's perfectly legit. Yeah. I like it. And Jason Demlor, why does Demlor believe in the clan that the clanless deserve a voice in Ironhold's future?
 
 That's a good question. No. That's tasteless. Yeah. Yeah.
 
@@ -123,7 +157,11 @@ I really felt like that's an easy question compared to the other ones. Yeah. Yea
 
 So next up, I have I have some relational questions. I've got I'm I I will give you guys each two, and I'm hoping that you'll kind of work them out together here. So let's go ahead and start off. We'll we'll just continue in the same direction that we have been. So this will go with Rurik, Ambercloak, also known as Ramsey.
 
-Mhmm. First question is what oath did you and Demlur, Jason, swear together before your first mission beyond the gates? Interesting. Good question. Beyond the gates, a Yeah.
+---
+
+### Session Play - Part 2
+
+Mhmm. First question is what oath did you and Demlor, Jason, swear together before your first mission beyond the gates? Interesting. Good question. Beyond the gates, a Yeah.
 
 For a voice missing beyond the gates. Okay. I will just go ahead and post it in the chat. Are you wanting both of us to to answer this, or are you really thinking that Ramsey's going to answer this? I mean, we certainly can cooperate.
 
@@ -147,7 +185,7 @@ As far as drawing blood, that's come to find out a pretty terrible place to do i
 
 Yeah. Wrists are much better. Okay. There's so much more comes out. Her again.
 
-Or Scott. Yours is, what did you and Rurick or Ramsey discover together in the deep tunnels that no one else has seen? Wow. I'm thinking something along the lines of a static goddess that we worshiped that no one has seen for years, but we've all heard the tales or something like that. Okay.
+Or Scott. Yours is, what did you and Rurik or Ramsey discover together in the deep tunnels that no one else has seen? Wow. I'm thinking something along the lines of a static goddess that we worshiped that no one has seen for years, but we've all heard the tales or something like that. Okay.
 
 Queen of old or something. Like, they're divorced even half queens. There's something lost. I don't know. Oh, yeah.
 
@@ -211,7 +249,7 @@ Could could be that maybe Maybe it was a yeah. Maybe it was a goblin force that 
 
 Got it. Like it. Dwarf team six over here. You're right. Yeah.
 
-Do you have a sniper rifle with a silencer on it? No. Very no. Alright. Scott, your your next one is what battle did you and Demler or Jason fight side by side in that forge your bond?
+Do you have a sniper rifle with a silencer on it? No. Very no. Alright. Scott, your your next one is what battle did you and Demlor or Jason fight side by side in that forge your bond?
 
 So we're outside. We'll call it the battle of the drunken cave. Alright. And then we Mhmm. We just Jason and I took on a whole scout team that was half drunk and destroyed them all so they could not report back.
 
@@ -221,13 +259,17 @@ I can You by chance. Who are the ones that we're battling in the other game, lik
 
 Alright. Last one. Daimler. What mission did you and Rurik, Ramsey, complete together that earned you both a commendation from the king? Yeah.
 
-Our initial expedition there where we kinda had our our first, bonding, the the shared oath, that expedition. We went out, during that expedition. The crew that we were with was overrun and outflanked by a a troop of, of orcs. And, Rourke and I were able to sneak through a hole in the line, which allowed us to get in behind and and break some of the, machinations that the orcs were using that were pinning the pinning the whole team down pretty severely. Okay.
+Our initial expedition there where we kinda had our our first, bonding, the the shared oath, that expedition. We went out, during that expedition. The crew that we were with was overrun and outflanked by a a troop of, of orcs. And, Rurik and I were able to sneak through a hole in the line, which allowed us to get in behind and and break some of the, machinations that the orcs were using that were pinning the pinning the whole team down pretty severely. Okay.
 
 And we're able to, break the offense up enough that the rest of the team was able to, get out of that out of that situation. Didn't didn't win the battle, but, would have otherwise been extinguished. The entire team would have been lost. Okay. So you basically saved your platoon by by going, by going maverick a little bit and made it back alive.
 
 And for that honor or for that for that heroic effort, you received a commendation from King Harker. Sounds good to me. Love it. Alright. Well, there we are.
 
 So we have finished character creation. I know it took us a little bit, but, I I I just really wanted us to have built up at least a little bit of an idea about who our character who your characters were before we jumped right into it. So, thank you for humoring me. I think this was a beneficial, exercise. So thanks a lot.
+
+---
+
+### Session Play - Part 3
 
 Yep. Also, just wanted to give you guys at least a little bit of a heads up on all the clickables on the screen here. If you click on the individual individual dwarf pictures that will just produce a larger sized picture of each of your each of your dwarf photos, each of your dwarf pictures. If you click on the names, then that will open up the character sheets of those individual of those dwarves, you all should have you all should be able to see each other's, character sheets. The party opens up the party sheet, like it did with, in the other game.
 
@@ -241,17 +283,19 @@ Those buttons. Quests will open up the quest tracker like it did when the other 
 
 I'm more than open to adding additional buttons or removing some of these things that you just don't find useful. As long as, you know, a majority of the group, you know, agrees in its uselessness or its or its usefulness. So, but more than happy to change the navigation around if if that if that's helpful. Okay. So now let's go ahead and start off.
 
-So so here we here we go. Deep in the heart of the Northern Stonefang Mountains, in the Fortress Of Ironhold, you are a champion among the dwarves. You, a champion among the dwarves, have been summoned. The summons comes quietly, no fanfare, no banners, just a just a sealed scroll and and a time. You are led through the quieter halls of Iron Hold, past forges and council chambers into a part of the mountain few have ever seen.
+So so here we here we go. Deep in the heart of the Northern Stonefang Mountains, in the Fortress Of Ironhold, you are a champion among the dwarves. You, a champion among the dwarves, have been summoned. The summons comes quietly, no fanfare, no banners, just a just a sealed scroll and and a time. You are led through the quieter halls of Ironhold, past forges and council chambers into a part of the mountain few have ever seen.
 
-The stone here is older, darker, carved with runes that predate the current age. In a private chamber, King Harbron deep mantle waits surrounded by a handful of trusted advisors. That is the the meeting room. Within that room, you recognize each of the individuals by site and name. They are very, they they are big, movers and shakers in the in the world, in the world of iron hold.
+The stone here is older, darker, carved with runes that predate the current age. In a private chamber, King Harbron Deepmantle waits surrounded by a handful of trusted advisors. That is the the meeting room. Within that room, you recognize each of the individuals by site and name. They are very, they they are big, movers and shakers in the in the world, in the world of Ironhold.
 
-First off, to King Hargren's right is Belgrin Deepdelve. Belgrin is a, is the king's, Elgarin is the senior scholar of Ironhold and advisor to the king. He has shown himself to be nothing but loyal to the king and his interests. Next to him is Bromley storm Bromley storm guard. I will eventually be able to say words.
+First off, to King Hargrin's right is Baelgrin Deepdelve. Baelgrin is a, is the king's, Elgarin is the senior scholar of Ironhold and advisor to the king. He has shown himself to be nothing but loyal to the king and his interests. Next to him is Bramli storm Bramli storm guard. I will eventually be able to say words.
 
-Bromley is the defender of the throne and commander of the king's shield. He is a he is well known within military circles as one of the best champions in the, in in Iron Hold. On the other side of the table is Varic Silver Vein. You're actually somewhat confused to see you very in this, in this space as he has not necessarily been the, most supportive of King Hargren's, royal subjects. He is next in line for the for the throne and is, and while he does, he does he always does the quote unquote right thing, Sometimes there's a little bit of a sometimes there's there are rumors of of him taking taking shots at the king when the king isn't when the king isn't looking kind of thing.
+Bramli is the defender of the throne and commander of the king's shield. He is a he is well known within military circles as one of the best champions in the, in in Ironhold. On the other side of the table is Varic Silver Vein. You're actually somewhat confused to see you very in this, in this space as he has not necessarily been the, most supportive of King Hargrin's, royal subjects. He is next in line for the for the throne and is, and while he does, he does he always does the quote unquote right thing, Sometimes there's a little bit of a sometimes there's there are rumors of of him taking taking shots at the king when the king isn't when the king isn't looking kind of thing.
 
 Nothing nothing has straight up manifested from it. However, he is, he's definitely not considered to be one of King Hargrean's or King Deepmantle's, most loyal. And next to him is, is Maehla Blackshard. She may not look like much, but she is the is one of the, elders of the, Blackshard, clan, which is and the chief spymaster to the king. And then there's, of course, King Hargreht himself.
 
-He's a wise, old dwarf who has seen many years and many battles. It was his decisive thinking and his decisive action that saved all of iron hold from the flaming retribution and sealing the mountain and waiting out the waiting out the era. In more recent days, he has been seeking to see the see the surface and see what is, see what is left of the world of of a theory after the flaming retribution. He has since he he has started to send out colonies and, and explorers, and, and again, this is something that some of Ironhold likes, some of Ironhold does not like. There are some that believe that the surface is cursed and do not wish to return to it, while others wish to see what kind of, what situation the surface is in and, how dwarven culture and dwarven, heritage, can help the help the world now.
+He's a wise, old dwarf who has seen many years and many battles. It was his decisive thinking and his decisive action that saved all of Ironhold from the flaming retribution and sealing the mountain and waiting out the waiting out the era. In more recent days, he has been seeking to see the see the surface and see what is, see what is left of the world of of a theory after the flaming retribution. He has since he he has started to send out colonies and, and explorers, and, and again, this is something that some of Ironhold likes, some of Ironhold does not like.
+
+There are some that believe that the surface is cursed and do not wish to return to it, while others wish to see what kind of, what situation the surface is in and, how dwarven culture and dwarven, heritage, can help the help the world now.
 
 So as you come in, as you walk in, you're escorted in individually. You all come from different places and are escorted in separately. As you walk into that room with all five of those, dwarves that are known throughout the city, you find yourself looking at, looking at each other as well. Is there any specific, physical descriptions that you guys want to give, any more than just the images that are on the screen? So it's just random day.
 
@@ -263,19 +307,19 @@ Right. Right. Right. Who hold sessions in these hours? Yeah.
 
 Yeah. Yeah. Alright. Also, something I think you both of you would know, since, we have Ben on mission together is one of Rurik's items, allows him to essentially walk around seemingly unarmed and although he is basically always armed and armored. And so he just looks like he's in some street clothes, and probably some actual street street clothes.
 
-Okay. Perfect. So, Demler, what is your general disposition? How are you coming into how are you coming into this this meeting? I'm assuming based on our history, commendations from the king, that I've I have been in these parts before.
+Okay. Perfect. So, Demlor, what is your general disposition? How are you coming into how are you coming into this this meeting? I'm assuming based on our history, commendations from the king, that I've I have been in these parts before.
 
-So it's not like I'm unfamiliar with the the surroundings of the environment. Otherwise, a little off put by the suddenness and apparent secrecy of the the summons and all that good jazz. There's a certain level of discomfort, I guess. And, so, you know, fairly somber face until I see Rurik stumble in, and then you'll see Dimler give a good little chuckle and, None of the, what might be typical floating iron, none of none of those immaterial substances. Nothing, you know, on display there at all.
+So it's not like I'm unfamiliar with the the surroundings of the environment. Otherwise, a little off put by the suddenness and apparent secrecy of the the summons and all that good jazz. There's a certain level of discomfort, I guess. And, so, you know, fairly somber face until I see Rurik stumble in, and then you'll see Demlor give a good little chuckle and, None of the, what might be typical floating iron, none of none of those immaterial substances. Nothing, you know, on display there at all.
 
 Okay. So just, Alright. Trying to keep the tears from staining my eyeballs and cheeks Okay. As it appears on crying through cat claws. Alright.
 
-And, Hurgen, how do you contact yourself in as you walk through the door? I'm pretty stoic, I imagine. Honor the king with the head head bow. Was it the queen that was there too? Who's the lady again?
+And, Hurgan, how do you contact yourself in as you walk through the door? I'm pretty stoic, I imagine. Honor the king with the head head bow. Was it the queen that was there too? Who's the lady again?
 
 I So she's the spy pictures. The spy master? Okay. Oh, this is Honor the king. Spell.
 
 Black there? Okay. Him leery eye, if you Okay. Can you hear me? But honor and stand there and kind of and say shield Rurik, but kinda stand in front of the king's view to him, I guess, to to shield him and maybe prop him up a little bit.
 
-You just to make sure that he doesn't look too completely drunk. Right. It'll make it harder to see when he falls over because he passed out. After after Hargan walks through the door and does does what he does, the king stands to his feet and the rest of the, the rest of the council stands with him. And he says, Demlure, Rurik, and her again, I'm glad that I I'm glad to see you again.
+You just to make sure that he doesn't look too completely drunk. Right. It'll make it harder to see when he falls over because he passed out. After after Hargan walks through the door and does does what he does, the king stands to his feet and the rest of the, the rest of the council stands with him. And he says, Demlor, Rurik, and her again, I'm glad that I I'm glad to see you again.
 
 Please have a seat. And he motions to three open chairs at the table. And then yep. Yep. Just sit down.
 
@@ -287,11 +331,15 @@ Right. Right. Yes. Fair enough. Good.
 
 Yeah. But he's but it's just kind of like one of those one of those like you like a a grandfather just, you know, smiling at smiling at his grandson sort of thing. It's just like, yeah, this guy. And he says, I I welcome you again, and I thank you for coming at short at such short notice. I'm calling you I called you into these secret chambers because there is something that I need and I need it to be secret.
 
-As you know, we have two we have dwarves of two different minds in Ironhold. We have the, isolationists and the expansionists. As you know, I have been employ I've been sending colonies out into the surface world to go find places, reestablish dwarven dwarven, culture and and bring, and bring some or bring some order to the chaos. One of one such place was the colony of, was the colony of Dagger's Sheath. And he pulls out and he motions to the map in the in the center, and, you see the iron hold in there.
+---
+
+### Session Play - Part 4
+
+As you know, we have two we have dwarves of two different minds in Ironhold. We have the, isolationists and the expansionists. As you know, I have been employ I've been sending colonies out into the surface world to go find places, reestablish dwarven dwarven, culture and and bring, and bring some or bring some order to the chaos. One of one such place was the colony of, was the colony of Dagger's Sheath. And he pulls out and he motions to the map in the in the center, and, you see the Ironhold in there.
 
 And then he points to the south along the, along the stone, the Stonefang Mountains. And a distance down there, there's a, another town or spot in the map labeled Dagger Sheath. He says, this was one of our oldest colonies, one of the first to go out. They have not sent they they have not given us a check-in in over a month, which is not common for them. My, my hope is to discover what has happened to Dagger Sheath Now I can't send an army down there.
 
-I can't send a contingent. I can't be open about it because if any wind of anything going awry came out about the colonization project, then that would give far too much credence to the isolationist faction. So as each of you has proven yourself to me personally, and to the greater, the greater group, the greater iron hold itself. It was my hope that you would do me this favor and go down to Dagger Sheath and determine what, if anything, has happened to them and where, and what and if there is and if something has happened to tell to determine what to determine what did it. As far as I know from the last communications that we we have from them, there was nothing awry.
+I can't send a contingent. I can't be open about it because if any wind of anything going awry came out about the colonization project, then that would give far too much credence to the isolationist faction. So as each of you has proven yourself to me personally, and to the greater, the greater group, the greater Ironhold itself. It was my hope that you would do me this favor and go down to Dagger Sheath and determine what, if anything, has happened to them and where, and what and if there is and if something has happened to tell to determine what to determine what did it. As far as I know from the last communications that we we have from them, there was nothing awry.
 
 They were, they were a small mining village that that had been building that had been building some iron mines into the mountains, refurbishing some older mines that were already present. No, no problems as far as I could tell. Uh-huh. So that is, that was their last report. So before I give any more information, my first question must be must be, answered.
 
@@ -301,7 +349,7 @@ And he's, like, been making this little, like, figure, little dwarf looking figu
 
 Ah. Any boon with a thinner reason, my friend. There's a, there's a lot that I can reason, regardless, Like kind of a little bit of elbow in the arm. Like quick, Jack. I, I kinda look at my my two other companions, kinda see where where where they're thinking.
 
-But Rourke will say, oh, I don't I don't like the outside much, but if, if some dwarves in trouble, I I'll I'll go. Yeah. I think I would stand up and kinda whatever the or not say whatever the king wishes, but, you know, maybe say as the king wishes or something like that. Okay. So, you know, just truly showing yourself as a king's man right there.
+But Rurik will say, oh, I don't I don't like the outside much, but if, if some dwarves in trouble, I I'll I'll go. Yeah. I think I would stand up and kinda whatever the or not say whatever the king wishes, but, you know, maybe say as the king wishes or something like that. Okay. So, you know, just truly showing yourself as a king's man right there.
 
 Right? Yep. That kind of thing. I'm trying to say as little as Awesome. Possible.
 
@@ -313,7 +361,7 @@ However, unlike your characters in, unlike your characters to the south, you act
 
 Madam Black Shard, have you any further information that could be of value? We have not heard, of anything in that direction. However, to the north, we have button rumblings of some caves, some cave entrances that were, one size when passed and then quite a different size when returned. Not sure if that has anything to do with this. Our eyes and ears are not as readily available outside of Ironhold as they once were, but, we are definitely looking, to get some forward information from you should you, should you find it.
 
-And to that end, she pulls out a what looks to be a piece of parchment paper. And she gives that to probably Hargren, And she said and what you receive, so you can go ahead and drag and drop that parchment of direct message that is in the, in the chat. Pull that onto your character sheet. She hands that over to you and says, this is a way to be able to keep us informed as far as what you find as you're navigating the navigating the wilds. And naturally, as we discover more on our end, we will be more than happy to share what information we can that would be pertinent to your quest.
+And to that end, she pulls out a what looks to be a piece of parchment paper. And she gives that to probably Hargrin, And she said and what you receive, so you can go ahead and drag and drop that parchment of direct message that is in the, in the chat. Pull that onto your character sheet. She hands that over to you and says, this is a way to be able to keep us informed as far as what you find as you're navigating the navigating the wilds. And naturally, as we discover more on our end, we will be more than happy to share what information we can that would be pertinent to your quest.
 
 Hey, Chris. Is there a way to pull up all those pictures that you put up? That's always a question I've had. After you close them, is there a way to get back to them for us? Well, the best way to do that would be to go back to the, go back to the cracked granite landing screen and click on NPCs.
 
@@ -321,9 +369,9 @@ And in in there, there will you'll have the pictures and, brief description of o
 
 But, from what we can tell, the, the road to Dagger Sheath, we have not had any such issue, and the road itself appears to be relatively safe or as safe as roads can be these days. So I do not expect that you will run into any problems along the way, but, it's never a bad idea to be cautious as you travel. Don't you worry about that. I kinda elbow dem lore a little bit. He's good at penetrating all kinds of sheaths.
 
-He chuckles Yep. And grimaces. Wish that wasn't public information. No, man. Varrick also kind of pipes up at this point and says, after after a, after an inappropriate polite laugh from the, from from the the from the dwarven, nobles.
+He chuckles Yep. And grimaces. Wish that wasn't public information. No, man. Varric also kind of pipes up at this point and says, after after a, after an inappropriate polite laugh from the, from from the the from the dwarven, nobles.
 
-It's not it's not like, you know, it's a polite, you know, I'm expected to laugh at this, so I'm going to laugh sort of thing. They, Varrick said Veric says, this village is vitally important to our security. It's what holds our southern border and keeps it and keeps it safe from the wilds of of of Solaris. They have kept us they they have kept us safe for the past year. They have had they have fought many a beast and have tamed that portion of, that portion of the Iron Hold, of the Iron Hold territory, and we cannot lose them.
+It's not it's not like, you know, it's a polite, you know, I'm expected to laugh at this, so I'm going to laugh sort of thing. They, Varric said Varric says, this village is vitally important to our security. It's what holds our southern border and keeps it and keeps it safe from the wilds of of of Solaris. They have kept us they they have kept us safe for the past year. They have had they have fought many a beast and have tamed that portion of, that portion of the Ironhold, of the Ironhold territory, and we cannot lose them.
 
 We cannot lose that security. We will be left we will be quite literally caught with our pants down should anything choose to choose to attack us from that in from from the South. And it is more likely that there would be any there would be problems with the, it's more likely that, you know, we would that there are more enemies in the South than the North as there isn't much north of us. So I would encourage you to speed along your way to find what has happened to this place. As, as as he's talking, when he when he says, caught literally with our pants down, I kinda, like, lean over to to her again and say, nah.
 
@@ -331,11 +379,15 @@ Now they're just making it too easy for me. And as he and as he finishes and and
 
 Yeah. I look around. I go. I might jump in the gun a little bit. Well, you might be or you might not.
 
-What Perkin and Demler, what are you guys doing at this point? What just happened? I lost pretty much everything. Oh, refresh. Yeah.
+What Perkin and Demlor, what are you guys doing at this point? What just happened? I lost pretty much everything. Oh, refresh. Yeah.
 
 I should do that. Yeah. I I just I just moved you guys back to the for some reason the for some reason the, I don't know why, but the map scene just kinda causes a big snafu when you move back from it. Oh, yeah. There we are.
 
 Cool. I I did grab the parchment of direct message. Okay. If nobody else did. I did too.
+
+---
+
+### Session Play - Part 5
 
 Yeah. I thought I was supposed to. Perfect. Either one of you is perfectly fine. It's basically the partial direct message allows you to send a short message to the person who has the partner piece of it.
 
@@ -351,15 +403,15 @@ Yeah. I think I'm ready to go, but just, you know, wondering who was talking bef
 
 Blah. That was that was very, silver vein. The ambitious the ambitious second in line noble to be king. Yep. Are we used to taking orders from him?
 
-Because I'm used to taking orders from the king, so I'm questioning in this a little bit. What does he know that we don't You Yeah. You are used to taking orders from the king. You don't usually you aren't usually in the same sphere as Varrick. Varrick has a very different crowd that he, that he interacts with.
+Because I'm used to taking orders from the king, so I'm questioning in this a little bit. What does he know that we don't You Yeah. You are used to taking orders from the king. You don't usually you aren't usually in the same sphere as Varric. Varric has a very different crowd that he, that he interacts with.
 
-So you don't really know him all that well. You you usually interact with with King Hargren or King Deep Mantle, I should say. So I guess in that sense, I would step in, look at the king in the eye, and say as the king wishes, and make sure he still wishes it. So okay. So you look pointedly at the king and after he gives his whole spiel, you look pointy pointedly at the king and say and say as the king wishes to which, those of you that are paying attention, Varric gets a little flustered by this, but the king steady as always, looks you directly in the eye and says, that is my wish.
+So you don't really know him all that well. You you usually interact with with King Hargrin or King Deepmantle, I should say. So I guess in that sense, I would step in, look at the king in the eye, and say as the king wishes, and make sure he still wishes it. So okay. So you look pointedly at the king and after he gives his whole spiel, you look pointy pointedly at the king and say and say as the king wishes to which, those of you that are paying attention, Varric gets a little flustered by this, but the king steady as always, looks you directly in the eye and says, that is my wish.
 
 Go and, and, be as fast as Quicksilver. Stands gives a short bow. Alright. So you guys all exclude all excuse yourself from the, from from the chamber, you start walking back, you are escorted by guards as this is more of a super secret space. So they don't let people just walk around.
 
-As you are leaving, after a few minutes of go of navigating through some some hallways and and that kind of stuff, you find yourself, face to face with Bramley Stone Guard, the only person in the, in the chamber that did not speak. He looks at the three of you and says, I have a word of caution for you. The king does not suspect, but his his counselors have been compromised. His councils have been, they they've given ill information. I would strongly recommend that you be on your guard as you go on this on this quest.
+As you are leaving, after a few minutes of go of navigating through some some hallways and and that kind of stuff, you find yourself, face to face with Bramli Stone Guard, the only person in the, in the chamber that did not speak. He looks at the three of you and says, I have a word of caution for you. The king does not suspect, but his his counselors have been compromised. His councils have been, they they've given ill information. I would strongly recommend that you be on your guard as you go on this on this quest.
 
-It may not be at what you think, may not be what the king thinks. I don't know what it would be, but I do know that the court is not as safe for a deep mantle as it once was. Be careful. That's appreciated. And with that, he, you know, kind of waves you on, with that cryptic warning.
+It may not be at what you think, may not be what the king thinks. I don't know what it would be, but I do know that the court is not as safe for a Deepmantle as it once was. Be careful. That's appreciated. And with that, he, you know, kind of waves you on, with that cryptic warning.
 
 Sir Yes. Eric seemed rather anxious for our departure. Yes. That was noted. I fear that I'm concerned that that might have implication for the king.
 
@@ -415,6 +467,10 @@ Alright. Cool. Cool. Cool. Alright.
 
 So you guys go back, take care take care of your stuff at your houses and and, you know, have your have your last meal, pack up on protein bars and and, and and, beef sticks, maybe maybe a few quest bars in there and, that kind of stuff and, some some granola, you know, all the good stuff. And then you all, meet at the gates of Ironhold, at 12:01, to leave in the dead of night. The next week goes by pretty, pretty uneventfully. Outside of a few, outside of a few encounters with, a couple of a couple of, wildlife situations, you know, mountain lions, that kind of stuff, which generally you were able to kind of scare them off and that kind of thing. Nothing really ever came to blows.
 
+---
+
+### Session Play - Part 6
+
 You do make it to make it to Dagger's Sheath, in a little under a week's time as you were doing more of a forced march, with your animals. You were you were restricted by what your animals could handle, but you definitely were able to get through there, a lot quicker. Let me see. So after a little under a week's travel, through the mountain passes and silent valleys you crest the final ridge Below the colony of Dagger Sheath lies in ruins buildings shattered stonework scorched and no signs of life. The air is thick with ash and silence.
 
 The only sounds are wind and the creak of broken timber. What do you do? That's encouraging. Panic and run. It's the only sensible thing to do.
@@ -429,9 +485,9 @@ Although there is kind of an evidence of burning. But So there is ashes, you sai
 
 Mhmm. You're wanting to Yeah. What happened? Do some investigation, looking for tracks and that kind of a thing. So in order to be able to do that, again, I need a survival role from you.
 
-Rurik, what what are you going to be doing while he's poking around for tracks? That is a good question. What is Rurik gonna be doing? I think Veric is gonna do what Veric does best. Find a good, excuse me, find a good place, to, both hide and to keep a lookout.
+Rurik, what what are you going to be doing while he's poking around for tracks? That is a good question. What is Rurik gonna be doing? I think Varric is gonna do what Varric does best. Find a good, excuse me, find a good place, to, both hide and to keep a lookout.
 
-Okay. So go ahead and roll me a stealth and then a, and then a perception. Awesome. And, Demalore, what are you doing? What Video.
+Okay. So go ahead and roll me a stealth and then a, and then a perception. Awesome. And, Demlor, what are you doing? What Video.
 
 Does what what does nature as a core skill do? Nature is specifically more of a, it's a knowledge skill sort of thing. So it's kind of the it's the classic thing between D and D survival and nature. Survival is like street smarts of of the woods, and nature is book smarts of the woods. Okay.
 
@@ -447,7 +503,7 @@ So that's the one I would be rolling. Right. And it's all set up. I just roll it
 
 Oh. That's like Look at you guys. The highest rolls ever. Maybe the highest roll ever. Maybe you should just stop playing stop playing sorcerers because that's what's screwing you up.
 
-Oh, boy. Alright. I have a beef against sorcerers. That's that's it. So, Hergan, you are looking around trying to see if you can locate some tracks and things.
+Oh, boy. Alright. I have a beef against sorcerers. That's that's it. So, Hurgan, you are looking around trying to see if you can locate some tracks and things.
 
 You don't, so you don't you aren't able to really track anything, but you do definitely notice that there are some tracks that are, hanging around inside the actual dwarven village itself. The reason why you notice these tracks over any other tracks is the sheer size of them. These tracks are easily the size of a full dwarf, lying down on the ground. So you you, like, you you're not able to figure out where they're going, where they're coming from, but you'll but you're kinda like looking around and that kind of thing, and it's just like huge footprint kind of thing. Just a dwarves, though.
 
@@ -459,7 +515,7 @@ You know? It's like there there there are some really big footprints in there. R
 
 The village itself seems pretty, pretty tame. Or not tame, but, like, quiet. You do kind of notice as you're looking, it's like it's the the wildlife doesn't appear to be as readily available here as it typically is elsewhere. So it is like while it is quiet, it's almost like a little bit too quiet. It's not like there's no nature sounds.
 
-It's just it's not as vibrant as what as as what you were what you've been used to just traveling over the past week. And Demler. So some of the things that you noticed just investigating the town and looking around, is that the dwarves, is that the, the village itself, there are bodies here, but there aren't as many bodies as you would expect. There are definitely, like, dwarf, they're definitely dwarf soldiers that were killed in very grotesque ways. In a lot of in a lot of cases, like, just kinda looking at them, it seems like they were just kinda squished kinda thing.
+It's just it's not as vibrant as what as as what you were what you've been used to just traveling over the past week. And Demlor. So some of the things that you noticed just investigating the town and looking around, is that the dwarves, is that the, the village itself, there are bodies here, but there aren't as many bodies as you would expect. There are definitely, like, dwarf, they're definitely dwarf soldiers that were killed in very grotesque ways. In a lot of in a lot of cases, like, just kinda looking at them, it seems like they were just kinda squished kinda thing.
 
 In in like, basically, like, the their, like, their their heavy armor basically just compacted in on their on on them and basically just kinda, like, yeah. Just kinda like s sardine can, like just kinda squeezed squeezed in. So you've you see that, you see a few a few of them kind of, you know, cut in half and that kind of stuff. Really grotesque, style things. Like, nobody's just like dead with like a an an arrow in their in their neck.
 
@@ -491,11 +547,15 @@ There we go. Alright. Just just Jason? Alright. Yeah.
 
 Just Jason at this point. I have all kinds of questions. He rolled so high yeah. Because he rolled so high on his perception check, he, you know, he got the opportunity to do this. So okay.
 
+---
+
+### Session Play - Part 7
+
 So going by what you have here. Okay. What you've seen with how these dwarves were beaut were brutalized. What was pointed out to you from Hurgan with, like, these jute with these, like, large footprints. And, and the stories that you've heard, the ancient stories that you've heard.
 
 There's something out of a legend that is that is, that is the only explanation as to what happened here. And you all and it almost seems crazy because these creatures have been extinct for over a thousand years. But the only explanation is that the is that this town was attacked by giants. They've been extinct for a thousand years. Right.
 
-The dwarven the the pre the Iron Hold had a had a had a, had what was referred to as the Giant Wars. And in that time, as anybody who grew up in Ironhold knows, during that time, the giants were a very brutal and and, desperate race. The giant tribes looked to, take over the dwarven territory, but the dwarves fought hard and were able to not only push the giants back, but because of the brutality of the giants and their relentless assaults, the only answer that the dwarves had had to come to was destroying the entire, destroying the entire race. Because if they didn't they would just keep coming back. And that was what you were taught.
+The dwarven the the pre the Ironhold had a had a had a, had what was referred to as the Giant Wars. And in that time, as anybody who grew up in Ironhold knows, during that time, the giants were a very brutal and and, desperate race. The giant tribes looked to, take over the dwarven territory, but the dwarves fought hard and were able to not only push the giants back, but because of the brutality of the giants and their relentless assaults, the only answer that the dwarves had had to come to was destroying the entire, destroying the entire race. Because if they didn't they would just keep coming back. And that was what you were taught.
 
 So according to you, giants no longer exist. But what you're looking at right now looks like you may have been mistaken. Looks like you'd be like we've been mistaken. Could these be the stone giants? K.
 
@@ -507,13 +567,13 @@ Maybe he is a stone guy. Maybe he is a stone guy. Alright. But that's what you'r
 
 And, yeah, I'm just I just kinda keep saying a little bit. It can't be. Looks it looks like giants. It looks like giants. And you can just tell he's, like, trying to process that and and deal with the cognitive dissonance that that is is creating.
 
-Alright. And, any Hurgen, do you have any response to I would just keep saying it can't be, but nothing else makes sense. Alright. As you guys are as you guys are doing your investigating and different different things here, work as the person with with kind of like the overarching view of the, of the the the Overwatch position. I have to step aside for a second and make sure my kids are doing good with getting in bed and all that jazz.
+Alright. And, any Hurgan, do you have any response to I would just keep saying it can't be, but nothing else makes sense. Alright. As you guys are as you guys are doing your investigating and different different things here, work as the person with with kind of like the overarching view of the, of the the the Overwatch position. I have to step aside for a second and make sure my kids are doing good with getting in bed and all that jazz.
 
 So Uh-huh. Okay. Five minutes out. You guys do your thing. Uh-huh.
 
 Fair. You notice, in the distance towards the mines, you see some what looks to be kind of like some fresh smoke billowing out. As you sift through the ruins a faint sound also echoes from the direction of the mines, you hear a monstrous skittering noise as well as seeing the smoke. Well, I don't, I don't know nothing about no giants, but there's something in the mind, and it ain't happy. I'll I'll call out to my companions.
 
-I think it's maybe coming this way. Alright. Ergen, you you get that call from Rurik. And, what what is your response? I would probably grab Demlar, do an athletics check, and get behind the pillar.
+I think it's maybe coming this way. Alright. Ergen, you you get that call from Rurik. And, what what is your response? I would probably grab Demlor, do an athletics check, and get behind the pillar.
 
 Alright. As we try to get closer and closer with Rurik as kind of our bird's eye view. Alright. So you grab Move from pillar to pillar. I think I'm seeing, like, pillars and things.
 
@@ -573,6 +633,10 @@ So I thought you used to right click with it. Yeah. I thought that as well. I'm 
 
 Okay. But okay. So you guys start approaching you guys approach the you guys approach the, the mine. And the first thing that you notice as you're approaching it and you are coming in very quietly, is that the gates to the mind are, like, there is basically golden gate or not golden gates, wooden gates that open up to a larger quarry area that actually then goes down into a mine. And those gates are completely are completely burned, like they're burned down.
 
+---
+
+### Session Play - Part 8
+
 There are, and there are a few, there there are some rock ledges. And on top of those ledges, there are buildings that through that the dwarves build is kind of like a watchtower sort of things. Those things are completely intact, but the gates themselves are just completely decimated, and burned by fire. You don't really notice a whole lot as you're approaching, but as you get closer, you do you do actually pick up what's causing those monstrous skittering sounds. And you see that there is at least one creature that is scurrying around the inside of this mine, or the inside of this quarry, which is the entrance to the mines, and it's looks like a giant rat that is either on fire or made of fire or something's going on.
 
 It looks like it's kinda like its skin is almost like cooled molten cooled lava and underneath it is like molten lava. This is the creature that you see. Excellent. And it's giant. By giant, you mean like dog sized, like horse sized, like elephant sized?
@@ -611,7 +675,7 @@ But you see them just kind of flash by the gate every now and then. You know? Ok
 
 Oh. Well, you can. How far away can you shoot? 50. 50.
 
-Alright. So I won't unilaterally do that, but I definitely, like I take out my gun, and you see, Rurick. So, again, because of the ring, like, it kind of looks like he, like, reaches behind him and pulls out of nothing like this the shotgun. And I take and I load, load it with a, a really odd looking shell. It it looks like it's, like, inside of the, like, what's a normal looking shell.
+Alright. So I won't unilaterally do that, but I definitely, like I take out my gun, and you see, Rurik. So, again, because of the ring, like, it kind of looks like he, like, reaches behind him and pulls out of nothing like this the shotgun. And I take and I load, load it with a, a really odd looking shell. It it looks like it's, like, inside of the, like, what's a normal looking shell.
 
 It looks like there's some kind of it's translucent, and there's some kind of, like, bluish liquid in there. When I put it in and cock it to ready it, look at the look at my other two guys like we do with this. I would begin to channel elements, maybe. Is this a good time to do that? Is that the right am I doing the right thing?
 
@@ -669,7 +733,11 @@ So these Cinder Rats are, like, they're like I said, they're surrounded by a by 
 
 Sometimes you miss your DC five lap check. So I should end up miss it. Oh. But that does initiate everything here. So, let us begin.
 
-Demlour, you are up. I would probably, you know, go in with, I don't know what all of these Yeah. The basic analysis doesn't do me anything at the moment. We did the channels. We're good there.
+Demlor, you are up. I would probably, you know, go in with, I don't know what all of these Yeah. The basic analysis doesn't do me anything at the moment. We did the channels. We're good there.
+
+---
+
+### Session Play - Part 9
 
 Yep. I mean, typically, you you could always open with an elemental blast. That is that is one of your blood bread and butter moves. Mhmm. You you could you could try and do one of your other special moves, but either way.
 
@@ -711,7 +779,7 @@ I don't do any damage. Well When you hit. One one slash if. Yeah. Okay.
 
 So if I had chosen the one action, then I could attack two times. Right. But every hit deals less damage. Absolutely no sense, but perfect. Okay.
 
-Alright. Well, Hurgen, you're up. How would you like to miss this one, Hurgen? Hopefully, one of you will hit something. Oh.
+Alright. Well, Hurgan, you're up. How would you like to miss this one, Hurgan? Hopefully, one of you will hit something. Oh.
 
 So if I go all the way up to this guy, that's two actions because he's 30 feet away. Right. I cannot and I don't know how to play this guy yet. When I go to hit, I can only use one of my weapons. Right?
 
@@ -745,7 +813,7 @@ Oh, live snaps are good. And we'll hold a one. Oof. So it it takes a bite out of
 
 Watch out for their bite. Alright. Rurik, you're up. You do not currently have a clear land site. I surely do not.
 
-Alright. Well, we are gonna waddle ourselves till we have a clear line of sight. We're gonna move up here behind Demalore. Actually, are we? Hang on.
+Alright. Well, we are gonna waddle ourselves till we have a clear line of sight. We're gonna move up here behind Demlor. Actually, are we? Hang on.
 
 Let me rethink that. Wait. Dang it. Can I just cancel? Go back somehow because it's calculating all my movement I've made so far.
 
@@ -787,6 +855,10 @@ Excellent. That's me. That was that was a good that was a good hit. Alright. And
 
 Not to that. Alright. I gotta tackle it off. That's fine. So it took, like, six points of damage there.
 
+---
+
+### Session Play - Part 10
+
 Is that what I'm seeing? 17. No. It took it took 20 damage, plus there was one damage from splash damage, plus there was another six damage from other splash damage. Oh, there's 20.
 
 Okay. Because no. Because there was, yeah, because it it was weak to cold. Yeah. Yeah.
@@ -801,7 +873,7 @@ Blah blah blah blah blah. He will. Yep. He will. Feeling seven points of damage 
 
 Oh, one bite. Yes. He's going to deal five more points of damage. Look at you. Yeah.
 
-Move on. Top of the round, Demlar, you're up. Now something that I don't know if you remember, but you are an elemental dwarf yourself. Mhmm. Mhmm.
+Move on. Top of the round, Demlor, you're up. Now something that I don't know if you remember, but you are an elemental dwarf yourself. Mhmm. Mhmm.
 
 And you do have a energy emanation that you can do once a day. Mhmm. That energy emanation Mhmm. Is cold. Mhmm.
 
@@ -855,9 +927,9 @@ Okay. Sounds good. No. It's nothing compared to your 20 damage. Oh, my gosh.
 
 Cool. Cool. Damage. Yeah. Alright.
 
-So good for that. And, Demlaur, you did take one point of damage from the persistent fire damage at the end of your turn. So That's cool. It does all that automatically. Yeah.
+So good for that. And, Demlor, you did take one point of damage from the persistent fire damage at the end of your turn. So That's cool. It does all that automatically. Yeah.
 
-And, yeah, and you tried to recover, but were unable to do that. So alright. Hergen, you are up. Move up. Are you going to, hunters mark this guy, or or was it favorite foe?
+And, yeah, and you tried to recover, but were unable to do that. So alright. Hurgan, you are up. Move up. Are you going to, hunters mark this guy, or or was it favorite foe?
 
 No. That those are different. Prey. Hunters prey. Or you're just gonna whack it because, I mean, it's Yeah.
 
@@ -915,11 +987,15 @@ Yeah. Yeah. They're both not doing great. Oh, yeah. Yeah.
 
 That's splendid. Alright. That's, that's me. Alright. Okay.
 
-So we've got this guy, he's going to get him. He's going to continue to try and munch and crunch on the current, on Person. Similar dealing six points of damage and Demlar is back on being on fire again. He's going to move over to are not on fire. Think I stopped being on fire.
+So we've got this guy, he's going to get him. He's going to continue to try and munch and crunch on the current, on Person. Similar dealing six points of damage and Demlor is back on being on fire again. He's going to move over to are not on fire. Think I stopped being on fire.
 
-You did. No. Maybe you didn't. I don't know. I think it was Horgan.
+---
 
-You're just more on fire. Yeah. Yeah. I'm just firing some more. This guy scurries over to Hurgen and misses him.
+### Closing and Table Discussion - Part 11
+
+You did. No. Maybe you didn't. I don't know. I think it was Hurgan.
+
+You're just more on fire. Yeah. Yeah. I'm just firing some more. This guy scurries over to Hurgan and misses him.
 
 Yeah. And then freezes to death. That succumbs to his cold. Excellent. His his care his, his cooling lava skin just starts just becomes extremely crusty and it turns into a statue of, a statue of of obsidian.
 
@@ -969,7 +1045,9 @@ So you don't actually do more damage. You have the potential to do more damage. 
 
 Yeah. It depends on the weapon. I can look at it next time because I know it's late. Your dwarven war axe, well, this is easy enough for me to just do right now. Damage with your dwarven war axe with one hand is a d eight plus four.
 
-If you change your grip to plus is a d12 plus four. So not too shabby but you but you don't get the whirlwind thing, so you don't get like all of the all of the extra attacks and that kind of stuff. So, in general Flurry Ranger is better dual wielding, but you but there are definitely times where maybe it might make sense to do two handed but, okay, so we are going to also in this game, I'm not going to be assigning XP per fight, I'm just gonna be giving XP at the end of the session. So for all that you guys were able to accomplish this, tonight, you all gain, for going in, taking care taking care accepting the accepting the offer, going through and investigating and finding and and discovering the presence of giant footprints and that kind of stuff, you all receive 500 XP for the session tonight. Yes.
+If you change your grip to plus is a d12 plus four. So not too shabby but you but you don't get the whirlwind thing, so you don't get like all of the all of the extra attacks and that kind of stuff. So, in general Flurry Ranger is better dual wielding, but you but there are definitely times where maybe it might make sense to do two handed but, okay, so we are going to also in this game, I'm not going to be assigning XP per fight, I'm just gonna be giving XP at the end of the session.
+
+So for all that you guys were able to accomplish this, tonight, you all gain, for going in, taking care taking care accepting the accepting the offer, going through and investigating and finding and and discovering the presence of giant footprints and that kind of stuff, you all receive 500 XP for the session tonight. Yes.
 
 So before, before I let you guys go, I do want to give you a little follow-up. As you guys as you're finishing up tonight or you're finishing up the the rats, you're pulling your weapons out of the out of the crumbles, and your adrenaline begins to lower, you start to and you start to take the you start to try to recover from the combat, you hear something coming from the mines, voices guttural and harsh, not dwarven suddenly the ground trembles and they're getting closer You hear, I not know where it go, this cave too small. Yeah, why stumpy's make things so small? Quiet fools, your masters and mine will not be pleased unless we find the creature. We need to find a different exit.
 
@@ -1000,3 +1078,9 @@ Alright. Sounds good. I'm awful off. Thanks, Chris. Yeah.
 Good to see you guys. See you next time. See you later. Yeah. Chris, can can I get myself off fire?
 
 Oh, yeah. I can do that for you. I don't know what I have to do. Second.
+
+---
+
+## Related Notes
+
+- [[Campaigns/The Cracked Granite/Session Notes/Session 01 Planning|Session 01 planning]]

@@ -3,21 +3,46 @@ type: transcript
 campaign: "Crown of the Immortals"
 session: "27"
 variant: "DS"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 27 (DS) - Transcript
+# Crown of the Immortals - Session 27 (DS) Transcript
 
-## PCs
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
 
-| Player | PF2e Character | DS Character |
-| ------ | -------------- | ------------ |
-| Ramsey | Alwor          | Aurora       |
-| Scott  | Cahir          | Kroff        |
-| Clark  | Karsten        | Duncan       |
-| Jason  | Simear         | Po           |
+> [!abstract] Campaign context
+> This Dream Sequence chapter of Crown of the Immortals follows alternate incarnations of the heroes while remaining connected to their relics, past lives, and the larger struggle surrounding the Crown.
+
+## Characters
+
+| Player | Primary Character | Dream-Sequence Character |
+| --- | --- | --- |
+| Ramsey | Alwor | Aurora |
+| Scott | Cahir | Kroff |
+| Clark | Karsten | Duncan |
+| Jason | Simear | Po |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 26 (DS)|Session 26 (DS)]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Just doing it. Just so you're not. Thanks. A little bit slow on the uptake on that one. All right. So with your practical magic, really. Hit the play button or? No. You want to go ahead and click on the knockback. Okay. It brings up a menu, but there's nothing to do here. There's no clicking. There's no, you know, well, why don't you just roll 2d10? Okay. And to do that, I roll 2d10. Yep. Oh, that's 1d100. I don't think that's what I want. Right? Right. Uh, no, you, you, you want to go to the d10, um, thing, and then just click on that twice.
 
@@ -37,19 +62,23 @@ If you maintain a persistent ability in combat, you reduce the amount of essence
 
 Because that should be against your, your future earnings. And you for sure had six. Yes. Yep. Yep. Yep. Yep. Uh, I'm not sure. You can always just go ahead and put in, uh, like, just add an essence on there. Throw the one back in. Okay. Yeah. All right. All right. Well, that was pretty, that was pretty awesome. Aurora. That was fun. Thank you. Aurora, do your thing. Oh, sick. Oh, there's no bad guy to go, huh? No, no. You, you, wait. This guy, he's yellow. Oh, yes. There is, there's the one yellow guy. Uh, ah, it's his turn.
 
-Um, Goblin Warrior, he's going to, well, this is going to be kind of awkward here, but. Yeah. He's going to go over here. Uh-huh, uh-huh. Go this way, go this way. Come up to attack Croft. He is currently judged. Which means, when he takes his action. Oh, yeah. He is judged, isn't he? Yeah. That's pretty good. Takes his man action within line of effect. You can use a free triggered action to, yep. So, he takes four points of damage as he tries to attack Croft and dies. Oh. Poor guy. Excellent. That is assuming that Duncan decides that he wants to deal damage from which, why would he not?
+Um, Goblin Warrior, he's going to, well, this is going to be kind of awkward here, but. Yeah. He's going to go over here. Uh-huh, uh-huh. Go this way, go this way. Come up to attack Kroff. He is currently judged. Which means, when he takes his action. Oh, yeah. He is judged, isn't he? Yeah. That's pretty good. Takes his man action within line of effect. You can use a free triggered action to, yep. So, he takes four points of damage as he tries to attack Kroff and dies. Oh. Poor guy. Excellent. That is assuming that Duncan decides that he wants to deal damage from which, why would he not?
 
 So, all right. Love to see it. Um, all right. So, wait. And then, Duncan gets to choose a new person. Uh-huh. Yeah, judge. Uh-huh. Because when you're judged by, you're reduced, when somebody who's judged by you is reduced to zero stamina, you can free triggered action, use this ability against a new target. So, yeah. Yeah. So. A judge. Yeah, yeah. Like, this is, this is sick. Like, if you, if you get a bunch of people down to, like, a low ability score, you can just, like, one by one, as they act, just kill them all off.
 
-Yep. Yeah, that is. All right. Yeah. That's nice. So, the power of this thing is just, oh my gosh, that's, no. Okay. All right. Uh, me, huh? Yeah. Aurora, do your thing. Huh. Which, hold on. Which way is better here? I was going to do a thing. I'm still going to do that thing. Uh, first of all, hold on. I need to get my turn. Bam. Turn started. Uh, okay. What I need to decide. Uh, one, two, three, four. One, two, three, five, six, seven, eight, nine, ten. Oh, yeah, that works just as well, I suppose, um, is I'm going to, uh, look back at my buddy Poe there as he's, you know, still crackling with power, uh, kind of smile and say, you want to go again?
+Yep. Yeah, that is. All right. Yeah. That's nice. So, the power of this thing is just, oh my gosh, that's, no. Okay. All right. Uh, me, huh? Yeah. Aurora, do your thing. Huh. Which, hold on. Which way is better here? I was going to do a thing. I'm still going to do that thing. Uh, first of all, hold on. I need to get my turn. Bam. Turn started. Uh, okay. What I need to decide. Uh, one, two, three, four. One, two, three, five, six, seven, eight, nine, ten. Oh, yeah, that works just as well, I suppose, um, is I'm going to, uh, look back at my buddy Po there as he's, you know, still crackling with power, uh, kind of smile and say, you want to go again?
 
-Uh, and I'm going to use kinetic grip. Uh, I realized this was a thing I could do. Um, and I'm going to do it. Uh, I'm going to use kinetic grip on Poe. Hmm. I can target a creature or object. Poe certainly is a creature. Yeah. Uh, so I'm going to go ahead and make my power roll. Uh. You have to, okay. Boop. Sick. Uh, so that is a tier three. Oh, it does prone you. Hmm. Hmm. That's fine. I don't think that matters. What does prone do? Sounds great. It's getting, somebody's sliding across the floor. I mean, it should be fine.
+Uh, and I'm going to use kinetic grip. Uh, I realized this was a thing I could do. Um, and I'm going to do it. Uh, I'm going to use kinetic grip on Po. Hmm. I can target a creature or object. Po certainly is a creature. Yeah. Uh, so I'm going to go ahead and make my power roll. Uh. You have to, okay. Boop. Sick. Uh, so that is a tier three. Oh, it does prone you. Hmm. Hmm. That's fine. I don't think that matters. What does prone do? Sounds great. It's getting, somebody's sliding across the floor. I mean, it should be fine.
 
 I did it, so I'm doing it. Uh, but yeah, Jason, uh, you've got eight squares. Go ahead and move yourself wherever you want, preferably so that you're within range of those two guys in the back. Right. So, you know, somewhere up by Duncan, I think is, is, is perfectly acceptable. I don't know if that on the, any strike they make, any melee abilities used against them get Yeah, it's, I can't do it. Where do you want to go? Yeah, you, yeah, where do you want to go? Just point it out. Yeah, let's, um, let's go ahead and put myself, like, yeah, maybe right there would be fine.
 
-Right there. Yeah. Why not? Sweet. Bane. And then you're prone. Oh, strikes have bane. Well, it's a good thing your conflagration isn't a strike. Cool. Uh, next, I'm going to use my maneuver to, uh, flashback. I'm going to spend five clarity. Um, and, uh, you feel Poe Aurora kind of like enter your mind a little bit, um, and shows you like doing their conflagration again, but this time, you know, on, on different targets. Um, and what the ability says, uh, is the target is, oh, actually it's a little different target is thrown several seconds back in time.
+Right there. Yeah. Why not? Sweet. Bane. And then you're prone. Oh, strikes have bane. Well, it's a good thing your conflagration isn't a strike. Cool. Uh, next, I'm going to use my maneuver to, uh, flashback. I'm going to spend five clarity. Um, and, uh, you feel Po Aurora kind of like enter your mind a little bit, um, and shows you like doing their conflagration again, but this time, you know, on, on different targets. Um, and what the ability says, uh, is the target is, oh, actually it's a little different target is thrown several seconds back in time.
 
 So you get a little timey whimey, uh, and gets to do it all again. Uh, the target uses an ability with a base heroic resource cost of seven or less. So they previously used this round without needing to spend the base cost. Oh, so you just get to conflagrate again. Right. Yeah. Get them. Um, Chris, I'm going to need help because it's not my turn. Right. Um, here, free movement. There you go. Um, and we'll go ahead and. I target those two. Drop that there. We'll do this. And we'll. Yeah. Do that. Oh, that's a winner.
+
+---
+
+### Session Play - Part 2
 
 Yeah. Yeah. Okay. So go ahead and apply that fire damage. And. Yeah, you kill them all. Yeah. So your, your, uh, your fireball that you sent out, um, not only, not only gets the guys where the fireball exploded, but it also like, um, like. It's like, it's like a laser. It just goes through the other sniper, um, gets empowered as it's going over the bracer, goes through the other sniper, kills it, and then explodes, killing the other two snipers. Um. Mm. Mm. Mm. Love to see it. That was great. Which brings. Yeah. Yeah.
 
@@ -71,7 +100,7 @@ Okay. Yeah, I'll allow it. So, go ahead and roll your intuition. Add magic as yo
 
 So, it's a used, broken, but definitely more medium-sized creature-sized, more human-sized than small creature-sized. Um, you do also find, um, remnants of some, um, of like what looks to be kind of like a, a lunchbox sort of thing. Um, again, not really goblin style things, but, uh, looks like it belonged to somebody. Like, and it's like a, it's like a handkerchief, kind of like one of those handkerchiefs that gets, that they wrap a bunch of food in and that kind of thing. Um, and it only strikes, it, it only pops out to you, um, because it's, um, it's relatively new, um, or fresh here, which could imply that it might've been Violet's lunch.
 
-Oh, okay. Okay. Okay. I'll definitely take that, um, and the staff. Mm-hmm. Um, I don't know. Uh, I mean, I know the magic things, but Poe, I imagine you do too. Can you make anything out of this staff? Um. Uh, mm-hmm. How, what? Oh, oh, here they are. Mm. Um, yeah, yeah, sure, I, absolutely. Yeah. All right. This is quite the treat. Yeah, you're, you're a magic guy, you do magic stuff. So, Poe, I would like you to go ahead and make a reason roll for me. And if you have a skill that you would like to apply to that, um, you can pitch that to me if you would like.
+Oh, okay. Okay. Okay. I'll definitely take that, um, and the staff. Mm-hmm. Um, I don't know. Uh, I mean, I know the magic things, but Po, I imagine you do too. Can you make anything out of this staff? Um. Uh, mm-hmm. How, what? Oh, oh, here they are. Mm. Um, yeah, yeah, sure, I, absolutely. Yeah. All right. This is quite the treat. Yeah, you're, you're a magic guy, you do magic stuff. So, Po, I would like you to go ahead and make a reason roll for me. And if you have a skill that you would like to apply to that, um, you can pitch that to me if you would like.
 
 Yeah, I've, um, I've got the blacksmithing and the magic skills. Mm-hmm. No, I think I could use to, you know, hey, hey, how was this crafted and what's its purpose, magic crafting as well as funding. Yeah. Um. Um. Okay. So, yeah, go ahead and roll, um, either one. Just, just choose one of those as the skill that you're applying. Um, or how do I, how do I choose one, huh? Uh, well, on the reason skill, or the reason thing, there will be a dial, dial up. Oh. And in there, there's a drop down for skills, and you can choose one.
 
@@ -82,6 +111,10 @@ Good job. You rolled a 20. Yep. You did. It's amazing. Also, Chris. Yes. I think
 So that when I come down, I can, um, purchase those from you. Okay. I'll, I'll try and see if I can remember where I found them. Um. Yeah. All right. No, I, yeah. So, but that's, that's what you're able to determine from the, from the staff itself. It seems like there's some sort of shadow sorcery or something involved with the user of the staff. The staff itself is not an actual magical item. It's just an implement that's used for magic. So. All right. It's just a what? It's an implement used for magic. Okay. Okay.
 
 It's like, you know, Gandalf's staff. Yeah. The staff isn't the, uh, isn't, isn't the power. It's, it's, uh, Gandalf who is the power. Not all you're talking about. It's just an old man's walking stick. Exactly. These are dark. All right. Well, this little girl ain't going to save herself. Uh-uh. Let's go. All right. Clearly. Um, okay. So. Let's see here. So you head down the, to where the hall is. Uh, you see a narrow, uh, yeah. Oh. Sorry, Aurora. I wasn't trying to step on you. Yeah. Yeah. Oh. That's where those beefy guys go first.
+
+---
+
+### Session Play - Part 3
 
 Yeah. Thanks, Rob. He's barely injured anyway. Yeah, yeah, yeah, yeah. Barely. Still has more hit points than I do ever. Oh. That's, uh. That's a dead goblin? Question mark? Uh, it's not looking very goblin-esque. Yeah. Maybe it's, maybe it's a helmet on the dead goblin's detached head. Uh-huh. Uh-huh. I can see it. Looks rather big. Okay, so you see, down the hallway, you see frescoes on the wall of this narrow hall that show fallen knights and a large silver chalice being carried by a procession of warriors into a tomb carved with the name Delius atop its entrance.
 
@@ -95,7 +128,7 @@ So, um. Yep. I'm doing intuition. You've got might. I'm doing alertness. It will
 
 Um, so that is a tier three result. Uh, you find a pressure plate, um, about halfway down the hall about, you know, a step or two ahead of where that goblin corpse is. Uh, um, or a step or two behind where the goblin corpse is. Um, if you, you can choose to disarm the trap without having to make a second test because you rolled so well. Well, so you walk down the hallway, you're kind of keeping an eye out and you notice that one of the, uh, one of the floor, um, one of the floor pavers is slightly wiggly. And you determine that that is a, um, that is a pressure plate for, um, some sort of scythe.
 
-And he, and when you look to the side, you see like a slit in the, uh, in the side of the wall. Um, that's, um, about, about head height for a goblin, about mid section for a person. Um, so you are pretty confident that there's some sort of like slicing mechanism that's gonna pop out if you push on that pressure plate. How do you disarm it? Am I throwing Poe at it? Or? Well, you could throw things kills. Um, well, you, you, you don't, you don't have to make a skill check on this at all. Oh, you are able to, you are able to disarm it because you rolled as well as you did.
+And he, and when you look to the side, you see like a slit in the, uh, in the side of the wall. Um, that's, um, about, about head height for a goblin, about mid section for a person. Um, so you are pretty confident that there's some sort of like slicing mechanism that's gonna pop out if you push on that pressure plate. How do you disarm it? Am I throwing Po at it? Or? Well, you could throw things kills. Um, well, you, you, you don't, you don't have to make a skill check on this at all. Oh, you are able to, you are able to disarm it because you rolled as well as you did.
 
 Tier three result. So you don't have to do a follow up skill check. Um, I'm just. You're asking me to be creative. Okay. It's 915. You don't have to be creative. You can say, I wedge, I wedge it open or say, Chris, you decide. I don't care. You know. It's fine. Very creative. You can be. I think when I could blacksmith for what I have and. Put around it so it can't go down. All right. Would that be something like that? Yep. You're able, you're able to fashion. Yeah. You're able to fashion some sort of weight, wedging mechanism to keep the, uh, to keep the pressure plate open.
 
@@ -107,13 +140,17 @@ And it's built against the wall to the side of it is a transcription that reads 
 
 Hmm. What do you do? Once this fails, the battle is lost. Mm-hmm. Well, uh, stating it. Yeah. That doesn't matter. Ramsey, what do you think? Uh, I mean, there's nothing for it. There's nothing in this room. Uh, it's a good thing. Everything in these coffins are dead and will always stay dead. Uh, but really, we gotta, we gotta, we gotta, we gotta get in that room. Uh, there's changing from behind the wall. There must be some way to get back there. There's must be somebody behind it. Yeah. Uh, all right. Dude. Uh, okay.
 
-So, yeah, let's wander on in here. We're, we're barely hurt, so. Yeah, yeah, yeah. We're good. Uh, we should get in here and probably look for secret stuff. Maybe check that statue out. That seems like a fine idea. Yeah. So, um, just real quick, would like to, um, we'll check that these coffins here along the side haven't, uh, any real evidence of being tampered with or that they do have some real evidence of having been tampered with. Oh, I see. Well, um, yeah. Hello, friend. Oh, oh. So, you, uh, so Poe walks up to the coffin.
+So, yeah, let's wander on in here. We're, we're barely hurt, so. Yeah, yeah, yeah. We're good. Uh, we should get in here and probably look for secret stuff. Maybe check that statue out. That seems like a fine idea. Yeah. So, um, just real quick, would like to, um, we'll check that these coffins here along the side haven't, uh, any real evidence of being tampered with or that they do have some real evidence of having been tampered with. Oh, I see. Well, um, yeah. Hello, friend. Oh, oh. So, you, uh, so Po walks up to the coffin.
 
 Uh-huh. Um, he gets, uh, he gets back, about to where he currently is. Mm-hmm. Um, and all of the coffins erupt. Ooh! I've been tampered with. There's no way anyone could have possibly foreseen this sort of circumstances. With the giant glowing skull. I'm sure I don't know what you're talking about. Um. Get Duncan in there. Put him in front. Get Duncan in there. What? All right. All right. Some good holiness going on. Um, okay. So, you see, um, you see a, the, the coffins themselves open. There are a number of zombies, skeletons, and a couple of ghouls that emerge from them.
 
-Um, all, like, ravenously hungry. Um, and they all, all are focused specifically on Poe. Oh! Your dog did it now. Of course we did. At least for the moment. Um, but, like, they all, they all animate. They all get, they all come out of their coffins, and they all focus in on the person that was so close to them. And so, now, let's go ahead and begin another battle. Cool. Yeah. Ooh. Bow, bow. All right. We start with two resources, because we have two victories. Yes. Do I? Um. Yep. Also. They reset at zero after the last combat, right?
+Um, all, like, ravenously hungry. Um, and they all, all are focused specifically on Po. Oh! Your dog did it now. Of course we did. At least for the moment. Um, but, like, they all, they all animate. They all get, they all come out of their coffins, and they all focus in on the person that was so close to them. And so, now, let's go ahead and begin another battle. Cool. Yeah. Ooh. Bow, bow. All right. We start with two resources, because we have two victories. Yes. Do I? Um. Yep. Also. They reset at zero after the last combat, right?
 
 Uh-huh. Right. All right. And so, you're just picking up where you left off based on your victories. All right. Very good. Correct. Correct. The more fights we have, the more resources we start with. Yeah. It's a per-encounter, um, uh, yeah. A per-encounter resource, but your victories basically make you start off with more of them. At a higher level. Until you, you know, like, rest for a full day. Right. Right. Right. And then things kind of, okay. Um, right. I am kind of thinking it would be good for me to not be in the exact location that I'm at.
+
+---
+
+### Session Play - Part 4
 
 Yeah, I'm not focused on you. Maybe getting you, uh, out of here is a good idea. So, before we, uh, before we get, get going, we do need to roll initiative, which means I need somebody to roll a D10. If it's a six or above, you get to choose who the, uh, which side goes first. If it is a five or below, I get to choose which side goes first. A D10? Yep. A D10. Yep. Anybody want to take it? Oh, sure. Your life depends on it. Oh, okay. Oh, yeah. Woo. Yeah. That was almost a five. Uh, life depends on it. All right. So, you guys get to choose which side goes first.
 
@@ -147,9 +184,13 @@ Ooh. And then he has to use his razor teeth. His razor teeth? Yeah. From which h
 
 Less than one. And less than zero. Oh, ho, ho, ho, ho. Yes, yes. This is real bad. Yeah. This guy is going to do a similar thing. He's going to leap at Duncan. Oh, this is going to be bad. Jerk. Bad for him. Duncan's got it. But this, this undead thing. Yeah, yeah. Not going to go well for him. On size one. Enemy. Okay, the ghoul jumps three squares to land on a size one enemy. He's knocked prone and the ghoul can make a free strike against them. Um, so he knocks, he hits, he gets to Duncan, knocks Duncan prone. Um.
 
+---
+
+### Session Play - Part 5
+
 And then does a point of damage to him with the free strike and then he follows it up with razor claws again. Um, and again, um, and again, he has an edge because Duncan is also knocked prone. Um. Um, which would have been a tier, is a two result, um, deal damage to Duncan and he is not bleeding at this point. So, that is bad guy's turn. Um, Aurora, Duncan, Cruff, who wants to go next? Um, I'm gonna, uh, I don't have a great turn right now. Uh, if you do, Scott, or if we think Duncan has a good turn. Um, I, I, I mean, not.
 
-But to get some of the melee guys in place, uh, does not seem like the worst option to me. Yeah, and not to be a one trick pony or anything, but Cruff does start with two victories and he would get another one. And that AOE burst. It's pretty good. He'd be able to do straight out. And, if a certain Poe wanted to boost that burst. Mm-hmm. Mm-hmm. I'm waiting for it. That could cause some pretty heavy damage. That's true. What is, it's the back ability, right? Yep. Yeah. So, it deals damage to everything. Speaking English.
+But to get some of the melee guys in place, uh, does not seem like the worst option to me. Yeah, and not to be a one trick pony or anything, but Cruff does start with two victories and he would get another one. And that AOE burst. It's pretty good. He'd be able to do straight out. And, if a certain Po wanted to boost that burst. Mm-hmm. Mm-hmm. I'm waiting for it. That could cause some pretty heavy damage. That's true. What is, it's the back ability, right? Yep. Yeah. So, it deals damage to everything. Speaking English.
 
 Aoe. AOE. Area of effect. First one. Yeah. Interesting. Okay. Um. I mean, it's not, you know. It, it's. I don't mind being a one trick pony. Yeah. It's not bad. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. So, light them up. Okay. Okay. Well, looks, they're going to go. Yeah, yeah, yeah. Now, go ahead, Kroff. Go ahead, Kroff. I was, I was thinking I could do something to help, but then they get to go before. So, yeah. Yeah, yeah, yeah, yeah, yeah.
 
@@ -179,15 +220,19 @@ Um. This guy. He's going to run down to Duncan. And he's going to Razor Claw Dun
 
 Um, I think let's have Duncan go first. Okay. He does need to, you know, judge somebody. It's true. That is true. It is, it is good to get the judging going. Mm-hmm. All right. So he is going to perform judgment against, uh, the ghoul that has been, been hurt. That seems like the right call. Oh, well, not himself. He's not judging himself. Mm-hmm. Awful. Just want to alert that it's 9.54 and it will be black snaking at 10 o'clock. Yeah. No, I, I've been, I've been paying attention myself. So, I do know that we're, I do know that we're here.
 
+---
+
+### Closing and Table Discussion - Part 6
+
 Um, okay. So he does that. You gain a wound, blah, blah, blah, blah, blah, blah. Judge uses action without the effects. Um, additionally, when you spend one wrath token, follow the free trigger actions. Uh, okay. So he judges, and he's also going to use God's Punish and Defend. Yeah. He's, oh, he should probably start his turn first. Uh-huh. All right. Then, he's still going to God's Punish and Defend. Um, well, that was a tier three result, which is great. Pretty good. Um, that does 17 holy damage. Oh. Um. That's such a pretty good.
 
-By 17 holy damage. Which just kills him outright. Nice. Sweet. I can spend recovery for a one within 10 square, for a one ally within 10 squares of me to gain 10 stamina. Yeah. So, Duncan is pretty good. He's going to... Yeah, he should use stamina himself, yeah. Yeah, he's going to spend a recovery to stand... Uh-huh. To heal himself. Does he get to, uh, reassign his judgment? Uh, he does. Yeah. So, um, he's going to... Let's see. He's going to move his judgment over to... The ghoul that... Poe. This ghoul is... This ghoul is dead.
+By 17 holy damage. Which just kills him outright. Nice. Sweet. I can spend recovery for a one within 10 square, for a one ally within 10 squares of me to gain 10 stamina. Yeah. So, Duncan is pretty good. He's going to... Yeah, he should use stamina himself, yeah. Yeah, he's going to spend a recovery to stand... Uh-huh. To heal himself. Does he get to, uh, reassign his judgment? Uh, he does. Yeah. So, um, he's going to... Let's see. He's going to move his judgment over to... The ghoul that... Po. This ghoul is... This ghoul is dead.
 
 All right. Sweet. So, we've got group three, which contains one ghoul who's going to be running out, and he's going to be charting and razor-clawing. He had a compatriot that was going to do things as well, but somebody blew him up. Yeah. Yeah, yeah. For a reason. Uh, ooh. And he's going to be doing three points of damage to Duncan. All right. Now, Aurora, you're up. Uh, sick. Um, uh, yeah. I think this is a pretty good time to do... Do the thing. Um, I will... Uh, start my turn. That's a good idea. Maybe. There we go.
 
-Bam. Sick. We did it. We like it. Um, I'm going to target... Oh, wait. No, that doesn't work. Because that's... Oh, wait. No, it does work. Uh, we're going to target a homeboy over here that's, uh, all up in Poe's grill. Um, and I am going to kinetic grip him. Uh, we're going to say get off my bud. Hmm. Excellent. Uh, so we get to slide six. Uh, we're going to say one. Uh, we're going to say one, two, three. Three, four. Uh, we're going to put him right here. And then for the six, one, slam him into his buddy. Because I have one left.
+Bam. Sick. We did it. We like it. Um, I'm going to target... Oh, wait. No, that doesn't work. Because that's... Oh, wait. No, it does work. Uh, we're going to target a homeboy over here that's, uh, all up in Po's grill. Um, and I am going to kinetic grip him. Uh, we're going to say get off my bud. Hmm. Excellent. Uh, so we get to slide six. Uh, we're going to say one. Uh, we're going to say one, two, three. Three, four. Uh, we're going to put him right here. And then for the six, one, slam him into his buddy. Because I have one left.
 
-Okay. This buddy? Yep. Or this buddy? Uh, no, no, no, no. Definitely, definitely that one. Right. This buddy. Okay. So one point of damage each. Okay. Yep. Uh, then for my maneuver, I'm going to spend five clarity. And I'm going to rewind time for Croft and, uh, tell Croft to go ahead and use, get back again. Yeah. Scott, if you would be so kind. Because, uh, moving that guy into position, that seems pretty good right now. Right. Right. Can I do it? Yeah. Or do you have to do it? No, you, I, I'm pretty sure you can do it.
+Okay. This buddy? Yep. Or this buddy? Uh, no, no, no, no. Definitely, definitely that one. Right. This buddy. Okay. So one point of damage each. Okay. Yep. Uh, then for my maneuver, I'm going to spend five clarity. And I'm going to rewind time for Kroff and, uh, tell Kroff to go ahead and use, get back again. Yeah. Scott, if you would be so kind. Because, uh, moving that guy into position, that seems pretty good right now. Right. Right. Can I do it? Yeah. Or do you have to do it? No, you, I, I'm pretty sure you can do it.
 
 Yeah, you can do it. Yeah. Big money. 12. That's a tier two result. Yeah. So go ahead and apply that damage. Uh, so this guy gets pushed back here. Uh, well, so when, when pushing, you know, you can direct bad guys anywhere as long as they are going away from you. So the guy who's right here can be pushed into, he doesn't have to be pushed out here. He can be over here. So just that I point that out. Um, do you want to push him into a wall? I believe so. All right. So it's not going to be nearly as powerful as last time because you didn't have that additional plus four.
 
@@ -198,3 +243,9 @@ That's me. All right. Um, well, we're not quite finished with the combat round, 
 Where would he do that? Hmm. Okay. So those guys act. That guy. This is just so ugly. All right. Why did they make these guys so absolutely hideous? I, I did that. Uh. Yeah. So he's going to. He's going to judge this guy. Uh. Uh. Targets. Judge. So. Judge. Yeah. Hmm. So that way. Um. That guy hasn't acted yet. So he's gonna. He would have focused on the guys who are already hurt, but. They've already acted. It's probably better to focus on somebody who. Isn't. So. All right. Cool. Well. That's. Uh. It seems like. A good.
 
 Uh. Good. Time to get quicker with that.
+
+---
+
+## Related Notes
+
+- [[Campaigns/Crown-of-the-Immortals/4. A Dream's Revenge/Session 27|Session 27]]

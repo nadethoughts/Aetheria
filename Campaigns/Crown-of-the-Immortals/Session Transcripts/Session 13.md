@@ -2,12 +2,51 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "13"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 13 - Transcript
+# Crown of the Immortals - Session 13 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 12|Session 12]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 14|Session 14]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Session Play - Part 9]]
+- [[#Closing and Table Discussion - Part 10]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Alright. So just to remind everybody where we are, we are currently in a what appears to be an underground fort inside a cavern. The party, has just defeated a group of goblins and a large green wart covered woman of some kind. Upon closer inspection of the goblins, you did discover that these goblins have, are different than the ones that you've been facing up until this point. These ones have green skin like the other goblins, but they also have a red, a red design on their skin as well.
 
@@ -91,6 +130,10 @@ We need to find more of that glass, that special glass. Yeah. Yeah. Yeah. I thin
 
 Right. I'm trying to see. I thought I had something, but Are you talking about the Spires Of Cuthelar? Yeah. That place.
 
+---
+
+### Session Play - Part 2
+
 Yeah. Home to the betrayer. Yeah. See, that doesn't sound warm and cuddly to me. I will have to agree with Ramsey on that.
 
 I don't I don't speak a cat. I mean, cats are warm and cuddly, plus they also are big players. So Cure a dog ear. That's true. No.
@@ -171,7 +214,7 @@ Okay. They seem to move a little faster. Ever so slightly. Yeah. They're red aft
 
 I watch all of the purple ones. Very sneaky. Anyway Okay. So basically, you guys are, as you're, as you're moving, you're you move towards the the temple where Jared, usually keeps himself. I say temple, but it's really kind of more of a glorified tent.
 
-In the past year, year and a half, the intention of creating a place of worship has been, has been there, but, there was always something else that was more pressing. So you make it to the tent, and you do hear Jared's voice coming from inside the tent, giving instructions on how to care for some of the wounded and providing, a scroll of, a scroll that has an antidote for, goblin pox, a truly deadly disease. You enter the you you enter the temple, and Jared looks up and says, oh, Awir, Gald, not Gald, Cahir, Sameer, and Karsten. I'm glad that you made it back alive. That's true.
+In the past year, year and a half, the intention of creating a place of worship has been, has been there, but, there was always something else that was more pressing. So you make it to the tent, and you do hear Jared's voice coming from inside the tent, giving instructions on how to care for some of the wounded and providing, a scroll of, a scroll that has an antidote for, goblin pox, a truly deadly disease. You enter the you you enter the temple, and Jared looks up and says, oh, Awir, Gald, not Gald, Cahir, Simear, and Karsten. I'm glad that you made it back alive. That's true.
 
 Mhmm. Too, A little dicey there, Karsten. Cross go. Yeah. Well, about it was it it did not look good for us.
 
@@ -181,15 +224,19 @@ The one that was basically whispering sweet nothings about the, the great time t
 
 So what what did you discover in the tunnels? We find a whole lot of goblins. A ton of goblins. There were some, dark skinned elves. I've never seen anything like that before.
 
+---
+
+### Session Play - Part 3
+
 They seem to be kind of leading them, I think. And these. And, I don't know why I have them or someone else has them, but, you know, we've definitely found some, like, texts, especially when we couldn't read being the important one. Yes. He takes he takes them, and starts leafing through them.
 
 He goes through the journal, first, and looks at the torn map piece, and then looks at the, the scroll that you or the impression that you did of the of the word of the words in blood on the wall. Mhmm. And it says, now these I don't recognize. Well, I I do recognize, but I cannot read them. The, the first of these languages is quite obviously goblin.
 
 Never bothered learning that tongue. The second, I know only from my religious readings. It is infernal. What is infernal? In the language of demons.
 
-Oh. Can I say that one up, Paul, Christian? No. I I I didn't catch what you said, Jason. Oh, I just asked Carson if he had hadn't studied that one up.
+Oh. Can I say that one up, Paul, Christian? No. I I I didn't catch what you said, Jason. Oh, I just asked Karsten if he had hadn't studied that one up.
 
-Oh. I mean, to answer your question, he should have. So the answer is he should have. I was just confirming Right. I knew what it was, and I should have said, should Carson know this?
+Oh. I mean, to answer your question, he should have. So the answer is he should have. I was just confirming Right. I knew what it was, and I should have said, should Karsten know this?
 
 And the answer is yes. I would hope so. And if not, then there's a deficiency in my teachers. Math teachers. Math teachers.
 
@@ -207,7 +254,7 @@ Wait. Time out. Can I roll to figure out if I have heard that? We we read some o
 
 Alright. I'm not sure exactly how much you know about this, but, let me give you at least some, Background. Background here. Yeah. So, Vorath, also known as the betrayer, he makes some sort of religious symbol when he says the actual name, was once a mighty king of the blessed realm.
 
-He was chosen by Rhathilion to, to be his chosen tool. I'm sure that you've heard of the La Palu, and then he makes another religious symbol. It was originally thought that the La Palu were, and every time he does that, he makes that same religious symbol. It was once believed that they were, the, messengers of Raythellian. They were here to help the world, in times when, in times of when the most dire circumstances were were present.
+He was chosen by Rhathilion to, to be his chosen tool. I'm sure that you've heard of the La Pelu, and then he makes another religious symbol. It was originally thought that the La Pelu were, and every time he does that, he makes that same religious symbol. It was once believed that they were, the, messengers of Raythellian. They were here to help the world, in times when, in times of when the most dire circumstances were were present.
 
 But he and his partners, Maldron and Sirith were proof that that was not the case. He originally started out as a great king and diplomat of of the blessed realm. But over time, he became more and more, he became more and more ambitious. He got to the point where he did not believe that, any anything or anyone should, not live underneath his domain. As he became more, more convinced of this, he got more cruel in his tactics, seeking to break the nations that he so that he wanted to conquer, all against the, the belief of the, all against the teachings of Raythellian.
 
@@ -215,7 +262,7 @@ The blessed Rome was there to be a big brother, to look out for the nations, to 
 
 And in that rebellion, he and his, two generals were slain. What were the generals' names again? Sirith the Shadowed and, Maldran the Deceiver. Oh. Since that day, the, there were two orders of knights that were created, from the ashes of what was once the golden age of the blessed realm.
 
-They were the sentinels of equilibrium and the order of the dawn guard. Both of those knightly orders were, created specifically to find and destroy any member any La Palu that may exist, within the blessed realm and beyond it. They had too much power, to be able to manipulate the blessed realm the way that they did and that power could not go unchecked. But Vorath, the betrayer specifically, he is a he is a tale of, tale of warning to those who wish to achieve their own ends by any means necessary. He was doing what he felt was right, what was good, and he did not care about the ramifications of how he did that.
+They were the sentinels of equilibrium and the order of the Dawnguard. Both of those knightly orders were, created specifically to find and destroy any member any La Pelu that may exist, within the blessed realm and beyond it. They had too much power, to be able to manipulate the blessed realm the way that they did and that power could not go unchecked. But Vorath, the betrayer specifically, he is a he is a tale of, tale of warning to those who wish to achieve their own ends by any means necessary. He was doing what he felt was right, what was good, and he did not care about the ramifications of how he did that.
 
 And in so doing, he invoked Erebos, the dark deity, and channeled his energy rather than the light of Raythellian. What became of him? He died thousand years ago. What, what was it we we saw that spoke of him? I don't remember.
 
@@ -227,7 +274,7 @@ Yeah. And there was also a journal, written by an explorer that was talking abou
 
 Cool. Cool. Cool. Cool. Cool.
 
-Cool except not. Well, on that note found down in those tunnels, it looked like these goblins or their leaders were revering this guy as a deity, and it sounded like they believed he was coming back. Mentioned something about the, what were those, that spire called again, Sameer? Yeah. The spires of Kuth Alar.
+Cool except not. Well, on that note found down in those tunnels, it looked like these goblins or their leaders were revering this guy as a deity, and it sounded like they believed he was coming back. Mentioned something about the, what were those, that spire called again, Simear? Yeah. The spires of Kuth Alar.
 
 Yeah. Yeah. Those ones. I thought he was sleeping there. Yeah.
 
@@ -258,6 +305,10 @@ Okay. Yeah. There was, there's a couple of hags down there as well that also see
 Yep. Two? Yeah. Little short of a coven. I suspect there's more.
 
 Stop talking about, oh, man. It was like your mama joke. Now here, here's here's here's mom again. Yeah. Oh.
+
+---
+
+### Session Play - Part 4
 
 Okay. So when you when you describe the hags, you describe the the dark elves, you describe the goblins and the undead. He looks more and more and more confused as you as you go through the different layers of creatures that were in that tunnel. He's like, none of these things are known to be allies to each other. There must be something that's forcing them together.
 
@@ -346,6 +397,10 @@ Right. Is is that stuff ours, is it really available, or is it just like, hey. I
 However, once you actually go adventuring, you no longer have access to those things. Sure. Okay. Okay. Okay.
 
 So It's effectively your it's effectively your your guild bank for those of you familiar with the concept. Okay. Sounds great. You wanna spell off some of this bulk stuff. Now would be the time.
+
+---
+
+### Session Play - Part 5
 
 Chris, what level town is this? Good question. So those are a few years, like, Yeah. Some of that's, like, the vaccine we should hang on to probably. Yeah.
 
@@ -459,6 +514,10 @@ Three of us could use it, and it'll let one of us walk across water if we ever n
 
 Effervescent ampuller, however you pronounce that. I don't I don't see it. Oh, there it is. Never mind. I see it.
 
+---
+
+### Session Play - Part 6
+
 Okay. I know. I've already got quite a bit of the lethargy poison. I don't know if I'm gonna need more. If anyone else wants some or we can just get rid of it.
 
 It's poison. It slows people. I'm not gonna either. Hit with it. I have some too.
@@ -489,7 +548,7 @@ You want yours in our tool? Yeah. I'm just saying, I'll, you know, throw it in i
 
 So You did? Oh, there they are. So pop those in your spacious bag and you're Right. Black hole interstellar travel. Also, something's something that people probably want to keep an eye on here is your treasure.
 
-If you have things that are worth money, then you can basically just exchange those for money. So, like, Sameer, it looks like you've got an alabaster and obsidian game set for 10 gold. We got a piece of amber that's worth 5 gold. You can just cash those in for 15 gold. What what was the amber in that?
+If you have things that are worth money, then you can basically just exchange those for money. So, like, Simear, it looks like you've got an alabaster and obsidian game set for 10 gold. We got a piece of amber that's worth 5 gold. You can just cash those in for 15 gold. What what was the amber in that?
 
 I mean, like, what was that about? Those were those were just random treasure. Yeah. You remember back in back when we were playing three D and D three five and you'd and you'd defeat a, defeat a, a Snorlack and all of a sudden a piece of art would pop out of its butt, same principle applies here. Interesting.
 
@@ -567,6 +626,10 @@ I mean, I assume the Jared's got guys guarding the tunnels, so it's not like any
 
 But that bog is kinda curious. Yep. I agree. Especially Going into dark woods. Less than Going in going into the burned woods, is that the consensus I'm hearing?
 
+---
+
+### Session Play - Part 7
+
 Sure. Yeah. We need to do anything with the the glass that we found. Probably not sure if it was The crystal? Yeah.
 
 You you I mean, you can keep it in your party's stash. There's nothing you can do with it right now. It's it it will be useful in the future when you are able to actually mend the, the time turner. But you currently do not have all the tools you need to do that. Okay.
@@ -587,7 +650,7 @@ So you continue, you you continue down. You are able to find, what look to be go
 
 But over time, you are able to kind of you are able to navigate through that section through that section. And, you do start to see, more more obvious evidence of goblins, in the wood. The the the the smell of the goblins, the stank as it were, is starting to overpower even the stench of burned wood that that has sailed your nostrils for the past two or three hours as you've been tracking them down. I think we're nearing a village. You you definitely think that, for sure.
 
-Now, you also notice as you're as you're traveling, it appears that you aren't the only thing that is tracking these tracks. You see some pretty large, imprints of like spikes that are in the ground, that have a bit of a skittering, pattern to them. Samir, could you please roll a nature? You don't have one. I have some You do have nature.
+Now, you also notice as you're as you're traveling, it appears that you aren't the only thing that is tracking these tracks. You see some pretty large, imprints of like spikes that are in the ground, that have a bit of a skittering, pattern to them. Simear, could you please roll a nature? You don't have one. I have some You do have nature.
 
 No. You have nature. Where? Well, what? Oh.
 
@@ -621,7 +684,7 @@ Around that and get going. Wait. Wait. Wait. I think what you just said was less
 
 Yeah. Yeah. Yeah. But that thing's gonna go take care of some goblins for us. Let's, let's bozy a little bit.
 
-It's kinda I I kinda see how that goes down. Yeah. I don't Jason doesn't know what Sameer knows in terms of how he's managed them in the past thing. So I very difficultly. These these are very large, very deadly creatures.
+It's kinda I I kinda see how that goes down. Yeah. I don't Jason doesn't know what Simear knows in terms of how he's managed them in the past thing. So I very difficultly. These these are very large, very deadly creatures.
 
 It generally takes about a group. It it generally takes a group of, well, a group of somewhat experienced people to be able to take it out. You're more confident that you'd be able to that this group would be able to handle one pretty pretty readily, but you've also seen, a lot of your, a lot of your friends and and different people in the village basically getting getting laid out by these things as they try and as they try and fend them off. They are carnivorous creatures that likes to feed on the flesh of Big Zangs. We're all familiar with this as after Jason identified it.
 
@@ -666,6 +729,10 @@ And two, they're a lot larger to so easier to track. You are actually after abou
 What is that about? Yeah. So you have found, you found that there is a hunting pack of three of them. Oh, even more glorious. It looks like they're still after the goblins.
 
 They it's unclear. They're definitely tracking something, but, you know, it's definitely it but it is kind of one of those things where it's like, well, it could be the goblins or they might have caught wind of something else. Okay. So have have any of these joined the trail as we've been going, or they have clearly been following together the entire time? They have, two of them for sure have been there the whole time.
+
+---
+
+### Session Play - Part 8
 
 The third one, it's unclear. Could've could've added on recently, or it might have just been, you know, kind of the way the skittering worked. It basically just kind of was following in another one's footsteps. It's, but you for sure saw where another set of tracks was visible coming into this one. Right.
 
@@ -713,7 +780,7 @@ No. I don't know, man. I'm trying to patty wand. I I need some. Okay.
 
 Well, Hey. You guys you can re roll that. I'm gonna go be a distraction. So, basically, what's gonna happen here Self replace myself. Yeah.
 
-So Sameer's out front, and he's doing some tracking and trying to trying to avoid notice as best he can or stealth around. And, he walks up to to the top of a hill thinking that they're further ahead than they actually are. And as he crests the hill, he notices that they are that they are, really close, and then a gust of wind blows right behind him. And, the and the the and the Ankhraves immediately become rigid, look his direction, and start charging. Samir, you you run back towards the group, so you don't so you're not out, like, you know, out in front of everyone.
+So Simear's out front, and he's doing some tracking and trying to trying to avoid notice as best he can or stealth around. And, he walks up to to the top of a hill thinking that they're further ahead than they actually are. And as he crests the hill, he notices that they are that they are, really close, and then a gust of wind blows right behind him. And, the and the the and the Ankhraves immediately become rigid, look his direction, and start charging. Simear, you you run back towards the group, so you don't so you're not out, like, you know, out in front of everyone.
 
 And just as you approach to just as you get to about where the group is, they you see the three and crab, coming around coming around the hill and up a a burnt out path. And Oh. So for those of you who use your who use your stealth, you can actually, you can actually use your stealth as your, as your initiative role if you want. Which means you don't have to roll initiative, and you just have whatever your stealth role is. I totally think that.
 
@@ -741,7 +808,7 @@ Next time, all of that starts in. Not on my list of things to do today. Yeah. It
 
 Yeah. Right? That was that was messing. Alright. And then one of them comes charging down the middle, and then he, then he pulls up about You Here, that really looks like her mom when she's angry.
 
-I'm just telling you. Pulls up right about there, and then, it rears up on its on its hind haunches, and this green globule of acid just spews out of it. It hawks a giant loogie, and shoots it right at Samir. Who do not like? Oh.
+I'm just telling you. Pulls up right about there, and then, it rears up on its on its hind haunches, and this green globule of acid just spews out of it. It hawks a giant loogie, and shoots it right at Simear. Who do not like? Oh.
 
 Yeah. That's not good. If it hits me, it does hit me? Yo. It hits you.
 
@@ -765,6 +832,10 @@ But anyway, this guy comes rearing up. It lobs a acidic piece of goop at you. An
 
 Yeah. It's not exactly how I envisioned that, but, hey, it worked. Oh, what's what's what is the way that you envisioned it? Tell me tell me. For just a moment, you you you see that thing, there's a green cloud flying at you.
 
+---
+
+### Session Play - Part 9
+
 And right when you expect it to hit, it just passes right through. I'm like, you just flat up not there for that instant. That works. But I like to put your your embellishment is is quite fun as well. I like it.
 
 Yeah. Well, I mean, I was basically going for a this is a sun power, so, you know, I was Yeah. Yeah. Yeah. No.
@@ -775,7 +846,7 @@ What you gotta do? I think it's 40 feet away. Yep. You You can, like, run 400 mi
 
 Because your bladder's full. Excuse me. And we have four turns. For what? Before any of them go.
 
-Carson, are you gonna be held to get to that guy with me? I can't get to him in time. I mean, I I could double move, and then I could hit take a swing. Yeah. That's all I can do.
+Karsten, are you gonna be held to get to that guy with me? I can't get to him in time. I mean, I I could double move, and then I could hit take a swing. Yeah. That's all I can do.
 
 Yeah. Why is this thing so big? It's a horse. It's a giant critter. Look at me.
 
@@ -831,7 +902,7 @@ I'm a stand right there, and then I'm gonna lift my shield, and that's my turn. 
 
 There. I don't know. I like, come on. I'll go right here or there. Yeah.
 
-Okay. Alright. And, Sameer, you're up. Oh. Which one Alwar did you did you, Oh, locked.
+Okay. Alright. And, Simear, you're up. Oh. Which one Alwor did you did you, Oh, locked.
 
 Barely hurt. Feller. Okay. Far are we away, buddy? 70 feet, That's a little ways.
 
@@ -907,13 +978,13 @@ Hit it again. Oh, not bad. Uh-huh. Nice. Well, it it is not feeling good.
 
 Oh, it's Oh. To tune of pets. That would kill him. You're no longer flanked. No way.
 
-Hey. Arson? Alright. Elwar, you're up. Alright.
+Hey. Arson? Alright. Alwor, you're up. Alright.
 
 I'm just checking one thing. Don't do anything icy. Doesn't work. I don't know how this would work. I don't think that will work.
 
 Nope. It will not because it has the linguistic tag, and I'm assuming these things cannot understand me. I know. That seems unlikely. Well, we've got a couple people to go.
 
-Carson is hurt, though. I mean, not really. It's just a more like a lesson. Yeah. Yeah.
+Karsten is hurt, though. I mean, not really. It's just a more like a lesson. Yeah. Yeah.
 
 We're not, like, badly hurt, but you're hurt. Is this worth a spell slot too? Let me check one last thing. Sorry. Sorry.
 
@@ -922,6 +993,10 @@ We will I did take that. Alright. Sick. So I'm not going to do that. I am going 
 Where is my small casting? There it goes. We will electrohark it. Not very good, but every little bit. It failed.
 
 Alright. Cool. Six hole damage. And for act Six. For action three, we are going to demoralize it, because I have intimidating glare.
+
+---
+
+### Closing and Table Discussion - Part 10
 
 It doesn't need to have a language. So I will glare at this thing and kind of, make a motion over to, to hear and those dead ones, you know, indicate its its future. Where damn it. Demoralize. There it is.
 
@@ -957,7 +1032,7 @@ Oh, hey. Anyway, there you go. Hey. Thanks. Now raise my shield.
 
 Well, you can only do one or one or the other of those things. Taking a step that costs an action, raising shield costs an action. You've only got one action. I I just raised my shield. Yeah.
 
-Oh, and also Tahir and Carsten, I need both of you to make flat checks for your Titan swings. What do I gotta do? Pull a d 20. If you have a if you have a above a five, nothing bad happens. Why?
+Oh, and also Tahir and Karsten, I need both of you to make flat checks for your Titan swings. What do I gotta do? Pull a d 20. If you have a if you have a above a five, nothing bad happens. Why?
 
 Because It's over a five. Yeah. Because Titan Swing basically takes something out of you when you use it. So I think it's a backlash. Yeah.
 
@@ -965,7 +1040,7 @@ Oops. Sorry. That's not it. Okay. That's it.
 
 It's a little bit easier to get above a five with the d 20 than the d eight. Well, you can One would think But I was gonna say That's right. Okay. That's my problem. I have no faith.
 
-Let's see. Sameer, you're up. I'll work on that. Oh my gosh. Alright.
+Let's see. Simear, you're up. I'll work on that. Oh my gosh. Alright.
 
 And we're going to how far away are you? Sorry. I had this checked in my head once. Oh, yeah. The range is 60 feet.
 
@@ -1049,7 +1124,7 @@ Sorry. The little blue eyeball. Oh, okay. Got 45. I do not roll.
 
 I don't understand why they didn't roll. Yeah. Me neither. There it is. Oh, right back to normal.
 
-Perfect. Alright. Carson and Cahir, this actually makes sense because you guys are furthest up. Karsten and Cahir, you both hear, you you you both hear two different things. So, Cahir, you hear, they're gonna kill us all.
+Perfect. Alright. Karsten and Cahir, this actually makes sense because you guys are furthest up. Karsten and Cahir, you both hear, you you you both hear two different things. So, Cahir, you hear, they're gonna kill us all.
 
 And, Karsten, I guess you hear something similar. It's just like, we're gonna die. We're gonna die. We're gonna die. And that's, that's that's what we're we're we'll call it for tonight.
 

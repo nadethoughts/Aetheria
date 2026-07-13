@@ -72,3 +72,9 @@ New Penmaris is ruled by a council of merchant lords, with the admiral of the na
 - Citizens report strange, glowing fissures along the island’s cliffs, possibly linked to residual magical energy from the Flaming Retribution.
 - Refugees from destroyed settlements are arriving with dire warnings of threats that could strike the city, giving the PCs reason to investigate.
 - Pirate or monster attacks on the busy harbor increase tensions, requiring adventurers to protect the city’s trade.
+
+## Tidewatch Ward Reclamation
+
+One year after the [[Flaming Retribution]], Tidewatch Ward remains sealed behind walls and magical wards. Reclaimers sent by the Iron Tide Regiment established the [[Salty Dog]] as a base, contacted the [[The Verdant Strand/Iron Tide (Coralmarked)|Coralmarked]], disrupted Stormcaller rituals, and reached the [[Temple of Miraine]].
+
+The central mystery is [[The Pearl]], a weather artifact beneath the temple that may have helped preserve the island during the Retribution. The ward also contains valuable [[Coralite]], Pearlbound dead, sentient dock automatons, and active [[The Verdant Strand/Tidecutters|Tidecutter]] forces.

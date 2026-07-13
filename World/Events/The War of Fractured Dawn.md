@@ -76,6 +76,19 @@ The Veilcant Guard vanished. Their names faded into legend.
 
 But the flame was never extinguished.
 
+## Fourth Age Revelations
+
+During _Crown of the Immortals_, Oloru confirmed that the La Pelu were originally divine champions and that only some were corrupted by Erabose. Four Fourth Age heroes—Alwor, Cahir, Karsten, and Simear—recovered memories of the [[The Veilcant Guard|Veilcant Guard]] and reclaimed the relics hidden in the [[Sunken Temple of Cadens]]:
+
+- [[Beacon's Blade]]
+- [[Heart of the Flame]]
+- [[Infernal Breeze Gauntlets]]
+- [[Mirror of Ashes]]
+
+They also recovered a fragment of the [[Llano]]. Later events revealed that [[Vorath the Betrayer]] was directing the hag Velkra and attempting to gain control of [[The Great Time Turner]] so he could reverse the event that disrupted his plans.
+
+The Guard has since appeared in another set of incarnations—Aurora, Kroff, Duncan, and Poe—who are hunted by the orders created to contain La Pelu power.
+
 ## Prophecy of the Echoing Flame
 
 > “When the flame is fractured and the song is sealed,  

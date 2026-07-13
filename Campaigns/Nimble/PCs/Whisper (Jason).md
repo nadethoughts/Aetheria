@@ -35,12 +35,12 @@ He is the party's practical opportunist: the one who can read a bad ceiling, spo
 - Killed several kobolds in the animal pen fight with daggers and sling shots.
 - Benefited from Umbrail's Heart's Fire, gaining extra action economy in a key fight.
 - Was protected by Rowan's Interpose when Umbrail's Overload threatened nearby allies.
-- Helped find the key and free Lil Chan after the party discovered him chained in the Warren.
+- Helped find the key and free Lil Chang after the party discovered him chained in the Warren.
 
 ## Current Hooks
 - Whisper understands what it means to leave home and become someone else.
 - He is well suited to notice tracks, hidden compartments, salvage, device fragments, escape routes, and missing evidence.
-- The mountain arc gives him a mirror in Umbrail and Lil Chan: people who also left home and may now have to answer for it.
+- The mountain arc gives him a mirror in Umbrail and Lil Chang: people who also left home and may now have to answer for it.
 - His stolen object or family wound has not been defined yet and could surface later.
 
 ## Open Questions

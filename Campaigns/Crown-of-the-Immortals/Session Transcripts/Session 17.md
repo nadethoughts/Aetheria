@@ -2,18 +2,53 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "17"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 17 - Transcript
+# Crown of the Immortals - Session 17 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 15|Session 15]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 18|Session 18]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Closing and Table Discussion - Part 6]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 I'm very impressed. Yeah. And, well, and just to just kind of, you know, add some more to that, like, you've never heard of a giant turtle like this. You are fairly certain that you are at least close to Lobopolis, if not in Lobopolis proper. Her giant sea turtles don't just pop up anywhere.
 
 So this is very odd. You know? Even even amidst all the weirdness, this is especially weird. Yeah. Oh, alright.
 
-I'll agree. So, anybody else have anything else that they want to share about their character's, reaction as you guys follow, Prince Troubadour on the staircase? Oh, no. Not really. I think, Elwar, kinda similarly, is just kind of taking it all in.
+I'll agree. So, anybody else have anything else that they want to share about their character's, reaction as you guys follow, Prince Troubadour on the staircase? Oh, no. Not really. I think, Alwor, kinda similarly, is just kind of taking it all in.
 
 Like, wow. This place is great. Just, yeah, just wondrous rock. This is what he was for. Seeing if I did new stuff.
 
@@ -25,11 +60,11 @@ There's a second tier that, is right in right above you. Is definitely not built
 
 Although his is piecemeal, it it was put together in such a way that it was just more of a typical fantasy sort of clothing that he wears. Everybody else here has more of a tribal, Aztechie kind of look to them. Okay. So the the oddity is that nobody looks like he does, but, clearly, he belongs to these people. Uh-huh.
 
-Yep. Like, he is the oddity. I do. So they there are a number of people that walk up to him, and, you know, they're all very excited to see him, here amongst the amongst the jammering and and chatting, that his that his father, other chief Crokmar, has been worried about him. He's apparently been gone for a long time.
+Yep. Like, he is the oddity. I do. So they there are a number of people that walk up to him, and, you know, they're all very excited to see him, here amongst the amongst the jammering and and chatting, that his that his father, other Chief Croakmar, has been worried about him. He's apparently been gone for a long time.
 
 That was not the impression that he gave you, Mhmm. But that but that is that is what they, that that's kind of what you're picking up is, like, he just kinda disappeared a while ago, and they didn't and and they don't know they didn't know what happened. Of course. Mundane detail. After a bit of time, like, there are you you see a few runners run out, run out, and after about four or five minutes of this kind of chattering and things while you guys are kind of keeping your distance, but, you know, also kinda listening in and that kind of thing, you do see a, an old frog, walking around the edge of the shell, towards, towards the party.
 
-He's not decrepit by any stretch of the imagination. He's very he carries himself regally, and he definitely has is still hustled and and and well able. But he but he does he is definitely one of the people that or a very well respected person in the, in the community. And he comes walking around. And when he gets the point where he sees, Prince Troubadour, he shouts out, shouts out, Baquin, I'm so glad you've I'm so glad you made it back, and comes running over to him and embraces him.
+He's not decrepit by any stretch of the imagination. He's very he carries himself regally, and he definitely has is still hustled and and and well able. But he but he does he is definitely one of the people that or a very well respected person in the, in the community. And he comes walking around. And when he gets the point where he sees, Prince Troubadour, he shouts out, shouts out, Bogwynne, I'm so glad you've I'm so glad you made it back, and comes running over to him and embraces him.
 
 After a few moments, distributor, pulls himself away from his father and turns to the group and says, I have brought allies to our cause. These are, what do you call yourselves again? I don't know what we call ourselves. Right. Yeah.
 
@@ -39,7 +74,7 @@ We're from That's the city. That's it. So we could be the city. Whatever. I forg
 
 Yep. However the city is. From Aotan or something like that. Yeah. The group from Aotan.
 
-Yep. We are fellow survivors of the retribution like yourselves. Well, well met. I see that you only bring Baguan with you, but of the others that traveled with him, that Boguen or at that, prince Troubadour, lowers his head in in, in sadness. He says they did not make it.
+Yep. We are fellow survivors of the retribution like yourselves. Well, well met. I see that you only bring Bogwynne with you, but of the others that traveled with him, that Bogwynne or at that, Prince Troubadour, lowers his head in in, in sadness. He says they did not make it.
 
 There were more, there were more undead than we had originally thought, father. And with that, the the chieftain, also, lowers his head, and says, may Bavari keep them, and may their hunt be long. Then he turns to you and says, well, I must, I must thank you, for delivering my son back here. Is there any boon that you would wish of the, Gamarzul? What's a boon?
 
@@ -55,35 +90,39 @@ Another oddity with this with these people is they seem to have things that like
 
 And and human and human food as well. Maybe that. But, but they also have other things from other cultures. It's kind of like a amalgamation of a bunch of different cultures, that that they have. And, some of the stuff that doesn't look so good, if you if you are brave enough to try it, it actually ends up being very tasty.
 
-Some of the stuff that some of the stuff does not end up being very tasty. But it's really kind of one of those things where you have to risk it for the biscuit. Mhmm. Absolutely. Elwar tries everything, especially the things he's not had before.
+Some of the stuff that some of the stuff does not end up being very tasty. But it's really kind of one of those things where you have to risk it for the biscuit. Mhmm. Absolutely. Alwor tries everything, especially the things he's not had before.
 
-Carson does not. He sticks to the things that, are more human esque. Pepperoni pizza hamburgers. Right. That's right.
+Karsten does not. He sticks to the things that, are more human esque. Pepperoni pizza hamburgers. Right. That's right.
 
 Absolutely. And shrimp, maybe some lobster if it's there. Crawfish. Oh, yeah. Oh, yeah.
 
 They they have a number of different things that are this world's equivalent of those of those of those sorts of things. After, as the as the meal goes on, you do there are a few other, a few other do you other, here we go. VTTs are very awesome, but at the same time, they're not so awesome. Mhmm. Mhmm.
 
-So that is, what what we're currently on the game table, it's called a VGP. Yep. Yep. So that is chief Croakmar. You do also meet, his wife, his lady Lilypad Lady Lilypad.
+So that is, what what we're currently on the game table, it's called a VGP. Yep. Yep. So that is Chief Croakmar. You do also meet, his wife, his lady Lilypad Lady Lilypad.
 
-That's not me. And his daughter, who acts as an adviser to him. She's kind of like a like an adviser. And she is for real Forella, Greenleaf. Something that you do when when kind of talking around that there is a a fifth member of the Greenleaf family, the eldest brother.
+That's not me. And his daughter, who acts as an adviser to him. She's kind of like a like an adviser. And she is for real Frorella, Greenleaf. Something that you do when when kind of talking around that there is a a fifth member of the Greenleaf family, the eldest brother.
 
-And he, his name is Toadwin, and he is not present. And, prince Troubadour is specifically looking for him and is kind of, little bit despondent when he finds out that Codewin is not there. The general story in the scuttlebutt is after prince Troubadour, disappeared, then, Toadwin went looking for him, and he has not returned yet. Do they really function like a monarchy here? It's more of it's less of a well, kind kind of.
+And he, his name is Toadwin, and he is not present. And, Prince Troubadour is specifically looking for him and is kind of, little bit despondent when he finds out that Toadwin is not there. The general story in the scuttlebutt is after Prince Troubadour, disappeared, then, Toadwin went looking for him, and he has not returned yet. Do they really function like a monarchy here? It's more of it's less of a well, kind kind of.
 
-Yeah. I mean, it's it's more of a, it's more of a tribal, chieftain sort of thing. Okay. But it is kind of like, Todwyn, as the as the eldest as the eldest born, is expected to be the heir of the tribe, that kind of the heir of the chief of the chiefdom of the tribe. And he's apparently a very capable warrior, second only, to, chieftain Crokmar himself.
+Yeah. I mean, it's it's more of a, it's more of a tribal, chieftain sort of thing. Okay. But it is kind of like, Toadwin, as the as the eldest as the eldest born, is expected to be the heir of the tribe, that kind of the heir of the chief of the chiefdom of the tribe. And he's apparently a very capable warrior, second only, to, chieftain Croakmar himself.
 
 Oh. Alright. So dinner happens. You guys enjoy all of the all of the food that you're able to, scarf down. Your bellies have not been this full in a great many years, or maybe not a great many years, but a great many days.
 
 I wouldn't necessarily say years, but, and, after that, chieftain Krogmar, invites you into his, not a hut, but his his living quarters, which is a well, it's it's this building right here. Okay. So, to have a, to have a after dinner chat. Yeah. He does include, his his daughter, Aurella, but lady Lilypad, herself from the conversation.
 
-And Prince Trudeau is also invited, to be be a part of the council. Upon entering the building, it it is a very, it it's a stone building, and it does have, a hearth and a fire and and those sorts of things, although they are not currently active, as you're currently sitting in a boiling lake, where. But, it does have more of a more of a classical, middle, medieval style style to it, with more, with more of, like, like, the tapestries are more like Aztec in style. So it's those, you know, square patterns and and geometric shapes and that kind of thing. Mhmm.
+---
+
+### Session Play - Part 2
+
+And Prince Troubadour is also invited, to be be a part of the council. Upon entering the building, it it is a very, it it's a stone building, and it does have, a hearth and a fire and and those sorts of things, although they are not currently active, as you're currently sitting in a boiling lake, where. But, it does have more of a more of a classical, middle, medieval style style to it, with more, with more of, like, like, the tapestries are more like Aztec in style. So it's those, you know, square patterns and and geometric shapes and that kind of thing. Mhmm.
 
 Right. So he, so he pulls you in. He has you sit at a table with him, and he says, so you mentioned something about an alliance, a mutually beneficial situation? Yes. Yes.
 
-Yes. We, we originally came to these lands. Our home has been attacked by, goblins, specifically those from the, burning burning tree burning what is it, Chris? Sorry. Oh, the Firewalker tribe.
+Yes. We, we originally came to these lands. Our home has been attacked by, goblins, specifically those from the, burning burning tree burning what is it, Chris? Sorry. Oh, the Fire Walker tribe.
 
-Ah, the Firewalker tribe. After speaking with your, your son here on our travels, we hear that they have, been a bother to you as well. So we hope to at least get some information that may help us. If not, maybe a a joint campaign against them. Where we come from, we are quite the warriors ourselves.
+Ah, the Fire Walker tribe. After speaking with your, your son here on our travels, we hear that they have, been a bother to you as well. So we hope to at least get some information that may help us. If not, maybe a a joint campaign against them. Where we come from, we are quite the warriors ourselves.
 
-We took down many goblins on our way here. Well, the, stories that, that Bogwan has told me are half as true as as what he said, then I would venture to say that you probably are, very well capable. I would say, as far as the fire walkers are concerned, where we their location, we can point you in a general direction. We have not been successful in finding their actual encampment or village or whatever it is that they live in primarily because there's some sort of magic that we don't quite understand that is preventing us from doing so. Our scouting our scouting parties either return thinking that they were heading, that they were heading deeper into the jungle and ending up on the edge of the jungle where, where we are or a, never never return.
+We took down many goblins on our way here. Well, the, stories that, that Bogwynne has told me are half as true as as what he said, then I would venture to say that you probably are, very well capable. I would say, as far as the fire walkers are concerned, where we their location, we can point you in a general direction. We have not been successful in finding their actual encampment or village or whatever it is that they live in primarily because there's some sort of magic that we don't quite understand that is preventing us from doing so. Our scouting our scouting parties either return thinking that they were heading, that they were heading deeper into the jungle and ending up on the edge of the jungle where, where we are or a, never never return.
 
 We have no we we know where they are not, which means we know where they are, but we can't get to them. I see. Well, with that, we also brought something that may help. We captured one of these goblins on the shore. I believe he is likely within your people's custody at the moment when he was brought from the from our boat.
 
@@ -103,7 +142,7 @@ What? And landed in this in this lake. And he has not shown too much gumption to
 
 He does. We, yes. Communicate is the correct word. We do not have conversations, but we have lived with him, and he's lived with us for a great amount of time, and we know each other's habits. I see.
 
-Was there, anything that you wished anything else you wish to know about Oluru? Nope. Not really. That seems to be I mean, that seems sufficient for me. Oh, you wanted to know where we we are not originally from this area.
+Was there, anything that you wished anything else you wish to know about Oloru? Nope. Not really. That seems to be I mean, that seems sufficient for me. Oh, you wanted to know where we we are not originally from this area.
 
 We are actually from the, from the East. Oh. Southeast, to be completely, to be, honest. So there's a, we are in we we are from the sea. There are a number of islands that we, that that we migrate to and from and around.
 
@@ -111,21 +150,21 @@ Uluru obviously has been, as a sea turtle, we generally keep to the coast. We do
 
 But we are now far to the north. Uh-huh. Do you know how or how how far to the north are you? It seems to be a very long if how how how far did you travel to make it down here? Well, I'm trying to find out those are two very different questions.
 
-Right. Near near as we can tell. I think it is it would normally be several months journey. However, we were able to arrive, through some rather magical means that, still are a little mysterious to us. Is this how the, is are these magical means the way that the Firewalker tribe has, been attacking you, or is this a or is there a separate firewalker tribe that's, like, two related tribes?
+Right. Near near as we can tell. I think it is it would normally be several months journey. However, we were able to arrive, through some rather magical means that, still are a little mysterious to us. Is this how the, is are these magical means the way that the Fire Walker tribe has, been attacking you, or is this a or is there a separate Fire Walker tribe that's, like, two related tribes?
 
 Or Yeah. We we believe, that that they're using the same means. There is a a series of tunnels, a caves, that seem to magically connect here to where we come from, and they have, have used those to to get to us. I see. Our people do currently have them, secured, however.
 
 So we don't anticipate more attacks, but we are here to make sure, well, that that stays permanent. Yeah. I see. Well, if, that that seems like a seems like a honorable hunt. Yeah.
 
-We would be we would be happy to assist you any way we can, especially considering our combined, our combined enemy. You will forgive me, but I am not currently at a place where I can provide the best assistance, to you at the moment. My, eldest born, Codewin, is expected to return any anytime now. He's actually vouch three or four days later than we expected him. Oh.
+We would be we would be happy to assist you any way we can, especially considering our combined, our combined enemy. You will forgive me, but I am not currently at a place where I can provide the best assistance, to you at the moment. My, eldest born, Toadwin, is expected to return any anytime now. He's actually vouch three or four days later than we expected him. Oh.
 
-But when he returns, then we can we can definitely provide the, provide a greater level of assistance. As this as Oloru is under attack consistently, we do not want to leave him undefended. Where did your son go? He went searching for Bogwan. Bogwan returned before he did.
+But when he returns, then we can we can definitely provide the, provide a greater level of assistance. As this as Oloru is under attack consistently, we do not want to leave him undefended. Where did your son go? He went searching for Bogwynne. Bogwynne returned before he did.
 
 Uh-oh. Okay. So if you are if you would be willing to wait around for a few days, get to know the get to know the people, get to know our people, and under and understand our, understand our ways a little bit, then, we would be most happy to assist you, in the extermination of these goblins. It may, in fact, take us a few days to, get any information from that, presence that you brought us anyway. And, we'll look at the the rest of the team.
 
 Like, I I mean, we're not in a big hurry. I I think we can spare a few days. What do what do you think? I I also think it's wise to wait to hear what this prisoner has to say. It could be very valuable.
 
-I agree as well. I agree. Alright. Is Kahir with us? Here.
+I agree as well. I agree. Alright. Is Cahir with us? Here.
 
 Just listening. He here is thinking that he doesn't have an he doesn't have anything to swing an axe at. This sucks. That's not easy to go. That's right.
 
@@ -133,13 +172,17 @@ I'm worried about the other son, though. Where is he at? Mhmm. Mhmm. Go look for
 
 Yep. Alright. I have to go. Well worth being concerned about. Yeah.
 
-I, Sameer, I have no no reason to think that it's in our interest to to get out of here any anytime too too soon. Alright. So they will, they they'll set you up in, in your own quarters. I don't have a ton of extra rooms, but there are some cots and things that are available for, you. And it's and it's it's a private room.
+I, Simear, I have no no reason to think that it's in our interest to to get out of here any anytime too too soon. Alright. So they will, they they'll set you up in, in your own quarters. I don't have a ton of extra rooms, but there are some cots and things that are available for, you. And it's and it's it's a private room.
 
 It's private for you guys. They they make sure to give you them space so you have your own have your own area or your own space to be able to do whatever it is that you want. So, you've got a few cuts and that kind of thing. Anything that anybody specifically wants to do over the course of the next couple of days while, they're working stuff out? Oh, yeah.
 
 Oh, yeah. I'm a take a boat real quick and go to the head of this giant turtle, Uluru, and I am going to try to see what happens, since as a gnome, I have the ability. Where is it? I am an animal elocutionist, and I can speak and have conversation with animals. Yes.
 
 Of course. I'm not sure if this thing counts as an animal. It may not, but I don't cry because, of course, I am. You know? Not every day you get to talk to a millennial old turtle.
+
+---
+
+### Session Play - Part 3
 
 Exactly. Well, even if this wasn't an animal, that's that is as awesome of an idea as I've ever heard, so we'll go we are gonna go with it. So, so you row up to the, to the turtle. And, again, like, you you are kinda taken in by seeing the cosmos in the eyes of the of the turtle itself. But as you, as you approach, you how how does that work?
 
@@ -177,9 +220,9 @@ But, yes, I have I have met and interacted with others. I see. We, survived, lik
 
 I'm just forgetting it right now. Trippke is the name of the race. Yep. Like like the Trippke, we we survived the the flaming retribution, the the fire from the sky. But, we we are, collectively, followers of Raythellian and his I I don't know if children's the right word, but the the the other luminescence is, specifically, I, was spoken, no, communicated to.
 
-I was given a vision, by by what I believe was Cadence. I don't know if if you had the pleasure. We also have interacted with, not directly, but found a temple, of Shenandoah. Do you have experiences with either of these? Shenandoah is, more brilliant than I have than I have experience with.
+I was given a vision, by by what I believe was Cadens. I don't know if if you had the pleasure. We also have interacted with, not directly, but found a temple, of Shenandoah. Do you have experiences with either of these? Shenandoah is, more brilliant than I have than I have experience with.
 
-I have, I have interacted with Cadence, although he does not always understand the ways of Ol'Vara, and they are not close. Yeah. That that that that makes sense, I suppose. I seek, I seek something of of his of Cadence. His song, The Yano.
+I have, I have interacted with Cadens, although he does not always understand the ways of Ol'Vara, and they are not close. Yeah. That that that that makes sense, I suppose. I seek, I seek something of of his of Cadens. His song, The Yano.
 
 Do you know of it? Do you know anything about it? I found but a snippet, a a a bar, maybe slightly more. Oh, yes. I do know it.
 
@@ -189,7 +232,7 @@ Which should be a a picture of. Oh. Oh, yeah. They they they look cuddly. Mhmm.
 
 He, Oloru says that is Aiden's temple Oh. Lost to time. Wow. And that is why you are here, you said? To protect it?
 
-Yes. I was, as as the, flaming retribution came near, I was asked, by, Uvarra by way of well, Cadence, by by way of Uvarra to travel to this spot, to protect this from to protect this temple, what was inside, from any, from any, but from any, dark influences that we're trying to, get what was in what was in there. Oh, is is that why the goblins attack the fire walkers? Is that why they're coming here, do you think? I believe the little green men are here to, are are wishing to get gain access to that temple, but, we have been able to repel them, and we will continue to do so.
+Yes. I was, as as the, flaming retribution came near, I was asked, by, Uvarra by way of well, Cadens, by by way of Uvarra to travel to this spot, to protect this from to protect this temple, what was inside, from any, from any, but from any, dark influences that we're trying to, get what was in what was in there. Oh, is is that why the goblins attack the fire walkers? Is that why they're coming here, do you think? I believe the little green men are here to, are are wishing to get gain access to that temple, but, we have been able to repel them, and we will continue to do so.
 
 That is quite troubling. Where we come from, there is a, I I think I mentioned a temple to Shanonua, and the goblins are coming there as well, we believe, to try to gain access. And we have also so far been able to stop them. It's very interesting that all that the survive the two known survivors of this cataclysm both ended up in places where the temples of the the temples of the of the guiding luminescences and the and the, and the rank of brilliance deities are. Perhaps Raythellian is guiding us even further.
 
@@ -214,6 +257,10 @@ Do you do you know what can you tell us of I'm gonna go to the bathroom. The, of
 The stories say they are they are evil and corrupt. That is true for some. Most were faithful servants. They were not as, as those today believe, born in evil, but there were some that were corrupted by Everos and goes to follow his path rather than the light. And that is what that is what has caused such a, fear of them.
 
 Because when you have such great power and he looks at you knowingly okay. When when you have such great power Uh-huh. Then it is difficult for those without to understand that you are you are fallible just like anyone else. Oh, that that makes sense. I I got a smile at him knowingly as well.
+
+---
+
+### Session Play - Part 4
 
 It is not the Laplu that are evil, but individuals themselves. Yes. Yes. That that makes sense. Stay strong.
 
@@ -241,7 +288,7 @@ Okay. So, well, and, yeah. So so what do you, what do you do when you get back? 
 
 Okay. So So something specific. Okay. So just in general, like, you you definitely do feel like there's, you know, the this these people, while they see while they at first seem standoffish, they they have warmed up to you pretty pretty significantly over the past, three or four days. Again, the again, Toadwin had Toadwin just isn't coming back.
 
-Like, he hasn't returned for the for the entire time that you were there. And, Yeah. This is gonna this isn't necessarily going to hit nearly as much, but there are but, our you do notice that there are, a cup like, there's, like, an elderly trip key, lady who is basically using a piece of, Lumopolous, tapestry as a blanket. Oh. And it and it covers part of the story of creation of Etheria.
+Like, he hasn't returned for the for the entire time that you were there. And, Yeah. This is gonna this isn't necessarily going to hit nearly as much, but there are but, our you do notice that there are, a cup like, there's, like, an elderly trip key, lady who is basically using a piece of, Luminopolis, tapestry as a blanket. Oh. And it and it covers part of the story of creation of Aetheria.
 
 Oh. And what caught your eye specifically about this, is the story is referencing the use of music in the creation of the story. So it's a reference to the Lanoue you would Interesting. Yeah. Okay.
 
@@ -251,7 +298,7 @@ Once once you explain kind of what you're trying to do, she she isn't nearly as,
 
 Yeah. She'll let you she'll let you take a look at it. Sure. And she says that her, her grandson fished it out of the north fished it out of the, out of the sea by the northwestern flipper of Uluru. So the the general direction of the temple.
 
-The temple. Yeah. Okay. One of, my thoughts during all the time here is is there a way that I and or Kahir could, use our smithing and crafting skills to bolster, aid, upgrade anything in the town? I'm sure that there are there are definitely repairs and things that could be that could be done and help build to help build and solidify, especially the stone walls.
+The temple. Yeah. Okay. One of, my thoughts during all the time here is is there a way that I and or Cahir could, use our smithing and crafting skills to bolster, aid, upgrade anything in the town? I'm sure that there are there are definitely repairs and things that could be that could be done and help build to help build and solidify, especially the stone walls.
 
 Like, you know, this area has been pretty heavily, it's obvious that it's been under siege. So, that's definitely something that they would that they would that they would definitely grateful for. And I would also, our I I did also want to Mhmm. Point out this isn't a perfect solution. But I I want you to I want you to at least have something that you might not have thought about.
 
@@ -289,9 +336,9 @@ The well, the water's, boiling hot. Yeah. Okay. And then we have the sharks are 
 
 The shark the sharks. The sharks are they are not dying, and that is because they are fire sharks. These the brine shark, which is that which is that kind of shark, has fire resistance. Oh. And I would and I wouldn't give you that information ahead of time except, well, they're currently swimming around inside of Fire Lake, so it's kinda obvious.
 
-Yep. Alright. So friend, Prince Truidore, was he able to be in the water? He actually stays as far away from the water as he possibly can. So when he was hiding, he was hiding in the water.
+Yep. Alright. So friend, Prince Troubadour, was he able to be in the water? He actually stays as far away from the water as he possibly can. So when he was hiding, he was hiding in the water.
 
-Okay. Oh, oh, and that is a good point. Are going to have prince Troubadour. Now that you've made it back, prince Troubadour is going to be leaving the party. He should probably be healed, and so should Carson and Samir.
+Okay. Oh, oh, and that is a good point. Are going to have Prince Troubadour. Now that you've made it back, Prince Troubadour is going to be leaving the party. He should probably be healed, and so should Karsten and Simear.
 
 Yeah. Every everybody should be back up at full. So just go ahead and go ahead and, sleep a bunch of times until you're until you're fully rested. How do I do that? If you go to the lower left hand corner where the extras are, the little three boxes, click on that, it says rest for the night.
 
@@ -299,29 +346,33 @@ Mhmm. Oh, boy. Every time, I keep missing one of those things. Okay. Extras.
 
 Lower left corner. There's, like, dice looking box things. Yep. Right next to the hand. Oh, yeah.
 
+---
+
+### Session Play - Part 5
+
 Yeah. Yeah. Yeah. I think it's a dice. There.
 
 One night. Now I'm not saying that Prince Troubadour won't help out, you know, if if if you guys need it or anything, but he is not a he is not a PC. He is literally an NPC. He's not me playing another character. So Yep.
 
-Since everybody else kinda said some my thought was during that two days when Elwar was talking to the animal, I would ask the princess to walk me around the town and tell me her story and try to figure out why her brother if there's anything behind, like, him not returning. Is there any strained relationships and things like that at the town? That make sense? Yeah. Yeah.
+Since everybody else kinda said some my thought was during that two days when Alwor was talking to the animal, I would ask the princess to walk me around the town and tell me her story and try to figure out why her brother if there's anything behind, like, him not returning. Is there any strained relationships and things like that at the town? That make sense? Yeah. Yeah.
 
 So, I'm not trying to get with her. Just trying to, like, have a guide. You know? It's PG. She's yes.
 
 Whatever. You're trying to get with her? We we run a A little tiny frog. P g run a PG to PG 13 game here. So, you know, I no.
 
-And in any case, Cruella will, basically just kinda let you know that, there's really no animosity in the family itself. She did she and toadwyn both think that, Oguin, which is prince Troubadour, is a bit of a weirdo. But it's not like there's no animosity in that. It's just more along lines of, like, oh, this is our cute our cute baby brother, you know, that kind of thing. They do respect his ability.
+And in any case, Cruella will, basically just kinda let you know that, there's really no animosity in the family itself. She did she and Toadwin both think that, Bogwynne, which is Prince Troubadour, is a bit of a weirdo. But it's not like there's no animosity in that. It's just more along lines of, like, oh, this is our cute our cute baby brother, you know, that kind of thing. They do respect his ability.
 
 So it it's not it's not that he's, you know, considered to be, you know, subpar to anybody, but he is still in training. She has basically found her place in the tribe as, the chief diplomat and adviser to the chief. So, she hasn't been able to use her diplomatic abilities for a while, just because the only thing to diplomacy is in this swamp are goblins that wanna kill them and undead creatures that, you know, are undead and unreasonable. But she has served as an adviser to the chief for about four or five years at this point, and she respects his wisdom and he respects, her perspective. As far as Toadwin is concerned, you get that Toadwin is more of a classical protective older brother sort of thing.
 
-He's not cocky. He's not, like, you know, he he he doesn't, like, think that he's he he's not itching to take over the chiefdom or anything. He just wants to he wants to protect his people and, you know, look out for his family. That's really kinda why he left was his brother had been missing for, for about three weeks by the time that he decided to take off. And, you know, it it wasn't that it wasn't that Boguian just up and disappeared.
+He's not cocky. He's not, like, you know, he he he doesn't, like, think that he's he he's not itching to take over the chiefdom or anything. He just wants to he wants to protect his people and, you know, look out for his family. That's really kinda why he left was his brother had been missing for, for about three weeks by the time that he decided to take off. And, you know, it it wasn't that it wasn't that Bogwynne just up and disappeared.
 
 Like, he went on a went on a raid. He did he was doing exactly what he told you guys. Like, he was, going for he he was going to attack the undead that were getting a little bit too close to his territory to their territory. But when he didn't return, Odwun, decided that he needed to, take matters into his own hands and go find his little brother. Do they know his travel plans?
 
-They That's where he went. Right. They he went in the same direction that Bogwin went. So he basically followed after where Bogwin Bogwin was. As you guys haven't didn't run into him either way surprising.
+They That's where he went. Right. They he went in the same direction that Bogwynne went. So he basically followed after where Bogwynne Bogwynne was. As you guys haven't didn't run into him either way surprising.
 
 And it's possible that he may have been diverted. And when you mentioned that, like, kind of to Barela, you do notice a a note of concern in her features. She's still a good enough diplomat that, like, you don't see the full thing. But as a sibling yourself and, you know, that kind of thing, you you would you would definitely notice that, you know, there's a little bit more of a a of concern going on with her, towards Toadwin because, like, he Toadwin is known as an excellent tracker. He's definitely somebody who knows the woods and how to operate in them and, is well respected in the village for his hunting capabilities.
 
-So it's very un it's very odd that, you know, you wouldn't have run into him when you're basically walking around with with Boguan. Right. So that's the that's the information that you're able to glean from her about that. If there's anything else that you wanna dig in is there anything else that you wanna dig in deeper to? Like, any new questions pop up with that information?
+So it's very un it's very odd that, you know, you wouldn't have run into him when you're basically walking around with with Bogwynne. Right. So that's the that's the information that you're able to glean from her about that. If there's anything else that you wanna dig in is there anything else that you wanna dig in deeper to? Like, any new questions pop up with that information?
 
 No. I mean, for me, I just come kinda concerned, and it'd be interesting if the other prisoner dude knows anything about Toadwin. I saw him. I agree. Right.
 
@@ -369,9 +420,13 @@ It doesn't do more damage. Oh, no. That one that you gave me allows me to cast b
 
 That is useful. Yeah. I don't have anything that would be useful. I don't know that I could cast it enough for everybody. But Yeah.
 
-Yeah. The bubbling scale, I think, is what it was, and that was and that's in Samir's inventory. For an hour, you can hold your breath for 15 rounds plus your constitution modifier instead of five rounds plus your constitution modifier. There's no active nonaquatic environments. Yeah.
+---
 
-So that's scale. Carson literally just has his weapons and armor. What's that? It's all you need. Right?
+### Closing and Table Discussion - Part 6
+
+Yeah. The bubbling scale, I think, is what it was, and that was and that's in Simear's inventory. For an hour, you can hold your breath for 15 rounds plus your constitution modifier instead of five rounds plus your constitution modifier. There's no active nonaquatic environments. Yeah.
+
+So that's scale. Karsten literally just has his weapons and armor. What's that? It's all you need. Right?
 
 That's all I need. Is that leveling skill? That's a consumable. Yeah. So it's a onetime use and, you know giving giving that along with the air bubble, you know, depending that should give everybody enough time to be able to maybe get down there.
 
@@ -429,7 +484,7 @@ Oh, look at that. I got I got a nine that time. Oh, you're adding 10 to it becau
 
 Alright. So here's what you know about brine sharks. One, brine sharks are not are are not natural, they're not natural animals. They're actually, they're actually elementals. Mhmm.
 
-They generally do not roam around in groups. They're Hey. Pretty solitary. The way that these specific sharks are swimming, it's it's very clear to you, Sameer, that they are patrolling. And Mhmm.
+They generally do not roam around in groups. They're Hey. Pretty solitary. The way that these specific sharks are swimming, it's it's very clear to you, Simear, that they are patrolling. And Mhmm.
 
 And it seems like they're a, if if you were to interpret kind of the situation, is there the second layer of defense for the for the temple itself? Mhmm. So, if anybody if anybody or anything gets close to them, they have a tendency to they they just they just attack. So and there are other there are other creatures that are in this water, not a lot of them because most creatures don't have fire resistance, but there are some things that have survived. And if anything gets within a certain parameter in the temple, then the brine sharks attack.
 

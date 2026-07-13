@@ -31,3 +31,9 @@ The Coralmarked are surviving members of the Iron Tide Regiment who endured the 
 - **Moral Dilemma:** PCs may begin to show early signs of coral grafting—how far will they go to finish the mission?
 - **Shared Enemy:** The Coralmarked despise the Tidecutters and Stormcallers, offering aid in exchange for strikes against them.
 - **Personal Connection:** Some Coralmarked may recognize PCs from past service, deepening the emotional stakes.
+
+## Revealed During The Anchor's Secret
+
+The reclaimers met the Coralmarked under the leadership of [[Veyric Thorne]]. Xander Floodbringer found his missing fisherman friend alive among them, though afflicted with coral growths.
+
+The party established that the transformation behaves as a curse rather than an ordinary disease. Exposure risk increases with every day and long rest spent inside Tidewatch Ward. The Coralmarked provided intelligence about the Stormcallers, automatons, pirates, Pearlbound, and the central [[Temple of Miraine]].

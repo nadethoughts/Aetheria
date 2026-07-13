@@ -2,12 +2,50 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "12"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 12 - Transcript
+# Crown of the Immortals - Session 12 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 11|Session 11]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 13|Session 13]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Closing and Table Discussion - Part 9]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 Go into so if you go into the hand yeah. Like Jason said, on on the character, little HUD thing down there. Yeah. Click on the the hand. Under there, you'll see survival.
 
@@ -17,7 +55,7 @@ Starting the night strong. Right. Just like standard operating procedure. Clark 
 
 I did not force a secret role on this. But, Then why did I go to a secret role? No. It's not lying. It's how.
 
-Oh, I is there two different Oh, okay. There's two different. Carson is sensing his directions. I think terrible as well. Okay.
+Oh, I is there two different Oh, okay. There's two different. Karsten is sensing his directions. I think terrible as well. Okay.
 
 Are we all checking survival? Good job. We should. Not everybody has made a role, but, for those of you that did, I would tell you that, Karsten I'll do that. You you definitely recognize, you recognize that range.
 
@@ -49,9 +87,9 @@ We did make it we did make it through that. So go ahead and let me let me see he
 
 Reception. So basically you see the little, the little mask in, in that, in the box to the left, you click on that. That'll just roll a secret perception check, which will be the very clear blue mask. Yep. The light blue one or the white blue looking thing there.
 
-The dark blue itself, which is the opposite of what we want. Yes. That one. And that is specifically our and Kahir. So Mhmm.
+The dark blue itself, which is the opposite of what we want. Yes. That one. And that is specifically our and Cahir. So Mhmm.
 
-Karsten and Samir, you guys both don't have a high enough perception to get get the check at this point. Oh, that's silly. So that's like that little eyeball? Yeah. The little blue eyeball.
+Karsten and Simear, you guys both don't have a high enough perception to get get the check at this point. Oh, that's silly. So that's like that little eyeball? Yeah. The little blue eyeball.
 
 Yeah. Yeah. Yep. Okay. Yeah.
 
@@ -63,7 +101,7 @@ That outline in the jacket rocket. Hey. It looks like it could be a door. I, I t
 
 Go, check it out. Okay. Can we do any healing beforehand? I don't think I'll do it. That's that is a very good question.
 
-That is such a good question. Come here, Carson. I thought you were healed. Why Why do I keep doing stuff, Chris, on accident? I've got, like, effect cover, date cover, and Marshall's Okay.
+That is such a good question. Come here, Karsten. I thought you were healed. Why Why do I keep doing stuff, Chris, on accident? I've got, like, effect cover, date cover, and Marshall's Okay.
 
 Aura. Sorry. Well, the Marshall's aura is not is not a you thing. That's a outward thing. That's coming from me.
 
@@ -75,11 +113,11 @@ Cool. Cool. There you go. Now rev it up and do it again. Just one more should be
 
 Alright. 12. Nice. K. Here, are you coming?
 
-Or not here. Sameer. Okay. So Oh, yeah. I guess.
+Or not here. Simear. Okay. So Oh, yeah. I guess.
 
 I would like to just take a moment to ask what, what exploration activities people are, performing at this point. So right now, I've got how were you are actively searching. Mhmm. Cahir have you as scouting. I've got Karsten as defending.
 
-Yep. And I've got Samir doing nothing. What? Your I know. Right?
+Yep. And I've got Simear doing nothing. What? Your I know. Right?
 
 Your, your options are avoiding notice, which is sneaking, covering tracks Mhmm. Defending, detecting magic. I think that's what you were doing before. Yeah. That was the yeah.
 
@@ -113,6 +151,10 @@ K. You do notice as you're taking everything in, you do notice, like, one of the
 
 Okay. I'm gonna go check that out. Okay. I think I see something. I think this is the the the lake we were at before.
 
+---
+
+### Session Play - Part 2
+
 I'll just kinda walk past everybody and go check it out. Right. So going into the room, you do see, like, a few layered steps as you go down. So it's like you're you're going you know, it's not like just a direct, crooked 40 degree angle, but you've got a step that you step down into and then another giant step. And when you make it over there, there there's not really a lot of additional, not really a lot of additional paraphernalia around here, other than, like, a few stalactites and stalagmites hanging around, which is kinda why that alcove caught your attention because it appears to be carved out of there.
 
 You start you you start going around there and, like, start pressing around on the top. It's completely empty. There's a little bit of there's no dust on the on the shelf itself. The shelf isn't actually holding anything. You start pressing around on the on the top, and you kinda get, like, a popping mechanism that comes up.
@@ -137,11 +179,11 @@ It's not It has a yeah. So the the language that you don't recognize that's in t
 
 Okay. Alright. Maybe someone in the village can help, but for now, talk it away. Right. Nothing Well, nothing magical about it.
 
-Right? Nothing magical. And yeah. I mean, it it basically there's nothing magical about it specifically. I would say that, Carson, you specifically get a little bit more of the heebie jeebies from it than the rest of the group.
+Right? Nothing magical. And yeah. I mean, it it basically there's nothing magical about it specifically. I would say that, Karsten, you specifically get a little bit more of the heebie jeebies from it than the rest of the group.
 
 But, definitely doesn't have any, well Do I get I'm just let me As as I'm running my detect magic, I'm not picking anything up. This is what I'm saying. Yeah. So no. And that's and that's kinda that's kinda where why I'm starting to walk it back a little bit what I was saying.
 
-So Sameer, your detect magic will tell you that there's definitely some sort of divination magic, surrounding this scroll. The scroll itself is not magical, but it's but it definitely has like like, divination magic has been used around this this scroll. I guess, that's the best way to put it. Okay. And, and Carson, I'm sorry.
+So Simear, your detect magic will tell you that there's definitely some sort of divination magic, surrounding this scroll. The scroll itself is not magical, but it's but it definitely has like like, divination magic has been used around this this scroll. I guess, that's the best way to put it. Okay. And, and Karsten, I'm sorry.
 
 What what was the what was the question? I was gonna ask if it's more divine than anything. Yeah. And, yeah, that is that is absolutely true. Like, you you're definitely getting a lot more of a, you know, this is, you know, there's something dark, there's something bad, with to do with this with this scroll.
 
@@ -189,6 +231,10 @@ Cool. Cool. Cool. Cool. Alright.
 
 Well, in that case, I believe the only places we have yet to be are down here, to the Southwest, which I believe was outside or it sounded like it was outside. And then this kind of room up in the Northwest, we started to go there and then double backed. So I think let's go check this thing out up to the Northwest. That was good to meet. It's mostly clear.
 
+---
+
+### Session Play - Part 3
+
 Chris, if we run into anything, let us know. But I'm just gonna grab and drag and drop myself all the way over there. I will yep. I I will tell you that it is free and clear. So you are good.
 
 Can can we take a quick, a quick bio break? Yeah. Yeah. Sure. Sure.
@@ -235,7 +281,7 @@ Uh-huh. So, basically, what you're gonna need to do for or anything that's got a
 
 Alright. Cool. Cool. Cool. So you get back over to that corridor and start start going down it, and it is, there's some stair steps that go down to a, a stone well, not a stone, but a thick wooden door at the bottom of the stairs.
 
-Check it, Carson. So Carson, or not car Kahir, you were scouting. So, go ahead and roll a perception down there. Am I too close to the door? No.
+Check it, Karsten. So Karsten, or not car Cahir, you were scouting. So, go ahead and roll a perception down there. Am I too close to the door? No.
 
 You're fine. I don't wanna die. My mouth is broken. Oh, no. Why is this always I got a lot of privacy going on here.
 
@@ -249,7 +295,7 @@ Oh, yeah. I don't like snakes. There mhmm. Your character is fine now. Yeah.
 
 Right. Yeah. So that's what you hear on the other side of the door. You do check the door. It doesn't appear to be locked, and there doesn't appear to be any, any traps or anything on there.
 
-But there's definitely mean, a monster door that could bite your heads off? If it was a monster door that was gonna bite your head off, it would have already done it by now. Nice. Good point. Carson, I knew I nudged Carson like, dude, open the door.
+But there's definitely mean, a monster door that could bite your heads off? If it was a monster door that was gonna bite your head off, it would have already done it by now. Nice. Good point. Karsten, I knew I nudged Karsten like, dude, open the door.
 
 I would say something chicken shit, and then I'd open the door. Okay. This is one of those opportunities. I don't know if you guys do have any, like, prep stuff that you can do. I would give you a round of prep if you are before you open the store if you want to.
 
@@ -289,7 +335,7 @@ It what what you're dealing with right now is not a single enemy. It is what it 
 
 In the rest of the in the rest of the room, you have a few you've got a few tables over here, one here, a couple over here, a stool over here. You have some bloody writing on the wall, but the rest of the room is pretty empty. And then just in the center of the room, you have this large broiling mass of leeches. I mean, I'd like to go swing at it, but I'm scared. Oh.
 
-Mhmm. Mhmm. I don't like these leathery things. Should I make my turn after Carson's? You can if you if you want to.
+Mhmm. Mhmm. I don't like these leathery things. Should I make my turn after Karsten's? You can if you if you want to.
 
 I just wonder what it'll react if I hit it. You know, it'll take me and kill me. You you honestly don't know what its abilities are, but you've never seen a you've never seen a creature that has immediate, like, reaction if you attack it. And, there are some spells in the game and some abilities that do, do, like, retaliatory things. But, this is not like, I I wouldn't worry about it at this level.
 
@@ -308,6 +354,10 @@ The easiest thing to do with that is where you see the little sword is, like the
 Oops. Got a target first. Oh, man. How come you hit so hard? Okay.
 
 You hit it with you you take a mighty swing with your with your axe. Go ahead and roll damage. The Titan swing on, so it should roll too. Right? Oh.
+
+---
+
+### Session Play - Part 4
 
 Big sauce. For 22 points of damage. Oh, it's pretty good. I'll die. Oh, he didn't take it all, though.
 
@@ -329,7 +379,7 @@ So any enemy in this warm in this warm space takes two d six bleed and is expose
 
 Goodbye. Very encouraging. Now it's going to yes. There we go. So now Cahir has a bleed, has a bleed damage.
 
-Oh, okay. And that's all it's going to do. That's all. Sameer, you're up. I was thinking about this.
+Oh, okay. And that's all it's going to do. That's all. Simear, you're up. I was thinking about this.
 
 Lovely, you know, whatever this is. Attack with fire. Yeah. Do it. Do you want to?
 
@@ -435,6 +485,10 @@ That sounds good to me. So I'm going to, request a role from UK here. That'd be 
 
 There may be. There could be. Given the layout of this map. But Yeah. It's really hard.
 
+---
+
+### Session Play - Part 5
+
 Either way, they're expecting us. Yeah. It'd just be fun to have one person pounding on the door while everybody else storms in on that side of them. Yes. Yes.
 
 Yes. Indeed. Tell me what you need me to do. I am just Of course. I just submitted a request for an athletics check from Cahir.
@@ -467,7 +521,7 @@ Oh, sorry. I'll just go ahead and roll NPCs while he's doing his thing. Y'all ro
 
 I rolled very well. Alright. Holy old heck. Okay. So, let's go ahead and Yeah.
 
-Most of them better than me. Alright. Let's get started here. So, Alwar, you are up. Yep.
+Most of them better than me. Alright. Let's get started here. So, Alwor, you are up. Yep.
 
 Yep. Yep. Yep. Alright. Let's see here.
 
@@ -537,7 +591,7 @@ And she's going to miss. But I would request that you, Scott, I am going to need
 
 They do indeed. Big money. You do succeed. So you are in you are in the clear. So nothing bad happens other than getting mauled by, witch's nails.
 
-The guy who was attacked by Alwar is gonna circle back around to do some a little bit of back tactics. He's not gonna attack Alwar, is he? No. He's going to attack Cahir. Oh.
+The guy who was attacked by Alwor is gonna circle back around to do some a little bit of back tactics. He's not gonna attack Alwor, is he? No. He's going to attack Cahir. Oh.
 
 He's going to be an opportunist like they have a tendency to be. Mhmm. They do. And he jabs him jabs him in the in the lower back doing five points of damage to him, and then he is going to, then he's going to retreat away. Run away.
 
@@ -549,13 +603,13 @@ Then he's going to run back this way. But he cannot be focused on by ranged comb
 
 Really, you're the best you're you're the best target, man. I'm sorry. No. I'm the only one in the room. I know.
 
-I'm the only one who's had had a turn. Well, I guess Right. Alwar did, but I wasn't moving up there. Oh, I like that idea, Not so much. Right.
+I'm the only one who's had had a turn. Well, I guess Right. Alwor did, but I wasn't moving up there. Oh, I like that idea, Not so much. Right.
 
 He's going to twin feint, which will put you off guard. He's going to attack with both of his daggers and miss with both of them even though you're off guard. Wow. Good job. Very sad.
 
-That's impressive. And he's stuck at that point. He was really hoping for some for some awesome awesome half orc steak on his table, but It's not looking so good. That's not that's not going to be around. We got Sameer.
+That's impressive. And he's stuck at that point. He was really hoping for some for some awesome awesome half orc steak on his table, but It's not looking so good. That's not that's not going to be around. We got Simear.
 
-You were up. Sameer, come on in, brother. It seems like I probably ought to. Test out those hit points. Right?
+You were up. Simear, come on in, brother. It seems like I probably ought to. Test out those hit points. Right?
 
 Yeah. See how how many true. You did get four more. I know. Yeah.
 
@@ -578,6 +632,10 @@ A diff an additional rate, a different target. Yep. Right. So do I need to targe
 And all you need to do to do that is hover over them and press t. And I think that you might need to shift. But Yep. Okay. I did it.
 
 Here you go. Sweet. So blaze the bolt and then hit the attack. Right? Yep.
+
+---
+
+### Session Play - Part 6
 
 Or yeah. Hit the attack. Raise the attack. I was going for the hacky chick late at first, but I don't know if it will do that or what. I don't know how it does it anyway.
 
@@ -609,7 +667,7 @@ That's nothing to scoff at. He's not feeling good. Again, you have that again, y
 
 Yeah. Kinda gets wielded as it lights through. Awesome. Alright. So you slice in and, like, a seed of the sun gets implanted in the wound and that explodes after you after your slice, which causes a big corona explosion of of light and causes extra damage.
 
-Very pretty. Or something like that. And we are back to Alwar. Alrighty. Alwar will.
+Very pretty. Or something like that. And we are back to Alwor. Alrighty. Alwor will.
 
 That guy's nearly dead. She did really well on her save. Yeah. You should take her out. Got a couple of guys not serious.
 
@@ -627,7 +685,7 @@ Alright. That's me. That's all my actions. You still took damage though. Right?
 
 Yeah. Oh, yeah. Yep. He took six. He is at death's door.
 
-He's real close. Oh. Yeah. And, Kahir, speaking of at death's door, you're up. Not saying you are at death's door.
+He's real close. Oh. Yeah. And, Cahir, speaking of at death's door, you're up. Not saying you are at death's door.
 
 I'm saying that you are going to bring somebody to death's door, just to clarify. Let's just switch one first. I know. Start with the hag first. She seems I don't know.
 
@@ -653,7 +711,7 @@ Okay. She go okay. She is going to use exhaling exhaling miasma. Oh, that's bad.
 
 She's going to So I'm like her crush. Yeah. She basically just just breathes out really heavy and some noxious, some noxious fumes come out. So what I need is I need both bugbear. Yeah.
 
-Sameer and, Kahir to make, giggling humors. No. It doesn't say on there what the save should be. No. I've I've got it.
+Simear and, Cahir to make, giggling humors. No. It doesn't say on there what the save should be. No. I've I've got it.
 
 I need you both to roll a fortune save. I've got it on there now. Oh, okay. Oh, it's 20. Nice job.
 
@@ -685,11 +743,11 @@ Oh. And he's gonna try and he's gonna try and finish Pekiro off. I'm not flanked
 
 And then he's going to run towards what looks to be an arrow slit. Oh, maybe it's good we didn't try to go the other way. Yep. Alright. It's the bugbear's turn.
 
-That's what he's doing. Yeah. Hitting Sameer. Why not? Hey.
+That's what he's doing. Yeah. Hitting Simear. Why not? Hey.
 
 That's that's not what he's gonna be doing. He's gonna be double striking now. Close here. Strike. I mean, Send me to my grave.
 
-Get hurt. Car Carson. Carson. I believe you have a reaction. Yay.
+Get hurt. Car Karsten. Karsten. I believe you have a reaction. Yay.
 
 I do. Or or will. You will. Yeah. I believe you have a reaction.
 
@@ -703,7 +761,7 @@ The moon died. That is what it says, but it's not entirely accurate. Right. It's
 
 It is felt accurate. So two things to the chest. So Clark, you do have this reactive strike. Are you going to choose to take it? Yes.
 
-But I don't know where it is in my. If you scroll up, if you scroll up on the chat window, there's a little system message in there that says Carson may use retributive strike. Right. Re so just click on the yes. Choose target.
+But I don't know where it is in my. If you scroll up, if you scroll up on the chat window, there's a little system message in there that says Karsten may use retributive strike. Right. Re so just click on the yes. Choose target.
 
 K. I did. Alright. And what's it tell you from there? It didn't tell me anything.
 
@@ -719,6 +777,10 @@ One, you anybody within your the the person the target of the attack within the 
 
 Reading that. And you get to attack the bugbear. With my normal strike? Yes. Can I use a Titan swing?
 
+---
+
+### Session Play - Part 7
+
 Well, just a regular swing? You would just it's just like a it's just like an attack of opportunity. So you don't get use any special moves. It's just a strike. Okay.
 
 So no Titan Swing, but still, you know, it's it's damage. So whoo. Looks like a hit. Hey. Not bad.
@@ -731,7 +793,9 @@ It's got 11 hit points. 11 hit points minus twelve and ten with resistance five 
 
 So he's still Hell yeah. So you so you still drop, but you drop by but you almost stayed. Oh, that's good because the other guy died. Right. But this is like, just just wanna point out that, wanna point out a couple of things here.
 
-This is the same thing with, like, lay on hands. Lay on hands not only gives you additional hit points, but if you use it in combat, you get an AC bonus of plus two for a round. Also, retributive strike, again, you get, with with retributive strike, you get, you get damage resistance as you know, so if somebody's within your champions aura, which is like a 15 foot aura around you, like and somebody else attacks somebody who's, like, one one of your protected people or one of your party members, that and they're within that aura, you can just throw, you you can just throw, damage resistance to them. And if you're within striking distance, you can attack the person that that did the damage to. So these are you know, not only are they helpful in that they're healing you and that they're and that they're attacking bad guys, but also they're causing damage resistance and they're giving you AC bonuses and that kind of stuff.
+This is the same thing with, like, lay on hands. Lay on hands not only gives you additional hit points, but if you use it in combat, you get an AC bonus of plus two for a round. Also, retributive strike, again, you get, with with retributive strike, you get, you get damage resistance as you know, so if somebody's within your champions aura, which is like a 15 foot aura around you, like and somebody else attacks somebody who's, like, one one of your protected people or one of your party members, that and they're within that aura, you can just throw, you you can just throw, damage resistance to them.
+
+And if you're within striking distance, you can attack the person that that did the damage to. So these are you know, not only are they helpful in that they're healing you and that they're and that they're attacking bad guys, but also they're causing damage resistance and they're giving you AC bonuses and that kind of stuff.
 
 So don't sleep on those guys. Those are, like, those things are really, really powerful. So that's one of the reasons why it's awesome to have it's awesome to have the champion out front, like, in in the mix because not only is he, like, taking potentially taking hits, but he's also, like, you know, granting, ready, you get a you you get damage resistance. Here, have some extra AC. Here, Here, I'm gonna heal you.
 
@@ -741,9 +805,9 @@ Yeah. No problem. Just just in case you are feeling inadequate to the barbarian 
 
 Yeah. You could do so much more than just do damage. Right? So Right. Alright.
 
-Cool. So, Sameer, you are up. Mhmm. No. That's unfortunate.
+Cool. So, Simear, you are up. Mhmm. No. That's unfortunate.
 
-Oh. Says Says you're perfectly fine in all this. It it says that. It's a lie, but it says that. So Samir tried to be a target, and then it just failed miserably.
+Oh. Says Says you're perfectly fine in all this. It it says that. It's a lie, but it says that. So Simear tried to be a target, and then it just failed miserably.
 
 Blurry of I don't need it to be a reach spell. Going for the heck with that? Or Yeah. I got her pinged. She's pinged.
 
@@ -835,6 +899,10 @@ Like, I think it's one of your, like, your skill feed over, There you go, buddy.
 
 Alright. Yep. Three. I will refocus as well. Sounds good.
 
+---
+
+### Session Play - Part 8
+
 There's four. That should be good. Right? I gotta apply them all the whole Oh, okay. Trying to find something.
 
 I don't think I lost one. Matter. Good point. I don't think anybody else did. Yeah.
@@ -847,7 +915,7 @@ After the first round of of healing focusing, I would be up, kinda wandering aro
 
 You're good. But oh, let me see if this trying to get the loot out here. There do you guys have a loot thing showing up for you? I do not see it, but I keep hearing it anyway. Okay.
 
-Yeah. I see it. Increase Carson's range. My what? Oh, yeah.
+Yeah. I see it. Increase Karsten's range. My what? Oh, yeah.
 
 So I can run farther? I think I need some different armor. Would you like bigger armor? I know, and I cannot lie. But Nice.
 
@@ -911,7 +979,7 @@ Okay. I will take it and take a look at it. Alright. And let me see. Did you tak
 
 I'm pretty sure. You're trying. I don't know how. I'm I have to I have to accept your request. Oh, okay.
 
-Take things. So Alright. I I went through and accepted them. So Kakeru got the potion of fire resistance. Carson got the spacious pouch, and Albert got the unusual cloak.
+Take things. So Alright. I I went through and accepted them. So Kakeru got the potion of fire resistance. Karsten got the spacious pouch, and Albert got the unusual cloak.
 
 Once you have it in your inventory, Albert, you should be able to try to identify it from there. Yes. There we go. Occultism, identify magic. Can I, Yeah?
 
@@ -929,9 +997,9 @@ Well, maybe it's maybe it's just something that I've got on my end. Oh, okay. Th
 
 You should be able to just pull stuff in there. K. Oh, no. It disappeared. Okay.
 
-So your identify your identify, item check did indeed fail. Oh, cool. I swapped to, the the the me. Sameer? Yeah.
+So your identify your identify, item check did indeed fail. Oh, cool. I swapped to, the the the me. Simear? Yeah.
 
-Sameer. Holy cow. Wow. That's amazing. Like, Sameer and Khaheer.
+Simear. Holy cow. Wow. That's amazing. Like, Simear and Khaheer.
 
 I'm like, it's not Khaheer. Khaheer. Yeah. He's not gonna be able to do that. Too many years.
 
@@ -947,13 +1015,17 @@ Okay. I I mean, I can probably keep my backpack out, but, like, all my money, I 
 
 No. That could be no. I'm working from your I think I think this is yeah. I think this is one of those examples where you actually have to use your character sheet. Oh, okay.
 
-Well, then that will be different. But I think it's totally different. Okay. Alright. So, Sameer, if you want to identify it, go ahead and roll.
+Well, then that will be different. But I think it's totally different. Okay. Alright. So, Simear, if you want to identify it, go ahead and roll.
 
 I wanna do crafting or arcane knowledge or Well, so here's so here's the thing. If you do have the crafting skill that allows you to identify items, the crafting, skill, what's it called? I have I think the have it. Elm alchemy. I have identified alchemy.
 
 That doesn't seem like it's quite the right in the crafting. It doesn't it doesn't make sense. The crafting and the arcane are both plus seven. Yeah. So just go ahead and do arcane then.
 
 Call knowledge or identify magic spell, just arcane. You could do yeah. You could do identify magic item if it's got on there or just do just a straight up arcane. I'll just do a straight up arcane. Not a bad roll.
+
+---
+
+### Closing and Table Discussion - Part 9
 
 Alright. Oh, I'll talk to you. It was a very good roll. And that very good roll actually will give you the information that you desire. The unusual cloak is what is known as a cape of justice.
 
@@ -981,7 +1053,7 @@ Slip it on and get a demonstration of how it works. Yeah. Yeah. Yeah. I can cert
 
 I'm kind of I can't really take anything. Building to be, you know, sort of, support based. Mhmm. So the manacles could could do that. For sure.
 
-I'm not sure how much, if Cahir or Karsten are interested in it. Not I don't know. Karsten would be uninterested for a chisel. Yeah. Could be fun for Kahir.
+I'm not sure how much, if Cahir or Karsten are interested in it. Not I don't know. Karsten would be uninterested for a chisel. Yeah. Could be fun for Cahir.
 
 I didn't I didn't read a thing. So it's the it's basically a cape of justice. What it does is it gives you a plus one item bonus to demoralize creatures just because, and then, you also are able to, touching over here. Well, maybe not the manacles would be the other action would give one of the two of you a ranged option, which is not terrible. It's not a ton of damage, but it could be No.
 
@@ -1013,11 +1085,11 @@ Find something else. You know? Right. I really wanna throw spears, but I haven't
 
 Well, I will also oh, picking stuff. Gonna change shirt. Alright. The last thing that I wanna leave you guys with as you're going through the room picking up different items, finding figuring this stuff out, you do some of you or both of you or all of you or somebody happens across the arrow slits and looks outside. Okay.
 
-And what you see is Not perfectly fine. Is this out the window. Which is a ball. And for, for Clark or Karsten and I think Samir as well. You guys were both doing, like, act out outside the outside the, town Mhmm.
+And what you see is Not perfectly fine. Is this out the window. Which is a ball. And for, for Clark or Karsten and I think Simear as well. You guys were both doing, like, act out outside the outside the, town Mhmm.
 
 Mhmm. Raids with goblins. Right? Yeah. Patrolling and yep.
 
-Yeah. Yeah. Okay. So you two both recognize this as the Burned Woods. And I would say that even Auer and Kahir would have a little bit of an idea about what the Burned Woods look like because it's one of the major, landmarks close to your town.
+Yeah. Yeah. Okay. So you two both recognize this as the Burned Woods. And I would say that even Auer and Cahir would have a little bit of an idea about what the Burned Woods look like because it's one of the major, landmarks close to your town.
 
 But it's not close to your town. It's, like, two or three weeks away from your town. Alright. Oh, That's In which direction? Problematic.
 

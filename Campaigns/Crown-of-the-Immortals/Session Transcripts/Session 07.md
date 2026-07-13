@@ -2,12 +2,50 @@
 type: transcript
 campaign: "Crown of the Immortals"
 session: "07"
-tags: [type/transcript, campaign/crown]
+status: formatted
+spelling_review: campaign-context
+source_format: automatic-transcription
+tags:
+  - type/transcript
+  - campaign/crown
 ---
 
-# Session 07 - Transcript
+# Crown of the Immortals - Session 07 Transcript
+
+> [!info] Editorial note
+> This edition preserves the original transcript wording while improving its Obsidian structure, paragraph length, navigation, cast information, and campaign continuity. Automatic-transcription errors may remain where the intended wording or speaker could not be established safely.
+
+> [!abstract] Campaign context
+> Crown of the Immortals follows Alwor, Cahir, Karsten, and Simear through the transformed world of Aetheria as their relics and past lives draw them into a conflict larger than any single settlement.
+
+## Characters
+
+| Player | Character |
+| --- | --- |
+| Ramsey | Alwor |
+| Scott | Cahir |
+| Clark | Karsten |
+| Jason | Simear |
+
+## Quick Navigation
+
+- **Previous:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 06|Session 06]]
+- **Next:** [[Campaigns/Crown-of-the-Immortals/Session Transcripts/Session 08|Session 08]]
+- [[#Opening and Recap]]
+- [[#Session Play - Part 2]]
+- [[#Session Play - Part 3]]
+- [[#Session Play - Part 4]]
+- [[#Session Play - Part 5]]
+- [[#Session Play - Part 6]]
+- [[#Session Play - Part 7]]
+- [[#Session Play - Part 8]]
+- [[#Closing and Table Discussion - Part 9]]
+
+---
 
 ## Transcript
+
+### Opening and Recap
 
 And we are good there. Does everybody remember where we left off? We are going into the Cave Of Awesomeness and kick some tushy Mhmm. Surrounded by a literal dump truckload of dead goblins. That's That's an under dump truckloads of goblins waiting to be deleted.
 
@@ -15,9 +53,9 @@ Well, I'm going to the source, though. Go into the source. Alright. Yeah. So you
 
 Last last we met, you guys went back to the, the Temple Of Time Temple Of Time. Or whatever it's called. I like that. Huge mistake. It it's called something different.
 
-It's Latin, I'm pretty sure. So, you know, that one. Carson, you have a cute little picture there. Handsome little w. What are you talking to?
+It's Latin, I'm pretty sure. So, you know, that one. Karsten, you have a cute little picture there. Handsome little w. What are you talking to?
 
-I don't know. You? Carson. He said, Carson, you have a pretty picture. Oh, yeah.
+I don't know. You? Karsten. He said, Karsten, you have a pretty picture. Oh, yeah.
 
 I'm pretty. I'm a I'm a pretty and that's all Chris's fault. I mean, he made me pretty. So, you know, good job, Chris. It was time.
 
@@ -113,7 +151,7 @@ And he's a and as he comes out, he says, come on, boys. This is the chance that 
 
 He's a chucker. Mother chucker. He's going to do it with a twin faint. So that costs two actions. He feints, which puts the which automatically puts the target off guard and then flings the dagger at you, which missed horribly.
 
-Excellent. Who's he flinging it at? Carsten. It it the dagger glances off of Carsten's shield. I mean, real quick, I should have 21.
+Excellent. Who's he flinging it at? Karsten. It it the dagger glances off of Karsten's shield. I mean, real quick, I should have 21.
 
 You should have 21 what? My AC should be 21. You're off guard. Yes. Oh, okay.
 
@@ -128,6 +166,10 @@ And then next up is here. K. Here. Yeah. How to target people.
 Sorry. Where's the top things that have all the actions and stuff on them along the top of the screen? I don't know. Things are laid out a good deal different. I don't know.
 
 Oops. I hit a button. It took me out of the map. Oh. What did I do, Chris?
+
+---
+
+### Session Play - Part 2
 
 You didn't. Never mind. You figured it out. There's a back button. Yep.
 
@@ -195,9 +237,9 @@ Cahir is critically injured. Oh, man. Badly injured. No poke left. Alright.
 
 The guy who stepped back, he's going to gonna target Karsten, and he's gonna shoot him with a bow. He's going to miss, then he's going to go back 20 feet and shoot him again and miss again. Oh, get a big roll. And and another goblin reveals itself out of the out of the, back there, and he will he will likewise target Karsten and shoot twice. Close.
 
-Oh, almost. Yeah. Not quite. And, Sameer, you're up. It is your turn for me.
+Oh, almost. Yeah. Not quite. And, Simear, you're up. It is your turn for me.
 
-Yep. So you basically you walk in. Cahir walk walks up, cuts two goblins in two, and then just a bunch of goblins start scuttling out of the dark, firing arrows at at Cahir and attacking Cahir, and a few more come scuttling out and fire some arrows at Carson. But Carson's armor and shields are able to are able to keep him, keep him aloft, or keep him protected. And now it's your turn.
+Yep. So you basically you walk in. Cahir walk walks up, cuts two goblins in two, and then just a bunch of goblins start scuttling out of the dark, firing arrows at at Cahir and attacking Cahir, and a few more come scuttling out and fire some arrows at Karsten. But Karsten's armor and shields are able to are able to keep him, keep him aloft, or keep him protected. And now it's your turn.
 
 Well, yeah, let's, let's try a little little this. We'll I'm gonna try a telecandidate projectile. Kill him. Okay. So I got the target.
 
@@ -246,6 +288,10 @@ Let me see. Step one, is definitely re up Corita's Anthem, because that will be 
 Says I lack permission. Where did that guy okay. He missed. I don't know if that means anything. Alright.
 
 Why not? We'll try something else. We've not done yet. Well, I guess we have, technically. But, I am going to, what's the word?
+
+---
+
+### Session Play - Part 3
 
 Recall knowledge. Mhmm. On this big old dude here. Okay. And with my bardic lore, I get to do that with my bardic lore versus his, whatever specific lore he has.
 
@@ -343,6 +389,10 @@ You he basically just distracted you, which he didn't actually instill fear in y
 
 Okay. If I go which I can't move. If I go here, can I hit the guy diagonal to me if I kill the guy in front of me? Absolutely. Let's do that.
 
+---
+
+### Session Play - Part 4
+
 Hey. You're really far out. Just be careful. You don't have a lot of life either. I know, but let's die together.
 
 There you go. I didn't say that to you. If you don't if you don't kill these guys, they will kill you. So just saying. We're gonna take a chance here.
@@ -367,11 +417,11 @@ I'm on an island here, people. Help me. I'm done. Alright. You got this goblin.
 
 He's gonna run up, pull out his sword, and attack Karsten. No. No. I'm still we love you. Could be it.
 
-Seems rude. I miss this one. Oh. That's violent. Alwar, stab him in the back.
+Seems rude. I miss this one. Oh. That's violent. Alwor, stab him in the back.
 
 Right? He will if he gets the opportunity, I'm sure, or something else. Deal he hits you as he stabs you in the back, dealing three points of damage. Near to death. Jeez.
 
-Indeed. Fearless. I don't know why on my screen, but Carson's character looks like the old character. That's why he's not he's Oh. I'm I've done that.
+Indeed. Fearless. I don't know why on my screen, but Karsten's character looks like the old character. That's why he's not he's Oh. I'm I've done that.
 
 His hair his hair with that nice little curl in the front definitely would be distracting, the goblins. But that's for next time. Here we go. Oh, that's more like it. Oh, man.
 
@@ -379,19 +429,19 @@ I'm almost there. I see that face near death. He looks great near death. And thi
 
 Isn't that possible? Yep. It's just an action. Move it. Move.
 
-It is. They're using what are commonly referred to in the vernacular as tactics. Alright, Samir. You're up. Oh, please save me.
+It is. They're using what are commonly referred to in the vernacular as tactics. Alright, Simear. You're up. Oh, please save me.
 
 Lightning bolt those guys. Oh, drums Lightning bolt them? Yeah. Potion. I'm running out of lightning bolts.
 
 Fireball. Sort of. Healing. Healing. Where where my screen is.
 
-Alright. So a guy just moved in from Carson. Alright. Alright. Then there's the big creature that's out there somewhere.
+Alright. So a guy just moved in from Karsten. Alright. Alright. Then there's the big creature that's out there somewhere.
 
 Yeah. I would also so I can't see him. Right. But I would also like to just remind people that Albert isn't the only one who has the ability to, to light himself up. Yeah.
 
 Yep. Lots of people can light themselves up. Yes. Exactly. I don't know what lighting yourself up does, but It makes you be able to see.
 
-It also gives you resistance to spirit damage, which at this in this exact instance doesn't really matter a whole lot. Right. Being able to actually see might be valuable because you can't see right now. So but I'm not saying that specifically for you, Jason, because, you know, Sameer is more of a back line backliner. But people are in the front line, for sure, for sure, it might not be a bad idea for you to actually, you know Do that.
+It also gives you resistance to spirit damage, which at this in this exact instance doesn't really matter a whole lot. Right. Being able to actually see might be valuable because you can't see right now. So but I'm not saying that specifically for you, Jason, because, you know, Simear is more of a back line backliner. But people are in the front line, for sure, for sure, it might not be a bad idea for you to actually, you know Do that.
 
 Light yourselves up. Like, I can and up. Yeah. Did I did I accidentally abilities. Oh, okay.
 
@@ -423,7 +473,7 @@ Probably, let me go ahead and sorry. I need to use the correct thing. Okay. And 
 
 Oh my gosh. Great success. Alright. So one of them completely evades. The other one takes half damage.
 
-So go ahead and roll your damage. Not the worst damage I've done. I was assuming the first one, the one that's in front of Carson is the one that did not have time for me to reflex. He he was indeed the one that did not take the damage or that did take the damage. The other one basically because he couldn't succeed.
+So go ahead and roll your damage. Not the worst damage I've done. I was assuming the first one, the one that's in front of Karsten is the one that did not have time for me to reflex. He he was indeed the one that did not take the damage or that did take the damage. The other one basically because he couldn't succeed.
 
 He basically just kind of evaded everything. And, Karsten, you were up. I am going to whack the guy right in front of me. K. Maybe I can click on him.
 
@@ -449,9 +499,9 @@ Yep. Oh, yeah. Yeah. Yeah. Yeah.
 
 Okay. Alright. Oh, we gotta get One's gonna move down. I'll get to here. Pull out his dog slicer and swing and miss.
 
-Alright. Well, Alwar, you're up. Okay. I need about two more actions. I'd happily give you two of mine.
+Alright. Well, Alwor, you're up. Okay. I need about two more actions. I'd happily give you two of mine.
 
-I will step one. Ten fifteen twenty. Step one. We're gonna move, and we're gonna, say a little prayer to, the cadence as we do. Ten, fifteen, 20.
+I will step one. Ten fifteen twenty. Step one. We're gonna move, and we're gonna, say a little prayer to, the Cadens as we do. Ten, fifteen, 20.
 
 Okay. This is wall. Correct? Right. Yeah.
 
@@ -493,6 +543,10 @@ The taste was all better. Mhmm. And then Bugbear is going to move away. Did you 
 
 Did you heal him? I sure did. Yeah. But It didn't matter. Didn't matter.
 
+---
+
+### Session Play - Part 5
+
 The the bugbear literally did 42 points of damage Yeah. To him in one swing I got it. Which, for the record, that's the amount of hit points that Cahir has. Oh, right. Even if he was at full range.
 
 Risk for taking me out. I'm going to bed. Problem. You're not dead yet. You're not quite dead.
@@ -515,7 +569,7 @@ It misses more. Cool. Yep. So I did intend to get a message first. Yeah.
 
 But you can envision what that looked like. Well, you know, it is only a goblin, so it's not really all that, all that, great here. It will try and swing again, and it'll miss again. And then it's gonna run all back, except Amir. Hey.
 
-So you saw that you saw that larger, or that medium sized creature run away. And then the other the other goblin that's a little bit further back, with fear in its eyes tried to stab Alwar a few times, but was also not successful, and it ran away. Or not also, but it was unsuccessful and then ran away. Now you are up. I will get my yeah.
+So you saw that you saw that larger, or that medium sized creature run away. And then the other the other goblin that's a little bit further back, with fear in its eyes tried to stab Alwor a few times, but was also not successful, and it ran away. Or not also, but it was unsuccessful and then ran away. Now you are up. I will get my yeah.
 
 Okay. So I will do a frostbite on said bugbear attempt anyway. So I'm sure you'll get right past that, but that's what he does. And then while that is happening Sorry. Easily gets past that.
 
@@ -587,7 +641,7 @@ That's where my healing was. Okay. How's the stabilization happening here? You s
 
 Yeah. He's been pulled out of it. So I was after the big guy. It's gone past me once. Oh, but you would have moved to directly before the big guy because he was the guy who knocked him out.
 
-Exactly. So, Scott, what I want you to do, because it it doesn't look like it roll like you rolled a, a recovery tech. So when when right right after Alwar went, I need you to open up your character sheet and look at the and in the hit points area, right next underneath the current hit points, there's a dying section there, and then there's a little d 20 next to it. If you hover over it, it says recovery check. You should roll that.
+Exactly. So, Scott, what I want you to do, because it it doesn't look like it roll like you rolled a, a recovery tech. So when when right right after Alwor went, I need you to open up your character sheet and look at the and in the hit points area, right next underneath the current hit points, there's a dying section there, and then there's a little d 20 next to it. If you hover over it, it says recovery check. You should roll that.
 
 Oh. Hey. That's actually really good. That's right. That's that's that is good for us.
 
@@ -601,7 +655,7 @@ Yeah. Exactly. He's he's he's at least cauterized or clotted a little bit. Don't
 
 Well, he he's using great sword, which is a d 12. I don't care, Chris. I'm just upset about that. You I'm just upset. It doesn't matter what it looks like.
 
-I'm sure the game did the proper math. I'm sorry. I'm sorry that you got stuck at that situation. I was not trying to drop anybody. So, Carson, you are now up.
+I'm sure the game did the proper math. I'm sorry. I'm sorry that you got stuck at that situation. I was not trying to drop anybody. So, Karsten, you are now up.
 
 Oh, no. Wait. Sunir, you're up. You didn't you didn't actually have a have your turn yet. In turn, Lightning bolt someone that little guy.
 
@@ -623,6 +677,10 @@ Feature. I'm That's I'm not actually giving you yeah. No. I was thinking the sam
 
 So But then again, I think I don't know. You know? I'm so okay. So you cast shield on yourself. Do you have the, I drag the blood magic scale hide over to me?
 
+---
+
+### Session Play - Part 6
+
 Or You drag the spell effect shield over to you Okay. And the blood magic scale hide because shield is a iconic spell. So you get your blood magic bonus to it as well. So you get a plus two to your AC whenever you cast shield instead of plus one. Oh, it's for good.
 
 Blend Which is pretty baller. And then on top of that, we have the do we have the, seal on the LR? Yeah. That one's still going too. Right?
@@ -633,7 +691,7 @@ Yep. Okay. Okay. That's my that's my turn. But you do also have it's not gonna b
 
 You don't currently have it up. Correct. Correct. That's a good idea. Yeah.
 
-Alright, Carson. You're up. Hey. Welcome. Clark, just some additional stuff here.
+Alright, Karsten. You're up. Hey. Welcome. Clark, just some additional stuff here.
 
 We do have a special lily called Titan Swing that makes you hit harder. You could try to do that as well, which it costs two actions to do your Titan Swing, but, you know, you would be hitting at your best bonus. So there's a chance that you'd be doing extra damage with one hit. Can you use a hero point to re hit if you miss with the Titan Swing? Yeah.
 
@@ -653,7 +711,7 @@ That sucks. You, you the, the I don't I don't know what you wanna do for, like, 
 
 I would recommend raising your shield. You it basically counted as two attacks with that one attack, so you'd be doing your negative negative 10. So you're best at this point. Yeah. Alright.
 
-Alwar, you're up. Alright. We will. I cannot currently see that goblin from where I am because of the wall. Yep.
+Alwor, you're up. Alright. We will. I cannot currently see that goblin from where I am because of the wall. Yep.
 
 K. Cool. Cool. Cool. Cool.
 
@@ -661,7 +719,7 @@ You could move up and def like, if you moved up, you would definitely be able to
 
 This is 30 foot. Let's see. Range from here. Okay. Sick.
 
-Alright. Well, Cadence, you haven't failed me yet. We will move, here. Good spot. Try to provide Carson the flank, and we will electric boogaloo, these two goblinoids.
+Alright. Well, Cadens, you haven't failed me yet. We will move, here. Good spot. Try to provide Karsten the flank, and we will electric boogaloo, these two goblinoids.
 
 Boop. Alright. But there's first. He fails. Goblin is second.
 
@@ -677,7 +735,7 @@ Really easy. I think he's gonna target our this time. So swing back around. Exce
 
 Almost certainly have a more different reaction, but we will see. Did he really miss? Yeah. Alright. Cool.
 
-And, he's gonna try again because Excellent. What's your Alright. Sick. Oh, Cadence is on my side. Hard tank for the win.
+And, he's gonna try again because Excellent. What's your Alright. Sick. Oh, Cadens is on my side. Hard tank for the win.
 
 What the heck? Right. Right. Like, this guy is wrecking our front liners, and here you are. He's smaller.
 
@@ -691,7 +749,7 @@ That's that's back to normal. Again. Miss again. This is what the this is what t
 
 Right. That credit He's gonna move What? Yeah. Not only was it a crit, it was, like, an almost max damage crit too. Like, it was just, like Yeah.
 
-Yeah. Insanely bad. Alright. Sameer, you're up. I think I can still do this.
+Yeah. Insanely bad. Alright. Simear, you're up. I think I can still do this.
 
 I have a I have to explore that later. So dangerous sorcery allows me to is that the one? No. Am I not able to be healed? Like You are.
 
@@ -741,7 +799,7 @@ That was a solid hit. Roll that damage. Come on. Oh. That's pretty good.
 
 That's enough. Uh-huh. How do you how do you kill said bugbear with your hide and swing? I'm gonna cut its head off with the it'll rub there, swing at me, and he misses, and I chop his head off. Alright.
 
-So you lob its head off and the, resonance of the, of the sun of the sun blade, just kind of engulfs the body and it and it, it burns into cinder, leaving us with Alwer and a very near death goblin. Excellent. Let's see what we can do about that. I have no. No.
+So you lob its head off and the, resonance of the, of the sun of the sun blade, just kind of engulfs the body and it and it, it burns into cinder, leaving us with Alwor and a very near death goblin. Excellent. Let's see what we can do about that. I have no. No.
 
 I don't. Okay. Let's see if I had anything more fun, but I do not. So we are just going to electric arc him and finish this. Oh, jeez.
 
@@ -763,6 +821,10 @@ I'll keep eyes on and at least, I can dive before they get to you real quick. Ri
 
 So, Clark, if you're wanting to treat wounds let me just go ahead now to assign that. Don't worry about the lootables later. So if you wanna treat wounds, you need to target, target kit here. Yep. And on your, on the macro bar at the bottom, there's a little yellow plus sign that's treat wounds.
 
+---
+
+### Session Play - Part 7
+
 Click on that. And you and, Scott, you can apply the healing that he applied. So now, Tahir is up is alive. That was the first ten minutes that you were that you were doing this for him. I will be refocusing during that ten minutes.
 
 Alright. I assume we're gonna take oh, we're also gonna keep that up because that's just an action. Right. You do also have your light spell still as well, so you can use that if you need to. Oh, that's true.
@@ -773,7 +835,7 @@ It does last longer. Mhmm. It's less light, though, notably. It is. It is defini
 
 So I guess it's kind of a trade off. But Yeah. Yeah. I'm assuming we're gonna spend more time, so I'm gonna focus again. Yeah.
 
-So minutes. Yeah. And, Clark, at this point, you can choose to refocus, and, start doing lay on hands if you want to or or what have you. Yes, please. And for Kahir, I'm gonna go ahead and pull you out of Kron.
+So minutes. Yeah. And, Clark, at this point, you can choose to refocus, and, start doing lay on hands if you want to or or what have you. Yes, please. And for Cahir, I'm gonna go ahead and pull you out of Kron.
 
 And since you were actually success since you had a successful healing check on you, your your wounded condition does also go away. So that's one of the good things about actually doing a healing check versus just a healing spell. The wounded condition doesn't go away with the with the healing spell. But with but if somebody actually rolls healing, it actually removes the wounded condition. So, as as you guys are kind of piddling through the, you know, how do I heal to here?
 
@@ -785,7 +847,7 @@ Yeah. I mean, to get them up, great, but, all of this healing is gonna take us A
 
 So I don't know if we actually need to move on the map or not. I don't I don't know if anything's gonna happen, but, but, yeah, maybe somewhere a little more defensible just in case we do get we're getting wrecked. Alright. Well, I was thinking then. That's kinda lame.
 
-To have done that differently. Mhmm. And so you guys moved back to the back to the entrance. As you are oh, that would be nice. As you're rummaging through the bodies, you find Kirsten, you better heal yourself.
+To have done that differently. Mhmm. And so you guys moved back to the back to the entrance. As you are oh, that would be nice. As you're rummaging through the bodies, you find Karsten, you better heal yourself.
 
 Alright. You find a, a lot of booty. So, there are the dog slicers and short bows and leather armors that you get from all of the all the goblins, but, you know, those are just standard stuff, nothing all that special. The, the nice stuff that you have across is there is indeed a great sword and a full and a suit of full plate armor that you have. Excellent.
 
@@ -835,7 +897,7 @@ Yes. You're healing people. Yeah. Actually, the if the heal spell potentially ha
 
 Does that make sense? Your your medicine skill does, but the thing with the medicine skill is you can only use it once per hour on each person. So it's definitely good to start off with your medicine skill to, you know, give a good resurgence, but you're probably gonna find yourself also wanting to use lay on hands as well just to kinda top people off. Yep. Medicine skills, like, at 100%, you're healing better with the medicine skill than with your focus spell.
 
-Alright. So I'm focusing, I guess. Mhmm. And, so you can heal I think you can do your medicine skill on like, you can do your medicine skill on Sameer, on Auer, and yourself as well. Oh, yeah.
+Alright. So I'm focusing, I guess. Mhmm. And, so you can heal I think you can do your medicine skill on like, you can do your medicine skill on Simear, on Auer, and yourself as well. Oh, yeah.
 
 Yeah. Okay. That makes sense. I I'd start with that and then just start using Leon Hands to supplement when once you're once you've actually healed everybody. I'd like a little healing.
 
@@ -843,7 +905,7 @@ I mean, you don't even need any healing. Did you do anything? He does. He does n
 
 I probably have an arrow shaft stuck in my chest somewhere. It's just barely injured. Barely injured. Barely injured, but he only has 19 hit points left. Still 20% of my hit points gone.
 
-Did you Yeah. Did you see did you see the bugbear that did 42 points of damage in one hit? I did. Samir has 24 points damage. Oh, Jason.
+Did you Yeah. Did you see did you see the bugbear that did 42 points of damage in one hit? I did. Simear has 24 points damage. Oh, Jason.
 
 I know. I got hero points. I do have hero points. Oh, yeah. What do you have to do?
 
@@ -853,7 +915,7 @@ Park has Park has the medicine skills training, which is not a wolf medicine ski
 
 But What? Is it 16? Clark, use Clark, use the treat wounds, option rather than just rolling straight up medicine, in the future just because that's it'll be a little bit messy. Roll the hue. It's the button that I asked you to click when you were healing to hear.
 
-The the plus sign button in the bottom in the Let let me redo that. No. You you succeeded. You passed. We just need to we just need to roll 2D8 now and then I and then give that to and then Samir, you get 2D8 healing.
+The the plus sign button in the bottom in the Let let me redo that. No. You you succeeded. You passed. We just need to we just need to roll 2D8 now and then I and then give that to and then Simear, you get 2D8 healing.
 
 How do I how do I roll 2D8? In the bottom of the chat, there's a, there's a d eight button. Hit your click that twice and hit enter. Oh, man. What if I need to go down one?
 
@@ -866,6 +928,10 @@ There we go. Hit this little thingy. Oh, okay. Oh, snap. Much easier it is when 
 Yeah. So outward, you heal 15. Oh. And I'm gonna do how do I how do I click on me? Right click on yourself, and then there's a and there's a little target.
 
 There there's a little a number of buttons that come around your portrait, and there's a little target. Click on the target. That's why. Okay. That is the way that I target everybody.
+
+---
+
+### Session Play - Part 8
 
 So that one, I know how to do it. I don't use my thing. These are beads. Did you reroll with a did you reroll with the hero point? Oh, every time.
 
@@ -905,7 +971,7 @@ Yeah. There are definitely tracks there. Go ahead and roll a survival for me. It
 
 That's gonna be decent. Right. That seems pretty good. So what you're able to determine from the tracks that you found, You see the goblin tracks and the bugbear tracks were primarily, going up and were going along the the path of the southern, of the Southern Tunnel. The tunnel that has the green light doesn't appear to have many tracks, if any, at all.
 
-As a matter of fact, once you get about ten, fifteen feet into that tunnel, the only tracks that you're able to identify are the tracks of the goblin that was running that direction. Okay. That's good to know. I'll communicate such to, Alwar as we're wandering around here. Seem to all be coming from the South.
+As a matter of fact, once you get about ten, fifteen feet into that tunnel, the only tracks that you're able to identify are the tracks of the goblin that was running that direction. Okay. That's good to know. I'll communicate such to, Alwor as we're wandering around here. Seem to all be coming from the South.
 
 So of the directions maybe that we want if we're trying to head in you know, get into the head of this thing, then it looks like maybe the South is the way to go. Okay. That green light was coming from the West, though? Right. Yeah.
 
@@ -925,17 +991,17 @@ Yep. My plan was thwarted by a 42 damage. Okay. It was it was a very good hit. S
 
 Be humble. But, no, like, I I I'm only asking that, Scott, just because, like, you know, it it's I'm just curious how you think that how you think Keir would be dealing with the situation that he's that he's found himself in. So, I think he'd be very happy. I thought that was a Wonder why there's no ability to stop anything. He go cry to his brother.
 
-Said he should have been a full orc. Cursed by this human weakness. Right. Yeah. That was a that was a close one, Elwar will say.
+Said he should have been a full orc. Cursed by this human weakness. Right. Yeah. That was a that was a close one, Alwor will say.
 
 I thought I thought he had you there. You're, you're too young to go that easy. I'm glad he made it. Me too. Me too.
 
 Gonna be happy to be alive. I don't think he'd be afraid to go after him. I think he would just be figuring out what to do differently. Yep. Well, yeah.
 
-Anyway try out that Titan swing. I really wanted to try the Titan swing. Yeah. Yeah. Karsh can beat you to it.
+Anyway try out that Titan swing. I really wanted to try the Titan swing. Yeah. Yeah. Karsten can beat you to it.
 
-But, and just kind of in the aftermath, like, as you're, like initially, you're just kind of focused on getting everybody healed up and everything happening. Alwar and and Samir, you guys are doing a little bit of scouting. But over but over the course of the next couple of hours, as no additional forces come as you're as you're building out, you start to wonder what's going on, and, you know, what to do and what to do next. So, what, what direction do you think that you're you're going to want to go? Well, that's a good question.
+But, and just kind of in the aftermath, like, as you're, like initially, you're just kind of focused on getting everybody healed up and everything happening. Alwor and and Simear, you guys are doing a little bit of scouting. But over but over the course of the next couple of hours, as no additional forces come as you're as you're building out, you start to wonder what's going on, and, you know, what to do and what to do next. So, what, what direction do you think that you're you're going to want to go? Well, that's a good question.
 
-Apparently, Sameer says that the, majority of traffic looks like it's coming from the South, but our lone survivor scuttled off to the west. There's this weird green light coming from over there. So I'm kinda curious about that. Yeah. I am too.
+Apparently, Simear says that the, majority of traffic looks like it's coming from the South, but our lone survivor scuttled off to the west. There's this weird green light coming from over there. So I'm kinda curious about that. Yeah. I am too.
 
 So the one to the south looks like it's lower. Is that correct, Chris? Like, it's goes down into the earth? No. Actually, the, the clearing area that you're right in right now is the highest point.
 
@@ -946,6 +1012,10 @@ It's possible. You did not see any additional points of egress when you were the
 I'd like to just decide for you. Alright. Sounds like we got three votes for green. Go for it. Alright.
 
 So you guys, you guys definitely or you guys decide that you wanna wanna start moving in that direction. And as as you're moving around in this in this map, just, you know, again, for the record, like, I don't like, the the cave walls don't have any, like, walls for you to run into. This is this is basically all free open map, but I'm just trusting that you guys will stick with stick inside the walls. Yeah. Yeah.
+
+---
+
+### Closing and Table Discussion - Part 9
 
 I just don't wanna I I didn't wanna put in a bunch of it takes a while to set up the walls, and on top of that, sometimes people get stuck in weird things. And so I figured, we're all adults. We can treat this like a regular battle map. So that's what we're doing. So you start moving towards, towards the wall or or towards the green green light.
 
@@ -963,7 +1033,7 @@ Yep. Yep. Yeah. If you can cast the light canter, if I can at least drop it on p
 
 So everybody grab the spell effect light and drop it onto your token. Hey. Oh, it's bright in here. Everybody's lit up. Well, I don't know if they would surprise, but for that new clanky armor, I don't know if we have that anyway.
 
-Yeah. Right? Alright. So you start you you start moving down the tunnel. Again, Sameera is definitely something that you noticed in that tunnel.
+Yeah. Right? Alright. So you start you you start moving down the tunnel. Again, Simear is definitely something that you noticed in that tunnel.
 
 There isn't a whole lot of, there isn't a whole lot of tracks in there. So it definitely does seem like the la like, the most the most recent, goblin running this direction was, like, kinda the last person or the the last person that's been here at least for a few weeks minimum, if not longer. Really? As you get further in, you start seeing this green ghostly light that starts emanating from, from an opening at the end of the tunnel. And this tunnel is, again, roughly hue this this tunnel is 100% natural, natural tunnel.
 
@@ -971,7 +1041,7 @@ There's been no tooling. There's been nothing that's been done on this thing. It
 
 So it it starts descending, down a little bit. Not a drastic amount. It's it's like, you know, maybe a drop of about 15 feet over the span of, like, 30 yards. You know? It's a pretty slow gradient.
 
-But, when you do make it to the mouth of the cave Carson, keep up. Carson, let's go. I just need to grab people and pull them to the mouth of the cave. Oh, I always let the beefcakes go first. I am.
+But, when you do make it to the mouth of the cave Karsten, keep up. Karsten, let's go. I just need to grab people and pull them to the mouth of the cave. Oh, I always let the beefcakes go first. I am.
 
 Trying. There. As you get to the mouth of the cave, you notice two things. Well, actually, you notice a lot more than two things. A wall of darkness.
 
@@ -981,6 +1051,6 @@ But at the bottom of at the bottom of the hill, or at the bottom of the down of 
 
 You know, those thing those are things. They're, like, five foot sections of rock that come out come up out of the water. Here, you specifically well, everybody. Everybody sees a person, on one of the more chained in one of the closer boulders in the, in the lake. It is a deep and it is a large lake.
 
-And let me go ahead and just kinda open things up here a little bit. You see a person in the closest the closest boulder over here. All of you recognize her, but, Kahir, you have the strongest connection. What you see is your sister changed to a rock in the middle of the, in the middle of the lake. And she cries out to you, here, save me.
+And let me go ahead and just kinda open things up here a little bit. You see a person in the closest the closest boulder over here. All of you recognize her, but, Cahir, you have the strongest connection. What you see is your sister changed to a rock in the middle of the, in the middle of the lake. And she cries out to you, here, save me.
 
 And that is where we will end it for today. Wow.

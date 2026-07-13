@@ -17,13 +17,13 @@ A small village in the Verdant Strand, affected by the [[Flaming Retribution]]. 
 
 ## Warren's Want
 
-- **Threat:** A kobold warband led by **Snaggle Tooth**, empowered by a dark artifact tied to [[Erabose]]. Livestock went missing; the dungeon was no longer uninhabited.
-- **Adventure:** Investigate the ruin, face kobolds (entrance fight, sheep pens, treasury antechamber, throne room), skill challenge, puzzle, and boss battle with Snaggle Tooth.
-- **Outcome:** One-shot complete; Snaggle Tooth’s Axe and other treasures recovered.
+- **Threat:** A kobold warband led by **Snaggletooth**, empowered by the [[Axe of Snaggletooth]]. Livestock and grain went missing; the newly exposed Second Age barracks was no longer uninhabited.
+- **Adventure:** A six-member posse investigated the ruin, rescued the stolen animals and Lil Chang, assembled an orichalcum sun crest, and defeated Snaggletooth.
+- **Outcome:** Clackston recovered enough livestock to survive the winter. Rubius Haggard claimed the shadow axe, and the party followed the black-scaled kobolds' trail toward the [[Balshar Mountains]].
 
 ---
 
 ## Links
 
-- **Faction / threat:** [[Kobolds]], [[Erabose]]
+- **Faction / threat:** [[Kobolds]], [[Axe of Snaggletooth]], [[War for Balshar]]
 - **Adventure:** `Warren's Want/Warren's Want Adventure.canvas`
