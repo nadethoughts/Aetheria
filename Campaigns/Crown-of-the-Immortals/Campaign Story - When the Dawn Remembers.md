@@ -249,7 +249,7 @@ The entrance to the [[World/Locations/Tomb of Delius|Tomb of Delius]] lay an hou
 More goblins came from the tomb.
 
 The fugitives went inside.
-
+	
 ## Chapter Eight — The Tomb of Delius
 
 The goblins had made a fortress of the first chamber.

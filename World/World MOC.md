@@ -1,7 +1,6 @@
 ---
 tags: [type/moc, world, meta]
 ---
-
 # 🗺️ World of Aetheria — Map of Content
 
 Central hub for the shared **Aetheria** setting. Use this as your starting point for world lore in Obsidian.
