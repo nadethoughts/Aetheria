@@ -11,7 +11,7 @@ Ryan
 - **Ancestry**: Orc
 - **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
 - **Party Entry**: Found chained in the Warren after being captured by kobolds
-- **Current Arc**: His old mountain connections are about to matter through the Cloud-Tusk orcs
+- **Current Arc**: His old mountain connections are becoming important through the Cloud Seer orcs
 
 ## Appearance
 Lil Chang's full visual description is still lightly defined in the notes. At introduction, he was an orc chained to a wall in the Warren, still healthy, ripped, and ready for revenge despite having been imprisoned for several days.
@@ -23,7 +23,7 @@ Lil Chang was on his way to [[Clackston]] to answer the posse call when kobolds 
 
 His initial table backstory ties him to a lost martial mentor named Wing Ding Ho, who died in a great battle against the same kinds of creatures Lil Chang now hunts. Lil Chang also longed to marry the mentor's daughter, Soho, and now carries both grief and revenge as reasons to seek out kobolds and destroy them.
 
-The later mountain prep adds another strong thread: Lil Chang has an old connection to the Cloud-Tusk orcs, high-pass guides and storm-hunters of the Balshar mountains. That history is intentionally still flexible. He may have trained with them, owed Kora a favor, left during a winter crisis, or carried an old clan name he hoped the party would never hear.
+The later mountain prep adds another strong thread: Lil Chang has an old connection to the Cloud Seer orcs, high-pass guides, storm-hunters, and griffin riders of the Balshar Mountains. That history is intentionally still flexible. He may have trained with them, owed Kora a favor, left during a winter crisis, or carried an old clan name he hoped the party would never hear.
 
 ## Personality
 Lil Chang is practical, money-minded, and physical. He wants coin for food, drink, shelter, and whatever else keeps a fast-moving wanderer alive.
@@ -39,16 +39,16 @@ He is also direct in a fight. In the warg battle, he crushed throats, followed s
 - In the mountain warg fight, used staff and martial follow-up attacks to finish enemies brutally.
 
 ## Current Hooks
-- Kora Skybreak may recognize him and call him by an old Cloud-Tusk name or nickname.
+- Kora Skybreak may recognize him and call him by an old Cloud Seer name or nickname.
 - Jun Ashstep may accuse him of leaving when the mountain got hard.
-- Elder Mauk Cloud-Tusk may ask whether the clan should trust "the road that took you away."
-- The Cloud-Tusk need someone fast and reckless enough to reach captured scouts or disable a wind harness mid-launch.
+- Elder Mauk of the Cloud Seers may ask whether the clan should trust "the road that took you away."
+- The Cloud Seers need someone fast and reckless enough to reach captured scouts or disable a wind harness mid-launch.
 - Lil Chang's kobold hatred can connect the Warren, the mountain devices, and Razor's Rock Scale followers.
 
 ## Open Questions
 - Is Lil Chang fully orc, half-orc, or something Ryan wants to refine later?
-- What did the Cloud-Tusk call him before he left?
-- Did he leave the Cloud-Tusk because he failed the clan, because the clan failed him, or because he wanted more than the mountain could give?
+- What did the Cloud Seers call him before he left?
+- Did he leave the Cloud Seers because he failed the clan, because the clan failed him, or because he wanted more than the mountain could give?
 - What exactly happened to Wing Ding Ho, Soho, and the family or clan that cast Lil Chang out?
 
 ## Source Notes

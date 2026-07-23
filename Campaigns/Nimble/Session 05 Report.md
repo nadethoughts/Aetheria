@@ -10,7 +10,7 @@ tags: [type/session-report, campaign/nimble]
 
 ## Executive Summary
 
-Session 05 expanded the party's mountain investigation into a regional mystery and ended with a devastating personal loss for Umbrail. The group began among the bodies of the orcs and boars defeated at the end of Session 04. Every orc carried some form of broken fang as a tribal token, providing the first recognizable marker for the hostile group. The party also discussed how best to use the newly recovered Flamecaller's Talisman.
+Session 05 expanded the party's mountain investigation into a regional mystery and ended with a devastating personal loss for Umbrail. The group began among the bodies of the Black Fang orcs and boars defeated at the end of Session 04. Every orc carried some form of broken fang as a tribal token, providing the first recognizable marker for the hostile tribe. The party also discussed how best to use the newly recovered Flamecaller's Talisman.
 
 The campaign shifted into a hex-crawl structure, with mountain hexes normally requiring three days of travel and a growing chance of encounters. The party initially followed the orcs' trail, but severe weather slowed the journey and forced them into shelter beneath a rocky overhang. Giant wolf-like predators attacked during the storm. Lil Chang used exceptional speed and repeated attacks to knock one creature over a cliff and crush another's throat, while the rest of the party survived a dangerous grapple-heavy fight.
 
@@ -28,7 +28,7 @@ The group climbed to the outpost's high crest and camped there. At dusk, a griff
 
 ## Session at a Glance
 
-- **Starting situation:** The party had defeated a broken-fang-marked orc war party and recovered the Flamecaller's Talisman.
+- **Starting situation:** The party had defeated a Black Fang orc war party and recovered the Flamecaller's Talisman.
 - **Exploration mode:** Mountain hex crawl, normally three days per hex with escalating encounter risk.
 - **First major encounter:** Giant wolf-like predators attacked the party's storm shelter.
 - **Major clues:** Desecrated Erie shrine, black kobold scales, small quarries, and signs of an enormous flying creature.
@@ -40,9 +40,9 @@ The group climbed to the outpost's high crest and camped there. At dusk, a griff
 
 ## Detailed Chronological Report
 
-### 1. Broken-Fang Tokens and the Flamecaller's Talisman
+### 1. Black Fang Tokens and the Flamecaller's Talisman
 
-The session resumed immediately after the mountain-pass ambush. The party searched the orc bodies and noticed that each attacker carried a broken fang from some creature as a token or tribal marker. The exact formal name of the group was not established here, but the repeated symbol made future identification possible.
+The session resumed immediately after the mountain-pass ambush. The party searched the orc bodies and noticed that each attacker carried a broken fang from some creature as a token or tribal marker. The party did not yet know the tribe's name, but Session 06 later established these raiders as the **Black Fang**.
 
 The players also reviewed the **Flamecaller's Talisman**. It can use an action to make several creatures Smoldering, which improves Umbrail's fire effects and may interact with other classes. Because activation competes with the mage's attack actions, the party considered giving it to a supporting character rather than automatically assigning it to Umbrail. No permanent holder was confirmed before travel began.
 
@@ -216,9 +216,9 @@ The session ended before combat began. Session 06 opened with the griffin fight.
 - **Status:** All defenders found at the site were dead.
 - **Significance:** Their numbers indicate that the attack was anticipated, though the warning source and preparation time are unknown.
 
-### The Broken-Fang Orc Raiders
+### The Black Fang Orc Raiders
 
-- **Identity:** Orcs defeated at the end of Session 04, each carrying a broken fang token.
+- **Identity:** Black Fang orcs defeated at the end of Session 04, each carrying a broken fang token.
 - **Role:** First hostile mountain faction encountered directly by the party.
 - **Status:** Dead.
 - **Open question:** Their exact relationship to the force that attacked the Erie outpost was not yet confirmed.
@@ -228,7 +228,7 @@ The session ended before combat began. Session 06 opened with the griffin fight.
 | Faction | Current Position | Relationship to the Party | Immediate Relevance |
 | --- | --- | --- | --- |
 | Erie | Outpost destroyed; wider condition unknown | Umbrail's people and potential allies | Victims of a coordinated regional attack |
-| Broken-fang orcs | Hostile war party active in the mountains | Hostile | Tokens may identify a larger tribe or coalition |
+| Black Fang orcs | Hostile tribe active in the mountains | Hostile | Warriors carry broken fangs as tribal tokens |
 | Black-scaled kobolds | Excavating, desecrating shrines, and moving with orcs | Hostile | Their activity is organized and geographically widespread |
 | Unknown flying threat | Extremely large creature using the high mountains | Unknown | Beyond the party's current strength |
 | The party | Exploring far from safe territory at level 2 | Player-character group | Must survive the griffin and decide how to respond to the massacre |
@@ -337,7 +337,7 @@ The griffin cliffhanger then prevented the party from processing the loss in saf
 
 - This report uses **Erie** for Umbrail's Birdfolk people and their outposts, matching the campaign's later notes. The spoken term may intentionally evoke an "aerie."
 - The large canines are described as **giant wolf-like creatures**. Table conversation also uses "wargs" informally; they are separate from the boars fought in Session 04.
-- The hostile orc tokens are consistently described as **broken fangs**. Session 06 later identifies Razor's allied orcs as the **Black Fang**; the precise relationship between the two labels should not be assumed without confirmation.
+- The hostile orcs' tokens are consistently described as **broken fangs**. Session 06 identifies Razor's allied tribe as the **Black Fang**, confirming that the earlier raiders belong to that same faction.
 - The enormous flying creature is not identified in Session 05. It should not be retroactively labeled as Razor or as the griffin without additional evidence.
 - Umbrail's mentor remains unnamed in the transcript. Session 06 adds that the mentor carried a lesser Erie artifact.
 - The transcript alternates between singular and plural descriptions of the air-launch mechanism. Multiple devices were present; whether the party retained one intact example is uncertain.

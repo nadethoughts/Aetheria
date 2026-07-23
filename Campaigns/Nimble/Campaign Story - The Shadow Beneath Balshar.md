@@ -170,7 +170,7 @@ Several days into the Balshar passes, a fur-clad orc stepped into the road and o
 
 The party fought as a company now. Umbrail froze javelins out of the air. Alder's shadows died in place of living companions and returned when called. Whisper moved through the battle's seams. Lil Chang turned distance into irrelevance. Rowan made openings and shielded friends. Rubius swung the axe, and each blow made its friendship feel more reasonable.
 
-Among the dead they found broken fangs worn as tribal tokens and a Flamecaller's Talisman that could set enemies smoldering.
+Among the dead they found the broken-fang tribal tokens of the Black Fang and a Flamecaller's Talisman that could set enemies smoldering.
 
 The mountains opened before them: weeks of stone, snow, hidden valleys, and paths too narrow for certainty.
 

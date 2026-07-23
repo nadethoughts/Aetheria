@@ -39,7 +39,7 @@ In combat, Rowan is built to put himself between danger and someone more vulnera
 ## Current Hooks
 - Rowan is a natural voice for honoring the Erie dead, warning survivors, and protecting bystanders.
 - His Bond of Peace may matter in the griffin scene if the party chooses calming over killing.
-- Erie elders, Cloud-Tusk orcs, and wounded scouts all give Rowan people to protect and choices to frame.
+- Erie elders, Cloud Seer orcs, and wounded scouts all give Rowan people to protect and choices to frame.
 - His regret about leaving late can play against Umbrail's and Whisper's regret about leaving at all.
 
 ## Open Questions

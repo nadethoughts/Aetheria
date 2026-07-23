@@ -262,6 +262,6 @@ The axe decision gave that victory a dangerous cost. The party removed the objec
 - The canonical weapon name used here is **Axe of Snaggletooth**. It is also described informally as the shadow axe.
 - The phrase **"drink the light"** deliberately echoes the entrance warning and is treated as a direct statement from the weapon or its intelligence.
 - The yellow creatures in the mountain-pass encounter are identified in the transcript as **boars** or "war pigs," not wargs. Session 05 contains a separate encounter with giant wolf-like creatures.
-- The hostile orcs' broken-fang tokens are discovered explicitly at the start of Session 05, so no formal tribe name is assigned in this report.
+- The hostile orcs' broken-fang tokens are discovered explicitly at the start of Session 05. Session 06 later identifies these raiders as members of the **Black Fang** tribe.
 - Shopping details are left conservative because the automatic transcript makes several buyers and items difficult to distinguish.
 - The Birdfolk homeland and organization are rendered **Erie** in later campaign notes, though the common word "aerie" may be the intended linguistic origin.

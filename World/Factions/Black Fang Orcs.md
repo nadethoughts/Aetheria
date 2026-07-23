@@ -9,7 +9,8 @@ The Black Fang are the orc clan currently allied with [[Razor]] in the [[War for
 
 The terms of the alliance, the clan's leadership, and what Razor promised them remain unknown.
 
-## Continuity Note
+## Identity and History
 
-Hostile orcs encountered earlier carried broken-fang tokens. Older GM preparation also uses the name “Shattered Fang.” It has not yet been confirmed whether the broken-fang raiders, Black Fang, and Shattered Fang are the same people, related groups, or separate tribes.
+The hostile raiders encountered earlier and the orcs carrying broken-fang tokens are all members of the **Black Fang**. Black Fang warriors wear broken fangs taken from various creatures as tribal tokens.
 
+The tribe has lived for generations in the caves and tunnels of the Balshar Gorge. Because the open sky leaves them vulnerable to the flying [[Erie]], the two peoples have maintained a blood feud for as long as anyone can remember. That history helps explain why the Black Fang accepted [[Razor|Razor's]] alliance even though they do not worship him.

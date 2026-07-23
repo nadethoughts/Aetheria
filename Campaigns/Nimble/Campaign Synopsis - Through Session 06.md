@@ -18,7 +18,7 @@ The campaign began as a local livestock-recovery job in **Clackston** and has de
 
 The original posse—**Rubius Haggard**, **Whisper**, **Umbrail**, **Rowan Hearthboro**, and **Alder**—followed black-scaled kobolds into a newly exposed Second Age barracks. Inside, they rescued **Lil Chang**, recovered Clackston's animals, and killed the kobolds' magically enlarged leader, **Snaggletooth**. Rubius then claimed Snaggletooth's intelligent shadow axe despite an ancient warning against the thing that “drinks the light.”
 
-The party traced the kobolds toward the Balshar Mountains. There they found hostile orcs carrying broken-fang tokens, increased kobold excavation, a desecrated Erie shrine, evidence of a huge flying creature, and a destroyed **Erie** outpost. Umbrail found his former magical mentor among the dead. The attack demonstrated that orcs and kobolds were cooperating and using magical air-launch devices to overcome the Erie's normal advantage of flight.
+The party traced the kobolds toward the Balshar Mountains. There they found **Black Fang** orcs carrying broken-fang tribal tokens, increased kobold excavation, a desecrated Erie shrine, evidence of a huge flying creature, and a destroyed **Erie** outpost. Umbrail found his former magical mentor among the dead. The attack demonstrated that orcs and kobolds were cooperating and using magical air-launch devices to overcome the Erie's normal advantage of flight.
 
 At the ruined outpost, the party encountered **Zing Zow** and the **Cloud Seer** griffin riders. Zing Zow revealed that a dragon named **Razor** has established a roost in the Balshar Mountains, won the devotion of nearly all local kobolds, allied with the hostile **Black Fang** orcs, and begun a campaign to dominate the range. The Erie and Cloud Seers are resisting, while other orc tribes remain neutral.
 
@@ -91,7 +91,7 @@ Before leaving, Umbrail communed with his ancestors and was directed toward the 
 
 Umbrail found a written account of a similar shadow axe. The account described a cursed intelligent weapon that grows more powerful and corrupts its bearer toward allegiance to a dark god. The only identified method of stripping its power was immersion in the Shadow Well within the Undershadow. The party had clues, but not proof, that Rubius's weapon was the same artifact.
 
-In the mountains, a fur-clad orc attempted to stop the party while hidden allies and war boars waited in ambush. The party defeated the raiders and found broken-fang tokens on the bodies. They also recovered a Flamecaller's Talisman.
+In the mountains, a fur-clad Black Fang orc attempted to stop the party while hidden allies and war boars waited in ambush. The party defeated the raiders and found their broken-fang tribal tokens. They also recovered a Flamecaller's Talisman.
 
 The group then began a hex-based mountain search. Severe weather led to an encounter with giant wolf-like predators. Rubius fell to zero hit points during that fight and gained a wound; his character note also tracks one Shadow Point associated with carrying the axe, though the transcript does not clearly narrate the point's rules.
 
@@ -164,8 +164,7 @@ None of those final methods is currently defined as canon. The campaign has esta
 | --- | --- | --- | --- |
 | Erie | Declining Birdfolk remnant resisting Razor | Guard artifacts, mine, capital, battlefield sites; led by General Brand | Secretly guard the dragonflight resting place; internal response to Umbrail is undefined |
 | Cloud Seers | Griffin-riding orcs allied with the Erie | Led locally by Zing Zow; willing to secure the mine | Wider leadership, resources, and old relationship with Lil Chang remain undefined |
-| Black Fang orcs | Allied with Razor | Alliance of convenience; hostile | Their reward, leadership, actual strength, and connection to broken-fang tokens are unresolved |
-| Shattered Fang orcs | Named in GM canvas as a cave-dwelling tribe with an ancient Erie blood feud | Not clearly introduced under this name | May be the Black Fang/broken-fang group or a separate tribe; continuity decision required |
+| Black Fang orcs | Allied with Razor; cave-dwelling tribe with an ancient Erie blood feud | Alliance of convenience; hostile; warriors carry broken fangs as tribal tokens | Their reward, leadership, and actual strength are unresolved |
 | Rock Scale kobolds | Small mountain kobold tribe serving Razor | Players know most kobolds worship Razor | Tribe name and specific history are currently GM-only canvas material |
 | Unaligned orc tribes | Waiting to see who wins | Potential recruits | Names, leaders, grievances, territories, and demands are not yet established in played canon |
 | Clackston | Safe after livestock recovery | Friendly community and completed employer | Could become threatened again if Razor expands beyond Balshar |
@@ -213,9 +212,9 @@ The party knows the Erie are declining. The canvas establishes that they once he
 
 The canvas identifies the mountain kobolds as the **Rock Scale** tribe: small, evil, cowardly, and completely devoted to Razor since his arrival. The characters have not heard that formal tribe name in the recorded sessions.
 
-#### A Long Erie–Orc Blood Feud Predates Razor
+#### The Black Fang–Erie Blood Feud Predates Razor
 
-The canvas names the **Shattered Fang** orcs as a cave- and tunnel-dwelling tribe that historically avoided the open because the Erie could prey on them from the air. The two peoples have maintained a blood feud for generations. This history can explain why some orcs would ally with Razor even if they do not trust dragons.
+The canvas establishes the **Black Fang** as a cave- and tunnel-dwelling tribe that historically avoided the open because the Erie could prey on them from the air. The two peoples have maintained a blood feud for generations. Black Fang warriors wear broken fangs as tribal tokens. This history helps explain why they allied with Razor even though they do not worship or fully trust the dragon.
 
 ### Partially Revealed Truths That Still Need Payoff
 
@@ -276,15 +275,15 @@ The party saw only a shadow and enormous claw marks. The creature has not been i
 
 ### Optional Preparation Not Yet Canon
 
-The character notes include unused preparation for a **Cloud-Tusk** orc group and NPCs named **Kora Skybreak**, **Jun Ashstep**, and **Elder Mauk Cloud-Tusk**. Those ideas have not appeared in played canon. Session 06 instead introduced **Zing Zow** and the **Cloud Seers**.
+The character notes include unused preparation for additional **Cloud Seer** members named **Kora Skybreak**, **Jun Ashstep**, and **Elder Mauk**. Those characters have not appeared in played canon. Session 06 established **Zing Zow** and the Cloud Seers as Lil Chang's mountain connection.
 
-The Cloud-Tusk material can still be used in one of three ways:
+This additional Cloud Seer material can still be used in one of three ways:
 
-1. Make the Cloud-Tusk one of the neutral tribes the party must recruit.
-2. Fold the names and conflicts into the established Cloud Seers.
-3. Retire the prep to avoid introducing two similar high-mountain orc cultures.
+1. Introduce Kora, Jun, and Mauk as members of another Cloud Seer settlement or patrol.
+2. Use their names and conflicts to deepen Lil Chang's history with Zing Zow's people.
+3. Retire any unused elements that duplicate Zing Zow's established role.
 
-Until that choice is made, Kora, Jun, Mauk, the old Cloud-Tusk nickname for Lil Chang, and the wind-harness rescue are **optional hooks**, not undiscovered facts.
+Until those characters appear, Kora, Jun, Mauk, Lil Chang's old Cloud Seer nickname, and the wind-harness rescue remain **optional hooks**, not undiscovered facts.
 
 The campaign canvas also lists possible encounters—an owlbear, an orc patrol, a kobold excavation crew, three lions, wargs, a griffin, and a dragon shadow. The warg, griffin, and shadow beats have already been used. The remaining entries are encounter options, not obligations or established off-screen events.
 
@@ -336,7 +335,7 @@ The campaign canvas also lists possible encounters—an owlbear, an orc patrol, 
 - Decide whether he carries an old name, debt, shame, or obligation.
 - Use his history as either leverage or a complication when recruiting neutral tribes.
 
-The Cloud-Tusk prep can supply this material if desired, but it must be reconciled with the Cloud Seers.
+The additional Cloud Seer prep for Kora, Jun, and Mauk can supply this material if desired.
 
 ### Rubius Haggard — Strength, Giants, and the Axe
 
@@ -426,7 +425,7 @@ The Warren's ancient builders, unexplored side opening, surviving kobold workers
 
 - Recruit enough neutral tribes to change the political balance.
 - Learn why the Black Fang serve Razor and whether they can be divided.
-- Discover whether the broken-fang raiders, Black Fang, and Shattered Fang are one faction or three.
+- Learn how the Black Fang's ancient Erie blood feud shapes their alliance with Razor and whether that alliance can be divided.
 - Reach the Erie capital and meet General Brand.
 - Define and secure Umbrail's artifact.
 - Determine whether the mine remains safe.
@@ -467,21 +466,21 @@ The cleanest Session 07 opening is:
 
 This preserves the party's declared choice while continuing both the war plot and the personal stories.
 
-## Continuity Decisions Needing GM Confirmation
+## Continuity Status
 
-### Orc Faction Names
+### Resolved: Black Fang Identity
 
-- **Broken-fang tokens:** Found on the first hostile orc patrol.
-- **Black Fang:** Named in Session 06 as Razor's allied clan.
-- **Shattered Fang:** Named in the GM canvas as the cave-dwelling tribe with the old Erie blood feud.
+- **Canonical name:** Black Fang, as established in Session 06.
+- **Tribal marker:** Warriors carry broken fangs taken from various creatures.
+- **Older preparation:** Any earlier alternate Fang name refers to this same tribe.
 
-These may represent one faction with evolving names, related factions, or separate tribes. A single canon decision will prevent later confusion.
+The mountain-pass raiders, the cave-dwelling orcs with the Erie blood feud, and Razor's allied orc clan are one faction: the **Black Fang**.
 
-### Cloud Seer Versus Cloud-Tusk
+### Resolved: Cloud Seer Identity
 
-**Cloud Seer** and **Zing Zow** are played canon. **Cloud-Tusk**, Kora Skybreak, Jun Ashstep, and Elder Mauk are optional preparation. Decide whether to convert or retire the unused names.
+**Cloud Seer** is the canonical tribe name, and **Zing Zow** is played canon. Kora Skybreak, Jun Ashstep, and Elder Mauk are optional, unrevealed Cloud Seer NPCs rather than members of a separate tribe.
 
-### Axe Rules
+### Needs Confirmation: Axe Rules
 
 The played transcript describes the Axe of Snaggletooth as dealing **3d4** rather than a normal battleaxe's **1d8**. The older Warren canvas lists **2d4+2**. The transcript and character sheet should control current mechanics unless deliberately revised.
 

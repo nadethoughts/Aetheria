@@ -61,7 +61,7 @@ As the wounded griffin backed away, the party noticed approximately six more gri
 The characters reacted cautiously:
 
 - Lil Chang tried to question the wounded griffin.
-- Rowan took a defensive posture and assessed the riders for the broken-fang markers seen on the hostile orc bodies from the previous session. He saw none.
+- Rowan took a defensive posture and assessed the riders for the Black Fang tokens seen on the hostile orc bodies from the previous session. He saw none.
 - Umbrail tried to read the incoming formation and prepare the party against an attack.
 - Rubius, despite still being enraged, used Nature Craft to interpret the griffin's body language. He concluded that it regarded Umbrail as an ally and Lil Chang as a threat.
 - Alder remained low among the bodies and used them as cover.
@@ -276,7 +276,7 @@ Lil Chang's past became a diplomatic asset when Zing Zow recognized him. His Clo
 
 ### Rowan Hearthboro
 
-Rowan's protective identity was reinforced mechanically and narratively. He drew the griffin's attention, Interposed when it attacked Lil Chang, and helped the party avoid mistaking the Cloud Seers for the same faction as the broken-fang orcs. The apparent Refuge subclass choice deepens his role as the party's defender and could also make him a strong diplomatic representative of the coalition's protective purpose.
+Rowan's protective identity was reinforced mechanically and narratively. He drew the griffin's attention, Interposed when it attacked Lil Chang, and helped the party avoid mistaking the Cloud Seers for the hostile Black Fang. The apparent Refuge subclass choice deepens his role as the party's defender and could also make him a strong diplomatic representative of the coalition's protective purpose.
 
 ### Rubius Haggard
 

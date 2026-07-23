@@ -42,7 +42,7 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 ## Current Hooks
 - The shadow axe presents itself as comforting, safe, and meant for him.
 - The axe currently deals 3d4 as a battleaxe and has whispered, "Welcome friend, let's drink the light together."
-- The axe is calm around death but may react badly around Erie rites, Cloud-Tusk storm wards, or anything that can name what it is.
+- The axe is calm around death but may react badly around Erie rites, Cloud Seer storm wards, or anything that can name what it is.
 - Rubius still seeks old ruins and clues connected to giants.
 - The Shadow Well and Undershadow threads may become the only way to unmake or drain the axe's power.
 
