@@ -9,7 +9,7 @@ Derek
 - **Campaign**: Nimble
 - **Class**: Shadowmancer
 - **Ancestry**: Shroomling
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
 - **Current Item Thread**: Flamecaller's Talisman may currently be with Alder, pending table confirmation
 - **Personal Thread**: Lost rot-heirloom, patron pressure, and the Undershadow
 
@@ -37,6 +37,7 @@ He is also more useful under pressure than he looks. In the Warren, he read stea
 - Predicted the timing of the steam bursts in the trapped corridor with a natural 20.
 - Administered Caustic Brew to Rowan after Rowan went down in the animal pen fight.
 - May currently be holding the Flamecaller's Talisman, though the party still needs to confirm.
+- Communed with [[World/Religion/Deities/Erabose|Erabose]] at the ruined Erie outpost; the patron remains displeased about an earlier unfulfilled command but still considers Alder useful.
 
 ## Current Hooks
 - Alder's patron wants Haggard's axe removed as competition.
@@ -46,7 +47,7 @@ He is also more useful under pressure than he looks. In the Warren, he read stea
 - Alder has a personal reason to follow the dark route even if the dragon arc pulls the party upward.
 
 ## Open Questions
-- What is Alder's patron, and what does it want besides the axe removed?
+- What earlier command from Erabose is Alder delaying, and how long will the patron tolerate it?
 - What is the name and exact form of the lost rot-heirloom?
 - Did Alder lose the heirloom through carelessness, theft, betrayal, or something worse?
 - How much of Alder's magic comes from his people, his patron, or the heirloom's absence?

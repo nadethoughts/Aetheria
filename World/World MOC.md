@@ -56,7 +56,7 @@ Notable deities: **[[Cadens]]**, **[[Justicar]]**, **[[Aelra]]**, **[[Miraine]]*
 - **[[The Order of The Blessed Realm]]** / **[[The Order of the Dawnguard]]**
 - **Ironhold:** **[[Ironhold/The Reformists]]**, **[[Ironhold/Isolationists]]**, **[[Ironhold/Expansionists]]**, **[[Ironhold/The Loyalists]]**, **[[Ironhold/The Radicals & Cults]]**
 - **Verdant Strand / New Penmaris:** **[[New Penmaris - Iron Tide Regiment]]**, **[[The Verdant Strand/Pearlbound]]**, **[[The Verdant Strand/Tidecutters]]**, **[[The Verdant Strand/Dockhands]]**
-- **Balshar:** **[[Erie]]**, **[[Cloud Seers]]**, **[[Black Fang Orcs]]**
+- **Balshar:** **[[Erie]]**, **[[Cloud Seers]]**, **[[Black Fang Orcs]]**, **[[Frostvein Orcs]]**, **[[Graven Hand Orcs]]**, **[[Hollow Drum Orcs]]**
 - **[[Namar'Zul]]** — Tripkee tribe (swamp)
 
 *See folder: `World/Factions/`*
@@ -92,6 +92,7 @@ Notable deities: **[[Cadens]]**, **[[Justicar]]**, **[[Aelra]]**, **[[Miraine]]*
 - **Veilcant relics:** **[[Beacon's Blade]]**, **[[Heart of the Flame]]**, **[[Mirror of Ashes]]**, **[[Infernal Breeze Gauntlets]]**
 - **Anchor:** **[[The Pearl]]**, **[[Coralite]]**
 - **Nimble:** **[[Axe of Snaggletooth]]**
+- **Nimble / Erie:** **[[Talon of Unmaking]]**
 
 *See folder: `World/Items/`*
 
@@ -107,7 +108,7 @@ Notable deities: **[[Cadens]]**, **[[Justicar]]**, **[[Aelra]]**, **[[Miraine]]*
 
 *See folder: `World/Characters/` — Avaotaon, Ironhold Territory, New Penmaris, Namar'Zul, Vargram, Firewalker Tribe, Burned Wood, etc.*
 
-**Crown reveals:** **[[Velkra]]** (hag matron), **[[Grolmok the Fist]]**, **[[Vrekkar Bloodtooth]]** (bugbears), **[[Grul'Mog the Deep Belly (Froghemoth)]]**. **Anchor reveals:** **[[Reddan Pike]]** (Tidecutters bosun).
+**Crown reveals:** **[[Velkra]]** (hag matron), **[[Grolmok the Fist]]**, **[[Vrekkar Bloodtooth]]** (bugbears), **[[Grul'Mog the Deep Belly (Froghemoth)]]**. **Anchor reveals:** **[[Reddan Pike]]** (Tidecutters bosun). **Nimble reveals:** **[[An Yue]]**, **[[Bao Jun]]**, **[[Chen Wei]]**, the Cloud Seer scout **[[Da Long]]**, and his griffon **[[Quickfeather]]**.
 
 ---
 

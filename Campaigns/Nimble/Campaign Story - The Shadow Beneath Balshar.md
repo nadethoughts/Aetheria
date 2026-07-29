@@ -10,7 +10,7 @@ tags: [type/campaign-story, campaign/nimble]
 
 # The Shadow Beneath Balshar
 
-*A novella of the Nimble campaign through Session 06*
+*A novella of the Nimble campaign through Session 07*
 
 ## Chapter One — The Winter Posse
 
@@ -285,3 +285,59 @@ Below them, ancient things waited in stone.
 Above them, a dragon gathered the sky.
 
 And between the two stood six companions who had once been hired to find a missing sheep.
+
+## Chapter Seven — The Race to Frostvein
+
+The Cloud Seers remained through the night.
+
+For the first time since entering the high mountains, the companions rested beneath watchful wings. Rubius's wound closed. His buried wand drank whatever old violence lingered in the battlefield and woke ready for use again.
+
+Alder reached into the dark and found [[World/Religion/Deities/Erabose|Erabose]] waiting. The fallen god had not forgotten the task Alder delayed. He was displeased, but patience and usefulness were not yet exhausted.
+
+Umbrail searched what remained of the outpost's books. Among them he found the truth he had feared: when he fled home, he had taken one of his mentor's artifacts without knowing it. It was not one of the great relics hidden throughout the mountains, but it had been entrusted to the Erie for a reason.
+
+The old words cleaned it. The [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]] woke in his hands, ready to peel armor from creatures of flesh, steel, or scale.
+
+At dawn, Zing Zow unfolded the map and gave them three names.
+
+The [[World/Factions/Frostvein Orcs|Frostvein]] lived among the cold peaks under [[World/Characters/An Yue|An Yue]], a chieftess known for a cool head. The [[World/Factions/Graven Hand Orcs|Graven Hand]] kept the burial grounds under the strange and solemn [[World/Characters/Bao Jun|Bao Jun]]. The [[World/Factions/Hollow Drum Orcs|Hollow Drum]] lived below the mountains, sending messages through stone under [[World/Characters/Chen Wei|Chen Wei]].
+
+They were not enemies of one another. The grievance they shared was older and wore feathers.
+
+The Erie had no welcome in the eastern mountains.
+
+Zing Zow promised to signal once the mine was secure. His riders rose into the morning while the companions descended toward the northern ford and the nearest neutral village.
+
+Several days later, they found warg tracks on a narrow game trail. Umbrail saw the pack from above: wild animals, not mounts, moving slowly because injured pups struggled among them.
+
+The party tried to go around.
+
+The forest returned them directly to the wolves.
+
+The adults closed around their young. Umbrail's voice became thunder. Rubius raised a boulder above his head. Whisper watched the wargs rather than the teeth and understood the choice being offered.
+
+Leave, and live.
+
+The companions backed away. The wargs did the same. For the rest of the day, both packs traveled toward the river without testing the agreement.
+
+Near the gorge, a riderless griffin descended from the sky. Cloud Seer tack hung from its body, but no orc sat in the saddle. It seized Lil Chang's clothes and pulled until the message became clear.
+
+Its friend was dying.
+
+The griffin carried Lil Chang across the gorge to a broken shelf of stone. A Cloud Seer scout lay there, blue in the face and pierced by black-tipped arrows. Lil Chang poured a foul healing draft into his mouth and pressed life back into his chest.
+
+The scout, [[World/Characters/Da Long|Da Long]], woke coughing.
+
+His griffon was [[World/Characters/Quickfeather|Quickfeather]]. His warning was worse than his wounds.
+
+The Black Fang had already crossed into the east. Fifteen or twenty warriors guarded an entourage of diplomats bound for Frostvein. Razor was not waiting to conquer the neutral tribes after the war. He was asking them to choose him now.
+
+The Black Fang had the road. Quickfeather had the sky.
+
+Lil Chang climbed into the saddle behind the scout. Together they would reach An Yue first and tell her what the Black Fang had done to a witness in the open air. The others received directions to hidden paths and began planning how to delay a diplomatic escort without turning themselves into the aggressors.
+
+Quickfeather leapt from the rock.
+
+Below, the party entered the secret trails.
+
+Ahead, two offers raced toward the same chieftess—and the future of Balshar waited to hear which one arrived first.

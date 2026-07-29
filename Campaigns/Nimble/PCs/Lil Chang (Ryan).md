@@ -9,7 +9,7 @@ Ryan
 - **Campaign**: Nimble
 - **Class**: Zephyr
 - **Ancestry**: Orc
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
 - **Party Entry**: Found chained in the Warren after being captured by kobolds
 - **Current Arc**: His old mountain connections are becoming important through the Cloud Seer orcs
 
@@ -37,6 +37,8 @@ He is also direct in a fight. In the warg battle, he crushed throats, followed s
 - Entered combat quickly and took a first-player position in his first fight.
 - Finished a kobold with his staff and dedicated the strike to Wing Ding.
 - In the mountain warg fight, used staff and martial follow-up attacks to finish enemies brutally.
+- Revived the dying Cloud Seer scout [[World/Characters/Da Long|Da Long]] with a healing potion and chest compressions.
+- Rode [[World/Characters/Quickfeather|Quickfeather]] ahead of the party to warn [[World/Characters/An Yue|An Yue]] before the Black Fang diplomatic entourage reached the Frostvein.
 
 ## Current Hooks
 - Kora Skybreak may recognize him and call him by an old Cloud Seer name or nickname.

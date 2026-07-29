@@ -9,7 +9,8 @@ Dave
 - **Campaign**: Nimble
 - **Class**: Mage
 - **Ancestry**: Birdfolk, specifically tied to the Erie of the Balshar mountains
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
+- **Current Artifact**: [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]]
 - **Background Thread**: Took the "bad choice" background; the curse, enemy, or owed consequence is still open
 - **Current Arc**: The party has reached Umbrail's homeland and found one of his old Erie outposts destroyed
 
@@ -38,18 +39,19 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - Helped Haggard work on freeing the magically trapped livestock.
 - Became increasingly tense as the party climbed closer to his Erie homeland.
 - Found his old magical mentor dead at the ruined Erie outpost.
+- Confirmed that he had unknowingly taken his mentor's lesser Erie artifact, then cleansed and activated it as the Talon of Unmaking.
 
 ## Current Hooks
 - Umbrail must decide whether he returns to the Erie as kin, exile, witness, or outsider with strange friends.
 - His mentor has not been named yet; possible prep names include Master Corveth Greyplume, Soryn Windscribe, or Vaelis Ashquill.
 - The Erie may know him, his family, or his teacher, but not all of them will welcome him.
 - The dragon Razor is threatening the old mountain balance between Erie, orcs, kobolds, griffin guardians, and older powers below.
-- His "bad choice" background still needs its consequence: curse, enemy, stolen item, owed debt, or magic that wants repayment.
+- His possession of the Talon of Unmaking may become part of the cost of his "bad choice" background when he returns to the Erie.
 
 ## Open Questions
 - What was the first lesson Umbrail's master taught him that he actually believed?
 - Did Umbrail leave because he was afraid, curious, unwanted, or needed elsewhere?
-- What did he take when he left home, and who still remembers?
+- Who knows that he took the Talon of Unmaking, and will the Erie regard him as its inheritor or its thief?
 - What exactly did the "bad choice" cost him?
 
 ## Source Notes

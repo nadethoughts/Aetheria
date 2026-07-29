@@ -9,7 +9,7 @@ Jason
 - **Campaign**: Nimble
 - **Class**: The Cheat
 - **Ancestry**: Human
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
 - **Personal Thread**: Ran from home, learned to bend rules, and may not know whether home will take him back
 
 ## Appearance
@@ -35,6 +35,7 @@ He is the party's practical opportunist: the one who can read a bad ceiling, spo
 - Killed several kobolds in the animal pen fight with daggers and sling shots.
 - Benefited from Umbrail's Heart's Fire, gaining extra action economy in a key fight.
 - Was protected by Rowan's Interpose when Umbrail's Overload threatened nearby allies.
+- Assessed the wild warg family and determined that it would allow the party to withdraw peacefully if no one advanced aggressively.
 - Helped find the key and free Lil Chang after the party discovered him chained in the Warren.
 
 ## Current Hooks

@@ -20,6 +20,10 @@ The Erie protect ancient sites and artifacts connected to an earlier dragon war.
 - A huge unidentified flying creature has left enormous claw marks on high ledges.
 - [[General Brand]] directs the Erie war effort from their principal city.
 - The Nimble party's current objective is to recruit neutral orc tribes against Razor.
+- The neutral tribes named so far are the [[Frostvein Orcs]], [[Graven Hand Orcs]], and [[Hollow Drum Orcs]].
+- The wounded Cloud Seer scout [[Da Long]] reported that Black Fang diplomats and a 15–20-orc escort are traveling toward the Frostvein settlement.
+- Lil Chang and Da Long are racing ahead on Da Long's griffon, [[Quickfeather]], while the rest of the party follows by secret paths.
+- Umbrail recovered the [[Talon of Unmaking]], a lesser Erie artifact that weakens armor and is especially effective against dragons.
 
 ## Related
 
@@ -28,5 +32,8 @@ The Erie protect ancient sites and artifacts connected to an earlier dragon war.
 - [[Erie]]
 - [[Cloud Seers]]
 - [[Black Fang Orcs]]
+- [[Frostvein Orcs]]
+- [[Graven Hand Orcs]]
+- [[Hollow Drum Orcs]]
+- [[Talon of Unmaking]]
 - [[Axe of Snaggletooth]]
-

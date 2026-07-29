@@ -7,7 +7,7 @@ Ramsey
 - **Campaign**: Nimble
 - **Class**: Oathsworn
 - **Ancestry**: Bun Bun
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
 - **Utility Cantrip**: Bond of Peace
 - **Role**: Community protector, moral frame, and shield-bearing rescuer
 

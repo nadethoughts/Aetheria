@@ -12,6 +12,8 @@ They are allied with the [[Erie]] against [[Razor]]. The alliance is based on a 
 ## Known Members
 
 - [[Zing Zow]] — Griffin rider and childhood friend of Lil Chang
+- [[Da Long]] — Scout who discovered the Black Fang diplomatic mission
+- [[Quickfeather]] — Griffon bonded to Da Long
 
 ## Unrevealed GM Preparation
 
@@ -22,3 +24,5 @@ They are allied with the [[Erie]] against [[Razor]]. The alliance is based on a 
 ## Current Activity
 
 Zing Zow and approximately six riders answered an Erie call for aid but arrived after an outpost had been destroyed. They later volunteered to secure the nearby Erie mine and request reinforcements while the Nimble party sought support from neutral orc tribes.
+
+Da Long discovered a Black Fang diplomatic entourage moving toward the Frostvein settlement. Black Fang arrows brought him down, but Lil Chang revived him after Quickfeather found the party. Da Long and Lil Chang are now racing toward Frostvein together.

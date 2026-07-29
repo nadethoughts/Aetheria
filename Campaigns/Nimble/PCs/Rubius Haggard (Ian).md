@@ -9,10 +9,10 @@ Ian
 - **Campaign**: Nimble
 - **Class**: Berserker
 - **Ancestry**: Half-Giant
-- **Current Level**: 2, likely approaching level 3 after the ruined Erie outpost
+- **Current Level**: 3
 - **Likely Subclass Direction**: Mountain Heart over Red Mist, because of the giant connection
 - **Current Item Thread**: The Axe of Snaggletooth, also known as the shadow axe
-- **Current Status**: 1 Shadow Point from dropping to 0 while carrying the axe
+- **Current Status**: 0 wounds after the Session 07 safe rest; 1 tracked Shadow Point from dropping to 0 while carrying the axe
 
 ## Appearance
 Rubius is enormous even before anyone remembers he is a half-giant: about thirteen feet tall, with deep red hair, emerald eyes, and a friendly, jolly presence that makes the size difference feel less threatening until combat starts.
@@ -38,6 +38,8 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 - Killed the kobold Clangor with a huge axe blow during the fight in the animal pen room.
 - Took up the Axe of Snaggletooth after the boss fight, feeling peace and safety instead of obvious corruption.
 - Dropped to 0 while carrying the axe, gaining his first Shadow Point.
+- Healed his wound during a safe rest and recharged his True Strike Wand by burying it at the ruined battlefield overnight.
+- Helped drive off a wild warg family without combat by raising and throwing a boulder as a display of strength.
 
 ## Current Hooks
 - The shadow axe presents itself as comforting, safe, and meant for him.
