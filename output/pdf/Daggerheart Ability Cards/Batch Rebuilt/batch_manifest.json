@@ -1,0 +1,383 @@
+{
+  "characters": [
+    {
+      "name": "Alder",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/alder.webp",
+      "artist": "Alder portrait",
+      "cards": [
+        {
+          "title": "PILFERED POWER",
+          "domain": "Midnight",
+          "meta": "Alder • Level 3 Shadowmancer Ability • Patron Power",
+          "rules": "Steal power from your Patron to cast tiered spells at the highest tier unlocked. You may do this DEX times before your Patron notices. Each excess use costs half your maximum HP. The limit resets when you commune during a Safe Rest."
+        },
+        {
+          "title": "MASTER OF NIGHTFROST",
+          "domain": "Midnight",
+          "meta": "Alder • Level 3 Abyssal Depths Ability • Passive",
+          "rules": "Learn Ice spells and breathe underwater. Shadow Blast and nightfrost minions may deal cold or necrotic damage. Whenever they would critically hit, gain INT + level temporary HP."
+        },
+        {
+          "title": "MASTER OF DARKNESS",
+          "domain": "Midnight",
+          "meta": "Alder • Level 3 Shadowmancer Ability • Spell Knowledge",
+          "rules": "Your Patron grants you knowledge of Necrotic cantrips and tier 1 Necrotic spells."
+        },
+        {
+          "title": "MY FAVORED PET",
+          "domain": "Midnight",
+          "meta": "Alder • Lesser Shadow Invocation • Utility",
+          "rules": "One shadow minion can begrudgingly tolerate you outside combat. It can, very creepily, perform any menial task a below-average commoner could."
+        },
+        {
+          "title": "DANGER POLLEN / SPORES",
+          "domain": "Sage",
+          "meta": "Alder • Shroomling Ancestry Ability • When Wounded",
+          "rules": "Whenever an enemy causes you 1 or more Wounds, excrete soporific spores: all adjacent enemies are Dazed. You know Elvish if your INT is not negative."
+        },
+        {
+          "title": "WILD ONE",
+          "domain": "Sage",
+          "meta": "Alder • Background Ability • Wilderness",
+          "rules": "Wild creatures are less frightened of you and more willing to aid you. Gain +1 Nature Craft. During a Field Rest in the wild, roll your Hit Dice with advantage."
+        }
+      ]
+    },
+    {
+      "name": "Cai Lin",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Cai Lin.png",
+      "artist": "Cai Lin portrait",
+      "cards": [
+        {
+          "title": "MERCIFUL HEALING",
+          "domain": "Splendor",
+          "meta": "Cai Lin • Level 3 Luminary of Mercy Ability • Dying Creatures",
+          "rules": "When an effect you cause heals a Dying creature, it heals twice as much. Once per round while you are Dying, your Lifebinding Spirit may act for free."
+        },
+        {
+          "title": "SEARING LIGHT",
+          "domain": "Splendor",
+          "meta": "Cai Lin • Level 3 Shepherd Ability • WIL (2)/Safe Rest • 1 Action • Reach 6",
+          "rules": "Choose one: heal 2d8 HP to a Dying creature; or deal 2d8 radiant damage to an undead or Bloodied enemy."
+        },
+        {
+          "title": "LIFE IS BEAUTIFUL",
+          "domain": "Splendor",
+          "meta": "Cai Lin • Level 3 Luminary of Mercy Ability • Passive",
+          "rules": "Harmless, lovely creatures such as butterflies and hummingbirds are attracted to you and often follow you. Flowers bloom more vibrantly in your presence."
+        },
+        {
+          "title": "TRADESMAN / ARTISAN: HEALER & HERBALIST",
+          "domain": "Splendor",
+          "meta": "Cai Lin • Background Ability • Healing and Herbalism",
+          "rules": "Gain advantage on checks related to healing and herbalism, and retain special knowledge about that profession."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Cai Lin • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        }
+      ]
+    },
+    {
+      "name": "Da Long",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Da Long.png",
+      "artist": "Da Long portrait",
+      "cards": [
+        {
+          "title": "HUNTER'S MARK",
+          "domain": "Sage",
+          "meta": "Da Long • Level 3 Hunter Ability • 1 Action • Lasts 1 Day",
+          "rules": "Mark a creature you can see as your quarry for 1 day, or until you mark another creature. It cannot be hidden from you. Before each attack against it, choose advantage or +3 damage."
+        },
+        {
+          "title": "THRILL OF THE HUNT",
+          "domain": "Bone",
+          "meta": "Da Long • Level 3 Hunter Ability • Gain Thrill",
+          "rules": "Gain 1 Thrill charge when your quarry dies, you hit it in melee, or you critically hit it at range. Abilities that spend Thrill cannot generate it. Unspent charges are lost when combat ends."
+        },
+        {
+          "title": "GO FOR THE THROAT!",
+          "domain": "Bone",
+          "meta": "Da Long • Level 3 Beastmaster • 1/Encounter • 2 Thrill + 2 Actions",
+          "rules": "Quickfeather attacks your quarry for 1d12 + 12 damage, ignoring Armor. If it dies, deal half as much damage to another creature within Reach 4."
+        },
+        {
+          "title": "ROLL & STRIKE",
+          "domain": "Blade",
+          "meta": "Da Long • Level 3 Hunter Ability • 1 Action • Requires 0 Thrill",
+          "rules": "If you have no Thrill charges, move up to your Speed toward your quarry. If you end adjacent, make a melee attack against it for free."
+        },
+        {
+          "title": "ALPHA PROTECTOR",
+          "domain": "Valor",
+          "meta": "Da Long • Level 3 Beastmaster Feature • Large Companion",
+          "rules": "Damage from the first attack against you each round is halved."
+        },
+        {
+          "title": "FORAGER",
+          "domain": "Sage",
+          "meta": "Da Long • Level 3 Hunter Ability • Wilderness",
+          "rules": "Gain advantage on skill checks to find food and water in the wild."
+        },
+        {
+          "title": "TRACKER'S INTUITION",
+          "domain": "Sage",
+          "meta": "Da Long • Level 3 Hunter Ability • Investigation",
+          "rules": "Study tracks and subtle environmental clues to discern a past encounter: the kind and number of creatures, their direction, key actions, and the passage of time."
+        },
+        {
+          "title": "BEASTMASTER - QUICKFEATHER",
+          "domain": "Sage",
+          "meta": "Da Long • Level 3 Beastmaster Feature • Large Companion",
+          "rules": "Quickfeather's HP and movement are abstracted. At GM discretion it may fly, carry riders, track scents, Grapple, or Help. Spend 1 action to command a complex task. Its attacks count as yours for gaining Thrill."
+        },
+        {
+          "title": "PROTECT ME!",
+          "domain": "Valor",
+          "meta": "Da Long • Level 3 Beastmaster Ability • After a Wound • 1/Encounter",
+          "rules": "After you gain a Wound, Quickfeather may whisk you up to 12 spaces away to safety."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Da Long • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        },
+        {
+          "title": "SURVIVALIST",
+          "domain": "Sage",
+          "meta": "Da Long • Background Ability • Survival",
+          "rules": "You never run out of personal rations. Anything can be food. Gain advantage on poison saves and +1 maximum Hit Die."
+        }
+      ]
+    },
+    {
+      "name": "Feng Rui",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Feng Rui.png",
+      "artist": "Feng Rui portrait",
+      "cards": [
+        {
+          "title": "COORDINATED STRIKE!",
+          "domain": "Valor",
+          "meta": "Feng Rui • Level 3 Commander Order • 1/Round • INT (2)/Safe Rest • Free Action",
+          "rules": "You and one ally within 6 spaces each immediately make a weapon attack or cast a cantrip for free."
+        },
+        {
+          "title": "REPOSITION!",
+          "domain": "Valor",
+          "meta": "Feng Rui • Level 3 Commander Order • Action or Reaction on Ally's Turn",
+          "rules": "Command one ally to move up to their Speed for free, or two allies to each move up to half their Speed for free."
+        },
+        {
+          "title": "SHIELD EXPERT",
+          "domain": "Valor",
+          "meta": "Feng Rui • Level 3 Champion of the Bulwark Ability • 1/Round",
+          "rules": "Reduce damage from an attack by your shield's Armor value without Defending. When you do, deal that much damage to an enemy within Reach."
+        },
+        {
+          "title": "HOLD THE LINE!",
+          "domain": "Valor",
+          "meta": "Feng Rui • Level 3 Commander Order • Reaction at Ally 0 HP • 1/Encounter",
+          "rules": "Command that ally to continue the fight. Set their HP to 3 × your level (9)."
+        },
+        {
+          "title": "FIELD MEDIC",
+          "domain": "Splendor",
+          "meta": "Feng Rui • Level 3 Commander Ability • Healing",
+          "rules": "Roll 1 additional die for any health potion you administer. After you spend at least 10 minutes examining a creature's wounds, they add your Examination bonus to HP recovered from Hit Dice."
+        },
+        {
+          "title": "ARMOR MASTER",
+          "domain": "Valor",
+          "meta": "Feng Rui • Level 3 Champion of the Bulwark Ability • Passive",
+          "rules": "You are proficient with plate armor."
+        },
+        {
+          "title": "DEVOTED PROTECTOR - CAI LIN",
+          "domain": "Valor",
+          "meta": "Feng Rui • Background Ability • While Cai Lin Is Nearby",
+          "rules": "You can survive +3 maximum Wounds while Cai Lin is nearby. Whenever Cai Lin takes a Wound, you do too."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Feng Rui • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        }
+      ]
+    },
+    {
+      "name": "Jian Bo",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Jian Bo.png",
+      "artist": "Jian Bo portrait",
+      "cards": [
+        {
+          "title": "RAGE",
+          "domain": "Bone",
+          "meta": "Jian Bo • Level 3 Berserker Ability • 1 Action • 1/Turn",
+          "rules": "Roll a Fury Die (1d4) and set it aside. Add it to every STR attack you make. You can have a maximum of KEY (2) Fury Dice; they are lost when your Rage ends."
+        },
+        {
+          "title": "INTENSIFYING FURY",
+          "domain": "Bone",
+          "meta": "Jian Bo • Level 3 Berserker Ability • Start of Turn While Raging",
+          "rules": "If you are Raging at the beginning of your turn, roll 1 Fury Die for free."
+        },
+        {
+          "title": "BLOODLUST",
+          "domain": "Bone",
+          "meta": "Jian Bo • Level 3 Berserker Ability • On Your Turn • Spend Fury",
+          "rules": "Expend 1 or more Fury Dice on your turn. Move DEX (2) spaces per die spent for free."
+        },
+        {
+          "title": "THAT ALL YOU GOT?!",
+          "domain": "Valor",
+          "meta": "Jian Bo • Level 3 Berserker Reaction • When Attacked • Spend Fury",
+          "rules": "When you are attacked, you may expend 1 or more Fury Dice to reduce the damage taken by STR + DEX (4) for each die spent."
+        },
+        {
+          "title": "MOUNTAINOUS TENACITY",
+          "domain": "Valor",
+          "meta": "Jian Bo • Level 3 Mountainheart Ability • Spend Hit Dice",
+          "rules": "Whenever you expend Hit Dice to recover HP, for every 10 HP you would recover, you may heal 1 Wound instead."
+        },
+        {
+          "title": "ONE WITH THE ANCIENTS",
+          "domain": "Sage",
+          "meta": "Jian Bo • Level 3 Berserker Ability • 1/Safe Rest",
+          "rules": "When faced with a decision about which direction or course of action to take, call upon your ancestors to guide you toward the most dangerous or challenging path."
+        },
+        {
+          "title": "STONE'S RESILIENCE",
+          "domain": "Valor",
+          "meta": "Jian Bo • Level 3 Mountainheart Ability • Spend Fury to Reduce Damage",
+          "rules": "Whenever you expend Fury Dice to reduce incoming damage, add the value of each spent die to the amount reduced."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Jian Bo • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        },
+        {
+          "title": "FEARLESS",
+          "domain": "Valor",
+          "meta": "Jian Bo • Background Ability • Passive",
+          "rules": "You are immune to the Frightened condition. Gain +1 Initiative and -1 Armor."
+        }
+      ]
+    },
+    {
+      "name": "Lil Chang",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Lil Chang.webp",
+      "artist": "Lil Chang portrait",
+      "cards": [
+        {
+          "title": "IRON DEFENSE",
+          "domain": "Valor",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • While Unarmored",
+          "rules": "Your Armor equals DEX + STR as long as you are unarmored."
+        },
+        {
+          "title": "SWIFT FISTS",
+          "domain": "Bone",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • Unarmed Strikes",
+          "rules": "Your unarmed strikes are not subject to disadvantage imposed by Rushed Attacks, and their damage is 1d4 + STR."
+        },
+        {
+          "title": "BURST OF SPEED",
+          "domain": "Bone",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • At Initiative • 1/Turn",
+          "rules": "At Initiative, gain DEX Bursts for this encounter. Spend 1 for a free maneuver: Slipstream - Defend and the attack misses; Whirling Defense - Defend and apply Armor to every attack this round; Swiftstrike - attack without Rushed disadvantage; Windstep - Move ignoring difficult terrain."
+        },
+        {
+          "title": "KINETIC MOMENTUM",
+          "domain": "Bone",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • When Wounded",
+          "rules": "Whenever you gain a Wound, gain 1 Burst of Speed."
+        },
+        {
+          "title": "BRING THE PAIN",
+          "domain": "Bone",
+          "meta": "Lil Chang • Level 3 Way of Pain Ability • When Attacked",
+          "rules": "You may turn any melee attack against you into a critical hit. Whenever you are critically hit, halve the damage and deal the amount you took back to the attacker, ignoring Armor. You may suffer 1 Wound to double the reflected damage."
+        },
+        {
+          "title": "SWIFT FEET",
+          "domain": "Bone",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • While Unarmored",
+          "rules": "While unarmored, gain +2 Speed and +level Initiative."
+        },
+        {
+          "title": "ETHEREAL PROJECTION",
+          "domain": "Arcana",
+          "meta": "Lil Chang • Level 3 Zephyr Ability • 1/Day • 10-Minute Meditation",
+          "rules": "Project a visible, translucent version of yourself up to 30 feet away for up to 10 minutes. It passes through barriers and you see through its eyes, but it cannot interact physically with the environment."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Lil Chang • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        },
+        {
+          "title": "FEARLESS",
+          "domain": "Valor",
+          "meta": "Lil Chang • Background Ability • Passive",
+          "rules": "You are immune to the Frightened condition. Gain +1 Initiative and -1 Armor."
+        }
+      ]
+    },
+    {
+      "name": "Mei Rong",
+      "portrait": "Campaigns/Nimble/PCs/Ability Card Portraits/Mei Rong.png",
+      "artist": "Mei Rong portrait",
+      "cards": [
+        {
+          "title": "SONGWEAVER'S INSPIRATION",
+          "domain": "Grace",
+          "meta": "Mei Rong • Level 3 Songweaver Ability • 4/Safe Rest • Free Reaction",
+          "rules": "Allow an ally to reroll one die related to an attack or save; they may keep either result."
+        },
+        {
+          "title": "QUICK WIT",
+          "domain": "Grace",
+          "meta": "Mei Rong • Level 3 Songweaver Ability • When Rolling Initiative",
+          "rules": "Regain 2 spent uses of Songweaver's Inspiration. Unused regained uses expire at the end of combat."
+        },
+        {
+          "title": "INSPIRING PRESENCE",
+          "domain": "Grace",
+          "meta": "Mei Rong • Level 3 Herald of Courage Ability • When Inspiring",
+          "rules": "Whenever you use Songweaver's Inspiration, allies within 12 spaces who can hear you gain WIL (2) temporary HP."
+        },
+        {
+          "title": "JACK OF ALL TRADES",
+          "domain": "Codex",
+          "meta": "Mei Rong • Level 3 Songweaver Ability • Safe Rest",
+          "rules": "When you Safe Rest, you may move 1 skill point as if you had just leveled up."
+        },
+        {
+          "title": "SONG OF REST",
+          "domain": "Splendor",
+          "meta": "Mei Rong • Level 3 Songweaver Ability • 1/Day • Field Rest",
+          "rules": "Play a song during a Field Rest. Anyone who spends Hit Dice heals additional HP equal to your WIL (2)."
+        },
+        {
+          "title": "HISTORY BUFF",
+          "domain": "Codex",
+          "meta": "Mei Rong • Background Ability • Lore",
+          "rules": "Gain advantage on Lore checks about items, facts, or events that happened more than 100 years ago."
+        },
+        {
+          "title": "RELENTLESS",
+          "domain": "Valor",
+          "meta": "Mei Rong • Orc Ancestry Ability • 1/Safe Rest",
+          "rules": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative."
+        }
+      ]
+    }
+  ]
+}

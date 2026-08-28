@@ -8,8 +8,38 @@ Ramsey
 - **Class**: Oathsworn
 - **Ancestry**: Bun Bun
 - **Current Level**: 3
+- **Background**: Academy Dropout
+- **Subclass**: Oath of Refuge
+- **Sacred Decree**: Well Armored
 - **Utility Cantrip**: Bond of Peace
 - **Role**: Community protector, moral frame, and shield-bearing rescuer
+
+## Character Build
+
+- **Current Build**: Level 3 Bun Bun Oathsworn (Oath of Refuge)
+- **Background**: Academy Dropout
+- **Sacred Decree**: Well Armored
+- **Build Focus**: Protective interception, defensive aura support, emergency healing, and armored frontline control
+- **Spell Tracking**: Bond of Peace is Rowan's utility cantrip and is tracked separately from the non-spell abilities below.
+
+### Spell Card Printing
+
+- **Source PDF**: [[System Info/Nimble/SpellCards.pdf|Nimble SpellCards.pdf]]
+- **Print pages**: **38-40**
+- **Cards**: Rebuke (38), True Strike (39), Heal (40)
+- **Utility-card source**: [[output/pdf/Nimble Utility Spell Cards.pdf|Nimble Utility Spell Cards.pdf]]
+- **Utility pages**: **15** - Bond of Peace
+- **Reason**: A level 3 Oathsworn knows Radiant cantrips and tier 1 Radiant spells.
+
+### Selected Non-Spell Abilities
+
+- Radiant Judgment
+- Lay on Hands
+- Zealot
+- Aura of Refuge
+- Paragon of Virtue
+- Well Armored
+- Bunny Legs
 
 ## Appearance
 Rowan is a Bun Bun, a rabbit person with dappled white and brown fur. He wears battered mail that has become overgrown with plants, a straw hat, and a carrot-shaped pipe.
@@ -35,12 +65,16 @@ In combat, Rowan is built to put himself between danger and someone more vulnera
 - Used manacles to secure the captured kobold before releasing it with a warning.
 - Used Interpose to protect Whisper from Umbrail's Overload.
 - Went down in the animal pen fight and was revived with Alder's Caustic Brew.
+- Healed and welcomed [[World/Characters/Scritch|Scritch]], the kobold the party had released near Clackston.
+- Interposed to protect Scritch during the forest ambush.
+- Confronted Rubius after the axe drove him to attack Alder and pressed Alder to explain his patron.
 
 ## Current Hooks
 - Rowan is a natural voice for honoring the Erie dead, warning survivors, and protecting bystanders.
 - His Bond of Peace may matter in the griffin scene if the party chooses calming over killing.
 - Erie elders, Cloud Seer orcs, and wounded scouts all give Rowan people to protect and choices to frame.
 - His regret about leaving late can play against Umbrail's and Whisper's regret about leaving at all.
+- The party's two shadow threats now put Rowan in the role of watchdog and mediator between Rubius and Alder.
 
 ## Open Questions
 - What oath did Rowan swear, and to whom?
@@ -53,3 +87,4 @@ In combat, Rowan is built to put himself between danger and someone more vulnera
 - [[Session 02]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
+- [[Nimble Session 08 Transcript]]

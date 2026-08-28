@@ -1,0 +1,776 @@
+[
+  {
+    "href": "/card/6e852356-0ac2-4344-9b5f-1dedcd14eac6",
+    "title": "RAGE",
+    "meta": "Rubius Haggard • Level 3 Berserker Ability • 1 Action • 1/Turn",
+    "body": "Roll a Fury Die (1d4) and set it aside. Add it to every STR attack you make. You can have a maximum of KEY Fury Dice; they are lost when your Rage ends.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 1
+  },
+  {
+    "href": "/card/2013016f-cfaa-4dd9-855a-172e2d69ad69",
+    "title": "THAT ALL YOU GOT?!",
+    "meta": "Rubius Haggard • Level 3 Berserker Reaction • When Attacked • Spend Fury",
+    "body": "When you are attacked, you may expend 1 or more Fury Dice to reduce the damage taken by STR + DEX for each die spent.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 2
+  },
+  {
+    "href": "/card/e2d0238c-a484-4b13-87ee-5ed1cc6f7d10",
+    "title": "BLOODLUST",
+    "meta": "Rubius Haggard • Level 3 Berserker Ability • On Your Turn • Spend Fury",
+    "body": "Expend 1 or more Fury Dice on your turn. Move DEX spaces per die spent for free.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 3
+  },
+  {
+    "href": "/card/cad58818-31fa-4c76-808f-7790d35c23f9",
+    "title": "MOUNTAINOUS TENACITY",
+    "meta": "Rubius Haggard • Level 3 Mountainheart Ability • Spend Hit Dice",
+    "body": "Whenever you expend Hit Dice to recover HP, for every 10 HP you would recover, you may heal 1 Wound instead.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 4
+  },
+  {
+    "href": "/card/ea315fd2-02a4-4fe8-b273-58739d1eda6a",
+    "title": "ONE WITH THE ANCIENTS",
+    "meta": "Rubius Haggard • Level 3 Berserker Ability • 1/Safe Rest",
+    "body": "When faced with a decision about which direction or course of action to take, call upon your ancestors to guide you toward the most dangerous or challenging path.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 5
+  },
+  {
+    "href": "/card/dabd0a8e-e069-4177-897f-2274d63f8cca",
+    "title": "CHEAT",
+    "meta": "Whisper • Level 3 Cheat Ability • Passive / 1/Round / 1/Safe Rest",
+    "body": "Once per round, Move or Hide for free. Once per Safe Rest, change any skill check to 10 + INT. If Initiative is below 10, change it to 10. Gain advantage at games, competitions, or wagers, if you are not caught.",
+    "owner": "Whisper",
+    "ownerKey": "whisper",
+    "index": 1
+  },
+  {
+    "href": "/card/c752c20b-507a-418f-ab7b-37d6dda43304",
+    "title": "VICIOUS OPPORTUNIST",
+    "meta": "Whisper • Level 3 Cheat Ability • 1/Turn",
+    "body": "When you hit a Distracted target with a melee attack, you may change the Primary Die roll to any result you like. Changing it to the maximum value counts as a critical hit.",
+    "owner": "Whisper",
+    "ownerKey": "whisper",
+    "index": 2
+  },
+  {
+    "href": "/card/33bc15c7-f962-4ff5-8e6a-df456cb8ed84",
+    "title": "SNEAK ATTACK",
+    "meta": "Whisper • Level 3 Cheat Ability • When You Crit • 1/Turn",
+    "body": "When you critically hit, deal +1d8 damage. This damage is added to the attack and is not a separate attack.",
+    "owner": "Whisper",
+    "ownerKey": "whisper",
+    "index": 3
+  },
+  {
+    "href": "/card/42ac9a01-246e-4cec-9897-e6b427cc06d3",
+    "title": "RADIANT JUDGMENT",
+    "meta": "Rowan Hearthboro • Level 3 Oathsworn Ability",
+    "body": "Whenever an enemy attacks you, if you have no Judgment Dice, roll 2d8. On your next melee attack this encounter, deal that much additional radiant damage if you hit. The dice are expended whether you hit or miss.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 1
+  },
+  {
+    "href": "/card/4e475313-93b7-4cc1-9985-a7d630f85056",
+    "title": "LAY ON HANDS",
+    "meta": "Rowan Hearthboro • Level 3 Oathsworn Ability • 1 Action • Touch",
+    "body": "Your healing pool has a maximum of 5 x level (15 HP) and recharges on a Safe Rest. Touch a target and spend any amount from the pool to restore that much HP.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 2
+  },
+  {
+    "href": "/card/027a18be-6ac9-4f4b-b738-479f0aa5046a",
+    "title": "ZEALOT",
+    "meta": "Rowan Hearthboro • Level 3 Oathsworn Ability • Melee Attack",
+    "body": "When you attack with a melee weapon, spend mana up to your highest unlocked spell tier. For each mana, choose: Condemning Strike - deal +5 radiant damage; or Blessed Aim - decrease the target's Armor by 1 step for this attack.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 3
+  },
+  {
+    "href": "/card/47d4aa24-bbd5-4d03-9b3a-fc1e990c8b36",
+    "title": "AURA OF REFUGE",
+    "meta": "Rowan Hearthboro • Level 3 Oath of Refuge Ability • Reach 4",
+    "body": "Your shields gain +WIL Armor and count as your spellcasting focus. You can Interpose for an ally anywhere within your Reach 4 aura.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 4
+  },
+  {
+    "href": "/card/dd4692a8-e36b-4be1-bc3b-111f1004e8b4",
+    "title": "IRON DEFENSE",
+    "meta": "Lil Chang • Level 3 Zephyr Ability • While Unarmored",
+    "body": "Your Armor equals DEX + STR as long as you are unarmored.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 1
+  },
+  {
+    "href": "/card/f951cd48-c1a5-4756-9720-5f6763b54094",
+    "title": "SWIFT FISTS",
+    "meta": "Lil Chang • Level 3 Zephyr Ability • Unarmed Strikes",
+    "body": "Your unarmed strikes are not subject to disadvantage imposed by Rushed Attacks, and their damage is 1d4 + STR.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 2
+  },
+  {
+    "href": "/card/7bf9e83f-b877-4114-b8d2-3f2c3b023975",
+    "title": "BURST OF SPEED",
+    "meta": "Lil Chang • Level 3 Zephyr Ability • At Initiative • 1/Turn",
+    "body": "At Initiative, gain DEX Bursts for this encounter. Spend 1 for a free maneuver: Slipstream - Defend and the attack misses; Whirling Defense - Defend and apply Armor to every attack this round; Swiftstrike - attack without Rushed disadvantage; Windstep - Move ignoring difficult terrain.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 3
+  },
+  {
+    "href": "/card/8ef8b70e-18f5-4859-896c-9cd2d9e068eb",
+    "title": "KINETIC MOMENTUM",
+    "meta": "Lil Chang • Level 3 Zephyr Ability",
+    "body": "Whenever you gain a Wound, gain 1 Burst of Speed.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 4
+  },
+  {
+    "href": "/card/3cf2ed5f-7952-4b89-a0f6-e8819e6c5162",
+    "title": "BRING THE PAIN",
+    "meta": "Lil Chang • Level 3 Way of Pain Ability",
+    "body": "You may turn any melee attack against you into a critical hit. Whenever you are critically hit, halve the damage and deal the amount you took back to the attacker, ignoring Armor. You may suffer 1 Wound to double the reflected damage.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 5
+  },
+  {
+    "href": "/card/538d5f71-504e-4dd5-b961-2176b63fe483",
+    "title": "PILFERED POWER",
+    "meta": "Alder • Level 3 Shadowmancer Ability",
+    "body": "Steal power from your Patron to cast tiered spells at the highest tier unlocked. You may do this DEX times before your Patron notices. Each excess use costs half your maximum HP. The limit resets when you commune during a Safe Rest.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 1
+  },
+  {
+    "href": "/card/c11b2957-787a-41d0-8fc4-17f29ba9666c",
+    "title": "MASTER OF NIGHTFROST",
+    "meta": "Alder • Level 3 Abyssal Depths Ability",
+    "body": "Learn Ice spells and breathe underwater. Shadow Blast and nightfrost minions may deal cold or necrotic damage. Whenever they would critically hit, gain INT + level temporary HP.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 2
+  },
+  {
+    "href": "/card/5250ac7a-01aa-43e3-8b8c-ece2f5a42b16",
+    "title": "MASTER OF DARKNESS",
+    "meta": "Alder • Level 3 Shadowmancer Ability",
+    "body": "Your Patron grants you knowledge of Necrotic cantrips and tier 1 Necrotic spells.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 3
+  },
+  {
+    "href": "/card/c56a61d9-60c5-4951-947e-3b609146b15d",
+    "title": "VICIOUS OPPORTUNIST",
+    "meta": "Skritch • Level 3 Cheat Ability • 1/Turn",
+    "body": "When you hit a Distracted target with a melee attack, you may change the Primary Die roll to whatever you like. Changing it to the maximum value counts as a critical hit.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 1
+  },
+  {
+    "href": "/card/e774b0bf-f091-43ae-af03-88e5817690ff",
+    "title": "SNEAK ATTACK",
+    "meta": "Skritch • Level 3 Cheat Ability • 1/Turn",
+    "body": "When you critically hit, deal +1d8 damage. This damage is added to the attack and is not a separate attack.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 2
+  },
+  {
+    "href": "/card/5485d498-4ac0-4134-95cc-a325af5070ab",
+    "title": "LOW BLOW",
+    "meta": "Skritch • L3 Scoundrel Ability • Sneak Attack • Spend 2 Actions",
+    "body": "When you Sneak Attack, you may spend 2 additional actions. The target makes a STR save, DC 10 + INT (12). Failure: Incapacitated next turn. Save or fail: Taunted by you until you drop to 0 HP.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 3
+  },
+  {
+    "href": "/card/7d08f437-46f6-45b2-8103-1eaee37523b7",
+    "title": "CHEAT",
+    "meta": "Skritch • Level 3 Cheat Ability • Passive / 1/Round / 1/Safe Rest",
+    "body": "Once per round, Move or Hide for free. Once per Safe Rest, change any skill check to 10 + INT (12). If Initiative is below 10, change it to 10. Gain advantage at games, competitions, or wagers, if you are not caught.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 4
+  },
+  {
+    "href": "/card/f12700d7-acea-43a9-8d84-7c6d20a34b74",
+    "title": "WILY",
+    "meta": "Skritch • Kobold Ancestry Ability • 1/Encounter",
+    "body": "Force an enemy to reroll a non-critical attack against you once per encounter. Gain +3 Influence with friendly characters and advantage on dragon-related checks. You know Draconic if your INT is not negative.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 5
+  },
+  {
+    "href": "/card/0677573c-752f-4064-a2d0-af6a7b324f29",
+    "title": "HUNTER'S MARK",
+    "meta": "Da Long • Level 3 Hunter Ability • 1 Action • Lasts 1 Day",
+    "body": "Mark a creature you can see as your quarry for 1 day, or until you mark another creature. It cannot be hidden from you. Before each attack against it, choose advantage or +3 damage.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 1
+  },
+  {
+    "href": "/card/6f703ad3-ac5d-485d-812d-db9f4d2fd1f2",
+    "title": "THRILL OF THE HUNT",
+    "meta": "Da Long • Level 3 Hunter Ability",
+    "body": "Gain 1 Thrill charge when your quarry dies, you hit it in melee, or you critically hit it at range. Abilities that spend Thrill cannot generate it. Unspent charges are lost when combat ends.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 2
+  },
+  {
+    "href": "/card/4a95940e-d847-4491-a137-7177f1e4881c",
+    "title": "GO FOR THE THROAT!",
+    "meta": "Da Long • L3 Beastmaster • 1/Encounter • 2 Thrill + 2 Actions",
+    "body": "Quickfeather attacks your quarry for 1d12 + 12 damage, ignoring Armor. If it dies, deal half as much damage to another creature within Reach 4.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 3
+  },
+  {
+    "href": "/card/20afbcdd-3c4e-47ef-9bea-820458e222c7",
+    "title": "ROLL & STRIKE",
+    "meta": "Da Long • Level 3 Hunter Ability • 1 Action • Requires 0 Thrill",
+    "body": "If you have no Thrill charges, move up to your Speed toward your quarry. If you end adjacent, make a melee attack against it for free.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 4
+  },
+  {
+    "href": "/card/fb695c32-bcf2-4167-9776-c6f19a67e6e4",
+    "title": "ALPHA PROTECTOR",
+    "meta": "Da Long • Level 3 Beastmaster Feature • Large Companion",
+    "body": "Damage from the first attack against you each round is halved.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 5
+  },
+  {
+    "href": "/card/6e0b7d6f-ebe9-4d1d-91e0-2606ad5fd52c",
+    "title": "COORDINATED STRIKE!",
+    "meta": "Feng Rui • Level 3 Commander Order • 1/Round • INT (2)/Safe Rest • Free Action",
+    "body": "You and one ally within 6 spaces each immediately make a weapon attack or cast a cantrip for free.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 1
+  },
+  {
+    "href": "/card/19c5d793-e194-4cd8-89aa-aa2ed995e50e",
+    "title": "REPOSITION!",
+    "meta": "Feng Rui • Level 3 Commander Order • Action / Reaction on an Ally's Turn",
+    "body": "Command one ally to move up to their Speed for free, or two allies to each move up to half their Speed for free.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 2
+  },
+  {
+    "href": "/card/51acc991-ed95-4385-bdb5-64737d5d8858",
+    "title": "SHIELD EXPERT",
+    "meta": "Feng Rui • Level 3 Champion of the Bulwark Ability • 1/Round",
+    "body": "Reduce damage from an attack by your shield's Armor value without Defending. When you do, deal that much damage to an enemy within Reach.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 3
+  },
+  {
+    "href": "/card/075696cb-1f3d-4dcb-877a-81f8cd095313",
+    "title": "HOLD THE LINE!",
+    "meta": "Feng Rui • L3 Commander Order • 1/Encounter • Reaction at Ally 0 HP",
+    "body": "Command that ally to continue the fight. Set their HP to 3 × your level (9).",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 4
+  },
+  {
+    "href": "/card/da6393cc-b5f0-49bf-8637-e0ec6651a1e7",
+    "title": "FIELD MEDIC",
+    "meta": "Feng Rui • Level 3 Commander Ability",
+    "body": "Roll 1 additional die for any health potion you administer. After you spend at least 10 minutes examining a creature's wounds, they add your Examination bonus to HP recovered from Hit Dice.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 5
+  },
+  {
+    "href": "/card/e589efb9-2d99-41db-8692-6ed54778a9ef",
+    "title": "MERCIFUL HEALING",
+    "meta": "Cai Lin • Level 3 Luminary of Mercy Ability",
+    "body": "When an effect you cause heals a Dying creature, it heals twice as much. Once per round while you are Dying, your Lifebinding Spirit may act for free.",
+    "owner": "Cai Lin",
+    "ownerKey": "cai",
+    "index": 1
+  },
+  {
+    "href": "/card/b01e6563-0d15-4eac-8bc5-867d31ace181",
+    "title": "RAGE",
+    "meta": "Jian Bo • Level 3 Berserker Ability • 1 Action • 1/Turn",
+    "body": "Roll a Fury Die (1d4) and set it aside. Add it to every STR attack you make. You can have a maximum of KEY (2) Fury Dice; they are lost when your Rage ends.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 1
+  },
+  {
+    "href": "/card/74f63845-0b4e-4627-a581-3534f309ef90",
+    "title": "INTENSIFYING FURY",
+    "meta": "Jian Bo • Level 3 Berserker Ability • Start of Turn While Raging",
+    "body": "If you are Raging at the beginning of your turn, roll 1 Fury Die for free.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 2
+  },
+  {
+    "href": "/card/74fdc4c2-e56f-424f-afe4-1897bcdd3782",
+    "title": "BLOODLUST",
+    "meta": "Jian Bo • Level 3 Berserker Ability • On Your Turn • Spend Fury",
+    "body": "Expend 1 or more Fury Dice on your turn. Move DEX (2) spaces per die spent for free.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 3
+  },
+  {
+    "href": "/card/655c16eb-c606-4088-a165-8b6767de30d5",
+    "title": "THAT ALL YOU GOT?!",
+    "meta": "Jian Bo • Level 3 Berserker Reaction • When Attacked • Spend Fury",
+    "body": "When you are attacked, you may expend 1 or more Fury Dice to reduce the damage taken by STR + DEX (4) for each die spent.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 4
+  },
+  {
+    "href": "/card/7bb4f4ca-5323-41e7-ada4-e541d54d4e24",
+    "title": "MOUNTAINOUS TENACITY",
+    "meta": "Jian Bo • Level 3 Mountainheart Ability • Spend Hit Dice",
+    "body": "Whenever you expend Hit Dice to recover HP, for every 10 HP you would recover, you may heal 1 Wound instead.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 5
+  },
+  {
+    "href": "/card/ee2dacda-902e-4e69-8188-33223b91b411",
+    "title": "SONGWEAVER'S INSPIRATION",
+    "meta": "Mei Rong • Level 3 Songweaver Ability • 4/Safe Rest • Free Reaction",
+    "body": "Allow an ally to reroll one die related to an attack or save; they may keep either result.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 1
+  },
+  {
+    "href": "/card/dde214a1-ee0b-40ce-91d4-4b4789fc7e0e",
+    "title": "QUICK WIT",
+    "meta": "Mei Rong • Level 3 Songweaver Ability • When Rolling Initiative",
+    "body": "Regain 2 spent uses of Songweaver's Inspiration. Unused regained uses expire at the end of combat.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 2
+  },
+  {
+    "href": "/card/b2e06ba0-092b-4ebd-9c85-593f7a564ef5",
+    "title": "ARMOR MASTER",
+    "meta": "Feng Rui • Level 3 Champion of the Bulwark Ability",
+    "body": "You are proficient with plate armor.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 6
+  },
+  {
+    "href": "/card/951639d3-c934-450a-af51-6d1e429503ad",
+    "title": "INTENSIFYING FURY",
+    "meta": "Rubius Haggard • Level 3 Berserker Ability • Start of Turn While Raging",
+    "body": "If you are Raging at the beginning of your turn, roll 1 Fury Die for free.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 6
+  },
+  {
+    "href": "/card/6f6df354-c1cf-4d0f-96ed-77a460b89115",
+    "title": "INSPIRING PRESENCE",
+    "meta": "Mei Rong • Level 3 Herald of Courage Ability",
+    "body": "Whenever you use Songweaver's Inspiration, allies within 12 spaces who can hear you gain WIL (2) temporary HP.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 3
+  },
+  {
+    "href": "/card/b04183f4-6abe-4525-a83d-c0e30e7e15e4",
+    "title": "STONE'S RESILIENCE",
+    "meta": "Rubius Haggard • Level 3 Mountainheart Ability • Spend Fury to Reduce Damage",
+    "body": "Whenever you expend Fury Dice to reduce incoming damage, add the value of each spent die to the amount reduced.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 7
+  },
+  {
+    "href": "/card/6b160c9f-f348-4587-ab46-93b4620de3cf",
+    "title": "STRENGTH OF STONE",
+    "meta": "Rubius Haggard • Level 3 Berserker Ability • 1 Action • 1/Turn",
+    "body": "Force an enemy to reroll a critical hit against you once per encounter. Gain +2 Might. You know Dwarvish if your INT is not negative.",
+    "owner": "Rubius Haggard",
+    "ownerKey": "rubius",
+    "index": 8
+  },
+  {
+    "href": "/card/21464826-621c-461d-b771-b3e258f6014a",
+    "title": "TENACIOUS",
+    "meta": "Whisper • Human Ancestry Ability",
+    "body": "Gain +1 to all skills and Initiative. If your starting STR was 0 or lower, reroll a failed STR attack, STR save, or Might check using another stat once per day.",
+    "owner": "Whisper",
+    "ownerKey": "whisper",
+    "index": 4
+  },
+  {
+    "href": "/card/e658a998-092d-4248-9ca9-6654629af5f9",
+    "title": "FORMER CON ARTIST",
+    "meta": "Whisper • Background Ability",
+    "body": "You can forge most documents or mimic voices flawlessly. You have a criminal contact in most major cities. Your reputation often precedes you until you prove yourself trustworthy.",
+    "owner": "Whisper",
+    "ownerKey": "whisper",
+    "index": 5
+  },
+  {
+    "href": "/card/65aee3ec-b5fb-44eb-a54c-6f0016693019",
+    "title": "PARAGON OF VIRTUE",
+    "meta": "Rowan Hearthboro • Level 3 Oathsworn Ability",
+    "body": "Gain advantage on Influence checks to convince someone when you are forthrightly telling the truth, and disadvantage when misleading them.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 5
+  },
+  {
+    "href": "/card/c4786c19-1ebf-4150-8bd5-d7672fba3fda",
+    "title": "WELL ARMORED",
+    "meta": "Rowan Hearthboro • Sacred Decree",
+    "body": "Whenever you Interpose, gain temporary HP equal to your STR.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 6
+  },
+  {
+    "href": "/card/f2b9a0ca-6be4-4177-9aab-1f677b3c0f1b",
+    "title": "BUNNY LEGS",
+    "meta": "Rowan Hearthboro • Bun Bun Ancestry Ability • 1/Encounter",
+    "body": "Before Interposing or after Defending, after damage is resolved, hop up to your Speed in any direction for free once per encounter.",
+    "owner": "Rowan Hearthboro",
+    "ownerKey": "rowan",
+    "index": 7
+  },
+  {
+    "href": "/card/b1fd3280-c835-4549-a599-e739067091be",
+    "title": "SWIFT FEET",
+    "meta": "Lil Chang • Level 3 Zephyr Ability • While Unarmored",
+    "body": "While unarmored, gain +2 Speed and +level Initiative.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 6
+  },
+  {
+    "href": "/card/39aece42-d869-4d81-8a6c-bc21a2a8c7d2",
+    "title": "ETHEREAL PROJECTION",
+    "meta": "Lil Chang • Level 3 Zephyr Ability • 1/Day • 10-Minute Meditation",
+    "body": "Project a visible, translucent version of yourself up to 30 feet away for up to 10 minutes. It passes through barriers and you see through its eyes, but it cannot interact physically with the environment.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 7
+  },
+  {
+    "href": "/card/d4d8ad40-ce9d-4941-9ccd-cf12cf8d564c",
+    "title": "RELENTLESS",
+    "meta": "Lil Chang • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 8
+  },
+  {
+    "href": "/card/a04a2f0d-3b61-4012-a629-a7ec86db69e4",
+    "title": "FEARLESS",
+    "meta": "Lil Chang • Background Ability",
+    "body": "You are immune to the Frightened condition. Gain +1 Initiative and -1 Armor.",
+    "owner": "Lil Chang",
+    "ownerKey": "lil",
+    "index": 9
+  },
+  {
+    "href": "/card/97b3480c-3b89-4365-acd4-240345e5aced",
+    "title": "MY FAVORED PET",
+    "meta": "Alder • Lesser Shadow Invocation",
+    "body": "One shadow minion can begrudgingly tolerate you outside combat. It can, very creepily, perform any menial task a below-average commoner could.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 4
+  },
+  {
+    "href": "/card/b0695f55-f803-4ce4-8654-961aeb04725b",
+    "title": "DANGER POLLEN / SPORES",
+    "meta": "Alder • Shroomling Ancestry Ability",
+    "body": "Whenever an enemy causes you 1 or more Wounds, excrete soporific spores: all adjacent enemies are Dazed. You know Elvish if your INT is not negative.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 5
+  },
+  {
+    "href": "/card/ad8bf7d4-2711-4cef-b6fd-ad7b1310eb13",
+    "title": "WILD ONE",
+    "meta": "Alder • Background Ability",
+    "body": "Wild creatures are less frightened of you and more willing to aid you. Gain +1 Nature Craft. During a Field Rest in the wild, roll your Hit Dice with advantage.",
+    "owner": "Alder",
+    "ownerKey": "alder",
+    "index": 6
+  },
+  {
+    "href": "/card/b100ad11-37f5-483e-97e1-d0e0c7fff286",
+    "title": "TALENTED RESEARCHER",
+    "meta": "Umbrail • Level 3 Mage Ability",
+    "body": "Gain advantage on Arcana or Lore checks when you have access to a large number of books and time to study them.",
+    "owner": "Umbrail",
+    "ownerKey": "umbrail",
+    "index": 1
+  },
+  {
+    "href": "/card/e95d3627-0f27-4f1f-8a50-ee4e8f865d7f",
+    "title": "FORCE OF CHAOS",
+    "meta": "Umbrail • Level 3 Invoker of Chaos Ability",
+    "body": "Whenever you cast a spell, you may spend 1 less mana. Whenever you do so, and whenever you critically hit, Invoke Chaos: roll on the Chaos Table.",
+    "owner": "Umbrail",
+    "ownerKey": "umbrail",
+    "index": 2
+  },
+  {
+    "href": "/card/dbc493e8-b175-4201-ba39-87f24594d353",
+    "title": "HOLLOW BONES",
+    "meta": "Umbrail • Birdfolk Ancestry Ability",
+    "body": "You have a fly Speed while wearing armor no heavier than Leather. Critical hits against you are Vicious: the attacker rolls 1 additional die. Forced movement moves you twice as far.",
+    "owner": "Umbrail",
+    "ownerKey": "umbrail",
+    "index": 3
+  },
+  {
+    "href": "/card/d2bf430e-7c86-4b1d-9841-e5792de97fd3",
+    "title": "MADE A BAD CHOICE",
+    "meta": "Umbrail • Background Ability",
+    "body": "You began with 500 or 1,000 extra gold, or a GM-approved uncommon or rare magic item, and gained an equally powerful curse or an enemy who wants it back.",
+    "owner": "Umbrail",
+    "ownerKey": "umbrail",
+    "index": 4
+  },
+  {
+    "href": "/card/be23ee83-d0ac-46da-824b-3c9c04dffdc7",
+    "title": "SWEET TALK",
+    "meta": "Skritch • Level 3 Tools of the Scoundrel Ability",
+    "body": "Gain advantage on Influence checks with an NPC you have just met. This lasts until you fail an Influence check with them or meet again. Afterward, you have disadvantage with them until you repair the relationship.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 6
+  },
+  {
+    "href": "/card/1481e773-9c95-4b71-aecc-1771a284e71b",
+    "title": "WILY UNDERDOG",
+    "meta": "Skritch • Background Ability • 1/Day",
+    "body": "If your starting STR was 0 or lower, reroll a failed STR attack, STR save, or Might check using another stat once per day.",
+    "owner": "Skritch",
+    "ownerKey": "skritch",
+    "index": 7
+  },
+  {
+    "href": "/card/d56eb6e7-c65b-4969-bcdd-02165a1a245a",
+    "title": "FORAGER",
+    "meta": "Da Long • Level 3 Hunter Ability",
+    "body": "Gain advantage on skill checks to find food and water in the wild.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 6
+  },
+  {
+    "href": "/card/3d3f873d-015c-4f4f-85af-e084812a5763",
+    "title": "TRACKER'S INTUITION",
+    "meta": "Da Long • Level 3 Hunter Ability",
+    "body": "Study tracks and subtle environmental clues to discern a past encounter: the kind and number of creatures, their direction, key actions, and the passage of time.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 7
+  },
+  {
+    "href": "/card/3ea1fc11-baa2-4109-bed9-0d25a73f6daa",
+    "title": "BEASTMASTER — QUICKFEATHER",
+    "meta": "Da Long • Level 3 Beastmaster Feature • Large Companion",
+    "body": "Quickfeather's HP and movement are abstracted. At GM discretion it may fly, carry riders, track scents, Grapple, or Help. Spend 1 action to command a complex task. Its attacks count as yours for gaining Thrill.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 8
+  },
+  {
+    "href": "/card/04250de6-f315-4e4b-8328-991b479a60c2",
+    "title": "PROTECT ME!",
+    "meta": "Da Long • Level 3 Beastmaster Ability • 1/Encounter",
+    "body": "After you gain a Wound, Quickfeather may whisk you up to 12 spaces away to safety.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 9
+  },
+  {
+    "href": "/card/0fd2bb5a-af57-419f-a077-66db705a9de7",
+    "title": "RELENTLESS",
+    "meta": "Da Long • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 10
+  },
+  {
+    "href": "/card/dc69b7a9-ccb8-4c52-964f-e6f8786fffc8",
+    "title": "SURVIVALIST",
+    "meta": "Da Long • Background Ability",
+    "body": "You never run out of personal rations. Anything can be food. Gain advantage on poison saves and +1 maximum Hit Die.",
+    "owner": "Da Long",
+    "ownerKey": "dalong",
+    "index": 11
+  },
+  {
+    "href": "/card/100e1066-f9d1-409d-a78e-9f14283b53a4",
+    "title": "DEVOTED PROTECTOR — CAI LIN",
+    "meta": "Feng Rui • Background Ability",
+    "body": "You can survive +3 maximum Wounds while Cai Lin is nearby. Whenever Cai Lin takes a Wound, you do too.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 7
+  },
+  {
+    "href": "/card/283d37da-a4b6-4457-98dc-6edc0131dffa",
+    "title": "RELENTLESS",
+    "meta": "Feng Rui • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Feng Rui",
+    "ownerKey": "feng",
+    "index": 8
+  },
+  {
+    "href": "/card/6a8dc3c6-0a31-4573-b745-9dc33344a4d9",
+    "title": "SEARING LIGHT",
+    "meta": "Cai Lin • Level 3 Shepherd Ability • WIL (2)/Safe Rest • 1 Action • Reach 6",
+    "body": "Choose one: heal 2d8 HP to a Dying creature; or deal 2d8 radiant damage to an undead or Bloodied enemy.",
+    "owner": "Cai Lin",
+    "ownerKey": "cai",
+    "index": 2
+  },
+  {
+    "href": "/card/8aadd90f-7b97-4613-9b39-fac0952ed762",
+    "title": "LIFE IS BEAUTIFUL",
+    "meta": "Cai Lin • Level 3 Luminary of Mercy Ability",
+    "body": "Harmless, lovely creatures such as butterflies and hummingbirds are attracted to you and often follow you. Flowers bloom more vibrantly in your presence.",
+    "owner": "Cai Lin",
+    "ownerKey": "cai",
+    "index": 3
+  },
+  {
+    "href": "/card/56c7f8cd-7bde-443d-acd5-a11b405b591b",
+    "title": "TRADESMAN / ARTISAN — HEALER & HERBALIST",
+    "meta": "Cai Lin • Background Ability",
+    "body": "Gain advantage on checks related to healing and herbalism, and retain special knowledge about that profession.",
+    "owner": "Cai Lin",
+    "ownerKey": "cai",
+    "index": 4
+  },
+  {
+    "href": "/card/4358428d-8317-4859-84f1-d52f27de35bc",
+    "title": "RELENTLESS",
+    "meta": "Cai Lin • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Cai Lin",
+    "ownerKey": "cai",
+    "index": 5
+  },
+  {
+    "href": "/card/b2f44607-d0a4-4774-8a8c-ddff15ad04c2",
+    "title": "ONE WITH THE ANCIENTS",
+    "meta": "Jian Bo • Level 3 Berserker Ability • 1/Safe Rest",
+    "body": "When faced with a decision about which direction or course of action to take, call upon your ancestors to guide you toward the most dangerous or challenging path.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 6
+  },
+  {
+    "href": "/card/9e12de5e-0ef5-4219-bb77-cf0cf8752f86",
+    "title": "STONE'S RESILIENCE",
+    "meta": "Jian Bo • Level 3 Mountainheart Ability • Spend Fury to Reduce Damage",
+    "body": "Whenever you expend Fury Dice to reduce incoming damage, add the value of each spent die to the amount reduced.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 7
+  },
+  {
+    "href": "/card/dac681de-0765-4ab2-9bbb-175eafda2dfc",
+    "title": "RELENTLESS",
+    "meta": "Jian Bo • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 8
+  },
+  {
+    "href": "/card/01fa21ca-8aac-4440-9580-bffa9da477ce",
+    "title": "FEARLESS",
+    "meta": "Jian Bo • Background Ability",
+    "body": "You are immune to the Frightened condition. Gain +1 Initiative and -1 Armor.",
+    "owner": "Jian Bo",
+    "ownerKey": "jian",
+    "index": 9
+  },
+  {
+    "href": "/card/1271e286-456a-46db-ad87-fec4a12d177b",
+    "title": "JACK OF ALL TRADES",
+    "meta": "Mei Rong • Level 3 Songweaver Ability • Safe Rest",
+    "body": "When you Safe Rest, you may move 1 skill point as if you had just leveled up.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 4
+  },
+  {
+    "href": "/card/8a0413da-b793-4691-acb2-faea6bbe5189",
+    "title": "SONG OF REST",
+    "meta": "Mei Rong • Level 3 Songweaver Ability • 1/Day • Field Rest",
+    "body": "Play a song during a Field Rest. Anyone who spends Hit Dice heals additional HP equal to your WIL (2).",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 5
+  },
+  {
+    "href": "/card/c807ba7c-5bb3-4809-967d-68ab2f57dc58",
+    "title": "HISTORY BUFF",
+    "meta": "Mei Rong • Background Ability",
+    "body": "Gain advantage on Lore checks about items, facts, or events that happened more than 100 years ago.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 6
+  },
+  {
+    "href": "/card/f6839ca4-e6d7-4393-a087-6860c1ed350c",
+    "title": "RELENTLESS",
+    "meta": "Mei Rong • Orc Ancestry Ability • 1/Safe Rest",
+    "body": "When you would drop to 0 HP, set your HP to your level (3) instead. Gain +1 Might. You know Goblin, which you call Orcish, if your INT is not negative.",
+    "owner": "Mei Rong",
+    "ownerKey": "mei",
+    "index": 7
+  }
+]

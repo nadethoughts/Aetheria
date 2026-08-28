@@ -8,11 +8,38 @@ Dave
 ## Quick Details
 - **Campaign**: Nimble
 - **Class**: Mage
+- **Subclass**: Invoker of Chaos
 - **Ancestry**: Birdfolk, specifically tied to the Erie of the Balshar mountains
 - **Current Level**: 3
+- **Background**: Made a Bad Choice
 - **Current Artifact**: [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]]
-- **Background Thread**: Took the "bad choice" background; the curse, enemy, or owed consequence is still open
+- **Background Thread**: The curse, enemy, or owed consequence from Made a Bad Choice is still open
 - **Current Arc**: The party has reached Umbrail's homeland and found one of his old Erie outposts destroyed
+
+## Character Build
+
+- **Current Build**: Level 3 Erie Birdfolk Mage (Invoker of Chaos)
+- **Background**: Made a Bad Choice
+- **Build Focus**: Arcane research, flexible spellcasting, and converting unstable magic into chaotic force
+- **Spell Tracking**: Umbrail's prepared spells and spellbook remain on the live character sheet. They are intentionally separate from the non-spell abilities below.
+
+### Spell Card Printing
+
+- **Source PDF**: [[System Info/Nimble/SpellCards.pdf|Nimble SpellCards.pdf]]
+- **Print pages**: **1-3, 10-12, 19-21**
+- **Fire cards**: Flame Dart (1), Heart's Fire (2), Ignite (3)
+- **Ice cards**: Ice Lance (10), Snowblind (11), Frost Shield (12)
+- **Lightning cards**: Zap (19), Overload (20), Arc Lightning (21)
+- **Utility-card source**: [[output/pdf/Nimble Utility Spell Cards.pdf|Nimble Utility Spell Cards.pdf]]
+- **Utility pages**: **7-9** - Spark Buddy (7), Spark Step (8), Tempest's Command (9)
+- **Reason**: A level 3 Mage knows Fire, Ice, and Lightning cantrips and tier 1 spells. Umbrail's recorded utility use confirms Lightning as his Elemental Mastery school.
+
+### Selected Non-Spell Abilities
+
+- Talented Researcher
+- Force of Chaos
+- Hollow Bones
+- Made a Bad Choice
 
 ## Appearance
 Umbrail is a large, elder proto-raven birdfolk with graying feathers, a bright white beak, and shimmering robes that seem to have sigils woven through them. He carries himself like someone old enough to know how badly things can go, and sharp-eyed enough to see them going that way before everyone else.
@@ -40,6 +67,8 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - Became increasingly tense as the party climbed closer to his Erie homeland.
 - Found his old magical mentor dead at the ruined Erie outpost.
 - Confirmed that he had unknowingly taken his mentor's lesser Erie artifact, then cleansed and activated it as the Talon of Unmaking.
+- Identified the Axe of Snaggletooth's soul consumption and progressive corruption after it turned Rubius against Alder.
+- Used Tempest Command to bring Rubius out of an axe-driven rage and repeated Dispel Magic to suppress a second surge.
 
 ## Current Hooks
 - Umbrail must decide whether he returns to the Erie as kin, exile, witness, or outsider with strange friends.
@@ -47,6 +76,7 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - The Erie may know him, his family, or his teacher, but not all of them will welcome him.
 - The dragon Razor is threatening the old mountain balance between Erie, orcs, kobolds, griffin guardians, and older powers below.
 - His possession of the Talon of Unmaking may become part of the cost of his "bad choice" background when he returns to the Erie.
+- Until the party reaches the Shadow Well, Umbrail is its only demonstrated way to suppress an active surge from Rubius's axe.
 
 ## Open Questions
 - What was the first lesson Umbrail's master taught him that he actually believed?
@@ -60,3 +90,4 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 05 Transcript]]
+- [[Nimble Session 08 Transcript]]

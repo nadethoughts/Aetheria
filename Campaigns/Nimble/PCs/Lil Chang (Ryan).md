@@ -10,8 +10,34 @@ Ryan
 - **Class**: Zephyr
 - **Ancestry**: Orc
 - **Current Level**: 3
+- **Background**: Fearless
+- **Subclass**: Way of Pain
 - **Party Entry**: Found chained in the Warren after being captured by kobolds
 - **Current Arc**: His old mountain connections are becoming important through the Cloud Seer orcs
+
+## Character Build
+
+- **Current Build**: Level 3 Orc Zephyr (Way of Pain)
+- **Background**: Fearless
+- **Build Focus**: Unarmored speed, rapid follow-up attacks, burst movement, and turning incoming pain back on enemies
+- **Spell Tracking**: No spell selections are part of this build.
+
+### Spell Card Printing
+
+- **Print pages**: **None**
+- **Reason**: Lil Chang's Zephyr build has no spell selections.
+
+### Selected Non-Spell Abilities
+
+- Iron Defense
+- Swift Fists
+- Burst of Speed
+- Kinetic Momentum
+- Bring the Pain
+- Swift Feet
+- Ethereal Projection
+- Relentless
+- Fearless
 
 ## Appearance
 Lil Chang's full visual description is still lightly defined in the notes. At introduction, he was an orc chained to a wall in the Warren, still healthy, ripped, and ready for revenge despite having been imprisoned for several days.
@@ -39,6 +65,7 @@ He is also direct in a fight. In the warg battle, he crushed throats, followed s
 - In the mountain warg fight, used staff and martial follow-up attacks to finish enemies brutally.
 - Revived the dying Cloud Seer scout [[World/Characters/Da Long|Da Long]] with a healing potion and chest compressions.
 - Rode [[World/Characters/Quickfeather|Quickfeather]] ahead of the party to warn [[World/Characters/An Yue|An Yue]] before the Black Fang diplomatic entourage reached the Frostvein.
+- Remained ahead with Da Long during Session 08 while the land party passed the Black Fang column at the Stone Stairs; his arrival and audience at Frostvein have not yet been shown.
 
 ## Current Hooks
 - Kora Skybreak may recognize him and call him by an old Cloud Seer name or nickname.
@@ -58,3 +85,4 @@ He is also direct in a fight. In the warg battle, he crushed throats, followed s
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 05 Transcript]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
+- [[Nimble Session 08 Transcript]]

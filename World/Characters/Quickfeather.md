@@ -9,4 +9,4 @@ Quickfeather is a [[Cloud Seers|Cloud Seer]] griffon bonded to the scout [[Da Lo
 
 After Black Fang arrows brought the scout down, Quickfeather found the Nimble party near the river gorge and carried Lil Chang to the dying rider. Once the scout was revived, Quickfeather carried both orcs toward the [[Frostvein Orcs|Frostvein]] settlement.
 
-Quickfeather is fast enough to overtake the larger [[Black Fang Orcs|Black Fang]] diplomatic entourage on the road.
+Quickfeather is fast enough to overtake the larger [[Black Fang Orcs|Black Fang]] diplomatic entourage on the road. Lil Chang, Da Long, and Quickfeather remained offscreen and ahead of the land party throughout Nimble Session 08; their arrival at Frostvein has not yet been established.

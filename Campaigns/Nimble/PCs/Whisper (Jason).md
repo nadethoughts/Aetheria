@@ -10,7 +10,30 @@ Jason
 - **Class**: The Cheat
 - **Ancestry**: Human
 - **Current Level**: 3
+- **Background**: (Former) Con Artist
+- **Subclass**: None selected
 - **Personal Thread**: Ran from home, learned to bend rules, and may not know whether home will take him back
+
+## Character Build
+
+- **Current Build**: Level 3 Human Cheat
+- **Subclass**: None selected; Whisper has no subclass abilities
+- **Background**: (Former) Con Artist
+- **Build Focus**: Opportunistic critical hits, free movement and hiding, and social or criminal manipulation
+- **Spell Tracking**: No spell selections are part of this build.
+
+### Spell Card Printing
+
+- **Print pages**: **None**
+- **Reason**: Whisper's Cheat build has no spell selections.
+
+### Selected Non-Spell Abilities
+
+- Cheat
+- Vicious Opportunist
+- Sneak Attack (1d8 at level 3)
+- Tenacious
+- (Former) Con Artist
 
 ## Appearance
 Whisper is intentionally hard to describe: human, nondescript, shifty-eyed, and quiet enough to vanish into the background even while standing with a half-giant, a bird mage, a shroomling, a rabbit knight, and an orc martial artist.
@@ -23,6 +46,8 @@ Whisper says he started adventuring because he was bored and wanted excitement. 
 His greatest regret is running away from home after stealing something tied to family. The transcript leaves the exact object and target unclear, but the fallout is clear: leaving home pushed him into rough places, loneliness, and despair. It also taught him how to survive by being sneaky, bending rules, and turning bad odds in his favor.
 
 Whisper enjoys what he does. He is good at it. But he misses home, and he is not sure whether he can go back.
+
+His time surviving by deception has made him a former con artist. He can forge most documents or mimic voices flawlessly and has criminal contacts in most major cities, though his reputation can precede him until he proves himself trustworthy.
 
 ## Personality
 Whisper is quiet, curious, and danger-prone in the specific way of someone who claims boredom while walking into a kobold warren.
@@ -55,3 +80,4 @@ He is the party's practical opportunist: the one who can read a bad ceiling, spo
 - [[Session 02]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
+- [[Nimble Session 08 Transcript]] — no attributable actions; appears absent

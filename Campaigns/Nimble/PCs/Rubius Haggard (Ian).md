@@ -10,9 +10,34 @@ Ian
 - **Class**: Berserker
 - **Ancestry**: Half-Giant
 - **Current Level**: 3
-- **Likely Subclass Direction**: Mountain Heart over Red Mist, because of the giant connection
+- **Background**: Academy Dropout
+- **Subclass**: Path of the Mountainheart
 - **Current Item Thread**: The Axe of Snaggletooth, also known as the shadow axe
-- **Current Status**: 0 wounds after the Session 07 safe rest; 1 tracked Shadow Point from dropping to 0 while carrying the axe
+- **Current Status**: 0 wounds; 3 tracked Shadow Points after the axe's Session 08 manifestations
+
+## Character Build
+
+- **Current Build**: Level 3 Half-Giant Berserker (Path of the Mountainheart)
+- **Background**: Academy Dropout
+- **Build Focus**: Building and spending Fury, absorbing heavy hits, and using Mountainheart resilience to remain standing
+- **Spell Tracking**: Academy Dropout's utility-spell selection belongs on the player sheet. It is not counted among the non-spell abilities below.
+
+### Spell Card Printing
+
+- **Print pages**: **None currently**
+- **Utility-card source**: [[output/pdf/Nimble Utility Spell Cards.pdf|Nimble Utility Spell Cards.pdf]]
+- **Reason**: Academy Dropout grants one utility spell, but Rubius's selected utility spell is not recorded in the available write-up. Confirm the selection with Ian, then use the utility deck's page index in [[Spell Card Print List]].
+
+### Selected Non-Spell Abilities
+
+- Rage
+- That All You Got?!
+- Bloodlust
+- Mountainous Tenacity
+- One with the Ancients
+- Intensifying Fury
+- Stone's Resilience
+- Strength of Stone
 
 ## Appearance
 Rubius is enormous even before anyone remembers he is a half-giant: about thirteen feet tall, with deep red hair, emerald eyes, and a friendly, jolly presence that makes the size difference feel less threatening until combat starts.
@@ -40,11 +65,15 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 - Dropped to 0 while carrying the axe, gaining his first Shadow Point.
 - Healed his wound during a safe rest and recharged his True Strike Wand by burying it at the ruined battlefield overnight.
 - Helped drive off a wild warg family without combat by raising and throwing a boulder as a display of strength.
+- Yielded to the axe's influence and moved a beehive against the colony's wishes, gaining a Shadow Point.
+- Watched the axe consume three kobolds during a forest ambush, then lost control and attacked Alder with pitch-black eyes.
+- Accepted the party's warning that the axe is actively corrupting him and wrapped it in an animal pelt while the group seeks a safer answer.
 
 ## Current Hooks
 - The shadow axe presents itself as comforting, safe, and meant for him.
 - The axe currently deals 3d4 as a battleaxe and has whispered, "Welcome friend, let's drink the light together."
-- The axe is calm around death but may react badly around Erie rites, Cloud Seer storm wards, or anything that can name what it is.
+- The axe consumes the essence of creatures killed by it, can make its impulses feel reasonable, and can turn Rubius's rage against allies.
+- Tempest Command and repeated Dispel Magic can temporarily suppress an active surge, but they do not cleanse the weapon.
 - Rubius still seeks old ruins and clues connected to giants.
 - The Shadow Well and Undershadow threads may become the only way to unmake or drain the axe's power.
 
@@ -52,9 +81,11 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 - What giant enclave is Rubius hunting, and what does he already know about it?
 - Who did Rubius leave behind in the high mountains, and who might still need him?
 - Does Rubius see the axe as a tool, a friend, a warning, or proof that he can control dangerous power this time?
+- What safeguards will Rubius accept before the axe forces another attack on an ally?
 
 ## Source Notes
 - [[Session 01]]
 - [[Session 02]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
+- [[Nimble Session 08 Transcript]]

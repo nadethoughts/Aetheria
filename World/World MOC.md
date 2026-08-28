@@ -108,7 +108,7 @@ Notable deities: **[[Cadens]]**, **[[Justicar]]**, **[[Aelra]]**, **[[Miraine]]*
 
 *See folder: `World/Characters/` — Avaotaon, Ironhold Territory, New Penmaris, Namar'Zul, Vargram, Firewalker Tribe, Burned Wood, etc.*
 
-**Crown reveals:** **[[Velkra]]** (hag matron), **[[Grolmok the Fist]]**, **[[Vrekkar Bloodtooth]]** (bugbears), **[[Grul'Mog the Deep Belly (Froghemoth)]]**. **Anchor reveals:** **[[Reddan Pike]]** (Tidecutters bosun). **Nimble reveals:** **[[An Yue]]**, **[[Bao Jun]]**, **[[Chen Wei]]**, the Cloud Seer scout **[[Da Long]]**, and his griffon **[[Quickfeather]]**.
+**Crown reveals:** **[[Velkra]]** (hag matron), **[[Grolmok the Fist]]**, **[[Vrekkar Bloodtooth]]** (bugbears), **[[Grul'Mog the Deep Belly (Froghemoth)]]**. **Anchor reveals:** **[[Reddan Pike]]** (Tidecutters bosun). **Nimble reveals:** **[[An Yue]]**, **[[Bao Jun]]**, **[[Chen Wei]]**, the Cloud Seer scout **[[Da Long]]**, his griffon **[[Quickfeather]]**, the kobold companion **[[Scritch]]**, Black Fang envoy **[[Gorak Broken-Tusk]]**, and quartermaster **[[Vekka Ash-Eye]]**.
 
 ---
 

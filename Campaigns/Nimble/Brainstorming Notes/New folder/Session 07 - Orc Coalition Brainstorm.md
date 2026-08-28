@@ -192,7 +192,7 @@ The rescued scouts or recovered documents identify Razor's next target as an eas
 
 ## Source Notes
 
-- [[Campaign Synopsis - Through Session 07]]
+- [[Campaign Synopsis - Through Session 08]]
 - [[Session 07 Report]]
 - [[Nimble Session 07 Transcript]]
 - [[Session 06 Report]]

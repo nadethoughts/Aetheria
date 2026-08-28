@@ -1,0 +1,580 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>no title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    .markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview ul{list-style:disc}.markdown-preview ul ul{list-style:circle}.markdown-preview ul ul ul{list-style:square}.markdown-preview ol{list-style:decimal}.markdown-preview ol ol,.markdown-preview ul ol{list-style-type:lower-roman}.markdown-preview ol ol ol,.markdown-preview ol ul ol,.markdown-preview ul ol ol,.markdown-preview ul ul ol{list-style-type:lower-alpha}.markdown-preview .newpage,.markdown-preview .pagebreak{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center!important}.markdown-preview:not([data-for=preview]) .code-chunk .code-chunk-btn-group{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .status{display:none}.markdown-preview:not([data-for=preview]) .code-chunk .output-div{margin-bottom:16px}.markdown-preview .md-toc{padding:0}.markdown-preview .md-toc .md-toc-details{margin:0;padding:0;border:none}.markdown-preview .md-toc summary.md-toc-link-wrapper{cursor:pointer;list-style-position:outside}.markdown-preview .md-toc summary.md-toc-link-wrapper::marker{font-size:.85em}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link div,.markdown-preview .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}.markdown-preview .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='0']{margin-left:12px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='1']{margin-left:28px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='2']{margin-left:44px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='3']{margin-left:60px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='4']{margin-left:76px}.markdown-preview .md-toc .md-toc-link-wrapper[data-level='5']{margin-left:80px}.markdown-preview a.tag,.markdown-preview a.tag:active,.markdown-preview a.tag:link,.markdown-preview a.tag:visited,.markdown-preview span.tag:not(.token){display:inline-block;background-color:var(--vscode-badge-background,rgba(127,127,127,.18));color:var(--vscode-badge-foreground,currentColor);border-radius:2em;font-size:.85em;font-weight:500;padding:.05em .55em;line-height:1.5;white-space:nowrap;text-decoration:none;text-shadow:none;box-shadow:none;transition:background-color .12s ease,opacity .12s ease}.markdown-preview a.tag{cursor:pointer}.markdown-preview a.tag:focus,.markdown-preview a.tag:hover{background-color:var(--vscode-badge-background,rgba(127,127,127,.32));color:var(--vscode-badge-foreground,currentColor);opacity:.85;text-decoration:none;outline:0}.markdown-preview .wikilink-embed-content{border-left:3px solid var(--vscode-textBlockQuote-border,rgba(128,128,128,.3));background:var(--vscode-textBlockQuote-background,rgba(128,128,128,.05));margin:.5em 0;padding:.5em .75em;border-radius:0 3px 3px 0}.markdown-preview .wikilink-embed-content.wikilink-embed-error{border-left-color:var(--vscode-errorForeground,#cf222e);color:var(--vscode-errorForeground,#cf222e);font-style:italic;opacity:.8}.markdown-preview .wikilink-embed-content h1:first-child,.markdown-preview .wikilink-embed-content h2:first-child,.markdown-preview .wikilink-embed-content h3:first-child,.markdown-preview .wikilink-embed-content h4:first-child,.markdown-preview .wikilink-embed-content h5:first-child,.markdown-preview .wikilink-embed-content h6:first-child{margin-top:.25em}.markdown-preview .wikilink-embed-content .wikilink-embed-content{margin:.25em 0;padding:.25em .5em}.markdown-preview .block-id{display:none}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:var(--vscode-scrollbarSlider-background,rgba(150,150,150,.66));border:4px solid var(--vscode-scrollbarSlider-background,rgba(150,150,150,.66));background-clip:content-box}.scrollbar-style::-webkit-scrollbar-thumb:hover{background-color:var(--vscode-scrollbarSlider-hoverBackground,rgba(120,120,120,.66))}html body[for=html-export]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0;min-height:100vh}@media screen and (min-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px + 2em)}}@media screen and (max-width:914px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode]) .markdown-preview{font-size:14px!important;padding:1em}}@media print{html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for=html-export]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:var(--vscode-scrollbarSlider-background,rgba(150,150,150,.66));border:4px solid var(--vscode-scrollbarSlider-background,rgba(150,150,150,.66));background-clip:content-box}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb:hover{background-color:var(--vscode-scrollbarSlider-hoverBackground,rgba(120,120,120,.66))}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc{padding:0 16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-details{margin:0;padding:0;border:none}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link{display:inline;padding:.25rem 0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link div,html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper .md-toc-link p{display:inline}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper.highlighted .md-toc-link{font-weight:800}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='0']{padding-left:0}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='1']{padding-left:16px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='2']{padding-left:32px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='3']{padding-left:48px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='4']{padding-left:64px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc .md-toc .md-toc-link-wrapper[data-level='5']{padding-left:80px}html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% - 300px);padding:2em calc(50% - 457px - 300px / 2);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for=html-export]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for=html-export]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}code[class*=language-],pre[class*=language-]{color:#333;background:0 0;font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;text-align:left;white-space:pre;word-spacing:normal;word-break:normal;word-wrap:normal;line-height:1.4;-moz-tab-size:8;-o-tab-size:8;tab-size:8;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none}pre[class*=language-]{padding:.8em;overflow:auto;border-radius:3px;background:#f5f5f5}:not(pre)>code[class*=language-]{padding:.1em;border-radius:.3em;white-space:normal;background:#f5f5f5}.token.blockquote,.token.comment{color:#969896}.token.cdata{color:#183691}.token.doctype,.token.macro.property,.token.punctuation,.token.variable{color:#333}.token.builtin,.token.important,.token.keyword,.token.operator,.token.rule{color:#a71d5d}.token.attr-value,.token.regex,.token.string,.token.url{color:#183691}.token.atrule,.token.boolean,.token.code,.token.command,.token.constant,.token.entity,.token.number,.token.property,.token.symbol{color:#0086b3}.token.prolog,.token.selector,.token.tag{color:#63a35c}.token.attr-name,.token.class,.token.class-name,.token.function,.token.id,.token.namespace,.token.pseudo-class,.token.pseudo-element,.token.url-reference .token.variable{color:#795da3}.token.entity{cursor:help}.token.title,.token.title .token.punctuation{font-weight:700;color:#1d3e81}.token.list{color:#ed6a43}.token.inserted{background-color:#eaffea;color:#55a532}.token.deleted{background-color:#ffecec;color:#bd2c00}.token.bold{font-weight:700}.token.italic{font-style:italic}.language-json .token.property{color:#183691}.language-markup .token.tag .token.punctuation{color:#333}.language-css .token.function,code.language-css{color:#0086b3}.language-yaml .token.atrule{color:#63a35c}code.language-yaml{color:#183691}.language-ruby .token.function{color:#333}.language-markdown .token.url{color:#795da3}.language-makefile .token.symbol{color:#795da3}.language-makefile .token.variable{color:#183691}.language-makefile .token.builtin{color:#0086b3}.language-bash .token.keyword{color:#0086b3}pre[data-line]{position:relative;padding:1em 0 1em 3em}pre[data-line] .line-highlight-wrapper{position:absolute;top:0;left:0;background-color:transparent;display:block;width:100%}pre[data-line] .line-highlight{position:absolute;left:0;right:0;padding:inherit 0;margin-top:1em;background:hsla(24,20%,50%,.08);background:linear-gradient(to right,hsla(24,20%,50%,.1) 70%,hsla(24,20%,50%,0));pointer-events:none;line-height:inherit;white-space:pre}pre[data-line] .line-highlight:before,pre[data-line] .line-highlight[data-end]:after{content:attr(data-start);position:absolute;top:.4em;left:.6em;min-width:1em;padding:0 .5em;background-color:hsla(24,20%,50%,.4);color:#f4f1ef;font:bold 65%/1.5 sans-serif;text-align:center;vertical-align:.3em;border-radius:999px;text-shadow:none;box-shadow:0 1px #fff}pre[data-line] .line-highlight[data-end]:after{content:attr(data-end);top:auto;bottom:.4em}.emoji{height:.8em}html body{font-family:'Helvetica Neue',Helvetica,'Segoe UI',Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ol,html body>ul{margin-bottom:16px}html body ol,html body ul{padding-left:2em}html body ol.no-list,html body ul.no-list{padding:0;list-style-type:none}html body ol ol,html body ol ul,html body ul ol,html body ul ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;background-color:#f0f0f0;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:700;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:700}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::after,html body code::before{letter-spacing:-.2em;content:'\00a0'}html body pre>code{padding:0;margin:0;word-break:normal;white-space:pre;background:0 0;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:after,html body pre code:before,html body pre tt:after,html body pre tt:before{content:normal}html body blockquote,html body dl,html body ol,html body p,html body pre,html body ul{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body code,html body pre{word-wrap:break-word;white-space:pre}}
+    /* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+
+    </style>
+    
+    <!-- The content below will be included at the end of the <head> element. -->
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function () {
+    // your code here
+  });
+</script>
+  </head>
+  <body for="html-export">
+    <div class="crossnote markdown-preview">
+    <html><head></head><body><div>
+<h1 id="the-shadow-beneath-balshar">The Shadow Beneath Balshar </h1>
+<p><em>A novella of the Nimble campaign through Session 08</em></p>
+<h2 id="chapter-one--the-winter-posse">Chapter One — The Winter Posse </h2>
+<p>Winter had not yet closed its hand around <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Locations\Verdant Strand\Clackston.md">Clackston</a>, but everyone in the farming town could feel the fingers drawing near.</p>
+<p>The mornings came white with frost. Smoke lay low over the roofs. In the fields, the last stubble of the harvest cracked beneath boots, and every family had begun the old arithmetic of cold weather: so many sacks of grain, so many animals, so many mouths, so many weeks until thaw.</p>
+<p>Then the animals began to vanish.</p>
+<p>A sheep disappeared from George Ballack's farm. Two goats went missing from Fred Fendroy's lower field. Patricia Keel found a storeroom unbarred and three sacks of feed gone. Master Glenson lost a mule, then woke the following morning to find another pen open and the mud patterned with small, clawed tracks.</p>
+<p>No single theft would have doomed Clackston. Together, repeated night after night, they threatened to turn a hard winter into a fatal one.</p>
+<p>Master Glenson called for a posse.</p>
+<p>He received them in a timbered room that smelled of lamp oil, damp wool, and the ale Rubius Haggard was drinking from a vessel better suited to watering horses. Glenson sat at the head of the table with a crutch against his chair. Salt and pepper ran through his hair and beard. His damaged leg stretched stiffly beneath the table, and the fact that it kept him from leading the search himself made every word sound like an accusation.</p>
+<p>Five strangers had answered his call.</p>
+<p>Rubius had to duck beneath the rafters. He was a Half-Giant, thirteen feet tall, with deep red hair, green eyes, and an expression so open and cheerful that people often forgot to be afraid of him until he moved too quickly. He set down his drink with care, as though the table were made of eggshell.</p>
+<p>Whisper stood where the room's light failed. He looked human, ordinary, and faintly amused by the idea that anyone could remain ordinary in this company. His eyes moved from Glenson's crutch to the windows, the purse on the table, the weapons within reach, and the faces of the other volunteers.</p>
+<p>Alder sat with both hands close to his shovel. He was a Shroomling, pale-bodied beneath a broad brown cap, with tiny black eyes and the manner of someone who would rather be surrounded by sheep than conversation. Some of the missing animals were his. For him, this was not an adventure yet.</p>
+<p>Rowan Hearthboro wore old mail beneath creeping vines. Dappled white-and-brown fur showed at his face and hands, and a straw hat rested between his rabbit ears. A carrot-shaped pipe hung unlit from one corner of his mouth. He had the stillness of a farmer listening for weather.</p>
+<p>Umbrail watched them all with the bright, suspicious gaze of an old raven. Gray threaded his feathers. Sigils shimmered faintly through his robes whenever he shifted. He had lived long enough to know that every simple job concealed a second job inside it, usually older and more dangerous.</p>
+<p>Glenson pushed five small black scales across the table.</p>
+<p>“Four farms,” he said. “Animals and feed. Not enough gone to starve us yet. Give it another week, and that changes.”</p>
+<p>Rowan picked up one scale and rolled it beneath a claw. “Kobold.”</p>
+<p>“That was my thought.” Glenson looked at his crutch, then away. “Twenty-five gold apiece if you end it. Another five if you do it within the week.”</p>
+<p>Whisper's eyebrows rose at the number. Alder gave the slightest nod. Rubius smiled as if Glenson had invited him to help raise a barn.</p>
+<p>“We'll find them,” Rowan said.</p>
+<p>That was how the posse formed: not with an oath, nor prophecy, nor a sign in the heavens, but around a scarred table and the promise that a farming town would not go hungry.</p>
+<hr>
+<p>The tracks began southeast of town.</p>
+<p>Rowan found them in the broken grass where the ground was soft enough to hold three-toed prints. Alder recognized where an animal had balked and churned the soil. Whisper found the places where a small body had slipped beneath hedges instead of following the open path. Umbrail took to the air when the trees allowed, flying low enough that his wings did not rise above the windbreaks.</p>
+<p>Rubius found the first thief by nearly stepping on him.</p>
+<p>The black-scaled kobold had tied a rope around the missing mule's neck. The mule had planted all four hooves in the earth and decided that abduction was an indignity it would not cooperate with. The kobold pulled. The mule leaned back. Neither noticed the posse until Rubius came crashing through the brush.</p>
+<p>“Got you!” the Half-Giant cried.</p>
+<p>He launched himself into a tackle. The kobold squealed, released the rope, and threw himself aside. Rubius struck the ground hard enough to shake leaves from a nearby tree.</p>
+<p>Whisper laughed once. Rowan did not waste the opening. He crossed the distance in three long hops, caught the kobold by the wrist, and closed a manacle around it. The second cuff went around a tree root.</p>
+<p>The mule watched with the vindicated expression of an animal whose judgment had been confirmed.</p>
+<p>The captive's bravado lasted until Rubius stood up.</p>
+<p>“Big ditch,” the kobold said quickly. “South. Big ditch, big door. Big boss.”</p>
+<p>“How big?” Whisper asked.</p>
+<p>The kobold looked at Rubius and spread its hands as far as the chain allowed.</p>
+<p>“Big.”</p>
+<p>Rowan crouched so that they were closer to eye level. “You took the animals?”</p>
+<p>“We need animals.”</p>
+<p>“Clackston needs them more.”</p>
+<p>The kobold bared its teeth, then thought better of it. It described a crater, a stone doorway, and a leader whose anger had grown with his body. The answers came in frightened fragments, but the direction was clear.</p>
+<p>When the questioning ended, Rowan unlocked the manacle.</p>
+<p>“You're letting it go?” Alder asked.</p>
+<p>“It gave us what we needed.”</p>
+<p>“It stole a mule,” said Whisper.</p>
+<p>The mule snorted.</p>
+<p>Rowan looked at the kobold. “Go somewhere that isn't Clackston. If we catch you stealing from these farms again, this conversation will be shorter.”</p>
+<p>The kobold did not wait for anyone to reconsider. It vanished into the brush, limping from its encounter with Rubius.</p>
+<p>“Merciful,” Umbrail said.</p>
+<p>Rowan stood. “We'll find out.”</p>
+<p>They led the mule homeward far enough to put it in a farmer's care, then followed the trail south.</p>
+<hr>
+<p>The crater lay beyond the last cultivated field, half hidden by scrub and young pines. Black glass glazed its slopes, smooth in some places and shattered into blades in others. Whatever had struck there had torn open the earth and exposed a structure that should have remained buried.</p>
+<p>Four stone columns supported a porch at the crater's bottom. The entrance beyond had been built for people, not kobolds. Time had softened the carvings but not erased them: warriors beneath a many-rayed sun, weapons raised against shapes that seemed to swallow the stone around them.</p>
+<p>Rubius ran a hand above one of the reliefs without touching it. “Giants?”</p>
+<p>“No,” Umbrail said. “Older soldiers. Second Age, perhaps.”</p>
+<p>Above the door, an inscription waited in a language no one else could read.</p>
+<p>Umbrail landed before it. He traced the shapes with the tip of one claw, whispering fragments until the old grammar returned to him.</p>
+<p>“Turn back, Keepers of the Dawn,” he translated.</p>
+<p>The crater seemed to grow quieter.</p>
+<p>“Within lies the Shadow of the Unmade Sun.”</p>
+<p>Alder's own shadow stirred at his feet though the light had not changed.</p>
+<p>“Touch not the thing that drinks the light, lest your soul be sung into night.”</p>
+<p>Whisper considered the dark doorway. “Do old builders ever write anything like, ‘Welcome, the treasure is safe’?”</p>
+<p>“The builders who did are not remembered,” Umbrail said.</p>
+<p>Rowan looked back toward Clackston. Somewhere beyond the trees, stolen sheep and goats waited in the dark. “The animals are inside.”</p>
+<p>Rubius hefted his axe. “Then so are we.”</p>
+<p>The stone door opened reluctantly, shedding dust from its frame.</p>
+<p>The five strangers entered together.</p>
+<h2 id="chapter-two--the-buried-barracks">Chapter Two — The Buried Barracks </h2>
+<p>The first chamber smelled of cold ash, old stone, and too many kobolds living where no one had meant them to live.</p>
+<p>Faded soldiers marched across the walls beneath orichalcum suns. The kobolds had painted over them in soot and red clay. Crude figures showed Clackston burning, tiny townspeople fleeing, and an enormous horned kobold standing with one foot on a house.</p>
+<p>“Ambitious,” Whisper murmured.</p>
+<p>The defenders poured from side passages before anyone could answer.</p>
+<p>Rubius met them with delight.</p>
+<p>He charged into the first rank, scattering small bodies. Rowan followed more carefully, shield raised, spear striking past the Half-Giant's legs. Whisper slipped along the edge of the melee and drove a blade at a kobold's ribs. The thrust should have missed. His foot slid, the point went wide—and then, by some sleight of hand that seemed to include chance itself, the mistake became a perfect opening. The blade turned and buried itself to the hilt.</p>
+<p>“I meant to do that,” he said.</p>
+<p>Alder planted his shovel and called into his own shadow.</p>
+<p>Something answered.</p>
+<p>A black tentacle pushed up from the floor, followed by a body that never settled on a single shape. It struck a kobold and left frost-dark rot blooming across its scales. Even the other kobolds recoiled from it.</p>
+<p>Umbrail extended a hand and loosed a bolt of lightning. It missed, striking stone. Power snapped back through his feathers until every sigil in his robes shone.</p>
+<p>“Umbrail?” Rowan called.</p>
+<p>“Stand clear.”</p>
+<p>The old mage opened both wings.</p>
+<p>The charge left him all at once.</p>
+<p>Lightning filled the chamber. Rowan saw the blast coming and threw himself between it and Whisper, shield high. White fire rolled around the Oathsworn and through the clustered kobolds beyond. When sight returned, several enemies lay smoking beneath the old murals.</p>
+<p>The survivors broke. Rubius and Rowan finished the ones that did not escape.</p>
+<p>For a few breaths, the newly formed posse stood among its first dead and listened to the ruin settle around them.</p>
+<p>“We should establish,” Whisper said, looking at Umbrail, “whether that happens often.”</p>
+<p>“Only when the first spell goes poorly.”</p>
+<p>“Comforting.”</p>
+<p>Among the bodies they found a bottle filled with a liquid the color of a fresh bruise. Its label, where it remained legible, promised restoration in one line and warned of toxicity in the next.</p>
+<p>“Caustic Brew,” Alder read. “It heals.”</p>
+<p>“It says poison,” Rowan said.</p>
+<p>“It can do two things.”</p>
+<p>They also found a piece of golden-orange metal shaped like part of a sun. Umbrail clicked his beak softly when he saw it.</p>
+<p>“Orichalcum. Do not lose this.”</p>
+<p>He tucked the fragment into his robes.</p>
+<hr>
+<p>The barracks divided at a junction deeper inside.</p>
+<p>From the northern passage came the bleating of sheep. From the east came a single pure note, so low it was felt in the teeth before it was heard.</p>
+<p>“Animals,” Alder said, turning north.</p>
+<p>The note sounded again.</p>
+<p>Umbrail looked east. “A mechanism.”</p>
+<p>“Or a warning,” Rowan said.</p>
+<p>“Those are not mutually exclusive.”</p>
+<p>They argued in whispers. The livestock was alive. Whatever waited east might be a key, a trap, or a way for the kobolds to seal the ruin behind them. At last they chose the resonance, promising themselves that the detour would be brief.</p>
+<p>The corridor beyond seemed to have been designed by someone who resented feet.</p>
+<p>Metal plates lay between the paving stones. Steam breathed through cracks in the walls. Farther ahead, the ceiling sagged over a passage blocked by a fallen column. Two dead kobolds demonstrated that enthusiasm was not a substitute for timing.</p>
+<p>Umbrail crouched beside the first plate and listened. Rowan tapped the edge with the butt of his spear. The note changed.</p>
+<p>“They answer one another,” Rowan said.</p>
+<p>“And if they answer badly, the corridor does something unpleasant.”</p>
+<p>Together they found the rhythm. Step, pause, step twice, wait for the note to fall.</p>
+<p>At the steam vents, Alder held up one pale hand. He watched condensation gather, listened to the hiss behind the stone, and began counting beneath his breath.</p>
+<p>“Now,” he said.</p>
+<p>They crossed between bursts. The hem of Whisper's coat smoked, but no one was cooked.</p>
+<p>Then the ceiling shifted.</p>
+<p>Whisper looked up and saw dust spilling from a seam. “Move.”</p>
+<p>Stone came down behind them as they ran. Rubius caught a falling slab on one shoulder, roared, and shoved it aside before it could crush Alder.</p>
+<p>The final obstacle was the collapsed pillar. Rubius wedged both hands beneath it while the others cleared loose stone.</p>
+<p>“This,” he said through clenched teeth, “is much easier than the ceiling.”</p>
+<p>He lifted. Rowan braced the far end. Together they opened a gap large enough for the party to pass.</p>
+<p>The treasury beyond had survived every war except time.</p>
+<p>Weapons crumbled when touched. Tapestries had become colored dust. A chest retained enough integrity to make Whisper suspicious, so Rubius prodded it from a distance while everyone else stood back. Nothing exploded.</p>
+<p>Inside lay sixty gold pieces and another broad section of the sun crest.</p>
+<p>“Twelve each,” Whisper said immediately.</p>
+<p>Umbrail fitted the fragments together. The joined pieces caught the mage-light and threw it back warmer than they had received it.</p>
+<p>“A key,” he said. “Not complete.”</p>
+<p>“Then the kobolds have the rest,” Rowan replied.</p>
+<p>They returned to the junction and followed the animals' cries.</p>
+<hr>
+<p>The pens occupied a pillared hall. Sheep, goats, and the stolen mule crowded behind a translucent magical barrier. Kobolds filled the space before it, some armed with slings and knives, others wearing piecemeal armor. At their center stood a creature with metal plates strapped across its chest and an instrument made from bells, cleavers, and pure malice.</p>
+<p>The Kobold Clangor struck it.</p>
+<p>Noise became a weapon.</p>
+<p>The defenders surged forward. Rubius drove into them, but there were too many to scatter at once. Umbrail marked Whisper with Heart's Fire, and the Cheat seemed to move between moments, stabbing one kobold and slinging a stone into another before either understood he had changed position.</p>
+<p>Alder's shadow crawled beneath the barrier light. Rowan placed himself wherever the line bent.</p>
+<p>The Clangor struck again.</p>
+<p>A kobold blade slipped beneath Rowan's mail. Another hit the back of his knee. He went down beneath a rush of small bodies, shield trapped under him.</p>
+<p>“Rowan!” Alder cried.</p>
+<p>The Shroomling seized the Caustic Brew.</p>
+<p>There was no time to debate the label. He pulled the stopper with his teeth, reached through the melee, and poured the foul liquid into Rowan's mouth.</p>
+<p>Rowan convulsed. Strength returned in a burning wave, followed immediately by nausea so violent that the room tilted around him.</p>
+<p>“It works,” Alder said.</p>
+<p>Rowan dragged himself upright. “It poisons.”</p>
+<p>“It does two things.”</p>
+<p>The Clangor raised its instrument for another strike.</p>
+<p>Rubius reached it first.</p>
+<p>His axe descended with enough force to split the creature and silence the instrument in the same blow. The terrible rhythm stopped. Without it, the remaining defenders lost courage. Whisper cut off their escape, Alder's minion pulled one into the dark, and Rowan—green beneath his fur—stood between the last attackers and the others until the hall was theirs.</p>
+<p>Behind the magical field, the mule recognized them and began braying with the confidence of an animal that had never doubted rescue would come.</p>
+<p>The livestock had been found.</p>
+<p>The thing the kobolds called their big boss had not.</p>
+<h2 id="chapter-three--snaggletooths-ascension">Chapter Three — Snaggletooth's Ascension </h2>
+<p>The barrier around the animals would not yield to force, although Rubius tested that theory thoroughly.</p>
+<p>While he and Umbrail examined the old controls, Rowan, Whisper, and Alder searched the kobold quarters. They found two more bottles of Caustic Brew on the stronger defenders, additional pieces of the orichalcum crest, and rooms furnished with stolen blankets and farm tools.</p>
+<p>They also found a prisoner.</p>
+<p>The barred cell had been cut into an older storage room. An orc sat chained to the wall inside, his wrists rubbed raw but his back straight. He was lean, muscular, and very much awake.</p>
+<p>“If you're with them,” he said, “open the door and come closer.”</p>
+<p>Rowan looked at the dead kobold whose key he carried. “We're not with them.”</p>
+<p>The orc's gaze moved over the rabbit knight, the Shroomling, and the human lurking behind both. “That is a very strange rescue party.”</p>
+<p>“You should see the other two,” Whisper said.</p>
+<p>The key opened the bars and then the chains. The prisoner stood, rolled his shoulders, and accepted food and water without pretending he did not need either.</p>
+<p>His name was Lil Chang. He had been traveling to Clackston to answer Glenson's posse call when the kobolds ambushed him. There had been too many to fight alone. They kept him alive because their boss intended to test something on him.</p>
+<p>“What?” Alder asked.</p>
+<p>“They were not conversationalists.” Lil Chang picked up a fallen staff and tested its balance. “Where is the boss?”</p>
+<p>“Deeper,” Rowan said.</p>
+<p>“Good.”</p>
+<p>That was the extent of his recruitment.</p>
+<hr>
+<p>The name appeared everywhere once they knew to look for it.</p>
+<p>SNAGGLETOOTH RULES.</p>
+<p>SNAGGLETOOTH WILL BURN CLACKSTON.</p>
+<p>SNAGGLETOOTH'S ASCENSION.</p>
+<p>The last phrase had been painted above a corridor leading deeper into the barracks. The letters were surrounded by crude rays of black paint that swallowed the older sun symbols beneath them.</p>
+<p>“Ascension,” Umbrail said when the searchers returned. “Not merely leadership.”</p>
+<p>Rubius glanced toward the corridor. “The prisoner said the boss wanted to test something.”</p>
+<p>Lil Chang struck the floor once with his staff. “Then we should interrupt.”</p>
+<p>The next chamber had a ceiling low enough to make Rubius stoop and unstable enough that everyone else watched him nervously. Disciplined kobold guards waited around a circular stone door. A warden held the center while a trapper worked from behind cover. These defenders did not rush. They moved in ranks, protected one another, and tried to drive the party beneath the weakest section of ceiling.</p>
+<p>Rowan saw the plan and refused to give ground. Alder's minions climbed the walls. Whisper used the confusion to reach the trapper. Lil Chang flowed through gaps no one else could have crossed, his staff cracking against knees and throats.</p>
+<p>When the warden fell, the last crest fragment clattered from its equipment.</p>
+<p>Umbrail assembled the pieces on the floor. The completed emblem was a many-rayed sun, warm to the touch despite the buried cold. It fitted the recess in the circular door exactly.</p>
+<p>For one moment, nothing happened.</p>
+<p>Then ancient mechanisms turned behind the walls. The door rotated and withdrew into the surrounding stone.</p>
+<p>Shadow breathed through the opening.</p>
+<hr>
+<p>The chamber beyond had once been ceremonial—a barracks hall or command room built around a statue of an armored figure. The statue held a shield in one hand. Its other hand stood open and empty.</p>
+<p>Four kobold workers hacked at a side passage, widening a crack and damaging the columns around it. Chips of stone covered the floor. Dust drifted from the ceiling.</p>
+<p>At the center of the hall stood Snaggletooth.</p>
+<p>He was nearly as tall as Rubius.</p>
+<p>The proportions were wrong. He had the head, tail, and hunched frame of a kobold stretched to thirteen or fourteen feet, every limb swollen with borrowed power. Black radiance leaked between his scales. In his hands rested a shadowed battleaxe whose edge seemed to dim the air around it.</p>
+<p>Snaggletooth smiled.</p>
+<p>“You came to see,” he said. “My ascension.”</p>
+<p>Lil Chang stepped through the door. “I came to stop it.”</p>
+<p>The workers dropped their tools. Two fled into the unfinished passage. One flattened itself behind a column. The fourth threw up its hands.</p>
+<p>Snaggletooth did not look at them. He looked at Rubius and saw, perhaps for the first time, something in the room his own size.</p>
+<p>Then he attacked.</p>
+<p>The shadow axe struck the floor where Rowan had stood and split a paving stone. Rowan answered with his spear, not to wound but to keep Snaggletooth's attention away from Alder. The boss turned after every attack, impossibly quick for his size, forcing the party to move before each blow rather than after it.</p>
+<p>Rubius met him in the center. Their weapons collided. The shock ran through the damaged columns.</p>
+<p>Whisper circled for an opening. Umbrail sent magic past Rubius's shoulder. Alder filled the floor with grasping shadows. Lil Chang struck, moved, and struck again, never remaining where the axe expected him.</p>
+<p>Snaggletooth bled black.</p>
+<p>The first wound made him laugh. The next made him faster.</p>
+<p>As his strength fell, frenzy replaced control. He swept the axe in broad arcs that threatened everyone near him. Rowan interposed again and again, shield shuddering beneath impacts that would have broken smaller bodies. Rubius took blows that drove him to one knee and rose angrier.</p>
+<p>The battle found a new rhythm: spear, shadow, lightning, blade, staff, axe.</p>
+<p>At last Snaggletooth entered his final stand. The darkness around him deepened. The ancient sun emblems vanished from sight. He raised the axe with both hands.</p>
+<p>Alder closed his fist.</p>
+<p>The boss's shadow became a trap.</p>
+<p>Black strands wrapped Snaggletooth's legs and locked them to the floor. He roared and strained, but the instant of stillness was enough.</p>
+<p>Lil Chang crossed the chamber.</p>
+<p>He remembered the cell. He remembered days of waiting to become part of someone else's experiment. He remembered his mentor, Wing Ding Ho, and every lesson that began with balance before force.</p>
+<p>His staff struck Snaggletooth beneath the jaw.</p>
+<p>“This one's for Wing Ding.”</p>
+<p>The giant kobold fell.</p>
+<p>Darkness rushed out of him.</p>
+<p>His body contracted as it hit the floor. Limbs shortened. Muscles collapsed. In heartbeats, the enormous tyrant became an ordinary kobold in oversized scraps of armor.</p>
+<p>The battleaxe did not shrink.</p>
+<p>It lay beside the body, black and silent, drinking the light that touched its blade.</p>
+<p>No one moved to pick it up.</p>
+<h2 id="chapter-four--a-friend-in-the-dark">Chapter Four — A Friend in the Dark </h2>
+<p>The silence after Snaggletooth's death lasted longer than the fight.</p>
+<p>Rubius watched the dead kobold as if expecting him to grow again. Lil Chang leaned on his staff, breathing hard. Rowan kept his shield raised until Alder's shadows dissolved and the only movement in the room came from falling dust.</p>
+<p>“That,” Whisper said at last, “was not his natural size.”</p>
+<p>Umbrail approached the axe without touching it. Mage-light bent around the edge. “No.”</p>
+<p>The statue's empty hand seemed suddenly less decorative.</p>
+<p>They searched the chamber before making any decision about the weapon. Alder found a concealed drawer in the statue's base. Inside lay one hundred and twenty gold pieces, untouched by kobold excavation. They divided the coins evenly, twenty to each of the six companions, but even Whisper counted without his usual pleasure.</p>
+<p>The axe remained on the floor between them.</p>
+<p>“Put it back,” Rowan said, nodding toward the statue. “Then bring this chamber down.”</p>
+<p>“The whole ruin?” Rubius asked.</p>
+<p>“Enough that no one can repeat this.”</p>
+<p>Rubius looked at the damaged pillars. He had once collapsed another ruin—a place that might have held the answers he sought about giants. The memory lived in him as a weight: stone falling, knowledge vanishing, strength becoming destruction when he had wanted it to become discovery.</p>
+<p>“There is history here,” he said.</p>
+<p>“There is a soul-eating warning at the door,” Whisper replied.</p>
+<p>They wrapped the axe in heavy cloth. Even through layers, the fabric darkened around its shape. Rubius lifted it and placed it in the statue's open hand.</p>
+<p>Nothing happened.</p>
+<p>The statue did not wake. The sun crest did not blaze. The weapon remained inert.</p>
+<p>“Good,” Rowan said. “We leave it there.”</p>
+<p>The others turned toward the door.</p>
+<p>Rubius stayed.</p>
+<p>The weapon had changed Snaggletooth, but Snaggletooth had been cruel before the axe. That distinction seemed important. Power did not decide what someone did with it. Rubius had spent his life trying to prove exactly that.</p>
+<p>He reached through the cloth and closed his hand around the haft.</p>
+<p>The axe grew.</p>
+<p>Wood and shadow lengthened until the weapon fit his Half-Giant grip. A sensation like warm water passed through him. The chamber's tension receded. The suspicion in his companions' faces seemed distant and unnecessary. He felt safe. Chosen. Understood.</p>
+<p>A voice spoke inside him with the intimacy of an old friend.</p>
+<p><em>Welcome, friend. Let's drink the light together.</em></p>
+<p>Rubius smiled.</p>
+<p>Rowan saw it and felt colder than he had at the entrance.</p>
+<p>“Put it down,” he said.</p>
+<p>“It's all right.” Rubius lifted the weapon. It balanced perfectly. “It likes me.”</p>
+<p>“That is not reassuring.”</p>
+<p>To Rubius, it was the most reassuring thing in the world.</p>
+<hr>
+<p>They freed the animals once Umbrail understood the barrier controls. The journey back to Clackston was slower than the journey out. Sheep did not respect marching order. Goats regarded every slope as a personal challenge. The mule insisted on walking near Rowan and occasionally looked back at Rubius's new axe with open dislike.</p>
+<p>Lil Chang traveled with them as though he had always belonged there. He had intended to answer the same call, after all. Captivity had merely delayed his arrival.</p>
+<p>Clackston saw the animals before it saw the rescuers.</p>
+<p>Children ran from the first farm to spread the news. Gates opened. Owners pushed through the herd, calling individual names and finding animals they had already begun to mourn. Alder stood among his recovered livestock with both hands on his shovel and said very little.</p>
+<p>Master Glenson waited in the road on his crutch.</p>
+<p>He counted the returned animals, inspected the party's wounds, and looked up at Rubius's axe without asking where it came from.</p>
+<p>“You finished inside the week,” he said.</p>
+<p>He paid thirty gold to each of them: the promised twenty-five and the five-gold bonus. With the statue's cache, they had earned fifty apiece since leaving the Warren.</p>
+<p>More important, Clackston would survive winter.</p>
+<p>That night the six companions ate in warmth. Rowan's poison finally left him. Armor was repaired. Healing supplies were purchased. Umbrail acquired a wand suited to True Strike. The temporary posse discovered, without ever voting on it, that none of them intended to disband.</p>
+<p>The black-scaled kobolds did not belong near Clackston. They had come from somewhere. The shadow axe had come from somewhere older still.</p>
+<p>Umbrail knew where mountain kobolds lived.</p>
+<p>The <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Locations\Balshar Mountains.md">Balshar Mountains</a> rose beyond the northern roads, home to orc tribes, old ruins, and the dwindling Birdfolk people he had left behind.</p>
+<p>“I can guide you,” he said.</p>
+<p>He did not say that he wanted to go home.</p>
+<hr>
+<p>Several days into the mountain route, an orc stepped into the pass ahead of them.</p>
+<p>He wore heavy furs and broken teeth braided into his beard. One hand rested on his weapon.</p>
+<p>“Stop,” he ordered.</p>
+<p>Rowan heard the snuffling behind the boulders.</p>
+<p>“Boars,” he said quietly.</p>
+<p>The orc's expression changed.</p>
+<p>War pigs burst from cover. Raiders rose with them, and a broad orc carrying two battleaxes came down from the rocks.</p>
+<p>The pass became too narrow for retreat.</p>
+<p>Rowan called openings rather than attacks, drawing eyes and turning shields. Umbrail's True Strike found the companions best placed to use it. Alder's shadows multiplied between the stones. Whisper moved behind the first raider before the orc understood that the line had been breached. Lil Chang ran along the sloping wall, planted one foot on a boulder, and came down with his staff.</p>
+<p>Rubius met the dual-axe leader.</p>
+<p>The shadow weapon in his hands felt eager, but not dangerous. Every impact sent a pleasant certainty through him. This was what it had been made for. This was what <em>he</em> had been made for.</p>
+<p>The last boar fell. The pass quieted.</p>
+<p>On every orc body they found a broken fang taken from some beast. A tribal token, though none of them yet knew the tribe's name.</p>
+<p>The leader also carried a talisman warm with banked fire. Umbrail identified it as a Flamecaller's Talisman, capable of making enemies Smolder so that fire magic could bite deeper. Each use risked reducing the charm to ash.</p>
+<p>One local crisis had led to another road, another enemy, another artifact.</p>
+<p>Behind them, Clackston was safe.</p>
+<p>Ahead, the mountains were beginning to explain why it had ever been threatened.</p>
+<h2 id="chapter-five--the-dead-of-erie">Chapter Five — The Dead of Erie </h2>
+<p>The mountains did not permit straight roads.</p>
+<p>A day's progress on the map became three days of switchbacks, scree, and narrow ledges. Weather gathered without warning. Valleys that appeared adjacent were divided by ravines deep enough to swallow the sound of falling stone.</p>
+<p>The party followed the raiders' trail at first. The broken-fang tokens suggested a tribe, camp, and explanation. Rubius wanted to know whether the ambush had been opportunistic or whether the orcs watched the route to Clackston.</p>
+<p>Umbrail guided them while quietly avoiding every path that led toward his own people.</p>
+<p>The weather made the decision for him.</p>
+<p>Rain froze against the stone. Snow followed. Wind erased tracks faster than Rowan could read them. By nightfall the group found shelter beneath a rocky overhang beside a dark cave mouth.</p>
+<p>They built a small fire and heard wolves beyond it.</p>
+<p>The answering howls came from both sides.</p>
+<p>The creatures that entered the firelight were too large to be ordinary wolves. Their shoulders stood above Rowan's head. Ice clung to their fur, and their jaws were wide enough to close around a person.</p>
+<p>One seized Lil Chang and shook him. Another caught Rowan and dragged him away from the fire. The battle became a struggle of rescue rather than formation. Rubius forced jaws apart. Alder's shadows filled the cramped shelter. Whisper attacked eyes and tendons whenever a beast committed to a grapple.</p>
+<p>Lil Chang escaped, sprang to a higher ledge, and drove both feet into the wolf that had taken him. The animal stumbled backward. A second strike sent it over the cliff. Its howl diminished into the storm.</p>
+<p>He killed another at close range, staff pinning its neck while his hands crushed its throat.</p>
+<p>When the last predator fell, the party remained under the overhang because there was nowhere safer to go. The rest was shallow and cold. They spent what healing they could, but no one woke restored.</p>
+<p>By morning, the raiders' trail was gone.</p>
+<p>“Perhaps,” Umbrail said, “the mountain is expressing an opinion.”</p>
+<p>“Does it have one about kobolds?” Rubius asked.</p>
+<p>It did.</p>
+<hr>
+<p>The shrine stood in a fold of stone protected from the worst wind. It had once depicted a Birdfolk figure with wings raised around a symbol of air. Kobolds had hacked away the beak, added a blunt snout, and carved scales over the feathers.</p>
+<p>Umbrail stopped at the edge of the clearing.</p>
+<p>Rowan waited for him to approach. When he did not, the Oathsworn began gathering broken pieces.</p>
+<p>“You don't have to,” Umbrail said.</p>
+<p>“Someone should.”</p>
+<p>“The god represented here did not stop this.”</p>
+<p>“No.” Rowan fitted a fragment of wing back against the pedestal. “But the people who built it mattered.”</p>
+<p>They could not restore what they had never seen. Alder cleared debris. Rubius lifted the larger fragments. Whisper found the original beak beneath a pile of chiseled stone. Their reconstruction was rough and visibly incomplete.</p>
+<p>Umbrail watched them work. He did not pray when they finished, but he bowed his head once.</p>
+<p>Beyond the shrine, evidence of kobolds multiplied. The party found small quarries cut into the slopes, narrow excavations, and molted black scales caught between rocks. Some sites were old. Others had been worked recently.</p>
+<p>Then a shadow crossed the mountain.</p>
+<p>It passed over them too quickly to identify, vast enough to darken the entire ledge. Umbrail took to the air but found only distance and cloud. On a higher shelf, he discovered claw marks sunk deep into stone.</p>
+<p>Each mark was larger than Snaggletooth's body after death.</p>
+<p>He returned without pursuing the creature.</p>
+<p>“Something flies here,” he said.</p>
+<p>“You fly here,” Alder replied.</p>
+<p>“Something else.”</p>
+<p>No one suggested hunting it.</p>
+<hr>
+<p>The tracks converged two days later.</p>
+<p>Black kobold prints crossed a shelf beside iron-shod orc boots. They traveled in the same direction. There were no bodies, blood, or signs of pursuit.</p>
+<p>“They do not work together,” Umbrail said.</p>
+<p>“These do,” Rowan answered.</p>
+<p>Umbrail knew where the path led. An Erie outpost stood half a day away, raised on a rock pillar and built for defenders with wings. He became quiet as they approached.</p>
+<p>At last he flew ahead.</p>
+<p>The outpost was still smoking.</p>
+<p>Buildings of wood had burned to frames. Stonework had been toppled as though struck by hurricane wind. Bodies lay around the crest and at the pillar's base: Birdfolk above, kobolds in broken heaps below, orcs scattered through both.</p>
+<p>Umbrail circled once before landing.</p>
+<p>There should have been ten Erie at the outpost. They found more than twenty. Reinforcements had arrived before the attack, or the defenders had been warned. It had not been enough.</p>
+<p>Rowan walked the battlefield from east to west. He found the first point of contact, the places where the defenders yielded ground, and the final positions around the central structures.</p>
+<p>“The orcs reached the top,” he said. “The kobolds tried. Many fell.”</p>
+<p>At the pillar's base, kobold bodies surrounded unfamiliar mechanisms. Each device resembled a pulley without rope. When Rubius prodded one, it whirred and expelled a violent burst of air.</p>
+<p>The answer became clear. The attackers had launched themselves at the outpost. Kobolds had overloaded the machines and fallen short. Orcs had used them properly.</p>
+<p>Umbrail did not help with the devices.</p>
+<p>He searched the dead.</p>
+<p>His mentor lay near the remains of a stone wall, surrounded by enemies. The old mage who had taught Umbrail how to hold power without letting it burn him had died doing exactly that.</p>
+<p>Umbrail knelt.</p>
+<p>Rowan found him there. For a long time, the rabbit knight said nothing. He simply stood beside the old Birdfolk while the others searched at a distance.</p>
+<p>“I left,” Umbrail said at last.</p>
+<p>Rowan looked across the ruin. “You came back.”</p>
+<p>“Late.”</p>
+<p>There was no answer that did not insult the dead, so Rowan gave none.</p>
+<p>They built funeral pyres before sunset. The Erie were laid together with their weapons and tokens. The attackers were burned separately. Umbrail spoke no public rite, but he remained beside his mentor until the flames made recognition impossible.</p>
+<p>When the others asked what the outpost guarded, he told them only that the Erie protected something ancient in the mountains. Every one of his people had sworn to keep it secret.</p>
+<p>Grief made the refusal sound less like distrust than exhaustion.</p>
+<p>They climbed to the crest and camped among the ruins.</p>
+<p>At dusk, wings beat against the dark.</p>
+<p>A griffin came toward them with talons lowered.</p>
+<h2 id="chapter-six--riders-in-the-sky">Chapter Six — Riders in the Sky </h2>
+<p>The griffin stayed beyond the reach of spears.</p>
+<p>It wheeled above the ruined outpost, lion's body twisting beneath an eagle's wings. Hunger had brought it close; caution kept it aloft.</p>
+<p>Rowan stepped into the open and raised his shield.</p>
+<p>“It wants a target,” Umbrail said.</p>
+<p>“Then it can have one.”</p>
+<p>Rowan struck his spear against the shield and shouted until the griffin's eyes fixed on him. Umbrail studied the creature's flight and pointed to the vulnerable joint where wing met shoulder. A strike there might force it to land.</p>
+<p>The Flamecaller's Talisman warmed in Umbrail's claw. He invoked it.</p>
+<p>Fire ran across the griffin's feathers.</p>
+<p>The talisman crumbled to ash.</p>
+<p>Umbrail used the instant anyway. He spoke Ignite, and the brief Smoldering became a sheet of flame around the creature in midair.</p>
+<p>The griffin screamed.</p>
+<p>Rubius ran to the edge and threw the Axe of Snaggletooth. The black blade turned end over end, grazed the wounded wing, and vanished into the gorge.</p>
+<p>For the first time since the Warren, the weapon was gone.</p>
+<p>The griffin folded its wings and dove at Lil Chang.</p>
+<p>Rowan moved first. He crossed the space, shoved Lil Chang clear, and took the talons across his shield. The impact lifted him from the ground. The griffin's forelimbs closed around him and began to climb.</p>
+<p>Alder's shadows struck its belly. His Shadow Blast followed, black force tearing across singed feathers. The griffin released Rowan and beat backward, badly wounded.</p>
+<p>The party could have continued.</p>
+<p>Then six more griffins appeared on the horizon.</p>
+<p>Each carried an orc rider.</p>
+<p>Weapons came up across the ruined outpost. Rowan searched the riders for broken-fang tokens and found none. Their clothing was woven in pale and royal blue, their faces painted with curling marks the color of stormclouds.</p>
+<p>The wounded griffin landed near Umbrail. It would not let Lil Chang or Rubius approach, but it allowed the Birdfolk close enough to hear the rough language of its kind.</p>
+<p><em>Friends,</em> it conveyed. <em>They explain.</em></p>
+<p>The riders landed in a wide circle.</p>
+<p>Their leader dismounted with one hand near his battleaxe. He surveyed the pyres, the bodies, the strange collection of travelers—and then saw Lil Chang.</p>
+<p>His suspicion broke into recognition.</p>
+<p>“Lil Chang?”</p>
+<p>Lil Chang stared. “Zing Zow.”</p>
+<p>Years disappeared from the orc rider's face. He laughed once, crossed the distance, and gripped Lil Chang's forearm.</p>
+<p>The wounded griffin watched this reunion with visible disapproval.</p>
+<hr>
+<p><a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Zing Zow.md">Zing Zow</a> and the <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Factions\Cloud Seers.md">Cloud Seers</a> had answered the Erie's call for aid. They had flown hard and arrived too late.</p>
+<p>Around the embers of the outpost, he told the party why.</p>
+<p>A dragon called <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Razor.md">Razor</a> had come from the southwestern hills and established a roost in the southern Balshar Mountains. Nearly every mountain kobold had gone to him. They worshiped him as something more than a king. The broken-fang orcs—the <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Factions\Black Fang Orcs.md">Black Fang</a>—served him by alliance rather than faith.</p>
+<p>The Erie and Cloud Seers resisted. Other orc tribes waited.</p>
+<p>“They want to know who will win,” Zing Zow said. “No one wants to choose the losing side.”</p>
+<p>“Can Razor be killed?” Rubius asked.</p>
+<p>Zing Zow looked up at him. “Yes.”</p>
+<p>Hope lasted one breath.</p>
+<p>“Not by you. Not by us here. Companies have gone to his roost. They do not return.”</p>
+<p>The dragon sought more than territory. A mine near the outpost held ore that could strengthen draconic breath. The Erie also guarded artifacts left from an older war against dragons: one in their capital, one beneath the ancient battlefield, another near the resting place of the general who had defeated the old flights. Lesser relics had been entrusted to important Erie.</p>
+<p>Umbrail looked toward his mentor's ashes.</p>
+<p>Memory arranged itself cruelly. When he had left home, he had taken several of his teacher's possessions without understanding all of them. One object had always resisted ordinary explanation.</p>
+<p>His mentor had carried a lesser artifact.</p>
+<p>Umbrail carried it now.</p>
+<p>The revelation made him feel as if Razor had turned his head across the entire mountain range and looked directly at the outpost.</p>
+<p>“The mine first,” Umbrail said. “If the dragon takes the ore, everything else becomes worse.”</p>
+<p>Zing Zow agreed. His riders would secure it and call for reinforcements.</p>
+<p>That left the party with choices no one in Clackston had paid them to make. They could seek General Brand in the Erie city. They could try to return Umbrail's artifact. They could investigate the ancient sites. They could approach the neutral tribes.</p>
+<p>They could also leave.</p>
+<p>Alder said it aloud. “We could go underground.”</p>
+<p>No one laughed. Razor was beyond them. Courage did not make a suicidal fight useful.</p>
+<p>Rowan looked at the separate pyres. “If the tribes are waiting to see who wins, then someone has to give them a reason not to wait.”</p>
+<p>The Cloud Seers could not do it. Old feuds burdened every offer they made. The Erie were mistrusted in the eastern mountains. Outsiders might be heard precisely because they did not inherit those grievances.</p>
+<p>The party chose the neutral tribes.</p>
+<p>They slept beneath Cloud Seer guard. When Rubius woke, the Axe of Snaggletooth rested across his back.</p>
+<p>He did not know when it had returned from the gorge.</p>
+<h2 id="chapter-seven--the-race-to-frostvein">Chapter Seven — The Race to Frostvein </h2>
+<p>The ruined outpost was safer beneath six griffin riders than it had been beneath walls.</p>
+<p>For the first time since entering the mountains, the party rested fully. Rubius's wound closed. He buried his True Strike Wand in the battlefield soil overnight, satisfying the strange condition that restored its magic.</p>
+<p>Alder slept less peacefully.</p>
+<p>He sat apart and opened himself to the presence that had taught him shadow. <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Religion\Deities\Erabose.md">Erabose</a> answered as a darkness crowded with fanged crows, their wings passing before an unseen sun.</p>
+<p>The patron had given Alder a command. Alder had not completed it. The displeasure in the communion required no words.</p>
+<p><em>Soon,</em> the shadows seemed to say.</p>
+<p>“No,” Alder whispered, though whether he meant refusal or delay, even he did not know.</p>
+<p>Elsewhere in the ruin, Umbrail searched his mentor's books and possessions. He found references to cleansing rites for lesser Erie relics. The unidentified object he had carried for years responded when he spoke the old words.</p>
+<p>Metal unfolded from what had seemed an ordinary talisman. Fine lines formed the shape of a claw.</p>
+<p>The <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Items\Artifacts\Talon of Unmaking.md">Talon of Unmaking</a> woke.</p>
+<p>It could peel protection from armored creatures. Against a dragon, the weakness would last longer.</p>
+<p>Umbrail closed his claw around it. His inheritance had become a weapon suited exactly to the war that killed its former bearer.</p>
+<hr>
+<p>At dawn, Zing Zow spread a map over broken stone.</p>
+<p>Three tribes remained neutral.</p>
+<p>The <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Factions\Frostvein Orcs.md">Frostvein</a> lived among the coldest peaks beneath the level-headed chieftess <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\An Yue.md">An Yue</a>. The <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Factions\Graven Hand Orcs.md">Graven Hand</a> kept the orc burial grounds under <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Bao Jun.md">Bao Jun</a>, whom Zing Zow described as devout and strange. The <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Factions\Hollow Drum Orcs.md">Hollow Drum</a> occupied caverns beneath the range and sent messages through stone under the action-minded <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Chen Wei.md">Chen Wei</a>.</p>
+<p>They did not war with one another. They shared one grievance: generations earlier, they had driven the Erie from the eastern mountains and had no desire to invite them back.</p>
+<p>The Frostvein settlement lay closest to the northern ford.</p>
+<p>Zing Zow and the Cloud Seers departed for the mine. The party turned north.</p>
+<p>Days later, warg tracks crossed their trail.</p>
+<p>Umbrail scouted above the trees and found a family rather than a war pack. Adults guarded injured pups. The party tried to detour and emerged, by bad luck or bad navigation, directly inside the animals' defensive circle.</p>
+<p>The wargs spread around them.</p>
+<p>Rubius lifted a boulder over his head.</p>
+<p>Umbrail's voice became thunder.</p>
+<p>Whisper watched the animals rather than their teeth. The adults were not advancing. They were offering a boundary.</p>
+<p>“Back away,” he said. “Slowly.”</p>
+<p>The party did. The wargs let them go.</p>
+<p>For the rest of the day, both packs traveled toward the river without testing the agreement.</p>
+<hr>
+<p>Near the gorge, a riderless griffin descended upon them.</p>
+<p>Cloud Seer tack hung from its body. It ignored drawn weapons, seized Lil Chang's clothing, and pulled toward the cliff.</p>
+<p>“It wants me to follow,” Lil Chang said.</p>
+<p>“Or it wants to eat you somewhere private,” Whisper replied.</p>
+<p>The griffin lowered itself.</p>
+<p>Lil Chang climbed on.</p>
+<p>It carried him across the gorge to a shelf of broken stone. An orc lay there beneath black-fletched arrows, blue skin around his lips, no breath moving his chest.</p>
+<p>Lil Chang recognized a Cloud Seer scout. He poured a healing potion into the orc's mouth and pressed both hands against his chest.</p>
+<p>Once. Twice. Again.</p>
+<p>The scout convulsed and coughed air back into his lungs.</p>
+<p>His name was <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Da Long.md">Da Long</a>. The griffin was <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Characters\Quickfeather.md">Quickfeather</a>.</p>
+<p>His warning was worse than his wounds.</p>
+<p>The Black Fang had sent diplomats east under guard. Fifteen or twenty orcs were already moving toward Frostvein to recruit the neutral tribes for Razor. Da Long had flown too close while scouting them. They had shot him from the sky.</p>
+<p>Quickfeather could outrun the column. The party on foot could not.</p>
+<p>Lil Chang was the obvious choice to go ahead. He was an orc, known to the Cloud Seers, and capable of speaking to An Yue without appearing to be an Erie agent.</p>
+<p>Da Long gave the others directions to a hidden game trail. It would let them reach the Black Fang column and perhaps delay it.</p>
+<p>“They are diplomats,” Rowan warned. “Not an attacking army.”</p>
+<p>“They shot him down,” Lil Chang said.</p>
+<p>“That is true. Say what is true.”</p>
+<p>Lil Chang mounted behind Da Long. Quickfeather leapt into the gorge and rose on the far wind.</p>
+<p>Below, the remaining party entered the secret trail.</p>
+<p>Ahead, two offers raced toward the same chieftess.</p>
+<h2 id="chapter-eight--the-axe-opens-its-mouth">Chapter Eight — The Axe Opens Its Mouth </h2>
+<p>The hidden trail disappeared almost as soon as they entered the pines.</p>
+<p>Da Long's directions were the only reason they could follow it. Needles buried the path. Roots erased its edges. The canopy turned afternoon into twilight.</p>
+<p>Near a clearing, black cloth clung to a bramble.</p>
+<p>They expected an outrider. They prepared distractions instead of a direct attack. Rubius searched for wildlife and found a beehive near a narrow stream. Umbrail took a position in a tree. The others watched the clearing.</p>
+<p>There were no orcs inside it.</p>
+<p>A lone kobold shivered beneath a Black Fang blanket.</p>
+<p>Rowan recognized the thief from Clackston. The kobold recognized Rubius and looked as though the winter had suddenly become preferable.</p>
+<p>“The mule,” Rowan said.</p>
+<p>“I am still feeling that meeting,” the kobold replied.</p>
+<p>His name was <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\Campaigns\Nimble\World\Characters\Scritch.md">Scritch</a>. After Rowan released him, he had returned to the mountains because he had nowhere else to go. He joined Razor's kobolds despite misgivings, then traveled with the Black Fang column until an injured leg slowed him. The orcs mistreated him as dead weight. He escaped during a rest, became lost, and waited beneath their discarded blanket.</p>
+<p>Rowan gave him a healing draught.</p>
+<p>Scritch gave them numbers.</p>
+<p>Twenty orcs traveled toward Frostvein: five diplomats under <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\Campaigns\Nimble\World\Characters\Gorak Broken-Tusk.md">Gorak</a>, fifteen warriors aligned with Quartermaster <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\Campaigns\Nimble\World\Characters\Vekka Ash-Eye.md">Vekka</a>. They carried a peace banner. Their public mission was negotiation. Scritch had sensed another purpose but did not know it.</p>
+<p>“Come with us,” Rowan said.</p>
+<p>Scritch looked at the giant who had tackled him, the mage in the tree, and Alder's restless shadow.</p>
+<p>“You are strange people.”</p>
+<p>“Yes,” Whisper would have said, had he been there.</p>
+<p>Scritch came anyway.</p>
+<hr>
+<p>Before leaving, Rubius tried to persuade the bees to help.</p>
+<p>His affinity with wild creatures let him feel their answer. Winter was coming. The hive was their food, their shelter, and the future of the colony. They did not want their home carried into a conflict they did not understand.</p>
+<p>Rubius listened.</p>
+<p>“All right,” he said. “We leave them.”</p>
+<p>The axe pressed against his back.</p>
+<p>The decision changed.</p>
+<p>Black passed over his green eyes. He reached up, broke the branch free, and carried the hive away while the angry colony followed.</p>
+<p>Somewhere inside the certainty the axe gave him, a quieter part of Rubius knew that he had already decided otherwise.</p>
+<p>No one had time to confront him.</p>
+<p>Seven kobolds came out of the trees.</p>
+<p>The first stone Scritch loosed passed through an attacker's skull. Alder's shadows rose beside him. Rowan lowered his spear. Umbrail threw Heart's Fire into Rubius's muscles, and the Half-Giant used the sudden speed to return the hive to a tree before entering the fight.</p>
+<p>A kobold alchemist smashed a vessel at Rowan's feet.</p>
+<p>The air became bees and pain.</p>
+<p>Another attacker, heavy in iron, hammered two cleavers together. The Clanger's rhythm caught inside Rubius's bones.</p>
+<p>He raged.</p>
+<p>The axe opened its mouth.</p>
+<p>Rubius struck a kobold flat. Its body became black slurry and vanished into the blade. He cut another in half, and neither half reached the ground.</p>
+<p>Alder's minions rotted the attackers from within. Scritch slipped between distractions, replacing chance with certainty and burying his rapier where armor opened. Rowan drove radiant force through the Clanger's protection and moved wherever someone weaker needed a shield.</p>
+<p>Umbrail descended into the melee. He conjured a vicious knot of snow, ice, and wind that blinded two attackers, then vanished through a spark and reappeared beside a metal weapon farther away.</p>
+<p>Rubius charged the Clanger.</p>
+<p>The axe killed it.</p>
+<p>Its armor fell empty.</p>
+<p>There was no enemy close enough to strike next.</p>
+<p>So Rubius struck Alder.</p>
+<p>The axe slammed into the Shroomling for a blow that would have killed someone less protected by shadow. Rubius's eyes were black from edge to edge. There was no hatred in them. That was worse. Only certainty remained—the conviction that attacking his companion was as reasonable as attacking anything else.</p>
+<p>Alder staggered but did not fall.</p>
+<p>His minions and Scritch killed the last kobolds. The Clanger's rhythm stopped.</p>
+<p>Rubius turned, looking for another target.</p>
+<p>Umbrail's voice cracked like thunder.</p>
+<p>“Enough.”</p>
+<p>Tempest Command struck the magic inside the rage. Rubius shuddered. Black receded from his eyes.</p>
+<p>He saw Alder. He saw the empty armor. He saw the places where three bodies should have remained.</p>
+<p>Memory returned without innocence.</p>
+<hr>
+<p>Rubius healed Alder first and himself second.</p>
+<p>“I am sorry,” he said. “Everything made sense.”</p>
+<p>“That is not better,” Rowan replied.</p>
+<p>Umbrail examined the axe from a careful distance. Earlier research returned to him: an intelligent shadow weapon that corrupted even honorable bearers, consumed souls, and eventually made allies into enemies.</p>
+<p>“It is beginning to exert influence over you,” he told Rubius. “Not someday. Now.”</p>
+<p>Rubius had thrown it into a gorge. It returned within half an hour.</p>
+<p>There was one known answer. A historical account claimed that a cursed shadow axe could be stripped of power at the <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Locations\Shadow Well.md">Shadow Well</a> in the <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\World\Locations\Undershadow.md">Undershadow</a>. The route, ritual, and price remained unknown.</p>
+<p>Alder shifted beside his summoned darkness.</p>
+<p>“My patron wants the axe,” he said.</p>
+<p>Every face turned toward him.</p>
+<p>“How?” Rowan asked.</p>
+<p>“He wants me to kill Rubius.”</p>
+<p>Rubius blinked.</p>
+<p>“You said you were joking,” Rowan said.</p>
+<p>“I wasn't going to do it.”</p>
+<p>Alder also admitted that his lost family heirloom lay in the Undershadow. He could feel a distant direction toward it.</p>
+<p>“Who is your patron?” Rowan asked.</p>
+<p>Alder hesitated. “A bird guy.”</p>
+<p>Umbrail stared at him. “You accepted power from an unnamed bird-shaped stranger?”</p>
+<p>“You already have magic. It is easy for you to be selective.”</p>
+<p>The argument should have ended there.</p>
+<p>Instead, Alder tried an experiment.</p>
+<p>He ordered one of his shadow minions to consume the axe as an offering to his patron.</p>
+<p>The axe consumed the minion.</p>
+<p>Power rushed into it. Rubius felt rage rise again, hot and immediate. Umbrail cast Dispel Magic. The surge weakened, returned, and weakened again as the mage repeated the cantrip until Rubius could breathe without choosing a victim.</p>
+<p>They agreed never to feed the axe another shadow.</p>
+<p>Rubius wrapped it in an animal hide. Cloth could not bind the artifact. The gesture was for his companions and perhaps for himself.</p>
+<p>They continued toward Frostvein.</p>
+<hr>
+<p>The pines ended at the <a href="file:///c:\Users\cgilroy\OneDrive - GreenStone FCS\Documents\TTRPG\Aetheria\Campaigns\Nimble\World\Locations\Stone Stairs.md">Stone Stairs</a>, long road-like switchbacks climbing the mountain.</p>
+<p>Smoke rose from a Black Fang camp partway up. The delegation had stopped for the night while several hours of daylight remained.</p>
+<p>The party considered a rockslide. The slope offered little loose debris, and attacking a sleeping diplomatic column beneath a peace banner would create the very story the Black Fang needed.</p>
+<p>Instead, they left the road.</p>
+<p>Umbrail flew Rubius's heavy rope from ledge to ledge, securing it around stone. Rubius climbed after him and hauled the smaller travelers upward. Scritch found the angles from which sentries would be least likely to look.</p>
+<p>They passed the Black Fang unseen.</p>
+<p>At the top of the pass, the world changed.</p>
+<p>Wind drove snow across a white plateau. Visibility collapsed. Shapes moved in the storm—arctic animals appearing where the forest below said they should not exist. The trail vanished behind ice as completely as it had vanished beneath pine needles.</p>
+<p>Lil Chang and Da Long were somewhere ahead.</p>
+<p>The Black Fang were somewhere below.</p>
+<p>And Rubius carried a third traveler whose hunger had finally learned to speak with his hands.</p>
+</div></body></html>
+    </div>
+  </body>
+</html>

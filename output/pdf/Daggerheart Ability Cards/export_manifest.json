@@ -1,0 +1,459 @@
+{
+  "format": "Two-page printable PDF: front and official generic card back",
+  "page_size": "US Letter",
+  "card_trim_size_inches": [
+    2.5,
+    3.5
+  ],
+  "cut_lines": true,
+  "gutters": true,
+  "card_back": true,
+  "resolution": "Vector text and shapes; raster assets placed at print resolution",
+  "card_count": 86,
+  "character_counts": {
+    "Alder": 6,
+    "Cai Lin": 5,
+    "Da Long": 11,
+    "Feng Rui": 8,
+    "Jian Bo": 9,
+    "Lil Chang": 9,
+    "Mei Rong": 7,
+    "Rowan Hearthboro": 7,
+    "Rubius Haggard": 8,
+    "Skritch": 7,
+    "Umbrail": 4,
+    "Whisper": 5
+  },
+  "files": [
+    {
+      "owner": "Rubius Haggard",
+      "title": "RAGE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\01 - RAGE.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "THAT ALL YOU GOT?!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\02 - THAT ALL YOU GOT-!.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "BLOODLUST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\03 - BLOODLUST.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "MOUNTAINOUS TENACITY",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\04 - MOUNTAINOUS TENACITY.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "ONE WITH THE ANCIENTS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\05 - ONE WITH THE ANCIENTS.pdf"
+    },
+    {
+      "owner": "Whisper",
+      "title": "CHEAT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Whisper\\01 - CHEAT.pdf"
+    },
+    {
+      "owner": "Whisper",
+      "title": "VICIOUS OPPORTUNIST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Whisper\\02 - VICIOUS OPPORTUNIST.pdf"
+    },
+    {
+      "owner": "Whisper",
+      "title": "SNEAK ATTACK",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Whisper\\03 - SNEAK ATTACK.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "RADIANT JUDGMENT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\01 - RADIANT JUDGMENT.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "LAY ON HANDS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\02 - LAY ON HANDS.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "ZEALOT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\03 - ZEALOT.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "AURA OF REFUGE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\04 - AURA OF REFUGE.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "IRON DEFENSE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\01 - IRON DEFENSE.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "SWIFT FISTS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\02 - SWIFT FISTS.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "BURST OF SPEED",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\03 - BURST OF SPEED.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "KINETIC MOMENTUM",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\04 - KINETIC MOMENTUM.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "BRING THE PAIN",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\05 - BRING THE PAIN.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "PILFERED POWER",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\01 - PILFERED POWER.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "MASTER OF NIGHTFROST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\02 - MASTER OF NIGHTFROST.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "MASTER OF DARKNESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\03 - MASTER OF DARKNESS.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "VICIOUS OPPORTUNIST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\01 - VICIOUS OPPORTUNIST.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "SNEAK ATTACK",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\02 - SNEAK ATTACK.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "LOW BLOW",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\03 - LOW BLOW.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "CHEAT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\04 - CHEAT.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "WILY",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\05 - WILY.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "HUNTER'S MARK",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\01 - HUNTER'S MARK.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "THRILL OF THE HUNT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\02 - THRILL OF THE HUNT.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "GO FOR THE THROAT!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\03 - GO FOR THE THROAT!.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "ROLL & STRIKE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\04 - ROLL & STRIKE.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "ALPHA PROTECTOR",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\05 - ALPHA PROTECTOR.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "COORDINATED STRIKE!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\01 - COORDINATED STRIKE!.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "REPOSITION!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\02 - REPOSITION!.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "SHIELD EXPERT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\03 - SHIELD EXPERT.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "HOLD THE LINE!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\04 - HOLD THE LINE!.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "FIELD MEDIC",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\05 - FIELD MEDIC.pdf"
+    },
+    {
+      "owner": "Cai Lin",
+      "title": "MERCIFUL HEALING",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Cai Lin\\01 - MERCIFUL HEALING.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "RAGE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\01 - RAGE.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "INTENSIFYING FURY",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\02 - INTENSIFYING FURY.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "BLOODLUST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\03 - BLOODLUST.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "THAT ALL YOU GOT?!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\04 - THAT ALL YOU GOT-!.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "MOUNTAINOUS TENACITY",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\05 - MOUNTAINOUS TENACITY.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "SONGWEAVER'S INSPIRATION",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\01 - SONGWEAVER'S INSPIRATION.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "QUICK WIT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\02 - QUICK WIT.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "ARMOR MASTER",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\06 - ARMOR MASTER.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "INTENSIFYING FURY",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\06 - INTENSIFYING FURY.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "INSPIRING PRESENCE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\03 - INSPIRING PRESENCE.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "STONE'S RESILIENCE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\07 - STONE'S RESILIENCE.pdf"
+    },
+    {
+      "owner": "Rubius Haggard",
+      "title": "STRENGTH OF STONE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rubius Haggard\\08 - STRENGTH OF STONE.pdf"
+    },
+    {
+      "owner": "Whisper",
+      "title": "TENACIOUS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Whisper\\04 - TENACIOUS.pdf"
+    },
+    {
+      "owner": "Whisper",
+      "title": "FORMER CON ARTIST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Whisper\\05 - FORMER CON ARTIST.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "PARAGON OF VIRTUE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\05 - PARAGON OF VIRTUE.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "WELL ARMORED",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\06 - WELL ARMORED.pdf"
+    },
+    {
+      "owner": "Rowan Hearthboro",
+      "title": "BUNNY LEGS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Rowan Hearthboro\\07 - BUNNY LEGS.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "SWIFT FEET",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\06 - SWIFT FEET.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "ETHEREAL PROJECTION",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\07 - ETHEREAL PROJECTION.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\08 - RELENTLESS.pdf"
+    },
+    {
+      "owner": "Lil Chang",
+      "title": "FEARLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Lil Chang\\09 - FEARLESS.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "MY FAVORED PET",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\04 - MY FAVORED PET.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "DANGER POLLEN / SPORES",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\05 - DANGER POLLEN - SPORES.pdf"
+    },
+    {
+      "owner": "Alder",
+      "title": "WILD ONE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Alder\\06 - WILD ONE.pdf"
+    },
+    {
+      "owner": "Umbrail",
+      "title": "TALENTED RESEARCHER",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Umbrail\\01 - TALENTED RESEARCHER.pdf"
+    },
+    {
+      "owner": "Umbrail",
+      "title": "FORCE OF CHAOS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Umbrail\\02 - FORCE OF CHAOS.pdf"
+    },
+    {
+      "owner": "Umbrail",
+      "title": "HOLLOW BONES",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Umbrail\\03 - HOLLOW BONES.pdf"
+    },
+    {
+      "owner": "Umbrail",
+      "title": "MADE A BAD CHOICE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Umbrail\\04 - MADE A BAD CHOICE.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "SWEET TALK",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\06 - SWEET TALK.pdf"
+    },
+    {
+      "owner": "Skritch",
+      "title": "WILY UNDERDOG",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Skritch\\07 - WILY UNDERDOG.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "FORAGER",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\06 - FORAGER.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "TRACKER'S INTUITION",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\07 - TRACKER'S INTUITION.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "BEASTMASTER — QUICKFEATHER",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\08 - BEASTMASTER — QUICKFEATHER.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "PROTECT ME!",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\09 - PROTECT ME!.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\10 - RELENTLESS.pdf"
+    },
+    {
+      "owner": "Da Long",
+      "title": "SURVIVALIST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Da Long\\11 - SURVIVALIST.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "DEVOTED PROTECTOR — CAI LIN",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\07 - DEVOTED PROTECTOR — CAI LIN.pdf"
+    },
+    {
+      "owner": "Feng Rui",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Feng Rui\\08 - RELENTLESS.pdf"
+    },
+    {
+      "owner": "Cai Lin",
+      "title": "SEARING LIGHT",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Cai Lin\\02 - SEARING LIGHT.pdf"
+    },
+    {
+      "owner": "Cai Lin",
+      "title": "LIFE IS BEAUTIFUL",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Cai Lin\\03 - LIFE IS BEAUTIFUL.pdf"
+    },
+    {
+      "owner": "Cai Lin",
+      "title": "TRADESMAN / ARTISAN — HEALER & HERBALIST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Cai Lin\\04 - TRADESMAN - ARTISAN — HEALER & HERBALIST.pdf"
+    },
+    {
+      "owner": "Cai Lin",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Cai Lin\\05 - RELENTLESS.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "ONE WITH THE ANCIENTS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\06 - ONE WITH THE ANCIENTS.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "STONE'S RESILIENCE",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\07 - STONE'S RESILIENCE.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\08 - RELENTLESS.pdf"
+    },
+    {
+      "owner": "Jian Bo",
+      "title": "FEARLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Jian Bo\\09 - FEARLESS.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "JACK OF ALL TRADES",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\04 - JACK OF ALL TRADES.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "SONG OF REST",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\05 - SONG OF REST.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "HISTORY BUFF",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\06 - HISTORY BUFF.pdf"
+    },
+    {
+      "owner": "Mei Rong",
+      "title": "RELENTLESS",
+      "file": "C:\\Users\\cgilroy\\OneDrive - GreenStone FCS\\Documents\\TTRPG\\Aetheria\\output\\pdf\\Daggerheart Ability Cards\\Mei Rong\\07 - RELENTLESS.pdf"
+    }
+  ]
+}

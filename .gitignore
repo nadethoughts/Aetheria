@@ -17,6 +17,7 @@ build/
 # Temporary files
 *.tmp
 *.swp
+tmp/
 
 # IDE directories
 .vscode/

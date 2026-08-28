@@ -1,7 +1,7 @@
 ---
 type: campaign-story
 campaign: "Nimble"
-through_session: "06"
+through_session: "08"
 canon_scope: played-events
 status: ongoing
 world_reference: "[[World/World MOC|World of Aetheria]]"
@@ -10,334 +10,1104 @@ tags: [type/campaign-story, campaign/nimble]
 
 # The Shadow Beneath Balshar
 
-*A novella of the Nimble campaign through Session 07*
+*A novella of the Nimble campaign through Session 08*
 
 ## Chapter One — The Winter Posse
 
 Winter had not yet closed its hand around [[World/Locations/Verdant Strand/Clackston|Clackston]], but everyone in the farming town could feel the fingers drawing near.
 
-Animals had vanished first. A sheep here, two goats there, then a mule stubborn enough to make its theft a matter of labor. Grain disappeared from locked storerooms. Feed meant for the cold months went missing by the sack. No single loss would have doomed the town, but the thefts came night after night, and soon the farmers had begun measuring the future in empty stalls.
+The mornings came white with frost. Smoke lay low over the roofs. In the fields, the last stubble of the harvest cracked beneath boots, and every family had begun the old arithmetic of cold weather: so many sacks of grain, so many animals, so many mouths, so many weeks until thaw.
+
+Then the animals began to vanish.
+
+A sheep disappeared from George Ballack's farm. Two goats went missing from Fred Fendroy's lower field. Patricia Keel found a storeroom unbarred and three sacks of feed gone. Master Glenson lost a mule, then woke the following morning to find another pen open and the mud patterned with small, clawed tracks.
+
+No single theft would have doomed Clackston. Together, repeated night after night, they threatened to turn a hard winter into a fatal one.
 
 Master Glenson called for a posse.
 
-He sat at the head of the Grange Council table with a crutch near his hand and anger buried beneath every word. He was a man accustomed to solving his own problems. The injury to his leg offended him almost as much as the thieves did.
+He received them in a timbered room that smelled of lamp oil, damp wool, and the ale Rubius Haggard was drinking from a vessel better suited to watering horses. Glenson sat at the head of the table with a crutch against his chair. Salt and pepper ran through his hair and beard. His damaged leg stretched stiffly beneath the table, and the fact that it kept him from leading the search himself made every word sound like an accusation.
 
-Five strangers answered his call.
+Five strangers had answered his call.
 
-Rubius Haggard had to duck beneath the rafters. He was a Half-Giant with deep red hair, emerald eyes, and a laugh too warm for his thirteen feet of height. Whisper stood where the room's light failed, a plain human face made memorable chiefly by how quickly one forgot it. Alder, pale beneath his broad mushroom cap, kept nervous hands close to his shovel. Rowan Hearthboro wore old mail tangled with living green and a straw hat above his rabbit ears. Umbrail, an ancient Birdfolk mage, watched them all with the bright, suspicious gaze of a raven who had lived long enough to know that every bargain hid a second price.
+Rubius had to duck beneath the rafters. He was a Half-Giant, thirteen feet tall, with deep red hair, green eyes, and an expression so open and cheerful that people often forgot to be afraid of him until he moved too quickly. He set down his drink with care, as though the table were made of eggshell.
 
-They had little in common except that they were there.
+Whisper stood where the room's light failed. He looked human, ordinary, and faintly amused by the idea that anyone could remain ordinary in this company. His eyes moved from Glenson's crutch to the windows, the purse on the table, the weapons within reach, and the faces of the other volunteers.
 
-For Alder, the thefts were personal. His own animals had been taken. Rowan came because a community in danger was reason enough. Rubius saw the possibility of old ruins and older answers. Whisper wanted excitement, or claimed he did. Umbrail had left the high mountains to see the world before either he or his people faded from it.
+Alder sat with both hands close to his shovel. He was a Shroomling, pale-bodied beneath a broad brown cap, with tiny black eyes and the manner of someone who would rather be surrounded by sheep than conversation. Some of the missing animals were his. For him, this was not an adventure yet.
 
-Glenson offered twenty-five gold apiece and another five if the work was done within a week.
+Rowan Hearthboro wore old mail beneath creeping vines. Dappled white-and-brown fur showed at his face and hands, and a straw hat rested between his rabbit ears. A carrot-shaped pipe hung unlit from one corner of his mouth. He had the stillness of a farmer listening for weather.
 
-The trail began in the southeastern fields. Rowan knelt among broken grass and turned a small black scale between his fingers. Kobold. The tracks agreed: clawed feet and dragged hooves leading south.
+Umbrail watched them all with the bright, suspicious gaze of an old raven. Gray threaded his feathers. Sigils shimmered faintly through his robes whenever he shifted. He had lived long enough to know that every simple job concealed a second job inside it, usually older and more dangerous.
 
-Umbrail saw the thief first. A black-scaled kobold was fighting with a mule that had decided theft was beneath its dignity. Rubius charged with more enthusiasm than grace. The kobold went down, Rowan's manacles closed around its wrists, and the mule—after due consideration—allowed itself to be rescued.
+Glenson pushed five small black scales across the table.
 
-The prisoner spoke freely once it understood how badly outnumbered it was. Its people lived in a great ditch to the south. There was a door there. There was also a boss, very large, very dangerous, and best discussed in frightened fragments.
+“Four farms,” he said. “Animals and feed. Not enough gone to starve us yet. Give it another week, and that changes.”
 
-Rowan released the creature with a warning.
+Rowan picked up one scale and rolled it beneath a claw. “Kobold.”
 
-By dusk, the posse stood at the edge of a crater glazed in black glass. A violent impact had torn open the earth and revealed a stone structure that should have remained buried. Four columns supported an ancient porch. The entrance had been made for people, not kobolds, and above it an inscription waited in a language older than Clackston.
+“That was my thought.” Glenson looked at his crutch, then away. “Twenty-five gold apiece if you end it. Another five if you do it within the week.”
 
-Umbrail read it aloud.
+Whisper's eyebrows rose at the number. Alder gave the slightest nod. Rubius smiled as if Glenson had invited him to help raise a barn.
 
-*Turn back, Keepers of the Dawn.*
+“We'll find them,” Rowan said.
 
-*Within lies the Shadow of the Unmade Sun.*
+That was how the posse formed: not with an oath, nor prophecy, nor a sign in the heavens, but around a scarred table and the promise that a farming town would not go hungry.
 
-*Touch not the thing that drinks the light.*
+* * *
 
-*Lest your soul be sung into night.*
+The tracks began southeast of town.
 
-Rubius looked at the narrow doorway. Then at the warning. Then at his companions.
+Rowan found them in the broken grass where the ground was soft enough to hold three-toed prints. Alder recognized where an animal had balked and churned the soil. Whisper found the places where a small body had slipped beneath hedges instead of following the open path. Umbrail took to the air when the trees allowed, flying low enough that his wings did not rise above the windbreaks.
 
-They went inside.
+Rubius found the first thief by nearly stepping on him.
 
-## Chapter Two — The Warren
+The black-scaled kobold had tied a rope around the missing mule's neck. The mule had planted all four hooves in the earth and decided that abduction was an indignity it would not cooperate with. The kobold pulled. The mule leaned back. Neither noticed the posse until Rubius came crashing through the brush.
 
-The ruin had once been a barracks. Sunbursts had been carved into its walls, and faded soldiers marched through stone reliefs against armies made of shadow. The kobolds had covered that history with crude paint, boasts, and drawings of Clackston in flames.
+“Got you!” the Half-Giant cried.
 
-The first defenders came shrieking from the dark.
+He launched himself into a tackle. The kobold squealed, released the rope, and threw himself aside. Rubius struck the ground hard enough to shake leaves from a nearby tree.
 
-The battle taught the five strangers how to become a company. Rubius broke the enemy line with his body. Whisper found the openings others left behind. Alder called a thing of tentacles and darkness out of his own shadow. Rowan moved wherever the danger was greatest and put himself between it and someone else. Umbrail gathered lightning until it became too large for his feathers to contain, then released it through a clustered mob of kobolds in a single blinding eruption.
+Whisper laughed once. Rowan did not waste the opening. He crossed the distance in three long hops, caught the kobold by the wrist, and closed a manacle around it. The second cuff went around a tree root.
 
-When the chamber fell quiet, they found the first piece of a golden-orange crest shaped like the sun. Orichalcum, Umbrail said. Ancient, valuable, and almost certainly part of something larger.
+The mule watched with the vindicated expression of an animal whose judgment had been confirmed.
 
-They also found a bottle labeled by experience rather than mercy. The Caustic Brew could drag a dying body back toward life, but it poisoned what it healed.
+The captive's bravado lasted until Rubius stood up.
 
-At a junction deeper in the barracks, sheep bleated from the northern passage while a pure, unnatural note rang from the east. The party chose the note.
+“Big ditch,” the kobold said quickly. “South. Big ditch, big door. Big boss.”
 
-The corridor beyond seemed intent on killing anyone who walked its length. Stone plates vibrated over trapped steam. The ceiling sagged. A pillar blocked the treasury at the far end. Two kobolds had already become examples of what happened when timing failed.
+“How big?” Whisper asked.
 
-Umbrail listened to the resonance. Rowan helped him count the rhythm. Alder watched the steam breathe through cracks and found the pattern in its violence. Whisper read the collapsing ceiling as if it were an alley ambush. Rubius put both hands beneath the fallen pillar and lifted.
+The kobold looked at Rubius and spread its hands as far as the chain allowed.
 
-The treasury had outlived most of its treasures. Weapons crumbled at a touch. Tapestries had become colored dust. Gold endured. So did another piece of the sun crest.
+“Big.”
 
-The animals were held in a broad pillared room behind an arcane barrier. Kobolds swarmed around the pens, driven into courage by a Clangor whose weapon was noise itself. Rowan fell beneath their assault. Alder uncorked the Caustic Brew and poured life and poison down his throat. Rowan rose shaking, green around the eyes, and stepped back into the line.
+Rowan crouched so that they were closer to eye level. “You took the animals?”
 
-Rubius reached the Clangor and ended its song with one terrible blow.
+“We need animals.”
 
-Beyond the pens, behind bars and chains, the party found an orc.
+“Clackston needs them more.”
 
-His name was Lil Chang. He had been traveling to Clackston to answer the same call that brought the others together when the kobolds overwhelmed him. They had kept him alive for their boss to “test something.” Several days in chains had done nothing to soften his temper.
+The kobold bared its teeth, then thought better of it. It described a crater, a stone doorway, and a leader whose anger had grown with his body. The answers came in frightened fragments, but the direction was clear.
 
-The party found the key, gave him food, and made room for a sixth companion.
+When the questioning ended, Rowan unlocked the manacle.
 
-Lil Chang took up his staff.
+“You're letting it go?” Alder asked.
 
-The graffiti in the private chambers gave the boss a name.
+“It gave us what we needed.”
 
-**Snaggletooth's Ascension.**
+“It stole a mule,” said Whisper.
 
-## Chapter Three — The Thing That Drank Light
+The mule snorted.
 
-The completed sun crest opened a circular door no kobold hand had been able to move. Stone turned within stone, withdrawing into the walls and revealing a long ceremonial chamber beyond.
+Rowan looked at the kobold. “Go somewhere that isn't Clackston. If we catch you stealing from these farms again, this conversation will be shorter.”
 
-At its far end stood a statue with a shield in one hand and nothing in the other.
+The kobold did not wait for anyone to reconsider. It vanished into the brush, limping from its encounter with Rubius.
 
-Before it stood Snaggletooth.
+“Merciful,” Umbrail said.
 
-He was a kobold only in the same way that a landslide was a falling stone. He towered nearly as high as Rubius, thirteen or fourteen feet of black scale and stolen power. In his hand was an axe whose blade seemed to swallow every flame around it. Shadows crawled from the metal like smoke moving against the wind.
+Rowan stood. “We'll find out.”
 
-“My ascension is at hand,” Snaggletooth declared.
+They led the mule homeward far enough to put it in a farmer's care, then followed the trail south.
 
-Then he charged.
+* * *
 
-The battle broke across the chamber. Snaggletooth moved with the speed of a smaller creature and the weight of a giant. Every time one hero struck him, he answered another. Rowan planted himself where the axe would fall. Rubius met strength with strength. Whisper cut at the edges of the boss's attention. Umbrail's spells scorched black scales. Alder filled the chamber with obedient shadows and cast a trap of darkness beneath the giant kobold's feet.
+The crater lay beyond the last cultivated field, half hidden by scrub and young pines. Black glass glazed its slopes, smooth in some places and shattered into blades in others. Whatever had struck there had torn open the earth and exposed a structure that should have remained buried.
 
-Lil Chang moved faster than fury. Staff, fist, heel, breath—the rhythm of his old training returned with every strike. Somewhere inside it lived Wing Ding Ho, the mentor whose death still followed him.
+Four stone columns supported a porch at the crater's bottom. The entrance beyond had been built for people, not kobolds. Time had softened the carvings but not erased them: warriors beneath a many-rayed sun, weapons raised against shapes that seemed to swallow the stone around them.
 
-Snaggletooth bled. The shadow around him thickened. His rage became desperation, then something beyond desperation, a final refusal to die while greatness stood one heartbeat away.
+Rubius ran a hand above one of the reliefs without touching it. “Giants?”
 
-Alder's trap held him.
+“No,” Umbrail said. “Older soldiers. Second Age, perhaps.”
 
-Lil Chang stepped in and drove the end of his staff into the kobold with all the force his body could make.
+Above the door, an inscription waited in a language no one else could read.
+
+Umbrail landed before it. He traced the shapes with the tip of one claw, whispering fragments until the old grammar returned to him.
+
+“Turn back, Keepers of the Dawn,” he translated.
+
+The crater seemed to grow quieter.
+
+“Within lies the Shadow of the Unmade Sun.”
+
+Alder's own shadow stirred at his feet though the light had not changed.
+
+“Touch not the thing that drinks the light, lest your soul be sung into night.”
+
+Whisper considered the dark doorway. “Do old builders ever write anything like, ‘Welcome, the treasure is safe’?”
+
+“The builders who did are not remembered,” Umbrail said.
+
+Rowan looked back toward Clackston. Somewhere beyond the trees, stolen sheep and goats waited in the dark. “The animals are inside.”
+
+Rubius hefted his axe. “Then so are we.”
+
+The stone door opened reluctantly, shedding dust from its frame.
+
+The five strangers entered together.
+
+## Chapter Two — The Buried Barracks
+
+The first chamber smelled of cold ash, old stone, and too many kobolds living where no one had meant them to live.
+
+Faded soldiers marched across the walls beneath orichalcum suns. The kobolds had painted over them in soot and red clay. Crude figures showed Clackston burning, tiny townspeople fleeing, and an enormous horned kobold standing with one foot on a house.
+
+“Ambitious,” Whisper murmured.
+
+The defenders poured from side passages before anyone could answer.
+
+Rubius met them with delight.
+
+He charged into the first rank, scattering small bodies. Rowan followed more carefully, shield raised, spear striking past the Half-Giant's legs. Whisper slipped along the edge of the melee and drove a blade at a kobold's ribs. The thrust should have missed. His foot slid, the point went wide—and then, by some sleight of hand that seemed to include chance itself, the mistake became a perfect opening. The blade turned and buried itself to the hilt.
+
+“I meant to do that,” he said.
+
+Alder planted his shovel and called into his own shadow.
+
+Something answered.
+
+A black tentacle pushed up from the floor, followed by a body that never settled on a single shape. It struck a kobold and left frost-dark rot blooming across its scales. Even the other kobolds recoiled from it.
+
+Umbrail extended a hand and loosed a bolt of lightning. It missed, striking stone. Power snapped back through his feathers until every sigil in his robes shone.
+
+“Umbrail?” Rowan called.
+
+“Stand clear.”
+
+The old mage opened both wings.
+
+The charge left him all at once.
+
+Lightning filled the chamber. Rowan saw the blast coming and threw himself between it and Whisper, shield high. White fire rolled around the Oathsworn and through the clustered kobolds beyond. When sight returned, several enemies lay smoking beneath the old murals.
+
+The survivors broke. Rubius and Rowan finished the ones that did not escape.
+
+For a few breaths, the newly formed posse stood among its first dead and listened to the ruin settle around them.
+
+“We should establish,” Whisper said, looking at Umbrail, “whether that happens often.”
+
+“Only when the first spell goes poorly.”
+
+“Comforting.”
+
+Among the bodies they found a bottle filled with a liquid the color of a fresh bruise. Its label, where it remained legible, promised restoration in one line and warned of toxicity in the next.
+
+“Caustic Brew,” Alder read. “It heals.”
+
+“It says poison,” Rowan said.
+
+“It can do two things.”
+
+They also found a piece of golden-orange metal shaped like part of a sun. Umbrail clicked his beak softly when he saw it.
+
+“Orichalcum. Do not lose this.”
+
+He tucked the fragment into his robes.
+
+* * *
+
+The barracks divided at a junction deeper inside.
+
+From the northern passage came the bleating of sheep. From the east came a single pure note, so low it was felt in the teeth before it was heard.
+
+“Animals,” Alder said, turning north.
+
+The note sounded again.
+
+Umbrail looked east. “A mechanism.”
+
+“Or a warning,” Rowan said.
+
+“Those are not mutually exclusive.”
+
+They argued in whispers. The livestock was alive. Whatever waited east might be a key, a trap, or a way for the kobolds to seal the ruin behind them. At last they chose the resonance, promising themselves that the detour would be brief.
+
+The corridor beyond seemed to have been designed by someone who resented feet.
+
+Metal plates lay between the paving stones. Steam breathed through cracks in the walls. Farther ahead, the ceiling sagged over a passage blocked by a fallen column. Two dead kobolds demonstrated that enthusiasm was not a substitute for timing.
+
+Umbrail crouched beside the first plate and listened. Rowan tapped the edge with the butt of his spear. The note changed.
+
+“They answer one another,” Rowan said.
+
+“And if they answer badly, the corridor does something unpleasant.”
+
+Together they found the rhythm. Step, pause, step twice, wait for the note to fall.
+
+At the steam vents, Alder held up one pale hand. He watched condensation gather, listened to the hiss behind the stone, and began counting beneath his breath.
+
+“Now,” he said.
+
+They crossed between bursts. The hem of Whisper's coat smoked, but no one was cooked.
+
+Then the ceiling shifted.
+
+Whisper looked up and saw dust spilling from a seam. “Move.”
+
+Stone came down behind them as they ran. Rubius caught a falling slab on one shoulder, roared, and shoved it aside before it could crush Alder.
+
+The final obstacle was the collapsed pillar. Rubius wedged both hands beneath it while the others cleared loose stone.
+
+“This,” he said through clenched teeth, “is much easier than the ceiling.”
+
+He lifted. Rowan braced the far end. Together they opened a gap large enough for the party to pass.
+
+The treasury beyond had survived every war except time.
+
+Weapons crumbled when touched. Tapestries had become colored dust. A chest retained enough integrity to make Whisper suspicious, so Rubius prodded it from a distance while everyone else stood back. Nothing exploded.
+
+Inside lay sixty gold pieces and another broad section of the sun crest.
+
+“Twelve each,” Whisper said immediately.
+
+Umbrail fitted the fragments together. The joined pieces caught the mage-light and threw it back warmer than they had received it.
+
+“A key,” he said. “Not complete.”
+
+“Then the kobolds have the rest,” Rowan replied.
+
+They returned to the junction and followed the animals' cries.
+
+* * *
+
+The pens occupied a pillared hall. Sheep, goats, and the stolen mule crowded behind a translucent magical barrier. Kobolds filled the space before it, some armed with slings and knives, others wearing piecemeal armor. At their center stood a creature with metal plates strapped across its chest and an instrument made from bells, cleavers, and pure malice.
+
+The Kobold Clangor struck it.
+
+Noise became a weapon.
+
+The defenders surged forward. Rubius drove into them, but there were too many to scatter at once. Umbrail marked Whisper with Heart's Fire, and the Cheat seemed to move between moments, stabbing one kobold and slinging a stone into another before either understood he had changed position.
+
+Alder's shadow crawled beneath the barrier light. Rowan placed himself wherever the line bent.
+
+The Clangor struck again.
+
+A kobold blade slipped beneath Rowan's mail. Another hit the back of his knee. He went down beneath a rush of small bodies, shield trapped under him.
+
+“Rowan!” Alder cried.
+
+The Shroomling seized the Caustic Brew.
+
+There was no time to debate the label. He pulled the stopper with his teeth, reached through the melee, and poured the foul liquid into Rowan's mouth.
+
+Rowan convulsed. Strength returned in a burning wave, followed immediately by nausea so violent that the room tilted around him.
+
+“It works,” Alder said.
+
+Rowan dragged himself upright. “It poisons.”
+
+“It does two things.”
+
+The Clangor raised its instrument for another strike.
+
+Rubius reached it first.
+
+His axe descended with enough force to split the creature and silence the instrument in the same blow. The terrible rhythm stopped. Without it, the remaining defenders lost courage. Whisper cut off their escape, Alder's minion pulled one into the dark, and Rowan—green beneath his fur—stood between the last attackers and the others until the hall was theirs.
+
+Behind the magical field, the mule recognized them and began braying with the confidence of an animal that had never doubted rescue would come.
+
+The livestock had been found.
+
+The thing the kobolds called their big boss had not.
+
+## Chapter Three — Snaggletooth's Ascension
+
+The barrier around the animals would not yield to force, although Rubius tested that theory thoroughly.
+
+While he and Umbrail examined the old controls, Rowan, Whisper, and Alder searched the kobold quarters. They found two more bottles of Caustic Brew on the stronger defenders, additional pieces of the orichalcum crest, and rooms furnished with stolen blankets and farm tools.
+
+They also found a prisoner.
+
+The barred cell had been cut into an older storage room. An orc sat chained to the wall inside, his wrists rubbed raw but his back straight. He was lean, muscular, and very much awake.
+
+“If you're with them,” he said, “open the door and come closer.”
+
+Rowan looked at the dead kobold whose key he carried. “We're not with them.”
+
+The orc's gaze moved over the rabbit knight, the Shroomling, and the human lurking behind both. “That is a very strange rescue party.”
+
+“You should see the other two,” Whisper said.
+
+The key opened the bars and then the chains. The prisoner stood, rolled his shoulders, and accepted food and water without pretending he did not need either.
+
+His name was Lil Chang. He had been traveling to Clackston to answer Glenson's posse call when the kobolds ambushed him. There had been too many to fight alone. They kept him alive because their boss intended to test something on him.
+
+“What?” Alder asked.
+
+“They were not conversationalists.” Lil Chang picked up a fallen staff and tested its balance. “Where is the boss?”
+
+“Deeper,” Rowan said.
+
+“Good.”
+
+That was the extent of his recruitment.
+
+* * *
+
+The name appeared everywhere once they knew to look for it.
+
+SNAGGLETOOTH RULES.
+
+SNAGGLETOOTH WILL BURN CLACKSTON.
+
+SNAGGLETOOTH'S ASCENSION.
+
+The last phrase had been painted above a corridor leading deeper into the barracks. The letters were surrounded by crude rays of black paint that swallowed the older sun symbols beneath them.
+
+“Ascension,” Umbrail said when the searchers returned. “Not merely leadership.”
+
+Rubius glanced toward the corridor. “The prisoner said the boss wanted to test something.”
+
+Lil Chang struck the floor once with his staff. “Then we should interrupt.”
+
+The next chamber had a ceiling low enough to make Rubius stoop and unstable enough that everyone else watched him nervously. Disciplined kobold guards waited around a circular stone door. A warden held the center while a trapper worked from behind cover. These defenders did not rush. They moved in ranks, protected one another, and tried to drive the party beneath the weakest section of ceiling.
+
+Rowan saw the plan and refused to give ground. Alder's minions climbed the walls. Whisper used the confusion to reach the trapper. Lil Chang flowed through gaps no one else could have crossed, his staff cracking against knees and throats.
+
+When the warden fell, the last crest fragment clattered from its equipment.
+
+Umbrail assembled the pieces on the floor. The completed emblem was a many-rayed sun, warm to the touch despite the buried cold. It fitted the recess in the circular door exactly.
+
+For one moment, nothing happened.
+
+Then ancient mechanisms turned behind the walls. The door rotated and withdrew into the surrounding stone.
+
+Shadow breathed through the opening.
+
+* * *
+
+The chamber beyond had once been ceremonial—a barracks hall or command room built around a statue of an armored figure. The statue held a shield in one hand. Its other hand stood open and empty.
+
+Four kobold workers hacked at a side passage, widening a crack and damaging the columns around it. Chips of stone covered the floor. Dust drifted from the ceiling.
+
+At the center of the hall stood Snaggletooth.
+
+He was nearly as tall as Rubius.
+
+The proportions were wrong. He had the head, tail, and hunched frame of a kobold stretched to thirteen or fourteen feet, every limb swollen with borrowed power. Black radiance leaked between his scales. In his hands rested a shadowed battleaxe whose edge seemed to dim the air around it.
+
+Snaggletooth smiled.
+
+“You came to see,” he said. “My ascension.”
+
+Lil Chang stepped through the door. “I came to stop it.”
+
+The workers dropped their tools. Two fled into the unfinished passage. One flattened itself behind a column. The fourth threw up its hands.
+
+Snaggletooth did not look at them. He looked at Rubius and saw, perhaps for the first time, something in the room his own size.
+
+Then he attacked.
+
+The shadow axe struck the floor where Rowan had stood and split a paving stone. Rowan answered with his spear, not to wound but to keep Snaggletooth's attention away from Alder. The boss turned after every attack, impossibly quick for his size, forcing the party to move before each blow rather than after it.
+
+Rubius met him in the center. Their weapons collided. The shock ran through the damaged columns.
+
+Whisper circled for an opening. Umbrail sent magic past Rubius's shoulder. Alder filled the floor with grasping shadows. Lil Chang struck, moved, and struck again, never remaining where the axe expected him.
+
+Snaggletooth bled black.
+
+The first wound made him laugh. The next made him faster.
+
+As his strength fell, frenzy replaced control. He swept the axe in broad arcs that threatened everyone near him. Rowan interposed again and again, shield shuddering beneath impacts that would have broken smaller bodies. Rubius took blows that drove him to one knee and rose angrier.
+
+The battle found a new rhythm: spear, shadow, lightning, blade, staff, axe.
+
+At last Snaggletooth entered his final stand. The darkness around him deepened. The ancient sun emblems vanished from sight. He raised the axe with both hands.
+
+Alder closed his fist.
+
+The boss's shadow became a trap.
+
+Black strands wrapped Snaggletooth's legs and locked them to the floor. He roared and strained, but the instant of stillness was enough.
+
+Lil Chang crossed the chamber.
+
+He remembered the cell. He remembered days of waiting to become part of someone else's experiment. He remembered his mentor, Wing Ding Ho, and every lesson that began with balance before force.
+
+His staff struck Snaggletooth beneath the jaw.
 
 “This one's for Wing Ding.”
 
-Snaggletooth fell.
+The giant kobold fell.
 
-His body began to shrink before it struck the floor. The giant collapsed inward until only an ordinary kobold remained beside an extraordinary weapon.
+Darkness rushed out of him.
 
-The axe lay still.
+His body contracted as it hit the floor. Limbs shortened. Muscles collapsed. In heartbeats, the enormous tyrant became an ordinary kobold in oversized scraps of armor.
 
-Rubius and Umbrail arrived from the animal pens as the last shadows faded from its blade. The warning at the entrance returned to all of them.
+The battleaxe did not shrink.
 
-*Touch not the thing that drinks the light.*
+It lay beside the body, black and silent, drinking the light that touched its blade.
 
-They searched the chamber. Alder found a hidden drawer inside the statue and divided its hundred and twenty gold pieces among the six. They argued about the axe. Leave it. Bury it. Collapse the room. Set it in the statue's waiting hand and trust that the ancient builders had known what they were doing.
+No one moved to pick it up.
 
-For a moment, that was what they did.
+## Chapter Four — A Friend in the Dark
+
+The silence after Snaggletooth's death lasted longer than the fight.
+
+Rubius watched the dead kobold as if expecting him to grow again. Lil Chang leaned on his staff, breathing hard. Rowan kept his shield raised until Alder's shadows dissolved and the only movement in the room came from falling dust.
+
+“That,” Whisper said at last, “was not his natural size.”
+
+Umbrail approached the axe without touching it. Mage-light bent around the edge. “No.”
+
+The statue's empty hand seemed suddenly less decorative.
+
+They searched the chamber before making any decision about the weapon. Alder found a concealed drawer in the statue's base. Inside lay one hundred and twenty gold pieces, untouched by kobold excavation. They divided the coins evenly, twenty to each of the six companions, but even Whisper counted without his usual pleasure.
+
+The axe remained on the floor between them.
+
+“Put it back,” Rowan said, nodding toward the statue. “Then bring this chamber down.”
+
+“The whole ruin?” Rubius asked.
+
+“Enough that no one can repeat this.”
+
+Rubius looked at the damaged pillars. He had once collapsed another ruin—a place that might have held the answers he sought about giants. The memory lived in him as a weight: stone falling, knowledge vanishing, strength becoming destruction when he had wanted it to become discovery.
+
+“There is history here,” he said.
+
+“There is a soul-eating warning at the door,” Whisper replied.
+
+They wrapped the axe in heavy cloth. Even through layers, the fabric darkened around its shape. Rubius lifted it and placed it in the statue's open hand.
 
 Nothing happened.
 
-Then Rubius touched it.
+The statue did not wake. The sun crest did not blaze. The weapon remained inert.
 
-The [[World/Items/Artifacts/Axe of Snaggletooth|axe]] grew to fit his hand. Peace moved through him like warm water. Every fear about his size, his strength, and the destruction he could cause receded. The weapon did not feel evil. It felt safe.
+“Good,” Rowan said. “We leave it there.”
 
-A voice spoke within him.
+The others turned toward the door.
+
+Rubius stayed.
+
+The weapon had changed Snaggletooth, but Snaggletooth had been cruel before the axe. That distinction seemed important. Power did not decide what someone did with it. Rubius had spent his life trying to prove exactly that.
+
+He reached through the cloth and closed his hand around the haft.
+
+The axe grew.
+
+Wood and shadow lengthened until the weapon fit his Half-Giant grip. A sensation like warm water passed through him. The chamber's tension receded. The suspicion in his companions' faces seemed distant and unnecessary. He felt safe. Chosen. Understood.
+
+A voice spoke inside him with the intimacy of an old friend.
 
 *Welcome, friend. Let's drink the light together.*
 
-## Chapter Four — Roads into the Mountains
+Rubius smiled.
 
-Clackston welcomed the animals home.
+Rowan saw it and felt colder than he had at the entrance.
 
-The losses were painful but survivable. Winter would be hard, not fatal. Master Glenson paid every promised coin, and for a brief span the six adventurers enjoyed the rare pleasure of a problem finished cleanly.
+“Put it down,” he said.
 
-But the black-scaled kobolds had come from far beyond Clackston. Their march had been deliberate. Their leader possessed an artifact from a war older than the town, and surviving workers had escaped into the dark.
+“It's all right.” Rubius lifted the weapon. It balanced perfectly. “It likes me.”
 
-Umbrail's ancestors pointed toward the [[World/Locations/Balshar Mountains|Balshar Mountains]] when he asked where the nearest great danger lay.
+“That is not reassuring.”
 
-Alder asked a different power a different question. In a private communion with the abyssal patron that lent him shadow, he asked where his lost family heirloom had gone—the artifact that could hasten rot and turn decay into harvest.
+To Rubius, it was the most reassuring thing in the world.
 
-*The Undershadow,* the patron answered.
+* * *
 
-Then it offered him greater power in exchange for a simple service: remove Rubius, take the axe, and deliver it to the dark below. The weapon, it seemed, was competition.
+They freed the animals once Umbrail understood the barrier controls. The journey back to Clackston was slower than the journey out. Sheep did not respect marching order. Goats regarded every slope as a personal challenge. The mule insisted on walking near Rowan and occasionally looked back at Rubius's new axe with open dislike.
 
-Umbrail found a warning of his own in an old book. A cursed intelligent axe, the text said, could make itself beloved. It grew stronger as it was used and bent its bearer, little by little, toward allegiance to a dark god. Only the Shadow Well in the Undershadow could strip such a weapon of its power.
+Lil Chang traveled with them as though he had always belonged there. He had intended to answer the same call, after all. Captivity had merely delayed his arrival.
 
-It was only a resemblance. Only a rumor.
+Clackston saw the animals before it saw the rescuers.
 
-Rubius's axe had been nothing but helpful.
+Children ran from the first farm to spread the news. Gates opened. Owners pushed through the herd, calling individual names and finding animals they had already begun to mourn. Alder stood among his recovered livestock with both hands on his shovel and said very little.
 
-The party went north.
+Master Glenson waited in the road on his crutch.
 
-Several days into the Balshar passes, a fur-clad orc stepped into the road and ordered them to stop. Rowan heard the snuffling behind the boulders before the trap closed. Orcs and war boars rushed the narrow trail.
+He counted the returned animals, inspected the party's wounds, and looked up at Rubius's axe without asking where it came from.
 
-The party fought as a company now. Umbrail froze javelins out of the air. Alder's shadows died in place of living companions and returned when called. Whisper moved through the battle's seams. Lil Chang turned distance into irrelevance. Rowan made openings and shielded friends. Rubius swung the axe, and each blow made its friendship feel more reasonable.
+“You finished inside the week,” he said.
 
-Among the dead they found the broken-fang tribal tokens of the Black Fang and a Flamecaller's Talisman that could set enemies smoldering.
+He paid thirty gold to each of them: the promised twenty-five and the five-gold bonus. With the statue's cache, they had earned fifty apiece since leaving the Warren.
 
-The mountains opened before them: weeks of stone, snow, hidden valleys, and paths too narrow for certainty.
+More important, Clackston would survive winter.
+
+That night the six companions ate in warmth. Rowan's poison finally left him. Armor was repaired. Healing supplies were purchased. Umbrail acquired a wand suited to True Strike. The temporary posse discovered, without ever voting on it, that none of them intended to disband.
+
+The black-scaled kobolds did not belong near Clackston. They had come from somewhere. The shadow axe had come from somewhere older still.
+
+Umbrail knew where mountain kobolds lived.
+
+The [[World/Locations/Balshar Mountains|Balshar Mountains]] rose beyond the northern roads, home to orc tribes, old ruins, and the dwindling Birdfolk people he had left behind.
+
+“I can guide you,” he said.
+
+He did not say that he wanted to go home.
+
+* * *
+
+Several days into the mountain route, an orc stepped into the pass ahead of them.
+
+He wore heavy furs and broken teeth braided into his beard. One hand rested on his weapon.
+
+“Stop,” he ordered.
+
+Rowan heard the snuffling behind the boulders.
+
+“Boars,” he said quietly.
+
+The orc's expression changed.
+
+War pigs burst from cover. Raiders rose with them, and a broad orc carrying two battleaxes came down from the rocks.
+
+The pass became too narrow for retreat.
+
+Rowan called openings rather than attacks, drawing eyes and turning shields. Umbrail's True Strike found the companions best placed to use it. Alder's shadows multiplied between the stones. Whisper moved behind the first raider before the orc understood that the line had been breached. Lil Chang ran along the sloping wall, planted one foot on a boulder, and came down with his staff.
+
+Rubius met the dual-axe leader.
+
+The shadow weapon in his hands felt eager, but not dangerous. Every impact sent a pleasant certainty through him. This was what it had been made for. This was what *he* had been made for.
+
+The last boar fell. The pass quieted.
+
+On every orc body they found a broken fang taken from some beast. A tribal token, though none of them yet knew the tribe's name.
+
+The leader also carried a talisman warm with banked fire. Umbrail identified it as a Flamecaller's Talisman, capable of making enemies Smolder so that fire magic could bite deeper. Each use risked reducing the charm to ash.
+
+One local crisis had led to another road, another enemy, another artifact.
+
+Behind them, Clackston was safe.
+
+Ahead, the mountains were beginning to explain why it had ever been threatened.
 
 ## Chapter Five — The Dead of Erie
 
-The storm came hard enough to erase the road.
+The mountains did not permit straight roads.
 
-Rain became snow. Snow became ice. The party sheltered beneath a rocky overhang and built a fire small enough to survive the wind. Beyond its light, eyes shone.
+A day's progress on the map became three days of switchbacks, scree, and narrow ledges. Weather gathered without warning. Valleys that appeared adjacent were divided by ravines deep enough to swallow the sound of falling stone.
 
-The wargs—or whatever giant wolf-blooded things hunted those slopes—came with jaws large enough to close around a warrior's body. Rowan and Lil Chang were dragged down. Rubius fell beneath tooth and weight and rose wounded. Lil Chang broke one predator against the cliff and crushed the throat of another. By morning, the storm had passed and the snow around the camp was black with blood.
+The party followed the raiders' trail at first. The broken-fang tokens suggested a tribe, camp, and explanation. Rubius wanted to know whether the ambush had been opportunistic or whether the orcs watched the route to Clackston.
 
-They lost the orcs' trail after that. What they found instead was an old Erie shrine.
+Umbrail guided them while quietly avoiding every path that led toward his own people.
 
-The image of a Birdfolk wind deity had been hacked into a scaled mockery. Someone had given it a snout where its beak should be. The others gathered broken pieces and tried to restore what they could.
+The weather made the decision for him.
 
-Umbrail watched without prayer.
+Rain froze against the stone. Snow followed. Wind erased tracks faster than Rowan could read them. By nightfall the group found shelter beneath a rocky overhang beside a dark cave mouth.
 
-He had spent too many years wondering what gods were worth when a people could dwindle beneath their gaze.
+They built a small fire and heard wolves beyond it.
 
-Farther east, they found kobold quarries, black scales, and the marks of sustained excavation. A vast shadow crossed the ground. When Umbrail searched from the air, he found claw marks on a ledge large enough to silence any thought of pursuit.
+The answering howls came from both sides.
 
-Then they found two trails moving together.
+The creatures that entered the firelight were too large to be ordinary wolves. Their shoulders stood above Rowan's head. Ice clung to their fur, and their jaws were wide enough to close around a person.
 
-Kobold claws. Orc boots.
+One seized Lil Chang and shook him. Another caught Rowan and dragged him away from the fire. The battle became a struggle of rescue rather than formation. Rubius forced jaws apart. Alder's shadows filled the cramped shelter. Whisper attacked eyes and tendons whenever a beast committed to a grapple.
 
-No battle between them. No signs of chase. They were traveling toward the same destination.
+Lil Chang escaped, sprang to a higher ledge, and drove both feet into the wolf that had taken him. The animal stumbled backward. A second strike sent it over the cliff. Its howl diminished into the storm.
 
-Umbrail knew the path.
+He killed another at close range, staff pinning its neck while his hands crushed its throat.
 
-An [[World/Factions/Erie|Erie]] outpost stood half a day ahead.
+When the last predator fell, the party remained under the overhang because there was nowhere safer to go. The rest was shallow and cold. They spent what healing they could, but no one woke restored.
 
-Or had stood.
+By morning, the raiders' trail was gone.
 
-The fortress had been built atop a pillar of rock, protected by height and the wings of its defenders. Now its wooden halls smoldered. Stone structures lay broken as if a hurricane had struck them. Bodies covered the crest and the ground below: Birdfolk, kobolds, orcs.
+“Perhaps,” Umbrail said, “the mountain is expressing an opinion.”
 
-The Erie had known something was coming. A normal outpost held ten. Twice that number had died there.
+“Does it have one about kobolds?” Rubius asked.
 
-Rowan read the battlefield. The defenders had been better warriors. The attackers had possessed numbers, fire, explosives, and strange devices that used compressed air and magic to throw bodies into the sky. The orcs had used them with brutal success. The kobolds had clung to them in swarms and fallen short, dying in piles when the machines failed beneath their weight.
+It did.
 
-Umbrail searched the dead.
+* * *
 
-He found his master.
+The shrine stood in a fold of stone protected from the worst wind. It had once depicted a Birdfolk figure with wings raised around a symbol of air. Kobolds had hacked away the beak, added a blunt snout, and carved scales over the feathers.
 
-The old mage lay among enemies, surrounded by the evidence of a final stand. Umbrail stopped. For a long time he neither spoke nor moved. Rowan came to stand beside him and, understanding that protection sometimes meant silence, asked nothing.
+Umbrail stopped at the edge of the clearing.
 
-They burned the Erie with honor. They burned the attackers separately.
+Rowan waited for him to approach. When he did not, the Oathsworn began gathering broken pieces.
 
-By dusk, the party had climbed to the broken crest and made camp among the ruins. Umbrail answered questions with single words. Somewhere beneath his grief lived an older obligation: the Erie guarded something ancient in these mountains, and every one of his people had sworn to keep it secret.
+“You don't have to,” Umbrail said.
 
-Then the griffin came.
+“Someone should.”
 
-## Chapter Six — A Wyrm in the Mountains
+“The god represented here did not stop this.”
 
-The griffin fell from the dark like judgment.
+“No.” Rowan fitted a fragment of wing back against the pedestal. “But the people who built it mattered.”
 
-The party scattered across the narrow crest. Rowan drew its attention. Umbrail used the Flamecaller's Talisman, setting the creature smoldering before the charm crumbled into ash. Fire caught along its feathers. Rubius hurled the shadow axe at its wounded wing and watched the weapon tumble beyond the cliff.
+They could not restore what they had never seen. Alder cleared debris. Rubius lifted the larger fragments. Whisper found the original beak beneath a pile of chiseled stone. Their reconstruction was rough and visibly incomplete.
 
-The griffin seized Rowan in its claws.
+Umbrail watched them work. He did not pray when they finished, but he bowed his head once.
 
-Alder's shadows struck. Lil Chang closed. Umbrail's spells burned. The creature released Rowan and staggered away through the air, wounded enough to understand that hunger had become a poor bargain.
+Beyond the shrine, evidence of kobolds multiplied. The party found small quarries cut into the slopes, narrow excavations, and molted black scales caught between rocks. Some sites were old. Others had been worked recently.
 
-Only then did the party see the other shapes approaching.
+Then a shadow crossed the mountain.
 
-Six griffins crossed the mountain sky. Each carried an orc rider dressed not in hides but woven blues, pale and deep, with storm patterns painted across their faces.
+It passed over them too quickly to identify, vast enough to darken the entire ledge. Umbrail took to the air but found only distance and cloud. On a higher shelf, he discovered claw marks sunk deep into stone.
 
-The wounded griffin warned Lil Chang away, accepted Umbrail's approach, and called the newcomers friends.
+Each mark was larger than Snaggletooth's body after death.
 
-Their leader dismounted with one hand near his axe. He studied the dead, the ruined outpost, the strange collection of travelers—and then he saw Lil Chang.
+He returned without pursuing the creature.
 
-Recognition changed his face.
+“Something flies here,” he said.
 
-His name was [[World/Characters/Zing Zow|Zing Zow]] of the [[World/Factions/Cloud Seers|Cloud Seers]]. Once, long ago, he and Lil Chang had known the same mountains as children.
+“You fly here,” Alder replied.
 
-“What brings you back,” Zing Zow asked, “after all these years?”
+“Something else.”
 
-Lil Chang told him about the kobolds, the trail, and the dead Erie.
+No one suggested hunting it.
 
-Zing Zow told them about the war.
+* * *
 
-A dragon had come out of the hill country to the southwest. Its name was [[World/Characters/Razor|Razor]]. It had made a roost in Balshar and gathered an army. Nearly every kobold in the range had gone to it, worshiping it as if they had spent generations waiting for a god with wings. The [[World/Factions/Black Fang Orcs|Black Fang orcs]] had joined by bargain rather than devotion. Other tribes watched from their valleys and caves, waiting to pledge themselves to whoever seemed most likely to win.
+The tracks converged two days later.
 
-The Cloud Seers had chosen the Erie.
+Black kobold prints crossed a shelf beside iron-shod orc boots. They traveled in the same direction. There were no bodies, blood, or signs of pursuit.
 
-The alliance was born of necessity. The Erie guarded ancient weapons from the old dragon war. A nearby mine held ore that could strengthen a dragon's breath. If Razor claimed both, the mountains would fall before resistance could become an army.
+“They do not work together,” Umbrail said.
 
-The party spoke of fighting the dragon.
+“These do,” Rowan answered.
 
-Zing Zow looked at them with the patience one gave children discussing an assault on winter. Companies of warriors had gone toward Razor's roost. None had returned. This was not an enemy six new heroes could defeat by becoming slightly stronger.
+Umbrail knew where the path led. An Erie outpost stood half a day away, raised on a rock pillar and built for defenders with wings. He became quiet as they approached.
 
-The mine was close. Zing Zow and his riders would secure it if they could and send for reinforcements.
+At last he flew ahead.
 
-That left the neutral tribes.
+The outpost was still smoking.
 
-The Cloud Seers had old enemies among them. The Erie had older ones. Every appeal became tangled in blood debts before it reached a chief's ears. But the six travelers belonged to none of those feuds. Lil Chang knew the mountains. Umbrail was Erie whether he wished to be or not. The others were outsiders whose names carried no ancestral insult.
+Buildings of wood had burned to frames. Stonework had been toppled as though struck by hurricane wind. Bodies lay around the crest and at the pillar's base: Birdfolk above, kobolds in broken heaps below, orcs scattered through both.
 
-Then Umbrail understood one more thing.
+Umbrail circled once before landing.
 
-His master had been trusted with a lesser Erie artifact. When Umbrail fled home, he had taken possessions in haste. Somewhere among his belongings might be an object of power he had carried unknowingly for years.
+There should have been ten Erie at the outpost. They found more than twenty. Reinforcements had arrived before the attack, or the defenders had been warned. It had not been enough.
 
-Something Razor wanted.
+Rowan walked the battlefield from east to west. He found the first point of contact, the places where the defenders yielded ground, and the final positions around the central structures.
 
-The Erie capital waited somewhere beyond the peaks. [[World/Characters/General Brand|General Brand]] directed the war from there and traveled a mysterious circuit through the eastern mountains. The mine waited below. Neutral tribes waited behind old grudges. Razor waited in the south with kobolds at his feet and Black Fang spears around his hoard.
+“The orcs reached the top,” he said. “The kobolds tried. Many fell.”
 
-The party chose the only battle they could yet hope to win.
+At the pillar's base, kobold bodies surrounded unfamiliar mechanisms. Each device resembled a pulley without rope. When Rubius prodded one, it whirred and expelled a violent burst of air.
 
-They would gather allies.
+The answer became clear. The attackers had launched themselves at the outpost. Kobolds had overloaded the machines and fallen short. Orcs had used them properly.
 
-Zing Zow mounted his griffin and turned toward the mine. The shadow axe was once again in Rubius's hand, though no one could say how it had returned from the cliff. Umbrail stood among the ashes of his people with a secret in his pack. Lil Chang watched an old friend vanish into the mountain air.
+Umbrail did not help with the devices.
 
-Below them, ancient things waited in stone.
+He searched the dead.
 
-Above them, a dragon gathered the sky.
+His mentor lay near the remains of a stone wall, surrounded by enemies. The old mage who had taught Umbrail how to hold power without letting it burn him had died doing exactly that.
 
-And between the two stood six companions who had once been hired to find a missing sheep.
+Umbrail knelt.
+
+Rowan found him there. For a long time, the rabbit knight said nothing. He simply stood beside the old Birdfolk while the others searched at a distance.
+
+“I left,” Umbrail said at last.
+
+Rowan looked across the ruin. “You came back.”
+
+“Late.”
+
+There was no answer that did not insult the dead, so Rowan gave none.
+
+They built funeral pyres before sunset. The Erie were laid together with their weapons and tokens. The attackers were burned separately. Umbrail spoke no public rite, but he remained beside his mentor until the flames made recognition impossible.
+
+When the others asked what the outpost guarded, he told them only that the Erie protected something ancient in the mountains. Every one of his people had sworn to keep it secret.
+
+Grief made the refusal sound less like distrust than exhaustion.
+
+They climbed to the crest and camped among the ruins.
+
+At dusk, wings beat against the dark.
+
+A griffin came toward them with talons lowered.
+
+## Chapter Six — Riders in the Sky
+
+The griffin stayed beyond the reach of spears.
+
+It wheeled above the ruined outpost, lion's body twisting beneath an eagle's wings. Hunger had brought it close; caution kept it aloft.
+
+Rowan stepped into the open and raised his shield.
+
+“It wants a target,” Umbrail said.
+
+“Then it can have one.”
+
+Rowan struck his spear against the shield and shouted until the griffin's eyes fixed on him. Umbrail studied the creature's flight and pointed to the vulnerable joint where wing met shoulder. A strike there might force it to land.
+
+The Flamecaller's Talisman warmed in Umbrail's claw. He invoked it.
+
+Fire ran across the griffin's feathers.
+
+The talisman crumbled to ash.
+
+Umbrail used the instant anyway. He spoke Ignite, and the brief Smoldering became a sheet of flame around the creature in midair.
+
+The griffin screamed.
+
+Rubius ran to the edge and threw the Axe of Snaggletooth. The black blade turned end over end, grazed the wounded wing, and vanished into the gorge.
+
+For the first time since the Warren, the weapon was gone.
+
+The griffin folded its wings and dove at Lil Chang.
+
+Rowan moved first. He crossed the space, shoved Lil Chang clear, and took the talons across his shield. The impact lifted him from the ground. The griffin's forelimbs closed around him and began to climb.
+
+Alder's shadows struck its belly. His Shadow Blast followed, black force tearing across singed feathers. The griffin released Rowan and beat backward, badly wounded.
+
+The party could have continued.
+
+Then six more griffins appeared on the horizon.
+
+Each carried an orc rider.
+
+Weapons came up across the ruined outpost. Rowan searched the riders for broken-fang tokens and found none. Their clothing was woven in pale and royal blue, their faces painted with curling marks the color of stormclouds.
+
+The wounded griffin landed near Umbrail. It would not let Lil Chang or Rubius approach, but it allowed the Birdfolk close enough to hear the rough language of its kind.
+
+*Friends,* it conveyed. *They explain.*
+
+The riders landed in a wide circle.
+
+Their leader dismounted with one hand near his battleaxe. He surveyed the pyres, the bodies, the strange collection of travelers—and then saw Lil Chang.
+
+His suspicion broke into recognition.
+
+“Lil Chang?”
+
+Lil Chang stared. “Zing Zow.”
+
+Years disappeared from the orc rider's face. He laughed once, crossed the distance, and gripped Lil Chang's forearm.
+
+The wounded griffin watched this reunion with visible disapproval.
+
+* * *
+
+[[World/Characters/Zing Zow|Zing Zow]] and the [[World/Factions/Cloud Seers|Cloud Seers]] had answered the Erie's call for aid. They had flown hard and arrived too late.
+
+Around the embers of the outpost, he told the party why.
+
+A dragon called [[World/Characters/Razor|Razor]] had come from the southwestern hills and established a roost in the southern Balshar Mountains. Nearly every mountain kobold had gone to him. They worshiped him as something more than a king. The broken-fang orcs—the [[World/Factions/Black Fang Orcs|Black Fang]]—served him by alliance rather than faith.
+
+The Erie and Cloud Seers resisted. Other orc tribes waited.
+
+“They want to know who will win,” Zing Zow said. “No one wants to choose the losing side.”
+
+“Can Razor be killed?” Rubius asked.
+
+Zing Zow looked up at him. “Yes.”
+
+Hope lasted one breath.
+
+“Not by you. Not by us here. Companies have gone to his roost. They do not return.”
+
+The dragon sought more than territory. A mine near the outpost held ore that could strengthen draconic breath. The Erie also guarded artifacts left from an older war against dragons: one in their capital, one beneath the ancient battlefield, another near the resting place of the general who had defeated the old flights. Lesser relics had been entrusted to important Erie.
+
+Umbrail looked toward his mentor's ashes.
+
+Memory arranged itself cruelly. When he had left home, he had taken several of his teacher's possessions without understanding all of them. One object had always resisted ordinary explanation.
+
+His mentor had carried a lesser artifact.
+
+Umbrail carried it now.
+
+The revelation made him feel as if Razor had turned his head across the entire mountain range and looked directly at the outpost.
+
+“The mine first,” Umbrail said. “If the dragon takes the ore, everything else becomes worse.”
+
+Zing Zow agreed. His riders would secure it and call for reinforcements.
+
+That left the party with choices no one in Clackston had paid them to make. They could seek General Brand in the Erie city. They could try to return Umbrail's artifact. They could investigate the ancient sites. They could approach the neutral tribes.
+
+They could also leave.
+
+Alder said it aloud. “We could go underground.”
+
+No one laughed. Razor was beyond them. Courage did not make a suicidal fight useful.
+
+Rowan looked at the separate pyres. “If the tribes are waiting to see who wins, then someone has to give them a reason not to wait.”
+
+The Cloud Seers could not do it. Old feuds burdened every offer they made. The Erie were mistrusted in the eastern mountains. Outsiders might be heard precisely because they did not inherit those grievances.
+
+The party chose the neutral tribes.
+
+They slept beneath Cloud Seer guard. When Rubius woke, the Axe of Snaggletooth rested across his back.
+
+He did not know when it had returned from the gorge.
 
 ## Chapter Seven — The Race to Frostvein
 
-The Cloud Seers remained through the night.
+The ruined outpost was safer beneath six griffin riders than it had been beneath walls.
 
-For the first time since entering the high mountains, the companions rested beneath watchful wings. Rubius's wound closed. His buried wand drank whatever old violence lingered in the battlefield and woke ready for use again.
+For the first time since entering the mountains, the party rested fully. Rubius's wound closed. He buried his True Strike Wand in the battlefield soil overnight, satisfying the strange condition that restored its magic.
 
-Alder reached into the dark and found [[World/Religion/Deities/Erabose|Erabose]] waiting. The fallen god had not forgotten the task Alder delayed. He was displeased, but patience and usefulness were not yet exhausted.
+Alder slept less peacefully.
 
-Umbrail searched what remained of the outpost's books. Among them he found the truth he had feared: when he fled home, he had taken one of his mentor's artifacts without knowing it. It was not one of the great relics hidden throughout the mountains, but it had been entrusted to the Erie for a reason.
+He sat apart and opened himself to the presence that had taught him shadow. [[World/Religion/Deities/Erabose|Erabose]] answered as a darkness crowded with fanged crows, their wings passing before an unseen sun.
 
-The old words cleaned it. The [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]] woke in his hands, ready to peel armor from creatures of flesh, steel, or scale.
+The patron had given Alder a command. Alder had not completed it. The displeasure in the communion required no words.
 
-At dawn, Zing Zow unfolded the map and gave them three names.
+*Soon,* the shadows seemed to say.
 
-The [[World/Factions/Frostvein Orcs|Frostvein]] lived among the cold peaks under [[World/Characters/An Yue|An Yue]], a chieftess known for a cool head. The [[World/Factions/Graven Hand Orcs|Graven Hand]] kept the burial grounds under the strange and solemn [[World/Characters/Bao Jun|Bao Jun]]. The [[World/Factions/Hollow Drum Orcs|Hollow Drum]] lived below the mountains, sending messages through stone under [[World/Characters/Chen Wei|Chen Wei]].
+“No,” Alder whispered, though whether he meant refusal or delay, even he did not know.
 
-They were not enemies of one another. The grievance they shared was older and wore feathers.
+Elsewhere in the ruin, Umbrail searched his mentor's books and possessions. He found references to cleansing rites for lesser Erie relics. The unidentified object he had carried for years responded when he spoke the old words.
 
-The Erie had no welcome in the eastern mountains.
+Metal unfolded from what had seemed an ordinary talisman. Fine lines formed the shape of a claw.
 
-Zing Zow promised to signal once the mine was secure. His riders rose into the morning while the companions descended toward the northern ford and the nearest neutral village.
+The [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]] woke.
 
-Several days later, they found warg tracks on a narrow game trail. Umbrail saw the pack from above: wild animals, not mounts, moving slowly because injured pups struggled among them.
+It could peel protection from armored creatures. Against a dragon, the weakness would last longer.
 
-The party tried to go around.
+Umbrail closed his claw around it. His inheritance had become a weapon suited exactly to the war that killed its former bearer.
 
-The forest returned them directly to the wolves.
+* * *
 
-The adults closed around their young. Umbrail's voice became thunder. Rubius raised a boulder above his head. Whisper watched the wargs rather than the teeth and understood the choice being offered.
+At dawn, Zing Zow spread a map over broken stone.
 
-Leave, and live.
+Three tribes remained neutral.
 
-The companions backed away. The wargs did the same. For the rest of the day, both packs traveled toward the river without testing the agreement.
+The [[World/Factions/Frostvein Orcs|Frostvein]] lived among the coldest peaks beneath the level-headed chieftess [[World/Characters/An Yue|An Yue]]. The [[World/Factions/Graven Hand Orcs|Graven Hand]] kept the orc burial grounds under [[World/Characters/Bao Jun|Bao Jun]], whom Zing Zow described as devout and strange. The [[World/Factions/Hollow Drum Orcs|Hollow Drum]] occupied caverns beneath the range and sent messages through stone under the action-minded [[World/Characters/Chen Wei|Chen Wei]].
 
-Near the gorge, a riderless griffin descended from the sky. Cloud Seer tack hung from its body, but no orc sat in the saddle. It seized Lil Chang's clothes and pulled until the message became clear.
+They did not war with one another. They shared one grievance: generations earlier, they had driven the Erie from the eastern mountains and had no desire to invite them back.
 
-Its friend was dying.
+The Frostvein settlement lay closest to the northern ford.
 
-The griffin carried Lil Chang across the gorge to a broken shelf of stone. A Cloud Seer scout lay there, blue in the face and pierced by black-tipped arrows. Lil Chang poured a foul healing draft into his mouth and pressed life back into his chest.
+Zing Zow and the Cloud Seers departed for the mine. The party turned north.
 
-The scout, [[World/Characters/Da Long|Da Long]], woke coughing.
+Days later, warg tracks crossed their trail.
 
-His griffon was [[World/Characters/Quickfeather|Quickfeather]]. His warning was worse than his wounds.
+Umbrail scouted above the trees and found a family rather than a war pack. Adults guarded injured pups. The party tried to detour and emerged, by bad luck or bad navigation, directly inside the animals' defensive circle.
 
-The Black Fang had already crossed into the east. Fifteen or twenty warriors guarded an entourage of diplomats bound for Frostvein. Razor was not waiting to conquer the neutral tribes after the war. He was asking them to choose him now.
+The wargs spread around them.
 
-The Black Fang had the road. Quickfeather had the sky.
+Rubius lifted a boulder over his head.
 
-Lil Chang climbed into the saddle behind the scout. Together they would reach An Yue first and tell her what the Black Fang had done to a witness in the open air. The others received directions to hidden paths and began planning how to delay a diplomatic escort without turning themselves into the aggressors.
+Umbrail's voice became thunder.
 
-Quickfeather leapt from the rock.
+Whisper watched the animals rather than their teeth. The adults were not advancing. They were offering a boundary.
 
-Below, the party entered the secret trails.
+“Back away,” he said. “Slowly.”
 
-Ahead, two offers raced toward the same chieftess—and the future of Balshar waited to hear which one arrived first.
+The party did. The wargs let them go.
+
+For the rest of the day, both packs traveled toward the river without testing the agreement.
+
+* * *
+
+Near the gorge, a riderless griffin descended upon them.
+
+Cloud Seer tack hung from its body. It ignored drawn weapons, seized Lil Chang's clothing, and pulled toward the cliff.
+
+“It wants me to follow,” Lil Chang said.
+
+“Or it wants to eat you somewhere private,” Whisper replied.
+
+The griffin lowered itself.
+
+Lil Chang climbed on.
+
+It carried him across the gorge to a shelf of broken stone. An orc lay there beneath black-fletched arrows, blue skin around his lips, no breath moving his chest.
+
+Lil Chang recognized a Cloud Seer scout. He poured a healing potion into the orc's mouth and pressed both hands against his chest.
+
+Once. Twice. Again.
+
+The scout convulsed and coughed air back into his lungs.
+
+His name was [[World/Characters/Da Long|Da Long]]. The griffin was [[World/Characters/Quickfeather|Quickfeather]].
+
+His warning was worse than his wounds.
+
+The Black Fang had sent diplomats east under guard. Fifteen or twenty orcs were already moving toward Frostvein to recruit the neutral tribes for Razor. Da Long had flown too close while scouting them. They had shot him from the sky.
+
+Quickfeather could outrun the column. The party on foot could not.
+
+Lil Chang was the obvious choice to go ahead. He was an orc, known to the Cloud Seers, and capable of speaking to An Yue without appearing to be an Erie agent.
+
+Da Long gave the others directions to a hidden game trail. It would let them reach the Black Fang column and perhaps delay it.
+
+“They are diplomats,” Rowan warned. “Not an attacking army.”
+
+“They shot him down,” Lil Chang said.
+
+“That is true. Say what is true.”
+
+Lil Chang mounted behind Da Long. Quickfeather leapt into the gorge and rose on the far wind.
+
+Below, the remaining party entered the secret trail.
+
+Ahead, two offers raced toward the same chieftess.
+
+## Chapter Eight — The Axe Opens Its Mouth
+
+The hidden trail disappeared almost as soon as they entered the pines.
+
+Da Long's directions were the only reason they could follow it. Needles buried the path. Roots erased its edges. The canopy turned afternoon into twilight.
+
+Near a clearing, black cloth clung to a bramble.
+
+They expected an outrider. They prepared distractions instead of a direct attack. Rubius searched for wildlife and found a beehive near a narrow stream. Umbrail took a position in a tree. The others watched the clearing.
+
+There were no orcs inside it.
+
+A lone kobold shivered beneath a Black Fang blanket.
+
+Rowan recognized the thief from Clackston. The kobold recognized Rubius and looked as though the winter had suddenly become preferable.
+
+“The mule,” Rowan said.
+
+“I am still feeling that meeting,” the kobold replied.
+
+His name was [[World/Characters/Scritch|Scritch]]. After Rowan released him, he had returned to the mountains because he had nowhere else to go. He joined Razor's kobolds despite misgivings, then traveled with the Black Fang column until an injured leg slowed him. The orcs mistreated him as dead weight. He escaped during a rest, became lost, and waited beneath their discarded blanket.
+
+Rowan gave him a healing draught.
+
+Scritch gave them numbers.
+
+Twenty orcs traveled toward Frostvein: five diplomats under [[World/Characters/Gorak Broken-Tusk|Gorak]], fifteen warriors aligned with Quartermaster [[World/Characters/Vekka Ash-Eye|Vekka]]. They carried a peace banner. Their public mission was negotiation. Scritch had sensed another purpose but did not know it.
+
+“Come with us,” Rowan said.
+
+Scritch looked at the giant who had tackled him, the mage in the tree, and Alder's restless shadow.
+
+“You are strange people.”
+
+“Yes,” Whisper would have said, had he been there.
+
+Scritch came anyway.
+
+* * *
+
+Before leaving, Rubius tried to persuade the bees to help.
+
+His affinity with wild creatures let him feel their answer. Winter was coming. The hive was their food, their shelter, and the future of the colony. They did not want their home carried into a conflict they did not understand.
+
+Rubius listened.
+
+“All right,” he said. “We leave them.”
+
+The axe pressed against his back.
+
+The decision changed.
+
+Black passed over his green eyes. He reached up, broke the branch free, and carried the hive away while the angry colony followed.
+
+Somewhere inside the certainty the axe gave him, a quieter part of Rubius knew that he had already decided otherwise.
+
+No one had time to confront him.
+
+Seven kobolds came out of the trees.
+
+The first stone Scritch loosed passed through an attacker's skull. Alder's shadows rose beside him. Rowan lowered his spear. Umbrail threw Heart's Fire into Rubius's muscles, and the Half-Giant used the sudden speed to return the hive to a tree before entering the fight.
+
+A kobold alchemist smashed a vessel at Rowan's feet.
+
+The air became bees and pain.
+
+Another attacker, heavy in iron, hammered two cleavers together. The Clanger's rhythm caught inside Rubius's bones.
+
+He raged.
+
+The axe opened its mouth.
+
+Rubius struck a kobold flat. Its body became black slurry and vanished into the blade. He cut another in half, and neither half reached the ground.
+
+Alder's minions rotted the attackers from within. Scritch slipped between distractions, replacing chance with certainty and burying his rapier where armor opened. Rowan drove radiant force through the Clanger's protection and moved wherever someone weaker needed a shield.
+
+Umbrail descended into the melee. He conjured a vicious knot of snow, ice, and wind that blinded two attackers, then vanished through a spark and reappeared beside a metal weapon farther away.
+
+Rubius charged the Clanger.
+
+The axe killed it.
+
+Its armor fell empty.
+
+There was no enemy close enough to strike next.
+
+So Rubius struck Alder.
+
+The axe slammed into the Shroomling for a blow that would have killed someone less protected by shadow. Rubius's eyes were black from edge to edge. There was no hatred in them. That was worse. Only certainty remained—the conviction that attacking his companion was as reasonable as attacking anything else.
+
+Alder staggered but did not fall.
+
+His minions and Scritch killed the last kobolds. The Clanger's rhythm stopped.
+
+Rubius turned, looking for another target.
+
+Umbrail's voice cracked like thunder.
+
+“Enough.”
+
+Tempest Command struck the magic inside the rage. Rubius shuddered. Black receded from his eyes.
+
+He saw Alder. He saw the empty armor. He saw the places where three bodies should have remained.
+
+Memory returned without innocence.
+
+* * *
+
+Rubius healed Alder first and himself second.
+
+“I am sorry,” he said. “Everything made sense.”
+
+“That is not better,” Rowan replied.
+
+Umbrail examined the axe from a careful distance. Earlier research returned to him: an intelligent shadow weapon that corrupted even honorable bearers, consumed souls, and eventually made allies into enemies.
+
+“It is beginning to exert influence over you,” he told Rubius. “Not someday. Now.”
+
+Rubius had thrown it into a gorge. It returned within half an hour.
+
+There was one known answer. A historical account claimed that a cursed shadow axe could be stripped of power at the [[World/Locations/Shadow Well|Shadow Well]] in the [[World/Locations/Undershadow|Undershadow]]. The route, ritual, and price remained unknown.
+
+Alder shifted beside his summoned darkness.
+
+“My patron wants the axe,” he said.
+
+Every face turned toward him.
+
+“How?” Rowan asked.
+
+“He wants me to kill Rubius.”
+
+Rubius blinked.
+
+“You said you were joking,” Rowan said.
+
+“I wasn't going to do it.”
+
+Alder also admitted that his lost family heirloom lay in the Undershadow. He could feel a distant direction toward it.
+
+“Who is your patron?” Rowan asked.
+
+Alder hesitated. “A bird guy.”
+
+Umbrail stared at him. “You accepted power from an unnamed bird-shaped stranger?”
+
+“You already have magic. It is easy for you to be selective.”
+
+The argument should have ended there.
+
+Instead, Alder tried an experiment.
+
+He ordered one of his shadow minions to consume the axe as an offering to his patron.
+
+The axe consumed the minion.
+
+Power rushed into it. Rubius felt rage rise again, hot and immediate. Umbrail cast Dispel Magic. The surge weakened, returned, and weakened again as the mage repeated the cantrip until Rubius could breathe without choosing a victim.
+
+They agreed never to feed the axe another shadow.
+
+Rubius wrapped it in an animal hide. Cloth could not bind the artifact. The gesture was for his companions and perhaps for himself.
+
+They continued toward Frostvein.
+
+* * *
+
+The pines ended at the [[World/Locations/Stone Stairs|Stone Stairs]], long road-like switchbacks climbing the mountain.
+
+Smoke rose from a Black Fang camp partway up. The delegation had stopped for the night while several hours of daylight remained.
+
+The party considered a rockslide. The slope offered little loose debris, and attacking a sleeping diplomatic column beneath a peace banner would create the very story the Black Fang needed.
+
+Instead, they left the road.
+
+Umbrail flew Rubius's heavy rope from ledge to ledge, securing it around stone. Rubius climbed after him and hauled the smaller travelers upward. Scritch found the angles from which sentries would be least likely to look.
+
+They passed the Black Fang unseen.
+
+At the top of the pass, the world changed.
+
+Wind drove snow across a white plateau. Visibility collapsed. Shapes moved in the storm—arctic animals appearing where the forest below said they should not exist. The trail vanished behind ice as completely as it had vanished beneath pine needles.
+
+Lil Chang and Da Long were somewhere ahead.
+
+The Black Fang were somewhere below.
+
+And Rubius carried a third traveler whose hunger had finally learned to speak with his hands.
