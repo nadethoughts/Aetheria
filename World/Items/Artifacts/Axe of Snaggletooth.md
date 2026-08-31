@@ -1,9 +1,13 @@
 ---
 tags: [type/item, type/artifact, shadow, campaign/nimble]
 reveal_status: campaign-revealed
+aliases: [Shadow Axe]
 ---
 
 # Axe of Snaggletooth
+
+> [!info] Related GM entry
+> The complete lore, corruption track, giant connection, and cleansing outcomes are maintained in [[Campaigns/Nimble/Items/Shadow Axe|Shadow Axe]]. This page records only campaign-revealed information.
 
 The Axe of Snaggletooth is an intelligent shadow battleaxe recovered from the Second Age barracks south of [[Clackston]]. It unnaturally enlarged the kobold Snaggletooth and filled its blade with light-drinking shadow.
 
