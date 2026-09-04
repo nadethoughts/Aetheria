@@ -3,7 +3,7 @@
 ![[output/pdf/Session 08 Temporary Characters/portraits/Feng Rui.png|300]]
 
 ## Player
-Temporary PC - unassigned
+Ian (temporary PC during the Session 09 council)
 
 ## Quick Details
 - **Campaign**: Nimble
@@ -63,6 +63,10 @@ He is not opposed to cooperation. He is opposed to cooperation that quietly beco
 - Gives the party a military ally whose priority is defense rather than conquest.
 - Protects Cai Lin personally and will judge others by whether they endanger or support her work.
 
+## Session 09 Update
+
+Feng Rui met Lil Chang and Da Long at an outer watchtower after they landed rather than violate Frostvein airspace. He escorted them to Icehold, assembled other council voices, and participated in An Yue's hearing. His authority over the passes and concern about foreign access are now played canon.
+
 ## Current Hooks
 - An unauthorized armed group may already be inside Frostvein territory.
 - Feng Rui can demand that the party complete a defensive task before negotiations continue.
@@ -80,3 +84,4 @@ He is not opposed to cooperation. He is opposed to cooperation that quietly beco
 - [[World/Characters/Cai Lin|Cai Lin]]
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
+- [[Nimble Session 09 Transcript]]

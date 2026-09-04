@@ -35,3 +35,11 @@ The axe visibly asserted itself twice before the party reached Frostvein territo
 Umbrail's Tempest Command helped Rubius regain control. Repeated Dispel Magic later suppressed another forced rage after the axe consumed a shadow minion, but neither spell removed the curse. Rubius ended the session with **three tracked Shadow Points**.
 
 The only known lead for removing its power is the [[Shadow Well]] in the [[Undershadow]], though the party has not yet reached either place.
+
+## Session 09 Manifestation
+
+On the Frostvein plateau, Rubius tried to control his rage and initially kept the wrapped axe out of his hands. He nevertheless drew it during the fight with a Black Fang patrol.
+
+The axe offered greater damage in exchange for Shadow Points. Rubius accepted twice. It consumed the patrol's veteran, pulsed with dark energy, and became visibly more wicked. Its damage dice increased first to 3d6 and later to 3d8 during the encounter.
+
+The two explicit bargains bring Rubius's played total to **five Shadow Points**. He also suffered a Wound; the GM-facing master entry treats that as another trigger, but the table did not announce the point. The authoritative total should therefore be confirmed as five or six before the next encounter.

@@ -3,7 +3,7 @@
 ![[output/pdf/Session 08 Temporary Characters/portraits/Jian Bo.png|300]]
 
 ## Player
-Temporary PC - unassigned
+Derek (temporary PC during the Session 09 council)
 
 ## Quick Details
 - **Campaign**: Nimble
@@ -64,6 +64,10 @@ He respects courage but distrusts waste. Rage, for him, is not theatrical fury; 
 - Can support resistance if it includes enforceable commitments for routes, supplies, labor, and mutual defense.
 - Provides a durable temporary PC for rescue work and frontline combat.
 
+## Session 09 Update
+
+Jian Bo joined An Yue's hearing at Icehold. He forced the visitors to confront the material cost of war: every soldier sent away is also a hunter, worker, or pass keeper needed for winter. Da Long's hunting-ground information was useful, but Frostvein still requires specific commitments rather than an unlimited call for bodies and supplies.
+
 ## Current Hooks
 - Frostvein may already lack a critical winter supply that one faction can provide.
 - A blocked storehouse, avalanche route, or damaged lift could require immediate action.
@@ -80,3 +84,4 @@ He respects courage but distrusts waste. Rage, for him, is not theatrical fury; 
 - [[World/Characters/Jian Bo|Jian Bo]]
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
+- [[Nimble Session 09 Transcript]]

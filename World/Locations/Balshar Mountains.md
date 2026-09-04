@@ -23,7 +23,8 @@ The Erie protect ancient sites and artifacts connected to an earlier dragon war.
 - The neutral tribes named so far are the [[Frostvein Orcs]], [[Graven Hand Orcs]], and [[Hollow Drum Orcs]].
 - The wounded Cloud Seer scout [[Da Long]] reported that Black Fang diplomats and a 15–20-orc escort were traveling toward the Frostvein settlement.
 - [[Scritch]], the kobold first encountered near Clackston, escaped that column and identified its composition as five diplomats under [[Gorak Broken-Tusk]] and fifteen warriors aligned with [[Vekka Ash-Eye]].
-- Lil Chang and Da Long flew ahead on Da Long's griffon, [[Quickfeather]]. The rest of the party passed the Black Fang unseen at the [[Stone Stairs]] and reached a snowstorm on the Frostvein plateau.
+- Lil Chang and Da Long flew ahead on Da Long's griffon, [[Quickfeather]], reached [[Icehold]], and opened talks with [[An Yue]]. The Frostvein remain neutral and require concrete winter aid, sovereign control of their passes, and postwar guarantees.
+- The rest of the party passed the Black Fang at the [[Stone Stairs]] and then defeated a Black Fang plateau patrol. One scout escaped and can warn the delegation.
 - Umbrail recovered the [[Talon of Unmaking]], a lesser Erie artifact that weakens armor and is especially effective against dragons.
 
 ## Related
@@ -37,5 +38,6 @@ The Erie protect ancient sites and artifacts connected to an earlier dragon war.
 - [[Graven Hand Orcs]]
 - [[Hollow Drum Orcs]]
 - [[Stone Stairs]]
+- [[Icehold]]
 - [[Talon of Unmaking]]
 - [[Axe of Snaggletooth]]

@@ -2,14 +2,17 @@
 type: session-prep
 campaign: Nimble
 session: "08"
-status: partially-run
+status: mostly-run
 tags: [campaign/nimble, type/session-prep, type/encounter, arc/war-for-balshar]
 ---
 
 # Session 08 - Combat Encounters
 
-> [!info] Post-session continuity
-> **Recover Scritch** was played in Session 08. The party defeated all seven kobolds, but no written orders or retrieval motive were revealed in play. The Black Fang patrol and legendary predator encounters remain unused options and should be adapted to the party's new position on the Frostvein plateau.
+> [!info] Post-Session 08 continuity
+> **Recover Scritch** was played in Session 08. The party defeated all seven kobolds, but no written orders or retrieval motive were revealed in play. At that point, the Black Fang patrol and legendary predator encounters remained unused options for the Frostvein plateau.
+
+> [!info] Session 09 continuity
+> The **Black Fang Outrider Patrol** was played on the Frostvein plateau in Session 09 with the fresh-party shield-bearer. The transcript did not include the prepared warning, peace pennant, nonlethal capture demand, or evidence disclosures. One Black Fang scout escaped. **Grimbeak on the Wind Pass** remains unused preparation.
 
 ## Party and Encounter Budget
 

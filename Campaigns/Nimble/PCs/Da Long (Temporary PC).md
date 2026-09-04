@@ -14,7 +14,7 @@ Temporary PC - unassigned
 - **Background**: Survivalist
 - **Faction**: [[World/Factions/Cloud Seers|Cloud Seers]]
 - **Companion**: [[World/Characters/Quickfeather|Quickfeather]], a large griffon
-- **Current Status**: Flying ahead of the land party toward Frostvein with Lil Chang
+- **Current Status**: Guest at Icehold; plans to request an authorized delegation after one night's rest
 
 ## Character Build
 
@@ -67,13 +67,17 @@ He wants his warning to matter, wants Quickfeather protected, and feels a person
 - Warned that the Black Fang were traveling toward Frostvein with approximately fifteen to twenty orcs.
 - Gave the land party directions to a secret mountain trail that allowed them to follow and bypass the column.
 - Took Lil Chang ahead on Quickfeather to warn An Yue and the Frostvein settlement.
-- Remained offscreen but ahead of the party throughout Session 08; his arrival at Frostvein has not yet been shown.
+- Remained offscreen but ahead of the party throughout Session 08; that session did not show his arrival.
+- Reached [[World/Locations/Icehold|Icehold]] with Lil Chang and honestly admitted that he had been spying on the Black Fang.
+- Gave An Yue's council the location of overlooked hunting grounds as proof of good faith.
+- Agreed that he could not bind Cloud Seer or Erie leadership and planned to seek a formally empowered delegation.
 
 ## Current Hooks
 - Da Long must explain his spying without letting the Black Fang turn it into proof of Cloud Seer aggression.
 - His debt to Lil Chang may conflict with orders from Cloud Seer leaders.
 - Quickfeather can enable an aerial rescue, pursuit, or race against the Black Fang delegation.
 - Da Long wants Frostvein in the resistance but will defend Cloud Seer honor and freedom of action.
+- Frostvein expects him to be present when the Black Fang delegation makes its case.
 
 ## Open Questions
 - What is Da Long's formal rank among the Cloud Seers?
@@ -87,4 +91,5 @@ He wants his warning to matter, wants Quickfeather protected, and feels a person
 - [[World/Characters/Quickfeather|Quickfeather]]
 - [[Nimble Session 07 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]

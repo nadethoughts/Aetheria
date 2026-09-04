@@ -1,13 +1,13 @@
 ---
 type: campaign-synopsis
 campaign: "Nimble"
-through_session: "08"
+through_session: "09"
 spoiler_level: gm
 status: active
 tags: [type/campaign-synopsis, campaign/nimble, gm-reference]
 ---
 
-# Nimble Campaign Synopsis — Through Session 08
+# Nimble Campaign Synopsis — Through Session 09
 
 > [!warning] GM-facing spoilers
 > This document combines events the characters have experienced, information discussed openly at the table, confirmed background from the campaign canvas, and unused preparation that the players have not encountered. Sections labeled **GM truth** or **optional prep** should not be shared as a player-facing recap without removing spoilers.
@@ -24,23 +24,26 @@ At the ruined outpost, the party encountered **Zing Zow** and the **Cloud Seer**
 
 Razor is seeking the strategic advantages guarded by the Erie: ancient anti-dragon artifacts, a mine whose ore can strengthen draconic breath weapons, and—according to the GM campaign canvas—the ancient resting place associated with the defeated dragon flights. Umbrail confirmed that he had unknowingly taken one of his mentor's lesser artifacts. He cleansed and activated it as the **Talon of Unmaking**, an anti-armor talisman with an enhanced effect against dragons.
 
-The party cannot defeat Razor through an ordinary fight. Their chosen contribution is to recruit the unaligned orc tribes and build a coalition. Zing Zow and his riders have taken responsibility for checking the nearby mine and requesting reinforcements. A Black Fang column of five diplomats under **Gorak** and fifteen warriors aligned with Quartermaster **Vekka** is traveling beneath a peace banner toward the Frostvein settlement. Lil Chang and the rescued Cloud Seer scout **Da Long** flew ahead on Da Long's griffon, **Quickfeather**. The land party recruited the escaped kobold **Scritch**, passed the Black Fang camp unseen, and reached the snowbound Frostvein plateau.
+The party cannot defeat Razor through an ordinary fight. Their chosen contribution is to recruit the unaligned orc tribes and build a coalition. Zing Zow and his riders have taken responsibility for checking the nearby mine and requesting reinforcements. A Black Fang column of five diplomats under **Gorak** and fifteen warriors aligned with Quartermaster **Vekka** is traveling beneath a peace banner toward the Frostvein settlement. Lil Chang and the rescued Cloud Seer scout **Da Long** flew ahead on Da Long's griffon, **Quickfeather**, reached **Icehold**, and opened negotiations with Chieftess **An Yue**. The land party recruited the escaped kobold **Scritch**, passed the Black Fang camp, and then fought one of its plateau patrols. One Black Fang scout escaped.
 
-At the same time, a second campaign-scale threat is developing below the mountains. Rubius's axe is a cursed intelligent shadow artifact that becomes more powerful and more corrupting with use. During Session 08 it consumed three kobolds, overrode Rubius's judgment, and drove him to attack Alder. Rubius now has three tracked Shadow Points. Alder openly admitted that his patron wants Rubius killed and the axe taken, and that his lost family heirloom lies in the **Undershadow**. The **Shadow Well** there remains the only known way to remove the axe's power.
+At the same time, a second campaign-scale threat is developing below the mountains. Rubius's axe is a cursed intelligent shadow artifact that becomes more powerful and more corrupting with use. During Session 08 it consumed three kobolds, overrode Rubius's judgment, and drove him to attack Alder. In Session 09 Rubius drew it again, accepted two explicit bargains, and fed it a Black Fang veteran. His transcript-supported total is now **five Shadow Points**, with a possible sixth point pending reconciliation of the written Wound trigger. Alder openly admitted that his patron wants Rubius killed and the axe taken, and that his lost family heirloom lies in the **Undershadow**. The **Shadow Well** there remains the only known way to remove the axe's power.
 
 ## Current Campaign State
 
-### Exact Position at the End of Session 08
+### Exact Position at the End of Session 09
 
-- Lil Chang and **Da Long** remain ahead on **Quickfeather**, traveling toward the Frostvein settlement; their arrival was not shown.
-- Umbrail, Alder, Rubius, Rowan, and **Scritch** reached the stormbound Frostvein plateau.
-- The party passed the Black Fang column unseen by climbing above its camp at the **Stone Stairs**.
+- Lil Chang, **Da Long**, and **Quickfeather** are guests at **Icehold** after meeting An Yue's council.
+- Umbrail, Alder, Rubius, Rowan, and **Scritch** remain on the plateau after defeating a Black Fang patrol. Their remaining journey to Icehold was deferred to Session 10.
+- The party's passage above the Black Fang camp is no longer secret: one patrol scout escaped the battle and can report them.
 - The column contains five diplomats under **Gorak** and fifteen warriors aligned with **Vekka**. It still travels beneath a peace banner.
 - The Black Fang mission is publicly recruitment. Scritch suspects a hidden objective, but an attack on the Frostvein has not been established in play.
 - Zing Zow and approximately six Cloud Seer riders are attempting to secure the Erie mine and will send a signal afterward.
-- The Frostvein, Graven Hand, and Hollow Drum remain neutral.
+- The Frostvein remain neutral but are actively considering terms. The Graven Hand and Hollow Drum remain uncontacted and neutral.
+- An Yue will hear the Black Fang under their peace banner, asked Lil Chang and Da Long to attend, and will wait for the land party before deciding.
+- Frostvein requires winter support, control of its passes, specific limits on contributions, and signed postwar guarantees of independence.
+- Da Long gave Frostvein the location of overlooked hunting grounds and plans to seek a formally authorized delegation after one night in Icehold.
 - Umbrail has cleansed and activated the **Talon of Unmaking**.
-- Rubius has zero wounds, a recharged True Strike Wand, and **three Shadow Points**.
+- Rubius has one Wound, a recharged True Strike Wand, and **five transcript-supported Shadow Points**. The written artifact rules would add a sixth for the Wound, but that award was not announced in play.
 - The axe consumes souls, can override Rubius's judgment, and returns after being discarded.
 - Alder told the party that his patron wants Rubius killed and the axe taken. His lost heirloom lies in the Undershadow.
 - The party is level 3, though individual sheet and subclass details still need confirmation.
@@ -50,9 +53,9 @@ At the same time, a second campaign-scale threat is developing below the mountai
 
 The next playable objective is:
 
-> Survive the plateau storm, reunite with Lil Chang and Da Long, and reach the Frostvein hearing before the Black Fang can convert its hidden plan into political leverage.
+> Reach Icehold, account for the Black Fang patrol battle, reunite the party, and secure enforceable Frostvein terms before the competing Black Fang hearing ends.
 
-The land party now has a lead over the Black Fang but poor visibility and no confirmed shelter. It must decide how to use Scritch's testimony without presenting suspicion as proof. The delegation remains protected by its peace banner.
+Lil Chang has opened a diplomatic door but cannot sign for the Erie or Cloud Seers. The land party must arrive through hostile weather while an escaped Black Fang scout carries a damaging version of the plateau battle toward the peace-bannered delegation. Scritch's testimony establishes secrecy and command structure but still does not prove the prepared avalanche conspiracy.
 
 ### Current Stakes
 
@@ -165,10 +168,11 @@ None of those final methods is currently defined as canon. The campaign has esta
 | Faction | Current Position | What the Players Know | Hidden or Unresolved Material |
 | --- | --- | --- | --- |
 | Erie | Declining Birdfolk remnant resisting Razor | Guard artifacts, mine, capital, battlefield sites; led by General Brand | Secretly guard the dragonflight resting place; internal response to Umbrail is undefined |
-| Cloud Seers | Griffin-riding orcs allied with the Erie | Led locally by Zing Zow; willing to secure the mine | Wider leadership, resources, and old relationship with Lil Chang remain undefined |
-| Black Fang orcs | Allied with Razor; cave-dwelling tribe with an ancient Erie blood feud | Alliance of convenience; warriors carry broken fangs; Gorak and Vekka lead the Frostvein mission | Their reward and overall leadership remain unresolved; Vekka's avalanche conspiracy is GM-only prep |
+| Cloud Seers | Griffin-riding orcs allied with the Erie | Da Long opened talks at Icehold and offered hunting knowledge, but cannot sign for his leaders | Wider leadership, resources, and old relationship with Lil Chang remain undefined |
+| Black Fang orcs | Allied with Razor; cave-dwelling tribe with an ancient Erie blood feud | Alliance of convenience; Gorak and Vekka lead the Frostvein mission; one patrol scout escaped the party | Their reward and overall leadership remain unresolved; Vekka's avalanche conspiracy is GM-only prep |
 | Rock Scale kobolds | Small mountain kobold tribe serving Razor | Players know most kobolds worship Razor | Tribe name and specific history are currently GM-only canvas material |
-| Frostvein, Graven Hand, Hollow Drum | Neutral and waiting to see who wins | Named tribes and chiefs; all retain resentment toward the Erie | Exact terms, resources, internal politics, and final allegiances remain unresolved |
+| Frostvein | Neutral but negotiating at Icehold | Requires winter support, sovereignty, limited obligations, and postwar guarantees; will hear both sides | Exact acceptable quantities, internal vote, and final allegiance remain unresolved |
+| Graven Hand and Hollow Drum | Neutral and not yet contacted | Named tribes and chiefs; both retain resentment toward the Erie | Exact terms, resources, internal politics, and final allegiances remain unresolved |
 | Clackston | Safe after livestock recovery | Friendly community and completed employer | Could become threatened again if Razor expands beyond Balshar |
 | Razor's coalition | Expanding military and religious alliance | Main campaign enemy | Ultimate timetable, command structure, and endgame ritual remain undefined |
 
@@ -181,7 +185,7 @@ The following information has been experienced by the characters or discussed op
 - Rubius's axe is intelligent, comforting, and unusually powerful.
 - Umbrail found a historical account of a similar cursed axe that corrupts its wielder and may be depowered at the Shadow Well.
 - The axe consumes souls, overrides Rubius's judgment, can turn his rage against allies, and returns after being thrown away.
-- Rubius has three tracked Shadow Points.
+- Rubius has five transcript-supported Shadow Points after accepting two Session 09 bargains; the written Wound trigger creates an unresolved possible sixth point.
 - Alder's patron wants Rubius killed and the axe taken.
 - Alder's lost heirloom lies in the Undershadow, and Alder senses a broad route toward it.
 - Alder's lost family heirloom is believed to be in the Undershadow.
@@ -199,6 +203,9 @@ The following information has been experienced by the characters or discussed op
 - The Black Fang Frostvein column contains five diplomats under Gorak and fifteen warriors aligned with Vekka.
 - The delegation travels beneath a peace banner and has not attacked the Frostvein.
 - Scritch suspects a hidden objective but does not know what it is.
+- The Frostvein settlement is Icehold, led by An Yue with counsel from Feng Rui, Jian Bo, and Mei Rong.
+- Frostvein intends to hear the Black Fang case and has not promised troops to either side.
+- Da Long disclosed nearby hunting grounds, giving Frostvein a modest but concrete winter benefit.
 
 ## Things the Players Have Yet to Discover
 
@@ -228,16 +235,16 @@ The canvas establishes the **Black Fang** as a cave- and tunnel-dwelling tribe t
 
 #### The Axe's Remaining Secrets
 
-Session 08 made the corruption undeniable. The axe consumed three slain kobolds and one shadow minion, replaced Rubius's decision about the beehive, turned his rage indiscriminate, and caused him to attack Alder. Tempest Command and repeated Dispel Magic suppressed active surges without cleansing the artifact. The campaign still needs to reveal:
+Session 08 made the corruption undeniable. Session 09 showed that Rubius can choose the axe's bargains even while trying to control his rage: he accepted two, fed the weapon a Black Fang veteran, and increased later attack dice as high as 3d8. Tempest Command and repeated Dispel Magic can suppress active surges without cleansing the artifact. The campaign still needs to reveal:
 
-- The complete trigger list and thresholds for Shadow Points.
+- How the written trigger list and thresholds will be applied consistently at the table.
 - Whether the axe causes enlargement, emotional dependence, allegiance, or physical transformation.
 - Whether Snaggletooth's “ascension” was the axe's standard effect or a special ritual.
 - Why the axe regards Alder's patron as a rival.
 - How and why it returned after being thrown over the cliff.
 - What dark god or shadow power it serves.
 
-Rubius has **three tracked Shadow Points**: one from previously dropping to zero hit points, one for taking the hive under the axe's influence, and one for attacking Alder.
+Rubius has **five transcript-supported Shadow Points**: the three established through Session 08 plus two accepted bargains in Session 09. Because he also suffered a Wound and the current artifact master lists that as an automatic trigger, the GM should confirm whether the actual total is five or six before the next encounter.
 
 #### The Shadow Well
 
@@ -284,11 +291,11 @@ This additional Cloud Seer material can still be used in one of three ways:
 
 Until those characters appear, Kora, Jun, Mauk, Lil Chang's old Cloud Seer nickname, and the wind-harness rescue remain **optional hooks**, not undiscovered facts.
 
-Session 08 preparation also defines **Three-Bells Basin**, the Frostvein waystation **Rimehook**, Rock Scale engineer **Tikka-of-the-Cairns**, and a manufactured avalanche. Vekka intends the Black Fang to arrive as rescuers; Gorak knows only that a crisis is likely; Tikka designed a limited slide and does not know Vekka expanded it toward mass casualties. None of that entered Session 08 play. Preserve it as GM truth for the route ahead, not as player knowledge.
+Session 08 preparation also defines **Three-Bells Basin**, the Frostvein waystation **Rimehook**, Rock Scale engineer **Tikka-of-the-Cairns**, and a manufactured avalanche. Vekka intends the Black Fang to arrive as rescuers; Gorak knows only that a crisis is likely; Tikka designed a limited slide and does not know Vekka expanded it toward mass casualties. None of that entered Session 08 or Session 09 play. Preserve it as GM truth for the route ahead, not as player knowledge.
 
 The campaign canvas also lists possible encounters—an owlbear, an orc patrol, a kobold excavation crew, three lions, wargs, a griffin, and a dragon shadow. The warg, griffin, and shadow beats have already been used. The remaining entries are encounter options, not obligations or established off-screen events.
 
-## Sessions 07–08 Update — The Race for the Neutral Tribes
+## Sessions 07–09 Update — The Race for the Neutral Tribes
 
 Session 07 moved the campaign from strategic planning into an immediate diplomatic race. Zing Zow identified three neutral tribes and their chiefs:
 
@@ -308,6 +315,10 @@ Seven kobolds ambushed the party. The group defeated them, but Rubius's axe cons
 
 At the Stone Stairs, the party climbed above the Black Fang camp without detection and reached a stormbound Frostvein plateau. The prepared Three-Bells Basin avalanche did not enter play.
 
+In Session 09, a Black Fang patrol with archers, a shield-bearer, a veteran, and war wargs found the land party. The party defeated all but one scout, who escaped. Rubius accepted two axe bargains and the artifact consumed the veteran. The land party ended the session before completing the journey to Icehold.
+
+Lil Chang and Da Long reached **Icehold** first. An Yue, Feng Rui, Jian Bo, and Mei Rong heard their warning but refused an immediate pledge of soldiers. Frostvein's winter position is precarious, its people are needed at home, and its leaders require concrete support, control of their passes, limited obligations, and signed guarantees against renewed Erie domination. Da Long gave them valuable hunting information. An Yue granted hospitality and scheduled the visitors to remain for the Black Fang hearing while she consulted her council.
+
 At the ruined outpost, Umbrail also confirmed, cleansed, and activated the **Talon of Unmaking**. Alder communed with Erabose, who remains displeased about an unfulfilled command. Rubius's safe rest healed his wound, and he recharged his True Strike Wand.
 
 The detailed local crises in [[Campaigns/Nimble/Brainstorming Notes/Session 07 - Orc Coalition Brainstorm|Session 07 — Orc Coalition Brainstorm]] remain GM preparation until introduced in play.
@@ -316,15 +327,15 @@ The detailed local crises in [[Campaigns/Nimble/Brainstorming Notes/Session 07 -
 
 | Arc | Status | Urgency | What Remains |
 | --- | --- | --- | --- |
-| Recruit the neutral orc tribes | Active and time-sensitive | Immediate | Cross the storm, reunite with Lil Chang, and make a credible offer to An Yue |
+| Recruit the neutral orc tribes | Frostvein negotiations active; others uncontacted | Immediate | Reunite at Icehold, answer for the patrol battle, and negotiate binding terms |
 | Secure the Erie mine | Delegated to Zing Zow | Immediate | Determine whether it has fallen, whether the ore is safe, and whether reinforcements arrive |
-| Black Fang diplomatic mission | Active; temporarily behind the party | Immediate | Expose or counter its hidden plan without violating the peace banner |
+| Black Fang diplomatic mission | Active and approaching Icehold | Immediate | Counter its offer and the survivor's account without violating the peace banner |
 | Talon of Unmaking | Identified and active | High | Decide whether Umbrail reveals it and how the Erie respond to his possession of it |
 | Reach the Erie capital | Deferred | High | Return Umbrail, meet General Brand, assess defenses, and resolve his standing with his people |
 | Stop Razor | Campaign-scale | High/long-term | Deny resources, fracture coalition, learn ancient truth, and discover a non-suicidal solution |
 | Black Fang alliance | Active mystery | High | Learn what Razor promised, identify leaders, and decide whether alliance can be broken |
 | Rock Scale devotion | Active mystery | High | Understand why kobolds joined so quickly and whether their worship can be disrupted |
-| Axe of Snaggletooth | Active and dangerous; 3 Shadow Points | Immediate/high | Safeguard the party, prevent more feeding, reach the Shadow Well, and decide whether to cleanse or destroy it |
+| Axe of Snaggletooth | Active and dangerous; 5 supported Shadow Points, possible 6th | Immediate/high | Reconcile the track, safeguard the party, reach the Shadow Well, and decide whether to cleanse or destroy it |
 | Scritch | New ally and witness | Immediate | Decide his role at Frostvein and whether the party can protect him from retrieval attempts |
 | Alder's rot-heirloom | Located broadly | Medium | Find an Undershadow entrance and recover or understand the artifact |
 | Erie outpost massacre | Investigated but unresolved | Medium | Identify attacker command, technology source, warning, survivors, and purpose |
@@ -352,7 +363,7 @@ The detailed local crises in [[Campaigns/Nimble/Brainstorming Notes/Session 07 -
 
 ### Lil Chang — The Mountain Past
 
-**Where he is now:** Lil Chang has reconnected with Zing Zow and become the party member with the clearest personal access to orc diplomacy. He remains ahead with Da Long near Frostvein; Session 08 did not show his arrival.
+**Where he is now:** Lil Chang reached Icehold with Da Long, presented the first resistance case to An Yue's council, and earned hospitality but not an alliance. He is waiting for the land party and the competing Black Fang hearing.
 
 **What remains:**
 
@@ -360,17 +371,18 @@ The detailed local crises in [[Campaigns/Nimble/Brainstorming Notes/Session 07 -
 - Determine why he left the mountains and why Zing Zow asked what brought him back “after all these years.”
 - Clarify Wing Ding Ho's death, Soho, and any clan or family that rejected him.
 - Decide whether he carries an old name, debt, shame, or obligation.
-- Use his history as either leverage or a complication when recruiting neutral tribes.
+- Decide how his mountain history affects An Yue's trust once more of it becomes known.
+- Turn his promise of shared danger into concrete winter support and enforceable terms.
 
 The additional Cloud Seer prep for Kora, Jun, and Mauk can supply this material if desired.
 
 ### Rubius Haggard — Strength, Giants, and the Axe
 
-**Where he is now:** Rubius wants strength to protect people, but the axe has now used that strength against Alder. He has three Shadow Points, knows the weapon consumes souls, and has wrapped it while the party monitors him. He also still seeks evidence of a surviving or dangerous giant enclave.
+**Where he is now:** Rubius wants strength to protect people, but he drew the axe again and voluntarily accepted two of its bargains. The weapon consumed a Black Fang veteran. He has five transcript-supported Shadow Points, one Wound, and a possible sixth point under the written rules.
 
 **What remains:**
 
-- Write the complete corruption thresholds and trigger rules; the current total is three.
+- Reconcile the Wound trigger and the 3d8 bargain against the written corruption rules before the next combat.
 - Decide what practical safeguards Rubius accepts during rage and rest.
 - Reveal whether the axe connects to the old shadow god, Shadow Spawn, or a different power.
 - Reach the Shadow Well or find another removal path.
@@ -440,12 +452,12 @@ The Warren's ancient builders, unexplored side opening, surviving kobold workers
 
 ### Immediate — Next One or Two Sessions
 
-1. **Open on the plateau storm.** Give the land party an immediate navigation, shelter, or rescue choice rather than skipping to the hearing.
-2. **Cut to Lil Chang and Da Long.** Establish whether they reached An Yue, Rimehook, or another Frostvein contact.
-3. **Introduce Three-Bells Basin through visible physical clues.** Do not assume the party discovers the full manufactured-miracle plan.
+1. **Finish the land party's journey.** Decide whether the escaped scout reaches the delegation first and whether the party crosses Three-Bells Basin or another route.
+2. **Reunite at Icehold.** Let Lil Chang explain the actual Frostvein concerns before the party enters the hearing.
+3. **Account for the patrol fight.** The party needs a truthful explanation that distinguishes the armed patrol from the peace-bannered diplomats.
 4. **Use Scritch as a witness, not automatic proof.** His testimony establishes secrecy and command structure but not Vekka's avalanche conspiracy.
-5. **Keep the peace banner meaningful.** The Black Fang can be opposed, exposed, delayed, or turned without making an unprovoked attack consequence-free.
-6. **Put an axe safety rule on the table.** Clarify who intervenes if Rubius rages and what Umbrail's suppression can accomplish.
+5. **Run the competing hearing.** Make Gorak's public offer materially tempting and let An Yue's council compare enforceable terms.
+6. **Clarify the axe track.** Resolve five versus six Shadow Points and whether 3d8 remains available at the current corruption level.
 7. **Resolve or signal the mine.** Decide whether Zing Zow succeeds, discovers sabotage, requests help, or disappears.
 
 ### Short Term — The Mountain Coalition
@@ -482,14 +494,14 @@ The Warren's ancient builders, unexplored side opening, surviving kobold workers
 
 ## Recommended Next-Session Framework
 
-The cleanest Session 09 opening is:
+The cleanest Session 10 opening is:
 
-1. The land party confronts the storm and sees two or three manipulable clues from the Three-Bells Basin prep.
-2. Lil Chang and Da Long reach a Frostvein contact, allowing the split party to advance on both fronts.
-3. Scritch recognizes signs associated with Vekka's outriders without knowing the complete plan.
-4. The Black Fang climb behind the party with a credible offer and conspicuous rescue supplies.
-5. The party chooses whether to investigate, warn Rimehook, preserve evidence, or race directly to An Yue.
-6. A brief axe surge or agreed safety check keeps the shadow threat present without displacing the Frostvein plot.
+1. Determine whether the surviving Black Fang scout reaches Vekka and what version of the battle he reports.
+2. Complete the land route with a concise storm, evidence, or Rimehook decision rather than another large combat.
+3. Reunite the party at Icehold and let Lil Chang summarize Frostvein's nonnegotiable concerns.
+4. Present Gorak's peace-bannered offer and allow Scritch, the survivor, and any physical evidence to be tested openly.
+5. Negotiate concrete numbers, routes, training, winter aid, and postwar guarantees.
+6. End with a Frostvein decision, a conditional compact, or a clearly defined task that will decide the tribe's support.
 
 This preserves the party's declared choice while continuing both the war plot and the personal stories.
 
@@ -511,7 +523,7 @@ The mountain-pass raiders, the cave-dwelling orcs with the Erie blood feud, and 
 
 The played transcript describes the Axe of Snaggletooth as dealing **3d4** rather than a normal battleaxe's **1d8**. The older Warren canvas lists **2d4+2**. The transcript and character sheet should control current mechanics unless deliberately revised.
 
-Session 08 establishes **three current Shadow Points** and shows two new awards: one for yielding to the axe over the beehive and one for attacking Alder. The full threshold and progression rules still need a single written reference before the next trigger.
+Session 08 establishes three Shadow Points. Session 09 explicitly adds two accepted bargains, for a transcript-supported total of **five**. Rubius also suffered a Wound, which the current master entry treats as another trigger, and the second bargain advanced damage to 3d8 earlier than the master entry currently permits. Confirm the total and bargain progression before the next encounter.
 
 ### Current Levels
 
@@ -543,6 +555,7 @@ Still confirm whether Lil Chang and Whisper receive that information when the pa
 - [[Session 06 Report]]
 - [[Session 07 Report]]
 - [[Session 08 Report]]
+- [[Session 09 Report]]
 - [[Mountains of Unusual Scale.canvas]]
 - [[Warren's Want Adventure.canvas]]
 - [[Alder (Derek)]]

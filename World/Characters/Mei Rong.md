@@ -1,11 +1,13 @@
 ---
 tags: [type/character, type/orc, region/balshar, faction/frostvein, campaign/nimble]
-reveal_status: campaign-prep
+reveal_status: campaign-revealed
 ---
 
 # Mei Rong
 
-Mei Rong preserves Frostvein's oral histories. She considers Razor dangerous, but she will not support a resistance that simply restores Erie rule or dismisses the real injuries Frostvein has suffered.
+Mei Rong preserves Frostvein's oral histories. She joined [[An Yue|An Yue's]] council when Lil Chang and [[Da Long]] arrived at [[Icehold]] in Session 09.
+
+She considers Razor dangerous, but she will not support a resistance that simply restores Erie rule or dismisses the real injuries Frostvein has suffered. During the hearing, she recalled earlier emergency alliances that left Frostvein beneath more powerful neighbors once the crisis ended.
 
 ## Character Build
 
@@ -27,8 +29,9 @@ Mei Rong preserves Frostvein's oral histories. She considers Razor dangerous, bu
 
 ## Campaign Role
 
-Mei Rong is prepared as a temporary PC and Frostvein negotiating voice. She can support an alliance if Frostvein independence is recognized and its grievances receive a formal hearing.
+Mei Rong was portrayed as a temporary PC during the Session 09 negotiation. She called for written, signed assurances that defeating Razor will not place Frostvein beneath the Erie's talon again.
 
 ## Source Notes
 
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
+- [[Nimble Session 09 Transcript]]

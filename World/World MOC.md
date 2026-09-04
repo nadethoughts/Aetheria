@@ -22,7 +22,7 @@ Central hub for the shared **Aetheria** setting. Use this as your starting point
 - **[[Ironhold]]** — Dwarven mountains (Stonefang, **[[Dagger's Sheath]]** ruins, Hammergate Hold, Sentinel's Rise)
 - **[[The Blessed Realm]]** / **[[Lumopolis]]** — Fallen sun kingdom; boiling lake, Sunken Temple
 - **[[Verdant Strand]]** — Northern coasts; **[[New Penmaris]]**, Stormcallers, Pearlbound
-- **[[Balshar Mountains]]** — Erie highlands and the Fourth Age war against Razor
+- **[[Balshar Mountains]]** — Erie highlands and the Fourth Age war against Razor; [[Icehold]] is the Frostvein seat now hosting rival diplomatic missions
 - **[[Vale]]** — Free cities of the heartland
 - **[[Shimmering Shores]]** — Eastern coast
 - **[[Luminael]]** — Elven lands (west)

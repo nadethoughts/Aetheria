@@ -39,7 +39,7 @@ Since then, the axe has:
 - Consumed one of Alder's shadow minions and grown visibly stronger from it.
 - Had an active surge suppressed by Tempest Command and repeated Dispel Magic, though neither spell damaged or cleansed it.
 
-Rubius currently has **3 Shadow Points**. The [[Shadow Well]] in the [[Undershadow]] is the party's only known lead for separating him from the axe or stripping away its power.
+In Session 09, Rubius accepted two explicit bargains, used the empowered blade against a Black Fang patrol, and fed it the patrol veteran. He also suffered a Wound. His transcript-supported total is **5 Shadow Points**; the Wound would raise it to **6** under the written trigger rules below, but that point was not announced at the table and requires GM reconciliation. The [[Shadow Well]] in the [[Undershadow]] remains the party's only known lead for separating him from the axe or stripping away its power.
 
 ## The Truth of Kharum Vhar
 
@@ -144,7 +144,7 @@ Shadow Points are cumulative marks of Kharum Vhar rewriting the bond between gia
 
 | Corruption Level | Shadow Points | Title | State |
 | ---: | ---: | --- | --- |
-| 1 | 0–6 | The Welcome | Current state; Rubius has 3 |
+| 1 | 0–6 | The Welcome | Current state; Rubius has 5 in played tracking, possibly 6 after rules reconciliation |
 | 2 | 7–12 | The Weight of Stone | The first giant inheritance awakens |
 | 3 | 13–17 | The Elemental Crown | Ruin answers in four voices |
 | 4 | 18–21 | The Worldbreaker | The bearer becomes a siege weapon |
@@ -269,6 +269,7 @@ Use the lore in pieces tied to existing campaign threads:
 - [[Nimble Session 06 Transcript]] — The axe thrown over a cliff, its return, and Rubius's early trust in it.
 - [[Nimble Session 07 Transcript]] — Rubius's healed Wound, Erabose's continued involvement, and immediate campaign context.
 - [[Nimble Session 08 Transcript]] — The beehive compulsion, soul consumption, attack on Alder, three current Shadow Points, suppression, and the Shadow Well discussion.
+- [[Nimble Session 09 Transcript]] — Two accepted bargains, a consumed Black Fang veteran, 3d6 and 3d8 escalation in play, one Wound, and the five-versus-six tracking discrepancy.
 - [[Giant]] and [[Giant Wars]] — Giant elemental faith, alliance with the Dark Pantheon, divine ruin, and the renewed Giant War.
 - [[Grondar Earthcaller]] — Corrupted leylines, elemental rituals, strategic manipulation, and the organized giant resurgence.
 - [[Rubius Haggard (Ian)]] — Half-Giant identity, Mountainheart path, protective nature, and the collapsed ruin.

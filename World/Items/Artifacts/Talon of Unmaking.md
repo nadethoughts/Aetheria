@@ -265,7 +265,7 @@ The Talon never tells Umbrail that he is worthy. It shows him what other people 
 ## Canon Sources
 
 - [[Nimble Session 07 Transcript]] — Umbrail's research, confirmation that the object is a significant lesser Erie artifact, cleansing, slotless form, chosen name, and established Armor-reduction mechanic.
-- [[Campaign Synopsis - Through Session 08]] — The distributed Erie artifacts, ancient dragon war, Razor's threat, the mentor's former possession, and the unresolved question of Erie ownership.
+- [[Campaign Synopsis - Through Session 09]] — The distributed Erie artifacts, ancient dragon war, Razor's threat, the mentor's former possession, and the unresolved question of Erie ownership.
 - [[Umbrail (Dave)]] — Umbrail's return, mentor, Made a Bad Choice background, arcane role, and open conflict between inheritance and theft.
 - [[War for Balshar]] — The Erie-Cloud Seer resistance, neutral orc tribes, anti-dragon sites, and coalition stakes.
 - [[General Brand]] — Erie command and the unexplained eastern circuit that can conceal the final Severance Rite.

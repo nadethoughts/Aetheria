@@ -25,4 +25,6 @@ They are allied with the [[Erie]] against [[Razor]]. The alliance is based on a 
 
 Zing Zow and approximately six riders answered an Erie call for aid but arrived after an outpost had been destroyed. They later volunteered to secure the nearby Erie mine and request reinforcements while the Nimble party sought support from neutral orc tribes.
 
-Da Long discovered a Black Fang diplomatic entourage moving toward the Frostvein settlement. Black Fang arrows brought him down, but Lil Chang revived him after Quickfeather found the party. Da Long and Lil Chang are now racing toward Frostvein together.
+Da Long discovered a Black Fang diplomatic entourage moving toward the Frostvein settlement. Black Fang arrows brought him down, but Lil Chang revived him after Quickfeather found the party. Da Long and Lil Chang reached [[Icehold]] ahead of the column and opened negotiations with [[An Yue]].
+
+Da Long acknowledged that he had been spying on the Black Fang and offered Frostvein the location of overlooked hunting grounds as proof of good faith. He can warn and advise the tribe, but he cannot bind Cloud Seer or Erie leadership to written terms. He plans to depart after one night in Icehold to request an authorized delegation.

@@ -9,5 +9,7 @@ Gorak Broken-Tusk is the envoy leading five [[Black Fang Orcs|Black Fang]] diplo
 
 The escaped kobold [[Scritch]] knew Gorak's name and public role but did not identify any open conflict between Gorak and Vekka.
 
+[[An Yue]] has agreed to hear Gorak's case at [[Icehold]] after Lil Chang and [[Da Long]] presented the resistance's opening argument. A Black Fang scout escaped the land party's plateau battle and may reach Gorak's column before the hearing.
+
 > [!warning] GM-only preparation
-> Session 08 prep establishes that Gorak knows a crisis is “likely” and expects to help, but does not know that it is staged. He believes Razor's foresight favors the strong and wants to avoid a battle beneath the peace banner. These details have not been revealed in play.
+> Session 08 prep establishes that Gorak knows a crisis is “likely” and expects to help, but does not know that it is staged. He believes Razor's foresight favors the strong and wants to avoid a battle beneath the peace banner. These details remained unrevealed through Session 09.

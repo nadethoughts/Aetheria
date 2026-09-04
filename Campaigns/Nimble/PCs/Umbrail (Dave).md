@@ -69,6 +69,7 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - Confirmed that he had unknowingly taken his mentor's lesser Erie artifact, then cleansed and activated it as the Talon of Unmaking.
 - Identified the Axe of Snaggletooth's soul consumption and progressive corruption after it turned Rubius against Alder.
 - Used Tempest Command to bring Rubius out of an axe-driven rage and repeated Dispel Magic to suppress a second surge.
+- Used Arc Lightning and the Talon of Unmaking to crack Black Fang armor during the plateau patrol battle, including overloading a shield-bearer's protection.
 
 ## Current Hooks
 - Umbrail must decide whether he returns to the Erie as kin, exile, witness, or outsider with strange friends.
@@ -91,3 +92,4 @@ He is also a true arcane specialist. He deciphered the Old Tongue inscription ou
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 05 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]

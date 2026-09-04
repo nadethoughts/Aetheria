@@ -6,7 +6,7 @@
 > The played recording and campaign notes use **Scritch**. The temporary character sheet and ability-card assets use **Skritch**. Scritch remains the campaign-canon spelling unless corrected at the table.
 
 ## Player
-Ryan (temporary PC during Session 08)
+Ryan (temporary PC during Sessions 08–09 land-party scenes)
 
 ## Quick Details
 - **Campaign**: Nimble
@@ -15,7 +15,7 @@ Ryan (temporary PC during Session 08)
 - **Ancestry**: Kobold
 - **Current Level**: 3
 - **Background**: Wily Underdog
-- **Current Status**: Traveling with the land party on the Frostvein plateau
+- **Current Status**: Traveling with the land party toward Icehold after fighting a Black Fang patrol
 - **Personal Goal**: Survive, earn protection, and make the Black Fang pay for abandoning him
 
 ## Character Build
@@ -68,6 +68,8 @@ He meets danger with nervous humor and fast calculations. His prepared reaction 
 - Warned that the delegation had a hidden purpose, though he did not know what it was.
 - Killed an ambushing kobold with a sling stone, then used flanking and Cheat abilities to help finish the attackers.
 - Helped the party pass the Black Fang camp unseen at the Stone Stairs.
+- Fought a Black Fang plateau patrol in Session 09 and used his sling against distracted enemies.
+- Remained with the land party when one Black Fang scout escaped toward the delegation.
 
 ## Current Hooks
 - Scritch may know overlooked details about the Black Fang camp, equipment, route, or internal hierarchy.
@@ -87,4 +89,5 @@ He meets danger with nervous humor and fast calculations. His prepared reaction 
 - [[World/Characters/Scritch|Scritch]]
 - [[Nimble Session 01 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]

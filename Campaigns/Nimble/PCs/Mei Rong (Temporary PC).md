@@ -3,7 +3,7 @@
 ![[output/pdf/Session 08 Temporary Characters/portraits/Mei Rong.png|300]]
 
 ## Player
-Temporary PC - unassigned
+Ramsey (temporary PC during the Session 09 council)
 
 ## Quick Details
 - **Campaign**: Nimble
@@ -67,6 +67,10 @@ Her guiding line is, "We can resist Razor without pretending the old order was j
 - Can use history and song to turn a hostile negotiation toward mutual recognition.
 - Provides magical support, recovery, and broad knowledge during an expedition.
 
+## Session 09 Update
+
+Mei Rong joined An Yue's hearing at Icehold. She invoked Frostvein's history of emergency alliances that ended with the tribe subordinated to stronger powers and called for written, signed assurances that victory over Razor will not restore Erie rule.
+
 ## Current Hooks
 - Mei Rong may know an older verse about Razor, the dragonflight burial tunnels, or the Shadow Well.
 - A disputed treaty or boundary marker could prove Frostvein's claim to the passes.
@@ -83,3 +87,4 @@ Her guiding line is, "We can resist Razor without pretending the old order was j
 - [[World/Characters/Mei Rong|Mei Rong]]
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
 - [[Session 06 Prep - Mountains of Unusual Scale]]
+- [[Nimble Session 09 Transcript]]

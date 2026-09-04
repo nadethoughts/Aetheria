@@ -66,6 +66,7 @@ He is also more useful under pressure than he looks. In the Warren, he read stea
 - Was attacked by Rubius when the Axe of Snaggletooth turned the berserker's rage indiscriminate.
 - Told the party that his patron wants Rubius killed and the axe taken, and that his lost heirloom lies in the Undershadow.
 - Tried to sacrifice the axe through a shadow minion; the axe consumed the minion and became stronger instead.
+- Summoned two shadow minions against the Black Fang plateau patrol and destroyed a war warg with their attacks and a concentrated Shadow Blast.
 
 ## Current Hooks
 - Alder's patron wants Haggard killed and the axe taken; the whole party now knows this demand.
@@ -87,3 +88,4 @@ He is also more useful under pressure than he looks. In the Warren, he read stea
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]

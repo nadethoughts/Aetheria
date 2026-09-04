@@ -68,6 +68,7 @@ In combat, Rowan is built to put himself between danger and someone more vulnera
 - Healed and welcomed [[World/Characters/Scritch|Scritch]], the kobold the party had released near Clackston.
 - Interposed to protect Scritch during the forest ambush.
 - Confronted Rubius after the axe drove him to attack Alder and pressed Alder to explain his patron.
+- Survived being grappled in a war warg's jaws and killed it by driving his spear through the roof of its mouth.
 
 ## Current Hooks
 - Rowan is a natural voice for honoring the Erie dead, warning survivors, and protecting bystanders.
@@ -88,3 +89,4 @@ In combat, Rowan is built to put himself between danger and someone more vulnera
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]

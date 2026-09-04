@@ -12,6 +12,8 @@ With nowhere else to go, Scritch returned to the [[Balshar Mountains]] and joine
 
 Rowan gave Scritch a healing draught. Scritch then joined the party, supplied intelligence about the column, and fought beside them during a seven-kobold ambush.
 
+In Session 09, Scritch fought a Black Fang plateau patrol alongside the land party and used the confusion around Alder's shadows to land critical sling attacks. One Black Fang scout escaped the battle, so Scritch has not yet reached [[Icehold]] or testified before [[An Yue]].
+
 ## Character Build
 
 - **Current Build**: Level 3 Kobold Cheat (Tools of the Scoundrel)

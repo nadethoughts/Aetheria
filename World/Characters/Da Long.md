@@ -9,7 +9,9 @@ Da Long is a [[Cloud Seers|Cloud Seer]] scout bonded to the griffon [[Quickfeath
 
 Lil Chang revived the scout with a healing potion and chest compressions. The scout reported that a Black Fang diplomatic entourage, protected by approximately fifteen to twenty orcs, was traveling toward the [[Frostvein Orcs|Frostvein]] settlement to recruit the neutral tribes for [[Razor]].
 
-Da Long knows secret routes through the mountains. He and Lil Chang remained ahead on Quickfeather throughout Nimble Session 08 while the rest of the party followed his directions, passed the Black Fang at the [[Stone Stairs]], and reached the Frostvein plateau. Da Long's arrival and formal rank remain undefined.
+Da Long knows secret routes through the mountains. In Session 09, he and Lil Chang landed at a Frostvein watchtower rather than overfly it and were escorted by [[Feng Rui]] to [[Icehold]]. Before [[An Yue]] and her council, Da Long admitted that he had been spying, showed the wound left by Black Fang arrows, and urged the Frostvein to watch the peace-bannered delegation closely.
+
+To prove good faith, Da Long freely revealed overlooked hunting grounds capable of improving Frostvein's winter stores. He cannot sign for Cloud Seer or Erie leadership and plans to leave after one night to request an authorized delegation. His formal rank remains undefined.
 
 ## Character Build
 

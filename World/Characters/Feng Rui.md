@@ -1,11 +1,13 @@
 ---
 tags: [type/character, type/orc, region/balshar, faction/frostvein, campaign/nimble]
-reveal_status: campaign-prep
+reveal_status: campaign-revealed
 ---
 
 # Feng Rui
 
-Feng Rui commands Frostvein's northern pass wardens. He begins from a position of neutrality and closed borders: he resents outsiders crossing Frostvein territory without permission and will only support an alliance that leaves the settlement in control of its own passes.
+Feng Rui commands Frostvein's northern pass wardens. In Session 09, he met Lil Chang and [[Da Long]] after they landed at his outer watch post. He recognized Da Long as a Cloud Seer, treated Lil Chang as an outlander, and escorted both to [[Icehold]] after they requested an audience.
+
+Feng Rui participated in [[An Yue|An Yue's]] council from a position of neutrality and controlled borders. He will support cooperation only if Frostvein retains command of its own passes, patrols, and foreign access.
 
 ## Character Build
 
@@ -28,8 +30,9 @@ Feng Rui commands Frostvein's northern pass wardens. He begins from a position o
 
 ## Campaign Role
 
-Feng Rui is prepared as a temporary PC and Frostvein negotiating voice. He fears either coalition treating Frostvein as a road and can be won over if An Yue's authority over the passes is respected.
+Feng Rui was portrayed as a temporary PC during the Session 09 negotiation. He fears either coalition treating Frostvein as a road and regards concrete defensive terms as more meaningful than general promises of alliance.
 
 ## Source Notes
 
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
+- [[Nimble Session 09 Transcript]]

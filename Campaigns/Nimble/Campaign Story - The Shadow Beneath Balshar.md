@@ -1,7 +1,7 @@
 ---
 type: campaign-story
 campaign: "Nimble"
-through_session: "08"
+through_session: "09"
 canon_scope: played-events
 status: ongoing
 world_reference: "[[World/World MOC|World of Aetheria]]"
@@ -10,7 +10,7 @@ tags: [type/campaign-story, campaign/nimble]
 
 # The Shadow Beneath Balshar
 
-*A novella of the Nimble campaign through Session 08*
+*A novella of the Nimble campaign through Session 09*
 
 ## Chapter One — The Winter Posse
 
@@ -1111,3 +1111,509 @@ Lil Chang and Da Long were somewhere ahead.
 The Black Fang were somewhere below.
 
 And Rubius carried a third traveler whose hunger had finally learned to speak with his hands.
+
+## Chapter Nine — Teeth in the Snow
+
+The howls came from behind them.
+
+For one irrational heartbeat, Rowan thought the sound belonged to the Black Fang camp far below. He imagined twenty orcs lifting their heads together, smelling the strangers who had climbed past them, and giving voice to the same realization.
+
+Then dark shapes moved through the storm.
+
+Wargs crossed the plateau with the steady, loping speed of animals born to ground that punished every other living thing. They were too large to be wolves and too deliberate to be mistaken for wild ones. Black Fang riders leaned over their shoulders. More orcs followed through the snow—bowmen, a fighter hidden behind a heavy shield, and a scarred veteran who did not waste breath shouting across the wind.
+
+They wore broken fangs.
+
+Below the cliff, the delegation still slept beneath a peace banner.
+
+Up here, no one raised one.
+
+Umbrail took to the air. Storm light gathered along his wings and filled the spaces between his fingers.
+
+Rubius stood very still.
+
+The axe was wrapped across his back. He could feel it through hide, cloth, and every layer of good intention he had placed between himself and the blade.
+
+*You do not need me,* it seemed to say.
+
+It did not sound offended.
+
+That made it worse.
+
+Rubius closed his eyes and tried to find the shape of his own anger. The old rhythm was there: breath, heartbeat, the tightening of muscle, the fury he had learned to turn into strength. He tried to build walls inside it. Enemies on one side. Friends on the other. No confusion. No hunger. No Alder beneath his weapon.
+
+The walls would not hold.
+
+“You don't have to rage,” Rowan told him.
+
+Rubius opened his eyes.
+
+The wargs were almost upon them.
+
+“I know.”
+
+He raged anyway.
+
+At first he left the axe where it was.
+
+Umbrail loosed lightning.
+
+The bolt struck the shield-bearer and leaped into the veteran behind him. Blue-white light spread through iron. The black talon at Umbrail's throat answered. Armor split along invisible faults, every plate and rivet briefly remembering that metal was only earth taught to pretend it could not break.
+
+Alder drove his shovel into the snow. Two shadows pulled themselves upright beside him, without faces or bones, their long arms ending in grasping darkness.
+
+Scritch looked from the Black Fang to the companions who had taken him in.
+
+The orcs had left him beneath a stolen blanket because a wounded kobold was slower than their schedule. Whatever uncertainty remained in him ended there.
+
+He loaded his sling.
+
+The patrol crashed into them.
+
+An arrow climbed toward Umbrail. He twisted in the air and raised one hand. Frost spread into a shield between one heartbeat and the next. The arrow punched through the first layer, drove him backward, and shattered ice across the plateau.
+
+The shield-bearer lowered his shoulder. His charge landed with the weight of a falling gate.
+
+Then the veteran reached Rowan.
+
+The first cut opened cloth. The second found flesh. The third would have done worse.
+
+Rubius moved between them.
+
+The veteran's weapon descended. Rubius took the blow and spent his fury against the pain, letting the mountain in his blood turn what should have broken him into something merely terrible.
+
+“That all?” Rubius asked.
+
+The words came out through clenched teeth.
+
+The answer was another arrow.
+
+Umbrail called lightning a second time.
+
+The shield-bearer raised his protection. Electricity crawled over its face, searching every crack the Talon of Unmaking had opened. The shield held for a breath, then one more.
+
+It exploded inward.
+
+Fragments of metal crossed the distance to the orc's face. He dropped without a sound.
+
+A warg bounded toward Alder's summoned creatures. The shadows wrapped it in rotting limbs. Where they struck, fur and flesh sank inward as though years passed in an instant. Alder gathered more darkness between his hands and hurled it.
+
+The blast struck the warg's chest.
+
+The ribs caved. Blackened matter spilled onto the snow. This shadow did not eat. It only ruined.
+
+Scritch spun his sling and released.
+
+The first stone disappeared into the storm.
+
+“A warning,” he said.
+
+His second struck a bowman high on the temple. The orc staggered, suddenly discovering that the abandoned kobold had become the most dangerous small thing on the mountain.
+
+The veteran remained upright.
+
+Barely.
+
+Lightning had blackened his armor. Blood darkened one side of his body. Still he raised his weapon and turned toward Rowan.
+
+Rubius saw the motion.
+
+The axe spoke without words.
+
+It offered certainty.
+
+Rubius's hand went over his shoulder. Later, he would remember making the choice only after his fingers had already closed around the haft. The hide fell away. Light dimmed along the blade.
+
+He struck.
+
+The edge bit deep, but Kharum Vhar wanted more. Power waited just beyond the blow, close enough that taking it felt less like accepting a gift than completing an action he had already begun.
+
+One mark, the axe promised.
+
+One mark, and the next blow would land like a giant's judgment.
+
+Rubius knew the price.
+
+That was part of the bargain.
+
+“Yes,” he said.
+
+The weapon changed in his hands.
+
+He swung again. The veteran came apart, not into flesh and bone but into black liquid that never reached the snow. It climbed the axe blade against gravity and vanished into an edge that looked sharper, longer, and more cruel than it had a moment before.
+
+The weapon pulsed.
+
+Warmth moved up Rubius's arms.
+
+*You protected them,* the certainty said.
+
+He had.
+
+That was part of the horror too.
+
+* * *
+
+The second warg caught Rowan.
+
+Its jaws closed around mail, fur, and the vines that crossed his armor. It lifted him from the ground and shook him with the delighted violence of a farm dog killing a field animal.
+
+Rowan had seen dogs do this.
+
+He had never before considered the rabbit's view.
+
+The warg loosened its bite to catch him more securely.
+
+Rowan drove his spear through the roof of its mouth.
+
+The point entered the skull. The animal went rigid. Its jaws closed once more in a final reflex, then released him as its body collapsed.
+
+He rolled free, bloody and breathing.
+
+Nearby, Rubius struck another target and felt the axe catch on a perfect angle. Again it offered him strength. Again it named the cost.
+
+He looked at his companions. None stood beneath his blade. The Black Fang still fought. The bargain could end the danger faster.
+
+“Yes,” he said again.
+
+The power rose beyond what the axe had offered before. Its promise swelled from lesser dice to greater ones, from a brutal weapon to something that remembered the hands of full-blooded giants.
+
+Alder's shadows attacked. Umbrail burned the storm white. Scritch's sling cracked again. Rowan regained his feet.
+
+The patrol broke.
+
+Two scouts ran.
+
+Rubius and another companion struck the nearer one as he fled. The orc made it several strides, leaving blood in a broken line behind him, then folded into the snow.
+
+The last scout was already beyond reach.
+
+He did not look back.
+
+“Can we stop him?” Scritch asked.
+
+Umbrail watched the shape disappear into white.
+
+“Not now.”
+
+The storm swallowed the survivor, but it did not make him gone.
+
+Sooner or later, he would reach another Black Fang patrol or the column below. He would tell them that armed strangers had passed them in the night. He would tell them about lightning, living shadows, a rabbit's spear, an abandoned kobold, and a Half-Giant carrying a blade that drank an orc as if he had never lived.
+
+He would tell the story first.
+
+Stories, Rowan knew, were another kind of high ground.
+
+The shadows melted away. The black left Rubius's eyes.
+
+Pain arrived as the rage receded. He put one hand to the wound beneath his clothing and looked down at the axe.
+
+It had not forced him to attack Alder.
+
+It had not forced him to accept either bargain.
+
+That should have made this victory cleaner.
+
+Instead it meant the next argument would be harder.
+
+## Chapter Ten — What Winter Costs
+
+Quickfeather flew beyond the storm.
+
+Lil Chang rode behind Da Long and watched the land remake itself beneath them. Pine forest rose into foothills. The foothills sharpened into gray stone. Snow gathered first in cracks, then across whole slopes, until the mountain opened into a white plateau scarred by wind.
+
+Below them lay a labyrinth of ice.
+
+Its walls caught the thin light and returned it in cold blue planes. Some passages appeared natural. Others turned too squarely, held their height too evenly, or opened into circles no glacier would have shaped by accident. Lil Chang tried to follow one route with his eyes and lost it beneath a drift.
+
+“Frostvein?” he called over the wind.
+
+Da Long nodded.
+
+Stone towers rose ahead, positioned on ridges from which archers could watch both trail and sky. Orcs moved along their heights. Bows turned upward.
+
+Quickfeather felt Da Long shift and banked away before any string was drawn.
+
+“We land,” Da Long said.
+
+“We could be there faster.”
+
+“We could also arrive looking like an attack.”
+
+Quickfeather descended outside the nearest post.
+
+The warden who emerged was broad even for an orc. A scar crossed his weathered face. His armor was heavy, scratched, and repaired wherever the mountain had tested it. He carried a round shield without ornament.
+
+His name was [[World/Characters/Feng Rui|Feng Rui]].
+
+He looked first at Quickfeather, then at the blue markings on Da Long, and finally at Lil Chang.
+
+“Sky child,” he said to the Cloud Seer.
+
+The title did not sound affectionate.
+
+His eyes moved to Lil Chang.
+
+“Outlander.”
+
+Lil Chang slid from the griffon and made sure his hands were visible.
+
+“We come to speak with your leader.”
+
+“About what?”
+
+“A dragon who means to make every tribe in these mountains kneel.”
+
+Feng Rui's expression did not change.
+
+“Razor.”
+
+“You know him.”
+
+“I know he exists.”
+
+“Then you know enough to hear us.”
+
+Feng Rui looked toward the sky behind them, perhaps expecting an army hidden in the cloud.
+
+“You may speak,” he said. “Whether anyone believes you is not mine to promise.”
+
+* * *
+
+[[World/Locations/Icehold|Icehold]] stood several hours beyond the watchtower.
+
+It was not a city built to impress visitors. Its walls followed stone that had already proven it could endure. Roofs shed snow into channels. Doors were narrow enough to hold heat. Storehouses occupied protected ground. Hooks, sleds, ropes, barrels, and stacked timber waited in exact places, each object maintained by someone who knew what failure cost at altitude.
+
+The settlement did not lack beauty. It simply refused beauty that could not also carry weight.
+
+Feng Rui gathered two councilors on the way to the great hall.
+
+[[World/Characters/Jian Bo|Jian Bo]] wore a coil of rope over one shoulder and carried himself like a man who counted everything he saw. Lil Chang felt briefly assessed as labor, appetite, and equipment burden.
+
+[[World/Characters/Mei Rong|Mei Rong]] was older. Silver ran through her braids. Blue markings crossed her face and throat, and beads and pieces of carved metal recorded histories Lil Chang did not know how to read. She carried a drum marked with a wind spiral.
+
+At the far end of the hall sat [[World/Characters/An Yue|An Yue]]. Her chair was made from tusks and bone, softened by layered furs. Age had not made her look fragile. It had removed every movement she no longer needed.
+
+“What news from the outer reaches?” she asked.
+
+Feng Rui stood before her.
+
+“Visitors. A Cloud Seer and an outlander. They speak of alliance.”
+
+An Yue studied Lil Chang.
+
+“Then let the outlander tell us why he has crossed our sky.”
+
+Lil Chang stepped forward.
+
+He told them about Razor. He told them the dragon was gathering the mountain tribes, that kobolds worshiped him, and that the Black Fang had accepted his strength as a weapon against old enemies. He told them twenty Black Fang traveled toward Icehold beneath a banner of peace.
+
+“They will offer you Razor's protection,” he said. “But his protection will become rule. The Black Fang will use him until he uses them. If every tribe waits alone, he can take us one at a time.”
+
+“Us?” Mei Rong asked.
+
+Lil Chang hesitated.
+
+“The tribes of these mountains.”
+
+“You call yourself outlander,” she said to Feng Rui, “and now he calls himself one of us.”
+
+“I did not come to argue his blood,” Feng Rui replied. “Only his permission.”
+
+An Yue turned to Da Long.
+
+“And the Cloud Seers? Do they send one wounded scout to ask for Frostvein lives?”
+
+Da Long did not hide the scar.
+
+“I was spying on the Black Fang column,” he said. “I will not insult you by pretending otherwise. They saw me and shot me from the sky. Lil Chang brought me back. My people oppose Razor, but I do not speak with authority to spend their stores or sign their names.”
+
+“Honesty,” An Yue said, “is not the same as an offer.”
+
+“No,” Da Long agreed. “But it is a better place to begin one.”
+
+Jian Bo leaned both hands on the head of his greatmaul.
+
+“What do you want?”
+
+Lil Chang answered too quickly.
+
+“Warriors.”
+
+The word remained in the hall.
+
+“Bodies,” Jian Bo said.
+
+“People willing to fight. I will be there with them.”
+
+“And when they are there with you,” Jian Bo asked, “who hunts here? Who clears the passes? Who hauls wood? Who keeps grain dry? Winter does not stop because a dragon has chosen an inconvenient time to become a tyrant.”
+
+“Razor will not stop for winter either.”
+
+“Then you understand why we cannot spend twice what we have.”
+
+Feng Rui spoke without leaving his position near the doors.
+
+“My wardens have no interest in a pointless fight. If a foreign army enters these passes, it enters by our permission and leaves when that permission ends.”
+
+Lil Chang looked to An Yue.
+
+“Would you submit to Razor instead?”
+
+“You have mistaken caution for surrender,” she replied. “We have promised him nothing. We have promised you nothing. The Black Fang walk beneath a peace banner. We will give them peace until they give us reason not to.”
+
+“They shot me,” Da Long said.
+
+“While you spied on them.”
+
+“Yes.”
+
+“Then we know they defend their secrets. We do not yet know what they will ask of Frostvein.”
+
+“Watch them,” Da Long said. “That is all I ask if you will promise nothing else. Count their supplies. Count their warriors. Ask why diplomats need so many guards.”
+
+“Wise counsel,” An Yue said. “Not proof.”
+
+“No,” Da Long said. “Not proof.”
+
+* * *
+
+Mei Rong touched two fingers to one of the metal pieces braided into her hair.
+
+“We have made alliances against terrible things before,” she said. “When the terrible thing was gone, the people who arrived as allies remembered that they had once ruled these mountains. Frostvein remembered what their rule cost.”
+
+“The Erie fight Razor,” Lil Chang said.
+
+“The Erie once called these passes theirs.”
+
+“Would you rather a dragon call them his?”
+
+“I would rather no one mistake fear for consent.”
+
+Her voice was quiet. The hall carried it anyway.
+
+“If we stand against Razor,” she continued, “then the agreement must survive him. Written. Signed. Frostvein remains Frostvein before the war, during it, and after it. We do not find ourselves beneath the talon again when everyone decides the danger has passed.”
+
+Lil Chang could not promise that. Not for the Erie. Not for the Cloud Seers. Perhaps not even for every member of his own unnamed company.
+
+“I can bring someone who can,” he said.
+
+“Then bring them,” Mei Rong replied.
+
+Jian Bo watched Da Long.
+
+“You said you knew these mountains.”
+
+“Some of them.”
+
+“Knowledge feeds fewer people than grain.”
+
+Da Long thought of the routes Quickfeather had shown him from the air: shelves that appeared barren from below, valleys hidden behind white ridges, places where game gathered because ordinary hunters did not waste effort crossing what looked like empty stone.
+
+“There are hunting grounds northwest of your usual range,” he said. “Past a shelf that looks dead from the lower trail. Keep beyond it. The valley opens. There is game there.”
+
+Jian Bo's skepticism sharpened into attention.
+
+“How much?”
+
+“Not enough to double your stores. Enough to matter.”
+
+“And what do you ask for the route?”
+
+“Nothing.”
+
+“Nothing is rarely the true price.”
+
+“Then call it payment for listening.”
+
+An Yue glanced toward one of her hunters. The orc gave a small nod. The description was plausible, the direction useful, and the land farther out than Frostvein usually searched without being beyond reach.
+
+It was not salvation.
+
+It was something that could be carried home, butchered, smoked, and counted.
+
+The room changed.
+
+Not enough to become friendly. Enough to become possible.
+
+Lil Chang told them about the Erie's anti-dragon artifacts. He did not know where all of them lay or what every relic could do, but he knew they existed. The war, he argued, did not need to become years of Frostvein bodies vanishing into an army. If the artifacts worked, a coalition might create one decisive chance against Razor.
+
+“Might,” Jian Bo said.
+
+“Yes.”
+
+“And if they do not?”
+
+Lil Chang had no clever answer.
+
+“Then we make sure we are not alone when they fail.”
+
+Feng Rui considered that.
+
+Frostvein could offer knowledge of the passes. It could train outsiders to survive them and learn in return. It might defend its own territory, send volunteers, or exchange intelligence without surrendering every hunter to a distant command. Material aid could be named. Numbers could be limited. Foreign access could begin and end under Frostvein authority.
+
+These were not the sweeping promises Lil Chang had imagined while flying toward Icehold.
+
+They were better.
+
+Promises that survived contact with numbers might survive contact with war.
+
+An Yue rose.
+
+“You have given us warning,” she said. “You have given us something for winter. You have also asked for blood without authority to name what returns in its place.”
+
+Lil Chang inclined his head.
+
+“Fair.”
+
+“We will hear the Black Fang.”
+
+Da Long stiffened.
+
+“And we would have you present,” An Yue continued. “If they are as dangerous as you say, let us test their words beside yours.”
+
+“They may not enjoy seeing me,” Da Long said.
+
+“Then we will learn something.”
+
+She extended Icehold's hospitality: fire, shelter, food, and space in the stables for Quickfeather. She would speak privately with Feng Rui, Jian Bo, and Mei Rong. They would wait for Lil Chang's companions and for the peace-bannered column.
+
+Da Long asked whether he should leave at once to request an authorized delegation.
+
+“If you can reach your people, send someone empowered to promise what you cannot,” An Yue said.
+
+“I will fly in the morning.”
+
+“Then tonight you are our guest.”
+
+Her attention returned to Lil Chang.
+
+“What do your companions call themselves?”
+
+Lil Chang opened his mouth.
+
+Nothing emerged.
+
+They had fought through a buried barracks, rescued a town, crossed half a mountain range, angered a dragon's allies, and carried at least two artifacts capable of ruining everyone involved. They had never chosen a name.
+
+“We will vote,” he said at last. “When we are together.”
+
+An Yue almost smiled.
+
+“Then we will await the arrival of your nameless company.”
+
+* * *
+
+Night gathered differently on either side of the plateau.
+
+At Icehold, Quickfeather settled beneath a roof. Da Long planned the morning's flight. Lil Chang sat near a Frostvein fire and rehearsed promises he did not yet have the authority to make.
+
+Far behind them, Rowan bound wounds while Umbrail watched the storm. Alder stood near his fading shadows. Scritch listened for returning howls.
+
+Rubius wrapped the axe again.
+
+Between the two groups, a Black Fang scout ran toward his people carrying the first account of bloodshed.
+
+Between them and Icehold, twenty envoys and warriors climbed beneath a banner that required everyone to pretend peace still had a chance.
+
+For the moment, it did.

@@ -13,7 +13,7 @@ Ian
 - **Background**: Academy Dropout
 - **Subclass**: Path of the Mountainheart
 - **Current Item Thread**: The Axe of Snaggletooth, also known as the shadow axe
-- **Current Status**: 0 wounds; 3 tracked Shadow Points after the axe's Session 08 manifestations
+- **Current Status**: 1 wound; 5 transcript-supported Shadow Points after Session 09, with a possible sixth pending reconciliation of the written Wound trigger
 
 ## Character Build
 
@@ -68,11 +68,16 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 - Yielded to the axe's influence and moved a beehive against the colony's wishes, gaining a Shadow Point.
 - Watched the axe consume three kobolds during a forest ambush, then lost control and attacked Alder with pitch-black eyes.
 - Accepted the party's warning that the axe is actively corrupting him and wrapped it in an animal pelt while the group seeks a safer answer.
+- Tried to control his rage against a Black Fang plateau patrol but drew the axe again.
+- Interposed against the Black Fang veteran's heaviest attack and used Fury and Mountainheart resilience to survive it.
+- Accepted two explicit bargains for escalating damage; the axe consumed the patrol veteran and became visibly more wicked.
+- Ended Session 09 with five transcript-supported Shadow Points and one Wound. The written axe rules would add a sixth point for the Wound, but that award was not announced.
 
 ## Current Hooks
 - The shadow axe presents itself as comforting, safe, and meant for him.
 - The axe currently deals 3d4 as a battleaxe and has whispered, "Welcome friend, let's drink the light together."
 - The axe consumes the essence of creatures killed by it, can make its impulses feel reasonable, and can turn Rubius's rage against allies.
+- The axe now offers explicit bargains in exchange for Shadow Points; Rubius has accepted two.
 - Tempest Command and repeated Dispel Magic can temporarily suppress an active surge, but they do not cleanse the weapon.
 - Rubius still seeks old ruins and clues connected to giants.
 - The Shadow Well and Undershadow threads may become the only way to unmake or drain the axe's power.
@@ -89,3 +94,4 @@ He is also the party's natural battering ram. When subtlety starts taking too lo
 - [[Session 06 Prep - Mountains of Unusual Scale]]
 - [[Nimble Session 04 Transcript]]
 - [[Nimble Session 08 Transcript]]
+- [[Nimble Session 09 Transcript]]

@@ -1,11 +1,13 @@
 ---
 tags: [type/character, type/orc, region/balshar, faction/frostvein, campaign/nimble]
-reveal_status: campaign-prep
+reveal_status: campaign-revealed
 ---
 
 # Jian Bo
 
-Jian Bo keeps Frostvein fed, equipped, and moving. He is willing to hear the Black Fang offer before choosing a side and judges alliances by what food, metal, labor, routes, and mutual defense they will actually provide before winter.
+Jian Bo keeps Frostvein fed, equipped, and moving. [[Feng Rui]] brought him into the Session 09 council when Lil Chang and [[Da Long]] arrived at [[Icehold]].
+
+He is willing to hear the Black Fang offer before choosing a side and judges alliances by what food, metal, labor, routes, and mutual defense they will actually provide before winter. He emphasized that warriors sent away are also workers, hunters, and pass keepers Frostvein needs to survive.
 
 ## Character Build
 
@@ -29,8 +31,9 @@ Jian Bo keeps Frostvein fed, equipped, and moving. He is willing to hear the Bla
 
 ## Campaign Role
 
-Jian Bo is prepared as a temporary PC and Frostvein negotiating voice. He fears a long war that empties the settlement's stores and can support the coalition if its promises include practical supply and defense commitments.
+Jian Bo was portrayed as a temporary PC during the Session 09 negotiation. He fears a long war that empties the settlement's stores and can support the coalition if its promises include practical, limited supply and defense commitments.
 
 ## Source Notes
 
 - [[output/pdf/Session 08 Temporary Characters/Build Notes|Session 08 Temporary Character Build Notes]]
+- [[Nimble Session 09 Transcript]]

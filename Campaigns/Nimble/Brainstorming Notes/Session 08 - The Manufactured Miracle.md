@@ -2,14 +2,17 @@
 type: session-prep
 campaign: Nimble
 session: "08"
-status: carried-forward
+status: carried-forward-to-session-10
 tags: [campaign/nimble, type/session-prep, arc/war-for-balshar, faction/frostvein, faction/black-fang]
 ---
 
 # Session 08 - The Manufactured Miracle
 
-> [!info] Post-session continuity
-> The party did not reach Three-Bells Basin, Rimehook, the avalanche rig, or any of the evidence nodes during Session 08. This situation remains unrevealed GM preparation for Session 09. Begin from the party's stormbound position on the Frostvein plateau, with the Black Fang column camped below the Stone Stairs and Lil Chang still ahead with Da Long.
+> [!info] Post-Session 08 continuity
+> The party did not reach Three-Bells Basin, Rimehook, the avalanche rig, or any of the evidence nodes during Session 08. The situation therefore entered Session 09 as unrevealed GM preparation, with the party stormbound above the Stone Stairs and Lil Chang still ahead with Da Long.
+
+> [!info] Session 09 continuity
+> Session 09 again did not reveal Three-Bells Basin, Rimehook, Tikka, the avalanche rig, or any evidence nodes. Lil Chang and Da Long instead reached Icehold and opened negotiations, while the land party defeated a Black Fang plateau patrol and allowed one scout to escape. Carry this situation into Session 10 only if it still fits the party's route. The survivor gives Vekka a reason to accelerate, relocate, or abandon the staged crisis.
 
 > [!summary] Session premise
 > The Black Fang delegation travels toward Frostvein beneath a peace banner. Rock Scale kobolds are preparing a controlled avalanche near Frostvein's outer settlements so the delegation can arrive as rescuers. The party is close enough to notice pieces of the operation, interfere with it, exploit it, warn someone, or let it unfold.
@@ -339,7 +342,7 @@ End when the basin has changed hands politically, not necessarily when every sec
 
 ## Continuity Sources
 
-- [[Campaign Synopsis - Through Session 08]]
+- [[Campaign Synopsis - Through Session 09]]
 - [[Session 07 Report]]
 - [[Transcripts/Nimble Session 07 Transcript]]
 - [[Brainstorming Notes/New folder/Frostvein Orcs]]
