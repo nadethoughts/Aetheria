@@ -7,7 +7,7 @@ Ramsey
 - **Campaign**: Nimble
 - **Class**: Oathsworn
 - **Ancestry**: Bun Bun
-- **Current Level**: 3
+- **Current Level**: 4
 - **Background**: Academy Dropout
 - **Subclass**: Oath of Refuge
 - **Sacred Decree**: Well Armored
@@ -16,7 +16,7 @@ Ramsey
 
 ## Character Build
 
-- **Current Build**: Level 3 Bun Bun Oathsworn (Oath of Refuge)
+- **Current Build**: Level 4 Bun Bun Oathsworn (Oath of Refuge)
 - **Background**: Academy Dropout
 - **Sacred Decree**: Well Armored
 - **Build Focus**: Protective interception, defensive aura support, emergency healing, and armored frontline control
@@ -40,7 +40,7 @@ Ramsey
 - Paragon of Virtue
 - Well Armored
 - Bunny Legs
-
+My Life, for My Friends
 ## Appearance
 Rowan is a Bun Bun, a rabbit person with dappled white and brown fur. He wears battered mail that has become overgrown with plants, a straw hat, and a carrot-shaped pipe.
 

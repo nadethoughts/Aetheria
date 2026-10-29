@@ -9,7 +9,7 @@ Ryan
 - **Campaign**: Nimble
 - **Class**: Zephyr
 - **Ancestry**: Orc
-- **Current Level**: 3
+- **Current Level**: 4
 - **Background**: Fearless
 - **Subclass**: Way of Pain
 - **Party Entry**: Found chained in the Warren after being captured by kobolds
@@ -17,7 +17,7 @@ Ryan
 
 ## Character Build
 
-- **Current Build**: Level 3 Orc Zephyr (Way of Pain)
+- **Current Build**: Level 4 Orc Zephyr (Way of Pain)
 - **Background**: Fearless
 - **Build Focus**: Unarmored speed, rapid follow-up attacks, burst movement, and turning incoming pain back on enemies
 - **Spell Tracking**: No spell selections are part of this build.
@@ -38,7 +38,8 @@ Ryan
 - Ethereal Projection
 - Relentless
 - Fearless
-
+Unyielding Resolve
+Quickstrike
 ## Appearance
 Lil Chang's full visual description is still lightly defined in the notes. At introduction, he was an orc chained to a wall in the Warren, still healthy, ripped, and ready for revenge despite having been imprisoned for several days.
 

@@ -10,7 +10,7 @@ Dave
 - **Class**: Mage
 - **Subclass**: Invoker of Chaos
 - **Ancestry**: Birdfolk, specifically tied to the Erie of the Balshar mountains
-- **Current Level**: 3
+- **Current Level**: 4
 - **Background**: Made a Bad Choice
 - **Current Artifact**: [[World/Items/Artifacts/Talon of Unmaking|Talon of Unmaking]]
 - **Background Thread**: The curse, enemy, or owed consequence from Made a Bad Choice is still open
@@ -18,7 +18,7 @@ Dave
 
 ## Character Build
 
-- **Current Build**: Level 3 Erie Birdfolk Mage (Invoker of Chaos)
+- **Current Build**: Level 4 Erie Birdfolk Mage (Invoker of Chaos)
 - **Background**: Made a Bad Choice
 - **Build Focus**: Arcane research, flexible spellcasting, and converting unstable magic into chaotic force
 - **Spell Tracking**: Umbrail's prepared spells and spellbook remain on the live character sheet. They are intentionally separate from the non-spell abilities below.
@@ -34,13 +34,17 @@ Dave
 - **Utility pages**: **7-9** - Spark Buddy (7), Spark Step (8), Tempest's Command (9)
 - **Reason**: A level 3 Mage knows Fire, Ice, and Lightning cantrips and tier 1 spells. Umbrail's recorded utility use confirms Lightning as his Elemental Mastery school.
 
+### Level 4 Spellshaper Choices
+
+- Stretch Time
+- Elemental Transmutation
+
 ### Selected Non-Spell Abilities
 
 - Talented Researcher
 - Force of Chaos
 - Hollow Bones
 - Made a Bad Choice
-
 ## Appearance
 Umbrail is a large, elder proto-raven birdfolk with graying feathers, a bright white beak, and shimmering robes that seem to have sigils woven through them. He carries himself like someone old enough to know how badly things can go, and sharp-eyed enough to see them going that way before everyone else.
 

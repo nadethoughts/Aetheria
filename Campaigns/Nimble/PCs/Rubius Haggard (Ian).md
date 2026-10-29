@@ -9,7 +9,7 @@ Ian
 - **Campaign**: Nimble
 - **Class**: Berserker
 - **Ancestry**: Half-Giant
-- **Current Level**: 3
+- **Current Level**: 4
 - **Background**: Academy Dropout
 - **Subclass**: Path of the Mountainheart
 - **Current Item Thread**: The Axe of Snaggletooth, also known as the shadow axe
@@ -17,7 +17,7 @@ Ian
 
 ## Character Build
 
-- **Current Build**: Level 3 Half-Giant Berserker (Path of the Mountainheart)
+- **Current Build**: Level 4 Half-Giant Berserker (Path of the Mountainheart)
 - **Background**: Academy Dropout
 - **Build Focus**: Building and spending Fury, absorbing heavy hits, and using Mountainheart resilience to remain standing
 - **Spell Tracking**: Academy Dropout's utility-spell selection belongs on the player sheet. It is not counted among the non-spell abilities below.
@@ -38,7 +38,8 @@ Ian
 - Intensifying Fury
 - Stone's Resilience
 - Strength of Stone
-
+Enduring Rage
+Deathless Rage
 ## Appearance
 Rubius is enormous even before anyone remembers he is a half-giant: about thirteen feet tall, with deep red hair, emerald eyes, and a friendly, jolly presence that makes the size difference feel less threatening until combat starts.
 

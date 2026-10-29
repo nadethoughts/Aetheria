@@ -10,14 +10,14 @@ Derek
 - **Class**: Shadowmancer
 - **Subclass**: Necromancer
 - **Ancestry**: Shroomling
-- **Current Level**: 3
+- **Current Level**: 4
 - **Background**: Wild One
 - **Current Item Thread**: Flamecaller's Talisman may currently be with Alder, pending table confirmation
 - **Personal Thread**: Lost rot-heirloom, patron pressure, and the Undershadow
 
 ## Character Build
 
-- **Current Build**: Level 3 Shroomling Shadowmancer (Necromancer)
+- **Current Build**: Level 4 Shroomling Shadowmancer (Necromancer)
 - **Background**: Wild One
 - **Build Focus**: Shadow-minion control, stolen patron magic, and Nightfrost durability
 - **Spell Tracking**: Master of Darkness grants access to Necrotic cantrips and tier 1 spells. Individual spell selections stay on Alder's character sheet and are not included in the non-spell list below.
@@ -37,7 +37,7 @@ Derek
 - My Favored Pet
 - Danger Pollen / Spores
 - Wild One
-
+Shadow Magus
 ## Appearance
 Alder is a shroomling with a pale white body, a large brown mushroom cap, tiny black bead-like eyes, and an introverted manner that makes civilized spaces feel like they are happening too loudly around him.
 
